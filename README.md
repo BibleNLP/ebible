@@ -1,5 +1,5 @@
-# bible-parallel-corpus
-Curated corpus of parallel data derived from the Bible.
+# ebible-corpus
+Curated corpus of parallel data derived from versions of the Bible provided by eBible.org.
 
 ## Copyright Restrictions
 
