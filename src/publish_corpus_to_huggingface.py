@@ -69,7 +69,7 @@ if __name__ == '__main__':
                         curr_dict['verses'] = []
 
     # clone HF repo and branch
-    os.system('git clone https://huggingface.co/datasets/sil-ai/biblenlp-corpus')
+    os.system('git clone https://huggingface.co/datasets/bible-nlp/biblenlp-corpus')
     os.chdir('biblenlp-corpus')
     os.system('git checkout -b update-' + sync_time)
 
