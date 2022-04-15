@@ -30,6 +30,7 @@ if __name__ == '__main__':
     os.mkdir(tempdir)
     curdir = os.getcwd()
     basedir = os.path.join(os.path.realpath('..'), 'corpus')
+    vrefdir = os.path.join(os.path.realpath('..'), 'metadata')
     repodir = os.path.realpath('..')
     os.chdir(tempdir)
 
@@ -38,7 +39,7 @@ if __name__ == '__main__':
     metadata = pd.read_excel(os.path.join(repodir,'metadata/Copyright and license information.xlsx'))
     meta_dict = {row[1]['ID']:{'lic_type': row[1]['Licence Type'], 'lic_vers': row[1]['Licence Version'], 
                                 'copy_yr': row[1]['Copyright Years'], 'copy': row[1]['Copyright Holder']} for row in metadata.fillna('').iterrows()}
-    with open(os.path.join(basedir,'vref.txt'), 'r') as txtfile:
+    with open(os.path.join(vrefdir,'vref.txt'), 'r') as txtfile:
         lines = txtfile.readlines()
         line2vref = {key:value.strip() for key,value in enumerate(lines)}
         vref2line = {v:k for k,v in line2vref.items()}
