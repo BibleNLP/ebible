@@ -37,8 +37,8 @@ if __name__ == '__main__':
     # create dictionary from corpus
     all_bibles_as_lines = {}
     metadata = pd.read_excel(os.path.join(repodir,'metadata/Copyright and license information.xlsx'))
-    meta_dict = {row[1]['ID']:{'lic_type': row[1]['Licence Type'], 'lic_vers': row[1]['Licence Version'], 
-                                'copy_yr': row[1]['Copyright Years'], 'copy': row[1]['Copyright Holder']} for row in metadata.fillna('').iterrows()}
+    meta_dict = {row[1]['translationId']:{'lic_type': row[1]['CC license url'], 
+                                'copy': row[1]['Copyright']} for row in metadata.fillna('').iterrows()}
     with open(os.path.join(vrefdir,'vref.txt'), 'r') as txtfile:
         lines = txtfile.readlines()
         line2vref = {key:value.strip() for key,value in enumerate(lines)}
@@ -63,8 +63,8 @@ if __name__ == '__main__':
                     if line.strip() != '<range>':
                         curr_dict['file'] = filename
                         curr_dict['text'] = line.strip()
-                        curr_dict['license'] = f'cc-{meta_dict[fileid]["lic_type"]} {meta_dict[fileid]["lic_vers"]}'.strip() if meta_dict[fileid]['lic_type'].startswith('by') else ''
-                        curr_dict['copyright'] = f'{meta_dict[fileid]["copy_yr"]} {meta_dict[fileid]["copy"]}'.strip()
+                        curr_dict['license'] = f'{meta_dict[fileid]["lic_type"]}'
+                        curr_dict['copyright'] = f'{meta_dict[fileid]["copy"]}'.strip()
                         all_bibles_as_lines[lang].append(curr_dict)
                         curr_dict={}
                         curr_dict['verses'] = []
