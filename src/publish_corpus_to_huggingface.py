@@ -48,7 +48,7 @@ if __name__ == '__main__':
         lang = filename.split('-')[0]
         fileid = '-'.join(filename.split('-')[1:]).strip()
         fileid = fileid.split('.')[0]
-        if filename != 'vref.txt':
+        if filename != 'vref.txt': 
             if not all_bibles_as_lines.get(lang):
                 all_bibles_as_lines[lang]=[]
             with open(os.path.join(basedir,filename), 'r') as txtfile:
@@ -63,8 +63,12 @@ if __name__ == '__main__':
                     if line.strip() != '<range>':
                         curr_dict['file'] = filename
                         curr_dict['text'] = line.strip()
-                        curr_dict['license'] = f'{meta_dict[fileid]["lic_type"]}'
-                        curr_dict['copyright'] = f'{meta_dict[fileid]["copy"]}'.strip()
+                        if meta_dict.get(fileid, False):
+                            curr_dict['license'] = f'{meta_dict[fileid]["lic_type"]}'
+                            curr_dict['copyright'] = f'{meta_dict[fileid]["copy"]}'.strip()
+                        else:
+                            curr_dict['license'] = 'Not found in metadata'
+                            curr_dict['copyright'] = 'Not found in metadata'
                         all_bibles_as_lines[lang].append(curr_dict)
                         curr_dict={}
                         curr_dict['verses'] = []
