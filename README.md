@@ -11,6 +11,8 @@ The Bibles in this repository contain **only** the verse text.  All other text (
 
 Each Bible is presented in a verse-per-line format.  The sequence of the verses in each Bible is aligned to a canonical list of Biblical books, chapters, and verses.  This canonical verse list is based on the Original versification, and the verse reference list can be found in the file _vref.txt_.  The verse reference and verse text for a Bible can be correlated by iterating in parallel through the lines of the _vref.txt_ file and the lines of a Bible.
 
+USFM files are download from [eBible](https://ebible.org/), one zip file per Bible. We use bulk_extract_corpora.py from [SIL's NLP repo](https://github.com/sillsdev/silnlp/tree/master/silnlp/common/) to extract the verse text into the one verse per line format. 
+
 ### File Naming Convention
 
 The extracted verse text from each Paratext resource is stored in a separate file.  The file naming convention follows the format:
