@@ -1,4 +1,4 @@
-# ebible-corpus
+# eBible
 Curated corpus of parallel data derived from versions of the Bible provided by eBible.org.
 
 ## Copyright Restrictions
