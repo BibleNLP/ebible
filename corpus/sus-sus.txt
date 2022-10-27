@@ -926,7 +926,6 @@ Na xanbi Laban naxa a fala Yaxuba bɛ, «I ya ti yi gɛmɛ kotoxi ra. Yi tɔnxum
 Yi gɛmɛ kotoxi nun yi tɔnxuma gɛmɛ findixi seede nan na. N mu lan n xa dangi be ra i xa fe ɲaaxi ra n furi kui. I fan mu lan i xa dangi yi gɛmɛ kotoxi nun yi tɔnxuma gɛmɛ ra n ma fe ɲaaxi ra i furi kui.
 Iburahima Marigi Ala nun Naxori Marigi Ala xa findi won tan firinyi makiitima ra.» Na tɛmui Yaxuba naxa a yɛtɛ rakali Ala ra, a baba Isiyaga gaaxuxi naxan ya ra.
 Yaxuba naxa sɛrɛxɛ ba geya yire. A naxa a ngaxakerenyi birin xili e xa e dɛge. E to gɛ e dɛgede, e naxa xi mɛnni na kɔɛ ra.
-
 Laban to keli subaxɛ ma, a naxa findigilin a xa die nun a xa mamadie ma. A naxa duba e bɛ. Na xanbi, Laban naxa gbilen a xɔnyi.
 Yaxuba to nu sigafe kira xɔn, Ala xa malekɛe naxa mini a ma. A to bara e to, a naxa a fala, «Ala xa yonkinde nan yi ki.»
 A naxa yi yire xili sa Maxanayimi.
@@ -958,7 +957,8 @@ Xɛmɛ naxa a maxɔrin, «I xili di?» A naxa a yaabi, «Yaxuba.»
 Xɛmɛ naxa a fala, «I xili mu falama sɔnɔn Yaxuba. A fa falama nɛ kɔrɛ Isirayila, ba wo nun Ala nan gerexi, wo nun mixie fan bara gere. I tan bara nɔ e ra.»
 Yaxuba naxa maxɔrinyi ti, «I xili di?» Xɛmɛ naxa a fala, «Munfe ra i n maxɔrinma n xili ma?» Na xanbi, a naxa duba Yaxuba bɛ.
 Yaxuba naxa na yire xili Peniyeli, barima a naxɛ, «N Ala toxi nɛ n ya i, kɔnɔ n tan nan man ɲɛngife yi ki.»
-Soge tema tɛmui naxɛ, Yaxuba nu bara dangi Peniyeli ra, a goroma a sɛɛti ma. Na nan a toxi han yakɔsi Isirayilakae mu laare donma naxan na tɔnxɔnyi ma, barima Ala Yaxuba masɔtɔxi a tɔnxɔn laare nan ma.
+Soge tema tɛmui naxɛ, Yaxuba nu bara dangi Peniyeli ra, a goroma a sɛɛti ma.
+Na nan a toxi han yakɔsi Isirayilakae mu laare donma naxan na tɔnxɔnyi ma, barima Ala Yaxuba masɔtɔxi a tɔnxɔn laare nan ma.
 Yaxuba to Esayu to fa ra e nun xɛmɛ mixi kɛmɛ naani, a naxa a xa die itaxun Leya nun Raxele ma, a nun e xa konyi ginɛ firinyie.
 A naxa konyi ginɛ firinyie ti yare, e nun e xa die. Nee xanbi ra, Leya fan naxa ti nun a xa die. Raxele nun Yusufu naxa lu dɔnxɔɛ ra.
 Yaxuba tan naxa siga yare. A to makɔrɛ a taara ra, a naxa a igoro bɔxi ma sanya solofere.
@@ -1709,10 +1709,14 @@ Mandurulae fan naxa na kaabanako mɔɔli raba. Firawuna xaxili naxa xɔrɔxɔ, a
 Firawuna naxa gbilen a xɔnyi, a naxa na fe bɔtɛ ba.
 Misiraka birin naxa tigie ge Nili xure sɛɛtie ma, alako e xa ye min daaxi sɔtɔ, barima e mu nu nɔma Nili xure ye minde.
 Alatala to gɛ Nili xure garinde, xi solofere dangi xanbi,
-a naxa a masen Munsa bɛ, «I xa siga Firawuna yire, a fala a bɛ, ‹Alatala bara a yamari, i xa a xa ɲama bɛɲin, e xa siga a batude. Na tɛmui Alatala naxa a masen Munsa bɛ, «A fala Haruna bɛ, a xa a xa yisuxuwuri itala baae, xuree, nun dabonyi birin xun ma alako lanxansarimae xa te Nili xure ma, e so Misira bɔxi ma.»
-Xa i mu tin na ra, Alatala fama i xa bɔxi birin xun nakanade lanxansarimae ra. Haruna to a xa yisuxuwuri itala Misira yee xun ma, lanxansarimae naxa te Misira bɔxi birin ma.
-E fama yiriwade Nili xure ma, e fa te, e so i xa banxi kui han e i xa sade li. E soma i xa kuntigie nun Misira ɲama xa banxie kui, e man soma taami rafalama dɛnnaxɛ. Mandurulae fan naxa na kaabanako mɔɔli raba, e fan naxa lanxansarimae raso Misira bɔxi ma.
-Lanxansarimae fama nɛ tede i tan, i xa ɲama, nun i xa kuntigie birin ma.›» Na dangi xanbi Firawuna naxa Munsa nun Haruna xili, a a fala e bɛ, «Wo sa Alatala maxandi, alako lanxansarimae xa keli n tan nun n ma ɲama xun ma. N fama i xa ɲama rabɛɲinde, e xa siga sɛrɛxɛe bade Alatala bɛ.»
+a naxa a masen Munsa bɛ, «I xa siga Firawuna yire, a fala a bɛ, ‹Alatala bara a yamari, i xa a xa ɲama bɛɲin, e xa siga a batude.
+Xa i mu tin na ra, Alatala fama i xa bɔxi birin xun nakanade lanxansarimae ra.
+E fama yiriwade Nili xure ma, e fa te, e so i xa banxi kui han e i xa sade li. E soma i xa kuntigie nun Misira ɲama xa banxie kui, e man soma taami rafalama dɛnnaxɛ.
+Lanxansarimae fama nɛ tede i tan, i xa ɲama, nun i xa kuntigie birin ma.›»
+Na tɛmui Alatala naxa a masen Munsa bɛ, «A fala Haruna bɛ, a xa a xa yisuxuwuri itala baae, xuree, nun dabonyi birin xun ma alako lanxansarimae xa te Nili xure ma, e so Misira bɔxi ma.»
+Haruna to a xa yisuxuwuri itala Misira yee xun ma, lanxansarimae naxa te Misira bɔxi birin ma.
+Mandurulae fan naxa na kaabanako mɔɔli raba, e fan naxa lanxansarimae raso Misira bɔxi ma.
+Na dangi xanbi Firawuna naxa Munsa nun Haruna xili, a a fala e bɛ, «Wo sa Alatala maxandi, alako lanxansarimae xa keli n tan nun n ma ɲama xun ma. N fama i xa ɲama rabɛɲinde, e xa siga sɛrɛxɛe bade Alatala bɛ.»
 Munsa naxa a fala Firawuna bɛ, «Mangɛ, i gbe binyɛ. I xa natɛ tongo lɔxɔɛ safe ra lanxansarimae xa keli i tan, i xa kuntigie, nun i xa ɲama xun ma, e xa lu Nili xure gbansan ma.»
 A naxa a yaabi, «Tina.» Munsa naxa a fala, «A fama rabade na ki nɛ, alako i xa a kolon, muxu Marigi Alatala maniyɛ mu na.
 Lanxansarimae fama kelide i tan, i xa kuntigie, nun i xa ɲama xun ma, e fa lu Nili xure ma.»
@@ -1737,10 +1741,6 @@ Munsa naxa a yaabi, «N bara tin. N na mini i xɔnyi, n Alatala maxandima nɛ. T
 Munsa to mini Firawuna xɔnyi, a naxa Alatala maxandi.
 Alatala naxa Munsa xa duba suxu. Xɛɛrie naxa makuya Firawuna, a xa kuntigie, nun a xa ɲama ra. Hali keren mu lu naa.
 Kɔnɔ Firawuna man naxa a xaxili xɔrɔxɔ, a mu tin Isirayila ɲama bɛɲinde.
-
-
-
-
 Na tɛmui Alatala naxa a masen Munsa bɛ, «I xa siga Firawuna yire, i xa a fala a bɛ, ‹Isirayilaka Marigi Alatala xa masenyi nan ya, «I xa n ma ɲama bɛɲin, alako e xa siga n batude.»
 Xa i tondi e bɛɲinde, i kankan e ma,
 Alatala fama wuganyi ɲaaxi radinde i xa xurusee ma, alɔ soe, sofalee, ɲɔxɔmɛe, ningee, yɛxɛɛe, nun si.
@@ -2112,7 +2112,8 @@ Naxan na yili ge, a lu i mu a dɛ rakotoma, xa a sa li ninge xa na mu a ra sofal
 a lanma na kanyi xa na xuruse sare fi, xuruse faxaxi xa lu a bɛ.
 Naxan ma tuura na sa a boore gbe faxa, na tuura baloxi xa mati, na sare nun na tuura faxaxi xa itaxun e boore tagi.
 Kɔnɔ xa a sa a li, na tuura darixi na mɔɔli raba ra, a kanyi a kolon kɔnɔ a mu a xirima a fanyi ra, a lanma tuura baloxi kanyi xa a gbe fi tuura faxaxi kanyi ma, tuura faxaxi xa lu a tan bɛ.
-Naxan na tuura xa na mu a ra yɛxɛɛ muɲa, a sa a mati, xa na mu a ra, a faxa, a lanma na kanyi xa tuura suuli ragbilen na tuura keren ɲɔxɔɛ ra, xa na mu, yɛxɛɛ naani na yɛxɛɛ keren ɲɔxɔɛ ra. Xa wo mixi suxu a muɲɛ tife kɔɛ ra, a fa faxa wo yi bɔnbɔɛ ra, faxɛ kote mu dɔxɔma wo xun ma.
+Naxan na tuura xa na mu a ra yɛxɛɛ muɲa, a sa a mati, xa na mu a ra, a faxa, a lanma na kanyi xa tuura suuli ragbilen na tuura keren ɲɔxɔɛ ra, xa na mu, yɛxɛɛ naani na yɛxɛɛ keren ɲɔxɔɛ ra.
+Xa wo mixi suxu a muɲɛ tife kɔɛ ra, a fa faxa wo yi bɔnbɔɛ ra, faxɛ kote mu dɔxɔma wo xun ma.
 Kɔnɔ xa wo na mɔɔli raba yanyi ra, faxɛ kote dɔxɔma nɛ wo xun ma. Muɲɛti lanma a xa se muɲaxie sare ragbilen, kɔnɔ xa a mu nɔma na ra, a gundi xa mati konyi ra alako muɲɛ se sare xa fi.
 Xa a sa li, na se muɲaxi na a yi alɔ ninge, sofale, yɛxɛɛ, xa na mu a ra, a ɲiɲɛ ra, a e ɲɔndɔn firin nan fima a ɲɔxɔɛ ra.
 Naxan na a xa xurusee bɛɲin, a sa a boore xa xɛ kana, na kanyi lanma a xa a sare fi a xa xɛ bogi fanyi nan na.
@@ -2142,7 +2143,6 @@ Wo naxa n tan Ala bɛxu. Wo naxa wo xa ɲama mangɛ danka.
 Wo naxa dugundi n kide wo xa xɛ bogie ra. Wo xa wo xa di singe birin fi n ma.
 Wo xa wo xa xurusee xa di singee fi n ma. Wo xa e lu e nga fɔxɔ ra xi solofere. A xi solomasaxan nde, wo fa e fi n ma.
 Wo xa findi n ma ɲama sɛniyɛnxi ra. Wo naxa wulai sube don, sube gbɛtɛ naxan faxaxi. Wo xa na mɔɔli fi baree ma.
-
 Wo naxa mixi tɔɔɲɛgɛ, wo naxa wule seede ba mixi ɲaaxi bɛ.
 Wo naxa bira ɲama waxɔnfe ɲaaxi fɔxɔ ra, wo naxa wule seede ba ɲama xa fe ra. Na mɔɔli tinxinyi kanama nɛ.
 Wo naxa mixi rafisa a boore bɛ kiiti kui, hali a findi misikiinɛ ra.
@@ -2848,13 +2848,20 @@ A xa na se tongoxi ragbilen sɛrɛxɛdubɛ ma, a man xa kɔbiri sa na fari. Na f
 Mixi naxan yunubi rabama, a n tan Alatala xa yaamari nde matandi, hali a mu a kolon, na bara yunubi sɔtɔ, fo a xa na sare fi.
 A lanma a xa sikɔtɛ ba yɛtɛ ragbilen sɛrɛxɛ ra, lanyuru mu na naxan ma, naxan sare lanma sɛriyɛ ma. Na kui sɛrɛxɛdubɛ xunsare sɛrɛxɛ bama a bɛ a xa yunubi xa fe ra, a naxan nabaxi a mu a kolon, alako a xa yunubi xa xafari.
 Na bara findi yɛtɛ ragbilen sɛrɛxɛ ra, barima a yunubi sɔtɔ nɛ n tan Alatala ra.»
-Alatala naxa a masen Annabi Munsa bɛ, Alatala naxa a masen Annabi Munsa bɛ,
-«Xa mixi nde sa yunubi sɔtɔ, a fe ɲaaxi raba n tan Alatala ra, alɔ a ngaxakerenyi madaxufe se nde xa fe ra, naxan nu bara taxu a ra, xa na mu a ra a naxan muɲa, xa na mu a ra a naxan baxi a boore yi ra funmalaya ra, «Yi yaamari so Haruna nun a xa die yi ra: Sɛriyɛ nan ya sɛrɛxɛ gan daaxi xa fe ra. Sɛrɛxɛ gan daaxi xa lu sɛrɛxɛbade fari kɔɛ ra, a xa gan han gɛɛsɛgɛ.
-xa na mu a ra se lɔɛxi a naxan toxi, a fa wule fala na xa fe ra kali ra, Sɛrɛxɛdubɛ xa donma ragoro a ma, a xa wantanyi fiixɛ fanyi so a ra, a xa tɛ xube ba sɛrɛxɛ gan daaxi bun ma, a a sa sɛrɛxɛbade sɛɛti ma.
-na yunubi raba mɔɔli lanma a xa na se muɲaxi ragbilen. Xa a muɲaxi nɛ ba, xa a taxuxi nɛ a ra ba, xa se lɔɛxi na a ra a naxan toxi ba, A na gɛ na wali ra, a xa a xa dugi fanyi ba a ma, a xa dugi gbɛtɛ ragoro a ma, alako a xa na tɛ xube xanin ɲama yonkinde fari ma, yire sɛniyɛnxi.
-xa se na a ra wule fala naxan ma fe ra kali ra, a xa na ragbilen a kanyi ma keren na, a man xa kɔbiri sa na fari. Na findima kɔbiri naxan na, a na se sare nan itaxunma dɔxɔ suuli ra, a fa dɔxɔ keren ba a ra, a na so na kanyi yi ra. Tɛ naxan dɛxɛxi sɛrɛxɛbade bun ma, na naxa xuben. Gɛɛsɛgɛ birin sɛrɛxɛdubɛ xa yege radɔxɔ, a xa tɛ xuru, a sɛrɛxɛ gan daaxi sa na fari. A xanunteya sɛrɛxɛe ture fan ganma naa nɛ.
-A man xa yɛxɛɛ kontonyi xanin sɛrɛxɛdubɛ yire yɛtɛ ragbilen sɛrɛxɛ ra Alatala bɛ. Fi yo naxa lu na yɛxɛɛ ma, a sare fan xa lan sɛriyɛ ma. Na tɛ dɛxɛma tɛmui birin sɛrɛxɛbade bun ma, a mu xubenma.»
-Na kui sɛrɛxɛdubɛ xunsare sɛrɛxɛ bama a bɛ n tan Alatala ya i, alako a xa yunubi, a naxan nabaxi, na xa xafari.» «Sɛriyɛ nan ya sansi xɔri dinxi sɛrɛxɛ xa fe ra. Haruna xa die xa fa na sɛrɛxɛ ra sɛrɛxɛbade n tan Alatala ya i.
+Alatala naxa a masen Annabi Munsa bɛ,
+«Xa mixi nde sa yunubi sɔtɔ, a fe ɲaaxi raba n tan Alatala ra, alɔ a ngaxakerenyi madaxufe se nde xa fe ra, naxan nu bara taxu a ra, xa na mu a ra a naxan muɲa, xa na mu a ra a naxan baxi a boore yi ra funmalaya ra,
+xa na mu a ra se lɔɛxi a naxan toxi, a fa wule fala na xa fe ra kali ra,
+na yunubi raba mɔɔli lanma a xa na se muɲaxi ragbilen. Xa a muɲaxi nɛ ba, xa a taxuxi nɛ a ra ba, xa se lɔɛxi na a ra a naxan toxi ba,
+xa se na a ra wule fala naxan ma fe ra kali ra, a xa na ragbilen a kanyi ma keren na, a man xa kɔbiri sa na fari. Na findima kɔbiri naxan na, a na se sare nan itaxunma dɔxɔ suuli ra, a fa dɔxɔ keren ba a ra, a na so na kanyi yi ra.
+A man xa yɛxɛɛ kontonyi xanin sɛrɛxɛdubɛ yire yɛtɛ ragbilen sɛrɛxɛ ra Alatala bɛ. Fi yo naxa lu na yɛxɛɛ ma, a sare fan xa lan sɛriyɛ ma.
+Na kui sɛrɛxɛdubɛ xunsare sɛrɛxɛ bama a bɛ n tan Alatala ya i, alako a xa yunubi, a naxan nabaxi, na xa xafari.»
+Alatala naxa a masen Annabi Munsa bɛ,
+«Yi yaamari so Haruna nun a xa die yi ra: Sɛriyɛ nan ya sɛrɛxɛ gan daaxi xa fe ra. Sɛrɛxɛ gan daaxi xa lu sɛrɛxɛbade fari kɔɛ ra, a xa gan han gɛɛsɛgɛ.
+Sɛrɛxɛdubɛ xa donma ragoro a ma, a xa wantanyi fiixɛ fanyi so a ra, a xa tɛ xube ba sɛrɛxɛ gan daaxi bun ma, a a sa sɛrɛxɛbade sɛɛti ma.
+A na gɛ na wali ra, a xa a xa dugi fanyi ba a ma, a xa dugi gbɛtɛ ragoro a ma, alako a xa na tɛ xube xanin ɲama yonkinde fari ma, yire sɛniyɛnxi.
+Tɛ naxan dɛxɛxi sɛrɛxɛbade bun ma, na naxa xuben. Gɛɛsɛgɛ birin sɛrɛxɛdubɛ xa yege radɔxɔ, a xa tɛ xuru, a sɛrɛxɛ gan daaxi sa na fari. A xanunteya sɛrɛxɛe ture fan ganma naa nɛ.
+Na tɛ dɛxɛma tɛmui birin sɛrɛxɛbade bun ma, a mu xubenma.»
+«Sɛriyɛ nan ya sansi xɔri dinxi sɛrɛxɛ xa fe ra. Haruna xa die xa fa na sɛrɛxɛ ra sɛrɛxɛbade n tan Alatala ya i.
 Sɛrɛxɛdubɛ xa suxu keren kɔ sansi xɔri dinxi ra, a nun ture, a nun surayi naxan birin sama a fari, a xa na birin gan sɛrɛxɛ tɔnxuma ra sɛrɛxɛbade fari. Na xiri rafan n tan Alatala ma.
 Naxan luxi, Haruna nun a xa die xa na don a lɛbinitare ra, hɔrɔmɔlingira tɛtɛ sɛniyɛnxi kui.
 A mu lanma a xa ɲin lɛbini ra, barima a fatanxi n ma sɛrɛxɛ gan daaxie nan na naxee sɛniyɛnxi han alɔ yunubi xafari sɛrɛxɛ nun yɛtɛ ragbilen sɛrɛxɛ.
@@ -2871,13 +2878,6 @@ Naxan yo dinma na sɛrɛxɛ ra, na kanyi sɛniyɛnma nɛ. Xa na wuli sa kasan du
 Xa na sube ɲinma tunde mɔɔli nde kui naxan maniya fɛɲɛ ra, a na gɛ a ɲinde, na tunde xa kana. Xa a ɲinma tunde kui naxan yailanxi yɔxui ra, na tunde xa maxa a fanyi ra ye ra.
 Xɛmɛ sɛrɛxɛdubɛ birin xa na don, barima sɛrɛxɛ sɛniyɛnxi na a ra.
 Kɔnɔ mixi yo naxa yunubi xafari sɛrɛxɛ don, naxan wuli xaninma hɔrɔmɔlingira kui xunsare ra. Na sɛrɛxɛ mɔɔli xa gan tɛ ra.›»
-
-
-
-
-
-
-
 «Yɛtɛ ragbilen sɛrɛxɛ sɛriyɛ nan ya: Sɛrɛxɛ sɛniyɛnxi na a ra.
 Yɛtɛ ragbilen sɛrɛxɛ kɔn naxabama sɛrɛxɛ gan daaxi kɔn naxabade nɛ. A wuli xa kasan sɛrɛxɛbade sɛɛtie ma.
 A ture birin, a xuli, a ture naxan na a furingɛ sɛɛti ma,
@@ -4228,34 +4228,34 @@ a e gerun, Kora nun a xa mixie, e xa lingirae, a nun e xa harige birin.
 E naxa goro aligiyama e ɲiɲɛ ra, e tan nun e sɔtɔse birin. Bɔxi naxa e makoto, e naxa lɔɛ ɲama tagi.
 Isirayilaka naxan birin nu na e sɛɛti ma, e naxa e gi e gbelegbele xui ma, e nu fa a fala, «Bɔxi naxa muxu fan gerun de!»
 Alatala naxa tɛ radin na mixi kɛmɛ firin mixi tongo suuli ma, naxee surayi gan hɔrɔmɔlingira dɛ ra.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Alatala naxa a masen Munsa bɛ,
+«A fala Haruna sɛrɛxɛdubɛ xa di xɛmɛ Eleyasari bɛ, a xa surayi gansee matongo tɛ xɔɔra, a xa e tɛ wolee rawoli yire makuye. Na surayi gansee bara findi se sɛniyɛnxie ra Ala bɛ.
+Wo xa na surayi gansee matongo, yunubitɔɛe naxee rawalixi e fa faxa, wo e bɔnbɔ han e xa findi a kebela ra, wo e sa sɛrɛxɛbade ma. Se sɛniyɛnxi na a ra barima a nu bara masen Alatala bɛ. Na kui a findi tɔnxuma nan na Isirayilakae bɛ.»
+Eleyasari sɛrɛxɛdubɛ naxa na mixie xa surayi ganse wure gbeeli daaxie matongo, na mixi faxaxie naxee rawalixi, a e bɔnbɔ han e findi kebela ra, a e sa sɛrɛxɛbade ma.
+Na bara findi tɔnxuma ra Isirayilakae bɛ, alako e xa ratu a ma a mu lan mixi yo xa surayi gan sɛrɛxɛ ra bafe Haruna xa die, xa na mu a ra a fan luma nɛ alɔ Kora nun a xa mixie, alɔ Alatala a masenxi Munsa bɛ ki naxɛ.
+Na kuye iba, Isirayila ɲama naxa wɔyɛn fɔlɔ Munsa nun Haruna ma, a e tan nan Alatala xa ɲama faxaxi.
+E nu e malanfe tɛmui naxɛ Munsa nun Haruna xili ma, e naxa a to nuxui naxa dusu hɔrɔmɔlingira xun ma, Alatala xa nɔrɛ fa mini e ma.
+Munsa nun Haruna naxa siga hɔrɔmɔlingira dɛ ra.
+Alatala naxa a masen Munsa bɛ,
+«Wo mini yi mixie ya ma, n xa e sɔntɔ kerenyi ra.» Munsa nun Haruna naxa e yatagi rafelen bɔxi ma,
+Munsa fa a fala Haruna bɛ, «I xa tɛ wole tongo sɛrɛxɛbade yire, i a sa i xa surayi ganse kui a nun surayi nde. Na xanin mafuren mafuren ɲama mabiri, i sa yunubi xafari maxandi e bɛ. Alatala bara a xa xɔnɛ fulun yi ɲama xili ma, sɔntɔɛ ɲan bara fɔlɔ.»
+Haruna naxa surayi ganse tongo alɔ Munsa a fala a bɛ ki naxɛ, a a gi a siga ɲama yire, sɔntɔɛ nu bara fɔlɔ dɛnnaxɛ. A naxa surayi ba sɛrɛxɛ ra, a fa yunubi xafari maxandi ɲama bɛ.
+A naxa ti mixi faxaxie nun mixi ɲiɲɛe tagi. Mixi faxafe naxa dan.
 Mixi wulu fu nun naani mixi kɛmɛ solofere nan faxa, bafe Kora xa mixie ra, naxee singe faxa.
 Mixi faxafe to dan, Haruna naxa gbilen Munsa yire hɔrɔmɔlingira dɛ ra.
-Alatala naxa a masen Munsa bɛ, Alatala naxa a masen Munsa bɛ,
-«A fala Haruna sɛrɛxɛdubɛ xa di xɛmɛ Eleyasari bɛ, a xa surayi gansee matongo tɛ xɔɔra, a xa e tɛ wolee rawoli yire makuye. Na surayi gansee bara findi se sɛniyɛnxie ra Ala bɛ. «A fala Isirayilakae bɛ, bɔnsɔɛ xunyi birin xa yisuxuwuri keren so i yi ra, na lanma yisuxuwuri fu nun firin nan ma. I xa bɔnsɔɛ birin xili sɛbɛ a xa yisuxuwuri ma.
-Wo xa na surayi gansee matongo, yunubitɔɛe naxee rawalixi e fa faxa, wo e bɔnbɔ han e xa findi a kebela ra, wo e sa sɛrɛxɛbade ma. Se sɛniyɛnxi na a ra barima a nu bara masen Alatala bɛ. Na kui a findi tɔnxuma nan na Isirayilakae bɛ.» I xa Haruna xili sɛbɛ Lewi bɔnsɔɛ xa yisuxuwuri ma. Bɔnsɔɛ xunyi birin xa yisuxuwuri xa lu naa.
-Eleyasari sɛrɛxɛdubɛ naxa na mixie xa surayi ganse wure gbeeli daaxie matongo, na mixi faxaxie naxee rawalixi, a e bɔnbɔ han e findi kebela ra, a e sa sɛrɛxɛbade ma. I na yisuxuwurie sama hɔrɔmɔlingira nan kui, saatɛ kankira ya tode ra, n luma n yɛtɛ masen na wo bɛ dɛnnaxɛ.
-Na bara findi tɔnxuma ra Isirayilakae bɛ, alako e xa ratu a ma a mu lan mixi yo xa surayi gan sɛrɛxɛ ra bafe Haruna xa die, xa na mu a ra a fan luma nɛ alɔ Kora nun a xa mixie, alɔ Alatala a masenxi Munsa bɛ ki naxɛ. N mixi naxan sugandixi, na kanyi xa yisuxuwuri mabutunma nɛ. Na kui, n bara a niya Isirayilakae naxa wɔyɛn wo ma sɔnɔn.»
-Na kuye iba, Isirayila ɲama naxa wɔyɛn fɔlɔ Munsa nun Haruna ma, a e tan nan Alatala xa ɲama faxaxi. Munsa naxa dɛntɛgɛ sa Isirayilakae bɛ. Isirayila bɔnsɔɛ xunyi birin naxa fa e xa yisuxuwuri ra. Na naxa lan yisuxuwuri fu nun firin ma. Haruna gbe nu na e ya ma.
-E nu e malanfe tɛmui naxɛ Munsa nun Haruna xili ma, e naxa a to nuxui naxa dusu hɔrɔmɔlingira xun ma, Alatala xa nɔrɛ fa mini e ma. Munsa naxa na yisuxuwurie sa Alatala ya i, hɔrɔmɔlingira kui, saatɛ kankira na dɛnnaxɛ.
-Munsa nun Haruna naxa siga hɔrɔmɔlingira dɛ ra. Na kuye iba, a to so hɔrɔmɔlingira kui, a naxa a to Haruna xa yisuxuwuri, naxan sa Lewi bɔnsɔɛ xili ra, a bara butun, a bara fuga, a tamare bogi gbeeli ramini.
-Alatala naxa a masen Munsa bɛ, Munsa naxa yisuxuwuri birin namini, a e masen Isirayila ɲama bɛ. Bɔnsɔɛ xunyi birin to e to, e naxa e gbe tongo.
-«Wo mini yi mixie ya ma, n xa e sɔntɔ kerenyi ra.» Munsa nun Haruna naxa e yatagi rafelen bɔxi ma, Alatala naxa a masen Munsa bɛ, «I man xa Haruna xa yisuxuwuri ragbilen saatɛ kankira yire, a xa ragata tɔnxuma ra matandilae bɛ. Na kui e mu wɔyɛnma n ma, e mu faxa.»
-Munsa fa a fala Haruna bɛ, «I xa tɛ wole tongo sɛrɛxɛbade yire, i a sa i xa surayi ganse kui a nun surayi nde. Na xanin mafuren mafuren ɲama mabiri, i sa yunubi xafari maxandi e bɛ. Alatala bara a xa xɔnɛ fulun yi ɲama xili ma, sɔntɔɛ ɲan bara fɔlɔ.» Munsa naxa Alatala xa yaamari rabatu, alɔ a masen a bɛ ki naxɛ.
-Haruna naxa surayi ganse tongo alɔ Munsa a fala a bɛ ki naxɛ, a a gi a siga ɲama yire, sɔntɔɛ nu bara fɔlɔ dɛnnaxɛ. A naxa surayi ba sɛrɛxɛ ra, a fa yunubi xafari maxandi ɲama bɛ. Isirayilakae naxa a fala Munsa bɛ, «A mato, muxu birin ɲɔnma nɛ halaki kui.
-A naxa ti mixi faxaxie nun mixi ɲiɲɛe tagi. Mixi faxafe naxa dan. Naxan yo a maso Alatala xa hɔrɔmɔlingira ra, na kanyi faxama nɛ. Muxu birin xa sɔntɔ?»
+Alatala naxa a masen Munsa bɛ,
+«A fala Isirayilakae bɛ, bɔnsɔɛ xunyi birin xa yisuxuwuri keren so i yi ra, na lanma yisuxuwuri fu nun firin nan ma. I xa bɔnsɔɛ birin xili sɛbɛ a xa yisuxuwuri ma.
+I xa Haruna xili sɛbɛ Lewi bɔnsɔɛ xa yisuxuwuri ma. Bɔnsɔɛ xunyi birin xa yisuxuwuri xa lu naa.
+I na yisuxuwurie sama hɔrɔmɔlingira nan kui, saatɛ kankira ya tode ra, n luma n yɛtɛ masen na wo bɛ dɛnnaxɛ.
+N mixi naxan sugandixi, na kanyi xa yisuxuwuri mabutunma nɛ. Na kui, n bara a niya Isirayilakae naxa wɔyɛn wo ma sɔnɔn.»
+Munsa naxa dɛntɛgɛ sa Isirayilakae bɛ. Isirayila bɔnsɔɛ xunyi birin naxa fa e xa yisuxuwuri ra. Na naxa lan yisuxuwuri fu nun firin ma. Haruna gbe nu na e ya ma.
+Munsa naxa na yisuxuwurie sa Alatala ya i, hɔrɔmɔlingira kui, saatɛ kankira na dɛnnaxɛ.
+Na kuye iba, a to so hɔrɔmɔlingira kui, a naxa a to Haruna xa yisuxuwuri, naxan sa Lewi bɔnsɔɛ xili ra, a bara butun, a bara fuga, a tamare bogi gbeeli ramini.
+Munsa naxa yisuxuwuri birin namini, a e masen Isirayila ɲama bɛ. Bɔnsɔɛ xunyi birin to e to, e naxa e gbe tongo.
+Alatala naxa a masen Munsa bɛ, «I man xa Haruna xa yisuxuwuri ragbilen saatɛ kankira yire, a xa ragata tɔnxuma ra matandilae bɛ. Na kui e mu wɔyɛnma n ma, e mu faxa.»
+Munsa naxa Alatala xa yaamari rabatu, alɔ a masen a bɛ ki naxɛ.
+Isirayilakae naxa a fala Munsa bɛ, «A mato, muxu birin ɲɔnma nɛ halaki kui.
+Naxan yo a maso Alatala xa hɔrɔmɔlingira ra, na kanyi faxama nɛ. Muxu birin xa sɔntɔ?»
 Alatala naxa a masen Haruna bɛ, «I tan, i xa die, nun Lewi bɔnsɔɛ birin, wo tan nan yunubi sɔtɔma xa fe ɲaaxi sa raba hɔrɔmɔlingira xa fe ra. Haruna i tan nun i xa die, wo tan nan yunubi sɔtɔma xa fe ɲaaxi sa raba sɛrɛxɛdubɛɲa xa fe ra.
 I xa Lewi bɔnsɔɛ mixi birin maso i ra, alako e xa i tan nun i xa die mali wo xa wali ra hɔrɔmɔlingira kui.
 E i malima hɔrɔmɔlingira wali kui, kɔnɔ e naxa makɔrɛ yirabase sɛniyɛnxie nun sɛrɛxɛbade ra, alako wo naxa faxa, e tan nun i tan.
@@ -4647,7 +4647,6 @@ Wo xa tuura fu nun firin, yɛxɛɛ kontonyi firin, nun yɛxɛɛ fu nun naani ba 
 Wo man xa sansi xɔri dinxi nun wɛni sɛrɛxɛ ba naxan lanma sɛriyɛ ki ma na tuura, na yɛxɛɛ kontonyi, nun na yɛxɛɛ xa fe ra.
 Wo xa sikɔtɛ keren fan ba n tan Alatala bɛ yunubi xafari sɛrɛxɛ ra. Wo xa na sɛrɛxɛe sa boore sɛrɛxɛe xun, wo naxee bama lɔxɔɛ birin, e nun sansi xɔri nun wɛni naxan fan bama sɛrɛxɛ ra.»
 «Sɛrɛxɛe nan na ki wo lan wo xa naxee ba n tan Alatala bɛ wo xa sali lɔxɔɛe, bafe wo xa laayidi sɛrɛxɛe, wo xa sɛrɛxɛ ɲanigexie, wo xa sɛrɛxɛ gan daaxie, wo xa sansi xɔri dinxi sɛrɛxɛe, wo xa wɛni sɛrɛxɛe, nun wo xa xanunteya sɛrɛxɛe.»
-
 Munsa naxa Alatala xa yaamari birin fala Isirayilakae bɛ, a naxee so a yi ra.
 Munsa naxa yi masenyi ti Isirayila bɔnsɔɛ kuntigie bɛ, «Alatala xa yaamarie nan ya:
 Xa mixi nde sa laayidi tongo Alatala bɛ fe nde ma, xa na mu a a kali Alatala ra fe nde ma, na kanyi lan nɛ a xa a xui rakamali. A naxan birin falaxi a dɛ ra, a xa a birin naba.»
@@ -4663,7 +4662,8 @@ xa a xa mɔri fa na fe kolon, kɔnɔ a mu fefe fala na fe kui, a lanma na ginɛ 
 A xa mɔri na a xa laayidi mɛ tɛmui naxɛ, a nɔma tinde a ra, xa na mu a ra, a nɔma tɔnyi dɔxɔde a ma. Alatala mu a suxuma a ra.
 A xa mɔri nɔma tinde, xa na mu a ra tondide a xa laayidi nun a xa kali birin na.
 Xa a mu fefe falama na fe kui, a xa ginɛ lanma a xa a xa laayidi rakamali. A xa dundui a niyama nɛ ginɛ xa a xa laayidi rakamali.
-Xa a xa mɔri tɔnyi dɔxɔma a xa ginɛ xa laayidi ma tɛmui gbɛtɛ, a tan nan yati a xa ginɛ xa kote xaninma.» «Alatala xa sɛriyɛ nan na ki a naxan fixi Munsa ma, ginɛ xa fe ra naxan na xɛmɛ taa, xa na mu a ra ginɛ naxan na a baba xɔnyi.»
+Xa a xa mɔri tɔnyi dɔxɔma a xa ginɛ xa laayidi ma tɛmui gbɛtɛ, a tan nan yati a xa ginɛ xa kote xaninma.»
+«Alatala xa sɛriyɛ nan na ki a naxan fixi Munsa ma, ginɛ xa fe ra naxan na xɛmɛ taa, xa na mu a ra ginɛ naxan na a baba xɔnyi.»
 Alatala naxa yi masenyi ti Munsa bɛ,
 «I xa Isirayilakae gbe ɲɔxɔ Madiyankae ma. I na gɛ na ra, i fa taa masara.»
 Munsa naxa a fala ɲama bɛ, «Xɛmɛ ndee xa geresosee tongo Madiyan xili ma wo gbe ɲɔxɔde Alatala xili ra.
@@ -5271,7 +5271,6 @@ Wo wo tuli mati, wo lan nɛ wo xa yi sɛriyɛ ratinmɛ n naxan soxi wo yi ra, al
 Wo Marigi Alatala na gɛ sie halakide wo saabui ra, wo na sabati e xa bɔxi ma,
 wo xa wo yɛtɛ ratanga e xa fe kobi rabafe ma, e halaki xanbi. Wo xa wo yɛtɛ ratanga e xa alae maxɔrinfe ma. Wo naxa a fala, «Yi sie nu tuubi rabirama e bɛ di? N fan waxi na nan nabafe.»
 Wo naxa na mɔɔli raba wo Marigi Alatala ra, barima e nu fe kobie rabama e xa alae bɛ Alatala mu wama naxee xɔn. Mixi nan nu e ra, naxee nu e xa die ganma e xa kuyee bɛ sɛrɛxɛ ra.
-
 Wo lan nɛ wo xa yi sɛriyɛ raba a raba ki ma n naxan soxi wo yi ra. Wo naxa sese ba a ra, wo man naxa sese fan sa a xun ma.
 Xa namiɲɔnmɛ nde, xa na mu a ra waliyu nde,
 sa kaabanakoe fe nun tɔnxuma fe raba wo ya xɔri, a man fa a fala wo bɛ, «Won bira kuye batufe fɔxɔ ra, wo tan mu alae naxee kolon,»
@@ -5289,7 +5288,8 @@ a mɛnnika ndee a falama e booree bɛ, «Won xa kuye nɛɛnɛ ndee batu,»
 a lanma wo xa na mixi kobie xɔn nafen alako wo xa e kɛɲa kolon. Wo xa a kolon xa na fe kobi bara raba wo tagi.
 Xa a sa na ki nɛ, wo xa na taakae birin faxa santidɛgɛma ra. Wo xa na taa halaki nun a xa xurusee birin na.
 Wo e harige birin malanma taa tagi nɛ, wo tɛ sa a ma, wo taa birin gan wo Marigi Alatala ya i. Naa fama findide bɔxi rabɛɲinxi nan na. Mɛnni tan mu findima taa ra sɔnɔn.
-Wo naxa na se ratɔnxi sese tongo wo yɛtɛ bɛ, wo na naxan ganfe alako nde xa ba Alatala xa xɔnɛ ra, a xa kinikini wo ma, a xa wo rawuya alɔ a rakalixi ki naxɛ wo babae bɛ. Xa wo tuubi rabira wo Marigi Alatala bɛ a xa sɛriyɛ rabatufe ma, n naxan soxi wo yi ra to lɔxɔɛ, xa wo fe tinxinxi raba wo Marigi Alatala ya i, a fama nɛ na hɛɛri birin fide wo ma.
+Wo naxa na se ratɔnxi sese tongo wo yɛtɛ bɛ, wo na naxan ganfe alako nde xa ba Alatala xa xɔnɛ ra, a xa kinikini wo ma, a xa wo rawuya alɔ a rakalixi ki naxɛ wo babae bɛ.
+Xa wo tuubi rabira wo Marigi Alatala bɛ a xa sɛriyɛ rabatufe ma, n naxan soxi wo yi ra to lɔxɔɛ, xa wo fe tinxinxi raba wo Marigi Alatala ya i, a fama nɛ na hɛɛri birin fide wo ma.
 Marigi Alatala xa die lanxi wo tan nan ma. Xa faxɛ fa sa ti, Wo naxa wo yɛtɛ maxaba, wo naxa wo xunsɛxɛ bi wo tigi dɛ ra.
 Wo bara findi wo Marigi Alatala xa ɲama sɛniyɛnxi ra. A wo tan nan sugandixi bɔxi ɲama birin tagi, wo xa findi a gbe ra.
 Wo mu lan wo xa se sɛniyɛntare don.
@@ -5499,7 +5499,6 @@ Wo naxa fefe raba ginɛ dimɛdi tan na, barima a mu fe ɲaaxi yo rabaxi a lan a 
 Na naralanyi rabaxi wula nɛ. Hali yi ginɛ dimɛdi xɛmɛ kanyi sɔnxɔɛ rate nu, mixi yo mu sɔtɔma naxan nɔma a ratangade.
 Xa xɛmɛ naralan ginɛ dimɛdi ra kote mu nu dɔxɔ naxan ma fe ra, a naxa bagan a ma, a a futi kana, mixi nde fa e suxu na fe xun,
 na xɛmɛ kɔbiri kole tongo suuli nan soma ginɛ baba yi ra, a fa yi ginɛ dɔxɔ, barima a bara a futi kana. A xa simaya kui, a mu lan a xa mɛɛ na ginɛ ra.
-
 Mixi yo mu lan a nun a baba xa ginɛ xa kafu. A tana fe nan na ra a baba mabiri.
 Mixi naxan xɛmɛya kanaxi, xa na mu a ra a bolonxi, na kanyi mu lan a xa siga Alatala xa malanyi.
 Yangamadi fan mu sigama Alatala xa malanyi hali a bɔnsɔɛ fu nde.
@@ -5524,7 +5523,8 @@ Ala kolontare nan lanma a xa wo xa geeni sa, kɔnɔ wo ngaxakerenyi tan mu a ra 
 Wo na daakan tongo wo Marigi Alatala bɛ, wo naxa taxiri a rabafe ma, xa na mu wo Marigi Alatala a maxɔrinma nɛ wo ma, wo fa findide yunubitɔɛe ra.
 Xa wo mu daakan tongoxi, yunubi fe mu na.
 Kɔnɔ xa wo daakan tongo wo Marigi Alatala bɛ, wo lan nɛ wo xa a raba keren na a fanyi ra. Wo fa a raba alɔ wo a ɲanigexi wo dɛ ra ki naxɛ.
-Wo nɔma wuri bogi ndee bade wo gbe mu naxee ra, wo a don han wo luga, kɔnɔ a mu lan wo xa nde sa wo xa kote i. Wo na so mɛngi xɛ fan na, wo gbe mu naxan na, wo nɔma tɔnsɔɛ ndee bade wo bɛlɛxɛ ra, kɔnɔ wo mu lan wo xa wɔrɔtɛ tongo wo ngaxakerenyi xa mɛngi xili ma.
+Wo nɔma wuri bogi ndee bade wo gbe mu naxee ra, wo a don han wo luga, kɔnɔ a mu lan wo xa nde sa wo xa kote i.
+Wo na so mɛngi xɛ fan na, wo gbe mu naxan na, wo nɔma tɔnsɔɛ ndee bade wo bɛlɛxɛ ra, kɔnɔ wo mu lan wo xa wɔrɔtɛ tongo wo ngaxakerenyi xa mɛngi xili ma.
 A nɔma a lide xɛmɛ nde xa ginɛ mu rafanxi a ma sɔnɔn, a fatan kɛɛdi sɛbɛ, a a so a yi ra, a fa a rasiga a baba xɔnyi.
 Na tɛmui xa na ginɛ dɔxɔ xɛmɛ gbɛtɛ xɔn ma,
 a xa fe raɲaaxu na xɛmɛ fan ma, na fan fa fatan kɛɛdi sɛbɛ, a a so a yi ra, a fa a rasiga a baba xɔnyi, xa na xɛmɛ fa sa faxa nɛ,
@@ -5679,7 +5679,8 @@ Na sie tagi, wo mu malabui yo sɔtɔma, wo mu yire yo sɔtɔma wo sabatima dɛnn
 Wo xa simaya findima kɔntɔfili nan na, gaaxui fama nɛ wo rasɛrɛnde kɔɛ nun yanyi ra.
 Wo na na fe mɔɔli to tɛmui naxɛ, gaaxui fama wo bɔɲɛ rafede. Gɛɛsɛgɛ, wo nu fa a fala, «Xa nunmare nan nu a ra nu!» Nunmare, wo nu fa a fala, «Xa gɛɛsɛgɛ nan nu a ra nu!»
 Alatala wo xaninma nɛ kunkuie kui Misira, n a fala wo bɛ dɛnnaxɛ ma wo mu naa toma sɔnɔn. Mɛnni, wo katama nɛ wo yɛtɛ matide wo yaxuie ma konyie ra, xɛmɛe nun ginɛe, kɔnɔ mixi yo mu wo sarama.
-Alatala yi saatɛ nan so Annabi Munsa yi ra, a xa a mabanban e nun Isirayilakae tagi, Mowaba bɔxi ma. Yi saatɛ nun boore saatɛ tagi rasa naxan tongo Xorebe geya fari. Annabi Munsa naxa Isirayila ɲama birin maxili, a a masen e bɛ, «Wo nu na Misira tɛmui naxɛ, wo fe to nɛ Alatala naxan naba Firawuna ra, a xa sɔɔrie nun a xa bɔxi birin na.
+Alatala yi saatɛ nan so Annabi Munsa yi ra, a xa a mabanban e nun Isirayilakae tagi, Mowaba bɔxi ma. Yi saatɛ nun boore saatɛ tagi rasa naxan tongo Xorebe geya fari.
+Annabi Munsa naxa Isirayila ɲama birin maxili, a a masen e bɛ, «Wo nu na Misira tɛmui naxɛ, wo fe to nɛ Alatala naxan naba Firawuna ra, a xa sɔɔrie nun a xa bɔxi birin na.
 Wo bara fe xɔrɔxɔɛe to, tɔnxumae nun kaabanakoe a naxee raba e ra,
 kɔnɔ han to Alatala mu xaxili fi wo ma naxan nɔma yi fee kolonde. Wo yae mu a toma, wo tuli man mu a mɛma.
 Ɲɛ tongo naani bun ma a wo ratangama gbengberenyi kui. Wo xa sose nun wo xa sankirie mu kana,
@@ -5707,7 +5708,6 @@ E bara kuyee batu e mu naxee kolonxi, Alatala mu tinxi naxee ra.
 Na fe na a toxi Alatala yi ɲaxankatɛ birin dɔxɔxi yi bɔxi ma a xa xɔnɛ kui alɔ a xa kitaabui a masenma ki naxɛ.
 A bara a xa xɔnɛ belebele dɔxɔ a xa ɲama ma, a e tongo e xa bɔxi ma, a e keri bɔxi gbɛtɛ fan ma, e na dɛnnaxɛ yi waxati.›»
 «Fe naxee nɔxunxi, won Marigi Alatala nan keren peti nee kolon. Fe naxee masenxi won bɛ, nun won ma die bɛ, nee findixi won gbe nan na han duniɲa ɲɔn. A lanma won xa yi sɛriyɛ masenxi birin nabatu.»
-
 N baraka nun danka naxee birin falaxi wo bɛ, nee fama nɛ kamalide. Wo Marigi Alatala na wo rayensen yɛ tɛmui naxɛ bɔxi gbɛtɛ ma, wo wo maɲɔxun yi fee ma.
 Xa wo gbilenma wo Marigi Alatala ma, wo man a xui suxu wo bɔɲɛ nun wo xaxili kui wo tan nun wo xa die, alɔ n a masenxi wo bɛ ki naxɛ to lɔxɔɛ,
 na tɛmui wo Marigi Alatala wo raminima nɛ konyiya kui, a kinikini wo ma, a wo ba sie ya ma a wo rayensen yɛ dɛnnaxɛ.
@@ -6573,7 +6573,7 @@ Na rabaxi nɛ alako Isirayila lanfanmae xa na gere xa fe kolon, naxee mu nu a ko
 Si naxee lu Kanaan bɔxi ma, nee nan yi ki: Filisitakae xa mangɛ suuli, Kanaankae birin, Sidɔnkae, nun Hiwikae naxee nu sabatixi Liban geyae fari, kelife Bali Xerimon geya ma, a sa dɔxɔ Xamata sode dɛ ra.
 Yi sie lu nɛ naa alako Alatala xa Isirayilakae mato, a xa a kolon xa e sa birama a xa sɛriyɛ fɔxɔ ra, a naxan sɛbɛ e babae bɛ Annabi Munsa saabui ra.
 Isirayilakae naxa sabati Kanaankae, Xitikae, Amorikae, Perisikae, Hiwikae, nun Yebusukae tagi.
-Isirayilakae naxa mɛnnikae xa di ginɛe dɔxɔ, e fan naxa e xa di ginɛe fi mɛnnikae xa di xɛmɛe ma. Isirayilakae man naxa e xa alae batu.
+Isirayilakae naxa mɛnnikae xa di ginɛe dɔxɔ, e fan naxa e xa di ginɛe fi mɛnnikae xa di xɛmɛe ma. Isirayilakae man naxa e xa alae batu. Kiitisa mixi fu nun firin
 Isirayilakae naxa fe ɲaaxi raba naxan mu rafan Alatala ma. E naxa nɛɛmu Alatala ma, e Marigi Ala, e fa Bali kuyee nun Aseri wuri masolixi batu.
 Alatala naxa xɔnɔ Isirayila ma, a fa e sa Kusan Risatayimi sago, Mesopotamiya mangɛ, Isirayilakae nu na naxan xa yaamari bun ma ɲɛ solomasaxan.
 Isirayilakae to Alatala xili e xui itexi ra, a naxa marakisima ramini e bɛ, Kenasi xa di Otiniyeli, Kalebi xunya.
@@ -7771,7 +7771,6 @@ A man naxa sɔnxɔ a ra, a naxɛ, «I xulun, i naxa ti de!» Yonatan xa dimɛdi 
 A mu nu sese kolon na fe kui, kɔnɔ Dawuda nun Yonatan tan naxa e boore fahaamu.
 Yonatan naxa a xa xali nun a xa tanbɛe so dimɛdi yi ra, a a fala a bɛ, «Yi see xanin taa kui.»
 Dimɛdi to siga, Dawuda naxa mini kɔɔla mabiri, a fa a yatagi rafelen bɔxi sanya saxan. E naxa filinfilin e boore ma, e fa wa, a gbengbenyi Dawuda.
-
 Yonatan naxa a fala Dawuda bɛ, «Won bara saatɛ xiri. Alatala na seede ra won tan nun won bɔnsɔɛe tagi abadan. Yakɔsi, i xa siga bɔɲɛsa kui.»
 Na dangi xanbi, Dawuda naxa siga Nobo, Yonatan naxa gbilen taa kui.
 Dawuda to Nobo li, a naxa siga sɛrɛxɛdubɛ Aximeleki xɔnyi. A to Dawuda to, a naxa gaaxu, a fa a maxɔrin, «I keren nan a ra? Mixi yo mu na i fɔxɔ ra?»
@@ -7787,7 +7786,8 @@ Na lɔxɔɛ Dawuda naxa keli, a a gi Sɔlu ya ra. A naxa siga Gati mangɛ Akisi 
 Akisi xa mixie naxa a fala a bɛ, «Isirayila mangɛ Dawuda xa mu yi ki, naxan xa fe falama, ‹Sɔlu bara mixi wulu wulu faxa. Dawuda tan bara mixi wulu wulu dɔxɔ fu faxa›?»
 Dawuda to na fe mɛ, a naxa gaaxu ki fanyi Gati mangɛ Akisi ya ra.
 Na kui a naxa a niya ɲama xa a maɲɔxun daxui ra. A naxa daxuɲa raba e tagi, a se korin naadɛ ma, a dɛye nu goro a dɛ xabe ma.
-Akisi naxa a fala a xa mixie bɛ, a naxɛ, «Wo mu a toxi a findixi daxui nan na yi ki. Wo faxi yi xɛmɛ ra n xɔn ma munfe ra? N hayi na daxui ma n xɔnyi? Yi mixi mɔɔli xa so n ma banxi kui?»
+Akisi naxa a fala a xa mixie bɛ, a naxɛ, «Wo mu a toxi a findixi daxui nan na yi ki. Wo faxi yi xɛmɛ ra n xɔn ma munfe ra?
+N hayi na daxui ma n xɔnyi? Yi mixi mɔɔli xa so n ma banxi kui?»
 Dawuda naxa sa a nɔxun Adulama fɔnmɛ kui. A taarae nun a barenyie to na kolon, e naxa siga a fɔxɔ ra.
 Mixi naxee nu na tɔɔrɛ nde kui alɔ doni kanyie, e naxa lu a fɛ ma, e a findi e xa mangɛ ra. Mixi kɛmɛ naani ɲɔndɔn nu na a fɔxɔ ra.
 Dawuda naxa keli mɛnni, a naxa siga Misipa Mowaba bɔxi ma. A naxa a fala Mowaba mangɛ bɛ, a naxɛ, «Yandi, a lu n baba nun n nga xa sabati be sinden, han n xa a kolon Alatala wama naxan xɔn n bɛ.»
@@ -7839,7 +7839,6 @@ Sɔlu nun a xa mixie naxa mini Dawuda fende. Dawuda to na kolon, a naxa siga fan
 Sɔlu nu ɲɛrɛma geya sɛɛti ma, Dawuda fan nu ɲɛrɛma geya boore sɛɛti ma, gulunba nu na e tagi. Dawuda nu a gife a sɛnbɛ ra, kɔnɔ Sɔlu xa mixie nu na a raxɛtɛnfe.
 Na tɛmui xɛɛra nde naxa fa Sɔlu yire, a a fala a bɛ, «I xa fa keren na. Filisitakae man bara din Isirayila bɔxi ra!»
 Na kui Sɔlu naxa gbilen Dawuda fɔxɔ ra na Filisitakae xa fe ra. Na nan a niya, e naxa mɛnni xili sa Sela Hamalekoto. Na nan na ki «Fatan fanye.»
-
 Dawuda naxa siga En Gedi geya yire.
 Sɔlu to gbilen kelife Filisitakae gerede, mixie naxa a fala a bɛ, a Dawuda na En Gedi gbengberenyi ma.
 Sɔlu naxa sɔɔri wulu saxan tongo, naxee fata gere sode dangi Isirayilakae birin na, e naxa mini Dawuda nun a xa mixie fende, han e sa so fanyee longori ra.
@@ -7861,7 +7860,8 @@ A fa a fala Dawuda bɛ, a naxɛ, «I tinxin n tan bɛ, barima i bara n ma fe kob
 To tan i bara i xa marafanyi masen n bɛ. Alatala nu bara n sa i sagoe, i fa tondi n faxade.
 Xa mixi a yaxui masɔtɔ, a bɛɲinma bɔɲɛsa kui? Alatala xa i sare fi i naxan nabaxi n bɛ to lɔxɔɛ.
 N a kolon i fama nɛ findide mangɛ ra, Isirayila fama xande i xa mangɛya bun ma.
-I xa i kali Ala xili ra, a i mu n bɔnsɔɛ sɔntɔma n faxa xanbi, i man mu n xili kanama n ma mixie tagi.» Dawuda to a kali Sɔlu bɛ, Sɔlu naxa gbilen a xɔnyi, Dawuda nun a xa mixie naxa siga kantari yire.
+I xa i kali Ala xili ra, a i mu n bɔnsɔɛ sɔntɔma n faxa xanbi, i man mu n xili kanama n ma mixie tagi.»
+Dawuda to a kali Sɔlu bɛ, Sɔlu naxa gbilen a xɔnyi, Dawuda nun a xa mixie naxa siga kantari yire.
 Samuweli to laaxira, Isirayila birin naxa malan a xa ɲɔnfe ma, e xa a ragata a xɔnyi Rama. Na tɛmui Dawuda naxa goro Paran gbengberenyi ma.
 Kuntigi nde nu na Mayon, naxan ma yɛxɛ wulu saxan nun si wulu keren nu na Karemele. A nu sigaxi a xa na yɛxɛɛe xabe mabide.
 Na xɛmɛ nu xili nɛ Nabali, a xa ginɛ xili Abigayili. Ginɛ xaxilima nan nu a ra, naxan tofan ki fanyi. Kɔnɔ a xa mɔri xaxili nu xɔrɔxɔ, a nu luma fe ɲaaxi raba ra. Kalebi bɔnsɔɛ nan a ra.
@@ -8511,7 +8511,6 @@ Mangɛ naxa a maxɔrin, «Abisalomi go, tana mu na n ma fonike ma?» Aximaasi na
 Mangɛ naxa a fala a bɛ, «Lu be sinden.» Aximaasi naxa ti a xati ma.
 Kusika to so, a naxa a fala, «N ma mangɛ, n bara fa xibaaru nde ra i bɛ. To, Alatala bara i rakisi i yaxuie bɛlɛxɛ tinxinyi ra.»
 Mangɛ naxa a maxɔrin, «Abisalomi go, tana mu na n ma fonike ma?» A naxa a yaabi, «Mangɛ, mixi naxee fe ɲaaxi rabama i ra, nun i yaxuie birin na, e xa fe xa ɲɔn alɔ na fonike Abisalomi.»
-
 Na kui mangɛ naxa sunnun ki fanyi. A naxa te a xa konkoe kui taa naadɛ xun ma, a wama. A nu a fala a yɛtɛ ma, «N ma di Abisalomi, n ma di Abisalomi, a nu fisa n tan xa faxa i ɲɔxɔɛ ra. Abisalomi, n ma di. Ee, n ma di!»
 E naxa na dɛntɛgɛ Yowaba bɛ, e naxɛ, «Mangɛ na wafe sunnunyi kui Abisalomi xa fe ra.»
 E gere naxan geenixi na lɔxɔɛ, na naxa findi sunnunyi ra bɔxi birin bɛ, barima ɲama nu bara a mɛ a mangɛ tɔɔrɔxi a xa di Abisalomi xa faxɛ xa fe ra.
@@ -8554,7 +8553,8 @@ Mangɛ naxa a fala, «Awa, n xa Kimehami xanin n xun ma, n xa i waxɔnfe birin n
 Ɲama birin to Yurudɛn xure giri, mangɛ naxa Barasilayi sunbu, a duba a bɛ. Na tɛmui Barasilayi naxa gbilen a xɔnyi,
 mangɛ naxa siga Giligali, a nun Kimehami. Yuda ɲama nun Isirayila ɲama sɛɛti keren nan mangɛ mali Yurudɛn igiride.
 Kɔnɔ Isirayila xɛmɛe naxa e mawa mangɛ xɔn, a falafe ra, «Muxu ngaxakerenyi Yudayakae i baxi muxu yi ra munfe ra? E tan i xa ɲama matixi munfe ra kelife ra Yurudɛn xure han i xɔnyi?»
-Yudaya xɛmɛe naxa Isirayilakae yaabi, e naxɛ, «Mangɛ kelixi muxu bɔnsɔɛ nɛ. A mu lanma wo xa xɔnɔ na fe ma. Muxu bara mangɛ makula donse ra? A bara muxu buɲa?» Isirayilakae naxa a fala e bɛ, «Muxu to findixi bɔnsɔɛ fu ra, muxu tide gbo wo bɛ mangɛ mabiri, a gbengbenyi yi mangɛ Dawuda. Wo wama muxu xurunfe munfe ra? Muxu tan xa singe mu mangɛ gbilenfe fala?» Kɔnɔ Yudayakae naxa xɔrɔxɔ dangi Isirayilakae ra.
+Yudaya xɛmɛe naxa Isirayilakae yaabi, e naxɛ, «Mangɛ kelixi muxu bɔnsɔɛ nɛ. A mu lanma wo xa xɔnɔ na fe ma. Muxu bara mangɛ makula donse ra? A bara muxu buɲa?»
+Isirayilakae naxa a fala e bɛ, «Muxu to findixi bɔnsɔɛ fu ra, muxu tide gbo wo bɛ mangɛ mabiri, a gbengbenyi yi mangɛ Dawuda. Wo wama muxu xurunfe munfe ra? Muxu tan xa singe mu mangɛ gbilenfe fala?» Kɔnɔ Yudayakae naxa xɔrɔxɔ dangi Isirayilakae ra.
 Mixi sɛriyɛtare nde nu na, naxan nu xili Seeba, Bikiri xa di, fatanfe Bunyamin bɔnsɔɛ ra. Seeba naxa feri fe Isirayila ɲama ma, a a fala e bɛ, «Won mu birama Dawuda fɔxɔ ra. Won nun Yisayi xa di mu na kɛ keren. Isirayila ɲama xa gbilen e xɔnyi!»
 Isirayila xɛmɛ birin naxa keli Dawuda xun ma, e bira Bikiri xa di Seeba fɔxɔ ra. Yudaya xɛmɛe tan naxa lu e xa mangɛ sɛɛti ma, e sa a mati kelife Yurudɛn xure ma, han Darisalamu.
 Mangɛ Dawuda to so a xɔnyi Darisalamu, a naxa a xa konyi ginɛ fu tongo, a nu bara naxee lu a xa banxi kantade, a e yigiya banxi makantaxi nde kui. A naxa a ɲɛngi sa e xɔn ma, kɔnɔ a nun e tan mu kafu sɔnɔn. E naxa lu na banxi kui e kaaɲɛ ki ma han e faxa.
@@ -8865,38 +8865,38 @@ Paruwa xa di Yehosafati nan nu gomina ra Isakari bɔxi xun ma.
 Ela xa di Simeyi nan nu gomina ra Bunyamin bɔxi xun ma.
 Uri xa di Geberi nan nu gomina ra Galadi bɔxi xun ma, a Amorikae xa mangɛ Sixɔn xa bɔxi, nun Basankae xa mangɛ Ogo xa bɔxi. Geberi keren nan nu na bɔxi birin gomina ra.
 Yudayakae nun Isirayilakae nu wuya alɔ baa dɛ ra mɛyɛnyi. E nu e dɛgema, e nu e minma sɛɛwɛ kui.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Mangɛ Sulemani nu bɔxi birin yamarima, kelife Efirati xure ma, han Filisita bɔxi, han Misira naaninyi ra. Na mixi birin nu duuti fima mangɛ Sulemani ma a xa simaya birin kui.
 Mangɛ Sulemani nun a xa mixie baloe findi yi nan na lɔxɔɛ keren kui: farin fuɲi daaxi busali kɛmɛ tongo saxan, ɲɔɛraba busali kɛmɛ firin tongo naani,
 ninge bɔrɔgɛxi fu, ninge dɛmadon daaxi mɔxɔɲɛn, xuruse lanma kɛmɛ, bolee, xelie, burunyi sie, nun xɔni bɔrɔgɛxie.
 Mangɛ Sulemani nan nu bɔxi birin yamarima naxee nu na Efirati xure yirefanyi ma, kelife Tifisa han Gasa. Na bɔxi mangɛe nun e xa mixie nu sabatixi bɔɲɛsa nan kui.
-Yudayakae nun Isirayilakae birin, kelife Dana han Beriseeba, nu sabatixi bɔɲɛsa nan kui e xa wɛni bilie nun e xa xɔrɛ bilie tagi Sulemani xa mangɛya bun ma. Na kui n bara a ɲanige n xa banxi ti n Marigi Alatala bɛ alɔ a a yitaxi ki naxɛ n baba Dawuda bɛ. A naxa a masen a bɛ, ‹I xa di, n naxan dɔxɔma i xa kibanyi kui i ɲɔxɔɛ ra, na nan fama banxi tide n bɛ.›
-Soe gɔɔrɛ wulu tongo naani nu na Sulemani yi ra, naxee nu a xa sɔɔri ragisee bɛndunma. Soe ragi mixi wulu fu nun firin nan nu na Sulemani yi ra. I naxan nabama, i xa yaamari fi Liban sɛdiri wuyaxie xa xaba n bɛ. N ma walikɛe kafuma nɛ i xa walikɛe ma. N e xa wali sare fima nɛ alɔ i wama a xɔn ki naxɛ. Mixi yo mu na naxan fata wuri xabade alɔ Sidɔnkae.»
-Sulemani xa gomina fu nun firinyie nu fama baloe ra a bɛ nun a xa mixie bɛ. Kike yo kike gomina nde nu fama mangɛ hayi birin na. Mangɛ Xirami to Sulemani xa wɔyɛnyi mɛ, a naxa sɛɛwa ki fanyi ra, a fa a fala, «Alatala tantu. A bara di xaxilima fi Dawuda ma naxan nɔma yi ɲama xungbe raɲɛrɛde.»
-E nu fama mɛngi nun sɛxɛ ra soe birin bɛ gɔɔrɛe kui. Xirami naxa Sulemani yaabi, a naxɛ, «N bara i xa masenyi mɛ. N i waxɔnfe birin nabama nɛ, sɛdiri wurie nun sipirɛ wurie xa fe ra.
-Ala xaxilimaya, lɔnni, nun fahaamui gbegbe nan so Sulemani yi ra. E nu gbo alɔ baa dɛ ra mɛyɛnyi. N ma walikɛe wurie ragoroma nɛ kelife Liban han baa dɛ ra. N e xirima e boore ra, alako n xa e raɲɛrɛ baa fari han i wama dɛnnaxɛ xɔn. Mɛnni n e rafulunma, i fa e xanin. N tan wama naxan xɔn na wali sare ra, i xa baloe fi n tan nun n ma mixie ma.»
-Sulemani xa xaxilimaya nu dangi fugerakae nun Misirakae xa xaxilimaya birin na. Mangɛ Xirami naxa sɛdiri wuri nun sipirɛ wuri birin so mangɛ Sulemani yi ra, a nu wama naxan xɔn.
-A xa xaxilimaya nu dangi mixi birin na, hali Etani Esiraka, Maxolo xa die Heman, Kalikɔli, nun Darada. A xili naxa din bɔxi birin na naxee nu Isirayila rabilinyi. Ɲɛ yo ɲɛ, mangɛ Sulemani nu farin busali wulu tongo solomasaxan nun ture fifa mɔxɔɲɛn fima nɛ Xirami ma a xa banxi baloe xa fe ra.
-A taali wulu saxan nan fala, a nun bɛɛti wulu keren nun suuli. Alatala xaxilimaya fi nɛ Sulemani ma alɔ a a fala a bɛ ki naxɛ. Dɛfanyi naxa lu Xirami nun Sulemani tagi, e fa saatɛ xiri e boore bɛ.
-A wuri gbegbee xa fe fala, a fɔlɔfe Liban wuri xungbe ma naxan xili sɛdiri, a sa hisopi sansi xunxuri li naxan bulama banxi xalɛ ma. A subee, xɔnie, bubusee, nun yɛxɛe fan xa fe fala. Mangɛ Sulemani naxa Isirayilaka wulu tongo saxan yamari e xa wali a bɛ.
-Duniɲa mangɛe nu luma mixie xɛɛ ra e xa fa mangɛ Sulemani xa lɔnni nun xaxilimaya ramɛ. Kike yo kike, a naxa mixi wulu fu rasiga Liban bɔxi ma, e xa wali kike keren mɛnni, e fa kike firin naba e xɔnyi. Adonirami nan nu na na fe xunyi ra.
-Tire mangɛ Xirami naxa kuntigie xɛɛ mangɛ Sulemani xɔn, barima a nu bara a mɛ a a tan nan tixi mangɛ ra a baba ɲɔxɔɛ ra. Xirami nu bara Sulemani baba Dawuda xanu kabi a rakuya. Mixi wulu tongo solofere nan nu kote maxaninma, mixi wulu tongo solomasaxan nan nu gɛmɛ masolima mangɛ Sulemani bɛ geyae kɔn na Liban.
-Sulemani naxa Xirami yaabi, Sulemani xa gominae nu bara mixi wulu saxan kɛmɛ saxan sugandi naxee nu wali xun matoma a ra.
-«I nu n baba Dawuda kolon, a mu nɔ banxi tide a Marigi Alatala bɛ gere xa fe ra, naxan nu na a yire birin han Alatala naxa a yaxuie sa a sanyi bun ma. Mangɛ nu bara yaamari fi, a walikɛe xa gɛmɛ xungbe tofanyie masoli naxee findima Ala xa banxi sanbunyi ra.
-Yakɔsi Alatala bara a ragiri n xa lu bɔɲɛsa kui. Gere nun fe xɔnɛ bara ɲɔn. Sulemani nun Xirami xa banxitie nun Gebalakae naxa gɛmɛe masoli. Wurie nun gɛmɛe yailan na ki nɛ Ala xa banxi xa fe ra.
+Yudayakae nun Isirayilakae birin, kelife Dana han Beriseeba, nu sabatixi bɔɲɛsa nan kui e xa wɛni bilie nun e xa xɔrɛ bilie tagi Sulemani xa mangɛya bun ma.
+Soe gɔɔrɛ wulu tongo naani nu na Sulemani yi ra, naxee nu a xa sɔɔri ragisee bɛndunma. Soe ragi mixi wulu fu nun firin nan nu na Sulemani yi ra.
+Sulemani xa gomina fu nun firinyie nu fama baloe ra a bɛ nun a xa mixie bɛ. Kike yo kike gomina nde nu fama mangɛ hayi birin na.
+E nu fama mɛngi nun sɛxɛ ra soe birin bɛ gɔɔrɛe kui.
+Ala xaxilimaya, lɔnni, nun fahaamui gbegbe nan so Sulemani yi ra. E nu gbo alɔ baa dɛ ra mɛyɛnyi.
+Sulemani xa xaxilimaya nu dangi fugerakae nun Misirakae xa xaxilimaya birin na.
+A xa xaxilimaya nu dangi mixi birin na, hali Etani Esiraka, Maxolo xa die Heman, Kalikɔli, nun Darada. A xili naxa din bɔxi birin na naxee nu Isirayila rabilinyi.
+A taali wulu saxan nan fala, a nun bɛɛti wulu keren nun suuli.
+A wuri gbegbee xa fe fala, a fɔlɔfe Liban wuri xungbe ma naxan xili sɛdiri, a sa hisopi sansi xunxuri li naxan bulama banxi xalɛ ma. A subee, xɔnie, bubusee, nun yɛxɛe fan xa fe fala.
+Duniɲa mangɛe nu luma mixie xɛɛ ra e xa fa mangɛ Sulemani xa lɔnni nun xaxilimaya ramɛ.
+Tire mangɛ Xirami naxa kuntigie xɛɛ mangɛ Sulemani xɔn, barima a nu bara a mɛ a a tan nan tixi mangɛ ra a baba ɲɔxɔɛ ra. Xirami nu bara Sulemani baba Dawuda xanu kabi a rakuya.
+Sulemani naxa Xirami yaabi,
+«I nu n baba Dawuda kolon, a mu nɔ banxi tide a Marigi Alatala bɛ gere xa fe ra, naxan nu na a yire birin han Alatala naxa a yaxuie sa a sanyi bun ma.
+Yakɔsi Alatala bara a ragiri n xa lu bɔɲɛsa kui. Gere nun fe xɔnɛ bara ɲɔn.
+Na kui n bara a ɲanige n xa banxi ti n Marigi Alatala bɛ alɔ a a yitaxi ki naxɛ n baba Dawuda bɛ. A naxa a masen a bɛ, ‹I xa di, n naxan dɔxɔma i xa kibanyi kui i ɲɔxɔɛ ra, na nan fama banxi tide n bɛ.›
+I naxan nabama, i xa yaamari fi Liban sɛdiri wuyaxie xa xaba n bɛ. N ma walikɛe kafuma nɛ i xa walikɛe ma. N e xa wali sare fima nɛ alɔ i wama a xɔn ki naxɛ. Mixi yo mu na naxan fata wuri xabade alɔ Sidɔnkae.»
+Mangɛ Xirami to Sulemani xa wɔyɛnyi mɛ, a naxa sɛɛwa ki fanyi ra, a fa a fala, «Alatala tantu. A bara di xaxilima fi Dawuda ma naxan nɔma yi ɲama xungbe raɲɛrɛde.»
+Xirami naxa Sulemani yaabi, a naxɛ, «N bara i xa masenyi mɛ. N i waxɔnfe birin nabama nɛ, sɛdiri wurie nun sipirɛ wurie xa fe ra.
+N ma walikɛe wurie ragoroma nɛ kelife Liban han baa dɛ ra. N e xirima e boore ra, alako n xa e raɲɛrɛ baa fari han i wama dɛnnaxɛ xɔn. Mɛnni n e rafulunma, i fa e xanin. N tan wama naxan xɔn na wali sare ra, i xa baloe fi n tan nun n ma mixie ma.»
+Mangɛ Xirami naxa sɛdiri wuri nun sipirɛ wuri birin so mangɛ Sulemani yi ra, a nu wama naxan xɔn.
+Ɲɛ yo ɲɛ, mangɛ Sulemani nu farin busali wulu tongo solomasaxan nun ture fifa mɔxɔɲɛn fima nɛ Xirami ma a xa banxi baloe xa fe ra.
+Alatala xaxilimaya fi nɛ Sulemani ma alɔ a a fala a bɛ ki naxɛ. Dɛfanyi naxa lu Xirami nun Sulemani tagi, e fa saatɛ xiri e boore bɛ.
+Mangɛ Sulemani naxa Isirayilaka wulu tongo saxan yamari e xa wali a bɛ.
+Kike yo kike, a naxa mixi wulu fu rasiga Liban bɔxi ma, e xa wali kike keren mɛnni, e fa kike firin naba e xɔnyi. Adonirami nan nu na na fe xunyi ra.
+Mixi wulu tongo solofere nan nu kote maxaninma, mixi wulu tongo solomasaxan nan nu gɛmɛ masolima mangɛ Sulemani bɛ geyae kɔn na Liban.
+Sulemani xa gominae nu bara mixi wulu saxan kɛmɛ saxan sugandi naxee nu wali xun matoma a ra.
+Mangɛ nu bara yaamari fi, a walikɛe xa gɛmɛ xungbe tofanyie masoli naxee findima Ala xa banxi sanbunyi ra.
+Sulemani nun Xirami xa banxitie nun Gebalakae naxa gɛmɛe masoli. Wurie nun gɛmɛe yailan na ki nɛ Ala xa banxi xa fe ra.
 Ɲɛ kɛmɛ naani ɲɛ tongo solomasaxan to dangi kelife Isirayila mini Misira bɔxi ra tɛmui naxɛ, mangɛ Sulemani naxa Alatala xa hɔrɔmɔbanxi ti fɔlɔ Siwi kike kui. Na ɲɛ findixi a xa mangɛya ɲɛ naani nde nan na Isirayila bɔxi xun ma.
 Sulemani Ala xa banxi ti yi maniyɛ xasabi nan na: A kuyɛ ɲɔngɔn ya tongo senni, a gboe ɲɔngɔn ya mɔxɔɲɛn, a ite ɲɔngɔn ya tongo saxan.
 A yatagi buntunyi xa kuyɛ nu lanxi ɲɔngɔn ya mɔxɔɲɛn nan ma, alɔ banxi xa kuyɛ na ki naxɛ. A gboe fan findi ɲɔngɔn ya mɔxɔɲɛn nan na.
@@ -9523,7 +9523,6 @@ Akabu xa taruxui dɔnxɔɛ, nun a fe naxan birin naba, nun a banxi tixi ki naxɛ
 Akabu naxa ragata a benbae fɛ ma. A xa di Axasiya naxa findi mangɛ ra a ɲɔxɔɛ ra.
 Asa xa di Yehosafati findi Yudaya mangɛ ra, Isirayila mangɛ Akabu xa mangɛya ɲɛ naani nde nɛ.
 Ɲɛ tongo saxan nun suuli nu na Yehosafati bɛ, a to nu findima mangɛ ra Darisalamu. A nga nu na Sili xa di Asuba nan na.
-
 Yehosafati naxa ɲɛrɛ a baba Asa xa kira xɔn ma, a mu a makuya Alatala xa kira ra.
 Kɔnɔ kuye batufe yire itexie ma, na mu dan Yudaya bɔxi ma. Mixie mu tagan sɛrɛxɛ bafe ra naa, a nun surayi ganfe sɛrɛxɛ ra.
 Lanyi nu na Yehosafati nun Isirayila mangɛ tagi.
@@ -9534,7 +9533,8 @@ Yehosafati naxa kunkuie yailan Tarasisi, alako e xa siga xɛɛma fende Ofiri, k�
 Na kui Akabu xa di Axasiya naxa a fala Yehosafati bɛ, «N ma mixie nun i i xa mixie birin xa siga na wali rabade kunkuie kui.» Kɔnɔ Yehosafati mu tin na fe ra.
 Yehosafati naxa bɛlɛ a benbae fɛ ma, a ragata a benba Dawuda xa taa kui. A xa di Yehorami naxa ti mangɛ ra a ɲɔxɔɛ ra.
 Akabu xa di Axasiya naxa findi mangɛ ra Samari, Isirayila bɔxi xun ma, Yudaya mangɛ Yehosafati xa mangɛya ɲɛ fu nun solofere nde ra. A bu nɛ mangɛya kui ɲɛ firin Isirayila xun ma.
-A naxa fe raba, naxan mu rafan Alatala ma, a naxa a ɲɛrɛ a baba nun a nga xa kira xɔn ma. A naxa fe raba alɔ Nebati xa di Yerobowami, naxan a niya Isirayila birin xa yunubi raba. A naxa Bali kuye batu, a a xinbi sin a bɛ. Na kui a naxa Isirayila Marigi Alatala raxɔnɔ, alɔ a baba a raba ki naxɛ.
+A naxa fe raba, naxan mu rafan Alatala ma, a naxa a ɲɛrɛ a baba nun a nga xa kira xɔn ma. A naxa fe raba alɔ Nebati xa di Yerobowami, naxan a niya Isirayila birin xa yunubi raba.
+A naxa Bali kuye batu, a a xinbi sin a bɛ. Na kui a naxa Isirayila Marigi Alatala raxɔnɔ, alɔ a baba a raba ki naxɛ.
 Akabu faxa xanbi, Mowabakae naxa muruta Isirayilakae xili ma.
 Axasiya naxa bira kelife a xa koore banxi kɔn na Samari, a maxɔnɔ a belebele ra. A naxa xɛɛrae rasiga Ekironkae xa ala Bali Sebubu maxɔrinde xa a nɔma yalande.
 Na tɛmui Alatala xa malekɛ naxa a fala Annabi Eliya Tisibeka bɛ, «I xa siga Samari mangɛ xa xɛɛrae ya ra, i a fala e bɛ, ‹Ala mu na Isirayila bɔxi ma, wo to fa sigama Ekironkae xa ala Bali Sebubu maxɔrinde?
@@ -9851,7 +9851,6 @@ Yehoyada naxa saatɛ xiri Alatala, mangɛ, nun ɲama tagi, a falafe ra e birin x
 Bɔxi ɲama birin naxa so Bali kuye xa banxi kui, e sɛrɛxɛbadee nun kuyee kana. E naxa Bali kuye xa sɛrɛxɛdubɛ Matan faxa sɛrɛxɛbade fɛ ma. Yehoyada sɛrɛxɛdubɛ naxa sɔɔrie ti, naxee Alatala xa hɔrɔmɔbanxi makantama.
 A naxa sɔɔri kɛmɛ xunyie tongo, Kari sɔɔrie, mangɛ makantɛe, nun bɔxi ɲama birin, e fa mangɛ mati kelife Alatala xa hɔrɔmɔbanxi han mangɛ banxi. E naxa so mangɛ banxi kui mangɛ makantɛe xa naadɛ ra. Mangɛ Yowasi naxa a magoro mangɛ kibanyi kui.
 Bɔxi ɲama birin nu na sɛɛwɛ nun sabari nan kui, barima Atalaya nu bara faxa santidɛgɛma ra mangɛ banxi kui.
-
 Yowasi findi mangɛ ra tɛmui naxɛ, a ɲɛ solofere nan nu a ra.
 Yehu xa mangɛya ɲɛ solofere nde ra Isirayila bɔxi ma, Yowasi findi mangɛ ra na ɲɛ nan na. A naxa ɲɛ tongo naani mangɛya raba Darisalamu. A nga nu xili nɛ Sibeya, Beriseebaka nan nu a ra.
 Yowasi nu fe fanyi nan tun nabama Alatala ya i, alɔ sɛrɛxɛdubɛ Yehoyada a masen a bɛ ki naxɛ.
@@ -9872,7 +9871,8 @@ Kɔbiri naxan nu soma yɛtɛ ragbilen sɛrɛxɛe ra nun yunubi xafari sɛrɛxɛe
 Na tɛmui, Arami mangɛ Xasayeli naxa siga Gati gerede. A to nɔ a ra, a naxa wa Darisalamu fan gerefe.
 Yudaya mangɛ Yowasi naxa xɛɛma birin ba Alatala xa banxi naafuli ragatade kui, a benba Yudaya mangɛe Yehosafati, Yehorami, nun Axasiya naxan fi Alatala xa hɔrɔmɔbanxi ma, a nun e naxan sa Yudaya mangɛ xa banxi kui, a fa na birin nasanba Arami mangɛ Xasayeli ma. Na naxa a niya a xa gbilen Darisalamu gerefe fɔxɔ ra.
 Mangɛ Yowasi xa taruxui dɔnxɔɛ sɛbɛxi Yudaya mangɛe xa taruxui kui.
-A raɲɔnyi a xa mixie naxa a yanfa, e a faxa Beti Milo, Sila mabiri. A xa mangɛ banxi mixie, Simeyata xa di Yosabadi nun Someri xa di Yehosabadi nan a faxa. Yowasi naxa ragata a benbae fɛ ma, Dawuda xa taa kui. A xa di Amasiya naxa ti a ɲɔxɔɛ ra.
+A raɲɔnyi a xa mixie naxa a yanfa, e a faxa Beti Milo, Sila mabiri.
+A xa mangɛ banxi mixie, Simeyata xa di Yosabadi nun Someri xa di Yehosabadi nan a faxa. Yowasi naxa ragata a benbae fɛ ma, Dawuda xa taa kui. A xa di Amasiya naxa ti a ɲɔxɔɛ ra.
 Axasiya xa di Yowasi xa mangɛya ɲɛ mɔxɔɲɛn nun saxan nde ra Yudaya xun ma, Yehu xa di Yehowaxasi naxa ti mangɛ ra Isirayila bɔxi ma. A mangɛya ɲɛ fu nun solofere nan naba Samari.
 A naxa fe raba naxan mu rafan Alatala ma. A naxa bira Nebati xa di Yerobowami xa yunubie fɔxɔ ra, naxan nu bara Isirayila ratantan na kui. Yehowaxasi mu gbilen na yunubie fɔxɔ ra.
 Alatala xɔnɔ nɛ Isirayila ma na fe ma, a nu e rabolo Arami mangɛe yi ra, Xasayeli nun a xa di Ben Hadada.
@@ -10456,21 +10456,36 @@ Manasi bɔnsɔɛ sɛɛti keren sabatixi bɔxi nan ma naxan fɔlɔxi Basan han Ba
 E xa denbaya mangɛe nan ya: Efere, Yiseyi, Eliyeli, Asiriyɛli, Yeremi, Hodafiya, nun Yaxadiyeli. Yi denbaya mangɛe sɛnbɛ gbo, naafuli gbegbe na e yi.
 Kɔnɔ e naxa e babae Marigi Ala yanfa, e mɛnnikae xa kuyee batu, Ala nɔ naxee ra a singe.
 Na kui Ala naxa a niya, Asiriya Mangɛe Pulu nun Tigilati Pileseri bɔɲɛ xa te, e fa Ruben bɔnsɔɛ, Gadi bɔnsɔɛ, nun Manasi bɔnsɔɛ tagi xanin Xala, Xaboro, nun Hara, han Gosan xure e na dɛnnaxɛ han to.
-Lewi xa die nan ya: Gerison, Kehati, nun Merari. Lewi xa die nan ya: Gerison, Kehati, nun Merari.
-Kehati xa die nan ya: Amarama, Yisehari, Xebiron, nun Yusiyɛli. Gerison ma die nan ya: Libini nun Simeyi.
-Amarama di xɛmɛ firin nan sɔtɔ, Haruna nun Munsa, a nun di ginɛ keren, Mariyama. Haruna xa die nan ya: Nadabo, Abihu, Eleyasari, nun Itamari. Kehati xa die nan ya: Amarama, Yisehari, Xebiron, nun Yusiyɛli.
-Eleyasari naxa Finexasi sɔtɔ. Finexasi naxa Abisuwa sɔtɔ. Merari xa die nan ya: Maxali nun Musi.
-Abisuwa naxa Buuki sɔtɔ. Buuki naxa Usi sɔtɔ. Lewi bɔnsɔɛe babae nan ya: Gerison naxa Libini sɔtɔ. Libini naxa Yaxati sɔtɔ. Yaxati naxa Sima sɔtɔ.
-Usi naxa Sɛraxaya sɔtɔ. Sɛraxaya naxa Merayoti sɔtɔ. Sima naxa Yowa sɔtɔ. Yowa naxa Ido sɔtɔ. Ido naxa Sera sɔtɔ. Sera naxa Yeyaterayi sɔtɔ.
-Merayoti naxa Amaraya sɔtɔ. Amaraya naxa Axituba sɔtɔ. Kehati xa die nan ya: Kehati naxa Aminadabo sɔtɔ. Aminadabo naxa Kora sɔtɔ. Kora naxa Asiri sɔtɔ.
-Axituba naxa Sadɔki sɔtɔ. Sadɔki naxa Aximaasi sɔtɔ. Asiri naxa Elekana sɔtɔ. Elekana naxa Ebiyasafi sɔtɔ. Ebiyasafi naxa Asiri sɔtɔ.
-Aximaasi naxa Asaraya sɔtɔ. Asaraya naxa Yoxanan sɔtɔ. Asiri naxa Taxati sɔtɔ. Taxati naxa Uriyeli sɔtɔ. Uriyeli naxa Yusiya sɔtɔ. Yusiya naxa Sawulu sɔtɔ.
-Yoxanan naxa Asaraya sɔtɔ, naxan findi sɛrɛxɛdubɛ ra Ala xa hɔrɔmɔbanxi kui Sulemani naxan tixi Darisalamu. Elekana xa die nan ya: Amasayi nun Aximoti.
-Asaraya naxa Amaraya sɔtɔ. Amaraya naxa Axituba sɔtɔ. Elekana naxa Sofayi sɔtɔ. Sofayi naxa Naxati sɔtɔ.
-Axituba naxa Sadɔki sɔtɔ. Sadɔki naxa Salumu sɔtɔ. Naxati naxa Eliyabi sɔtɔ. Eliyabi naxa Yeroxama sɔtɔ. Yeroxama naxa Elekana sɔtɔ.
-Salumu naxa Xilikiya sɔtɔ. Xilikiya naxa Asaraya sɔtɔ. Elekana naxa Samuweli sɔtɔ. Samuweli xa die nan ya: Yoweli, a xa di singe, nun Abiya.
-Asaraya naxa Seraya sɔtɔ. Seraya naxa Yehosadaki sɔtɔ. Merari xa die nan ya: Merari naxa Maxali sɔtɔ. Maxali naxa Libini sɔtɔ. Libini naxa Simeyi sɔtɔ. Simeyi naxa Usa sɔtɔ.
-Alatala to Yudaya nun Darisalamu xanin konyiya kui, Nebukadansari naxa Yehosadaki xanin a xun ma. Usa naxa Simeya sɔtɔ. Simeya naxa Xagiya sɔtɔ. Xagiya naxa Asaya sɔtɔ.
+Lewi xa die nan ya: Gerison, Kehati, nun Merari.
+Kehati xa die nan ya: Amarama, Yisehari, Xebiron, nun Yusiyɛli.
+Amarama di xɛmɛ firin nan sɔtɔ, Haruna nun Munsa, a nun di ginɛ keren, Mariyama. Haruna xa die nan ya: Nadabo, Abihu, Eleyasari, nun Itamari.
+Eleyasari naxa Finexasi sɔtɔ. Finexasi naxa Abisuwa sɔtɔ.
+Abisuwa naxa Buuki sɔtɔ. Buuki naxa Usi sɔtɔ.
+Usi naxa Sɛraxaya sɔtɔ. Sɛraxaya naxa Merayoti sɔtɔ.
+Merayoti naxa Amaraya sɔtɔ. Amaraya naxa Axituba sɔtɔ.
+Axituba naxa Sadɔki sɔtɔ. Sadɔki naxa Aximaasi sɔtɔ.
+Aximaasi naxa Asaraya sɔtɔ. Asaraya naxa Yoxanan sɔtɔ.
+Yoxanan naxa Asaraya sɔtɔ, naxan findi sɛrɛxɛdubɛ ra Ala xa hɔrɔmɔbanxi kui Sulemani naxan tixi Darisalamu.
+Asaraya naxa Amaraya sɔtɔ. Amaraya naxa Axituba sɔtɔ.
+Axituba naxa Sadɔki sɔtɔ. Sadɔki naxa Salumu sɔtɔ.
+Salumu naxa Xilikiya sɔtɔ. Xilikiya naxa Asaraya sɔtɔ.
+Asaraya naxa Seraya sɔtɔ. Seraya naxa Yehosadaki sɔtɔ.
+Alatala to Yudaya nun Darisalamu xanin konyiya kui, Nebukadansari naxa Yehosadaki xanin a xun ma.
+Lewi xa die nan ya: Gerison, Kehati, nun Merari.
+Gerison ma die nan ya: Libini nun Simeyi.
+Kehati xa die nan ya: Amarama, Yisehari, Xebiron, nun Yusiyɛli.
+Merari xa die nan ya: Maxali nun Musi.
+Lewi bɔnsɔɛe babae nan ya: Gerison naxa Libini sɔtɔ. Libini naxa Yaxati sɔtɔ. Yaxati naxa Sima sɔtɔ.
+Sima naxa Yowa sɔtɔ. Yowa naxa Ido sɔtɔ. Ido naxa Sera sɔtɔ. Sera naxa Yeyaterayi sɔtɔ.
+Kehati xa die nan ya: Kehati naxa Aminadabo sɔtɔ. Aminadabo naxa Kora sɔtɔ. Kora naxa Asiri sɔtɔ.
+Asiri naxa Elekana sɔtɔ. Elekana naxa Ebiyasafi sɔtɔ. Ebiyasafi naxa Asiri sɔtɔ.
+Asiri naxa Taxati sɔtɔ. Taxati naxa Uriyeli sɔtɔ. Uriyeli naxa Yusiya sɔtɔ. Yusiya naxa Sawulu sɔtɔ.
+Elekana xa die nan ya: Amasayi nun Aximoti.
+Elekana naxa Sofayi sɔtɔ. Sofayi naxa Naxati sɔtɔ.
+Naxati naxa Eliyabi sɔtɔ. Eliyabi naxa Yeroxama sɔtɔ. Yeroxama naxa Elekana sɔtɔ.
+Elekana naxa Samuweli sɔtɔ. Samuweli xa die nan ya: Yoweli, a xa di singe, nun Abiya.
+Merari xa die nan ya: Merari naxa Maxali sɔtɔ. Maxali naxa Libini sɔtɔ. Libini naxa Simeyi sɔtɔ. Simeyi naxa Usa sɔtɔ.
+Usa naxa Simeya sɔtɔ. Simeya naxa Xagiya sɔtɔ. Xagiya naxa Asaya sɔtɔ.
 Saatɛ kankira to dɔxɔ Alatala xa hɔrɔmɔlingira kui, Dawuda naxa bɛɛtibae sugandi naxee bɛɛti bama.
 Singe e nu bɛɛti bama Alatala xa hɔrɔmɔlingira nan ya ra, Kiri Banxi Naralande. E naxa na wali raba mɛnni han mangɛ Sulemani Alatala xa hɔrɔmɔbanxi tixi Darisalamu tɛmui naxɛ.
 Bɛɛtibae xilie nan ya a nun e xa die: Kehati xabilɛ ya ma, Heman bɛɛtiba, Yoweli xa di, Samuweli xa di,
@@ -10522,21 +10537,6 @@ E xa taa naxee na Ruben bɔnsɔɛ xa bɔxi ma Yurudɛn naakiri ma Yeriko ya ra, 
 Kedemoti, a rabilinyi, Mefaati, a rabilinyi.
 E xa taa naxee na Gadi bɔnsɔɛ xa bɔxi ma, nee nan ya: Ramoti naxan na Galadi bɔxi ma, a rabilinyi, Maxanayimi, a rabilinyi,
 Xɛsibɔn, a rabilinyi, Yaasɛri, nun a rabilinyi.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Isakari xa di naani nan ya: Tola, Puwa, Yasubu, nun Simiron.
 Tola xa die nan ya: Usi, Rɛfaya, Yeriyeli, Yamayi, Yibisami, nun Samuweli. Yi mixie nan findixi e xabilɛ mangɛe ra. Mangɛ Dawuda xa waxati kui, Tola xa di mixi wulu mɔxɔɲɛn nun firin, kɛmɛ senni findi sɔɔrie nan na.
 Usi xa di xili Yisiraxiya. Yisiraxiya xa die nan ya: Mikayeli, Abadiyasi, Yoweli, nun Yisiya. Yi mixi suuli nan findi e xabilɛ mangɛe ra.
@@ -10725,7 +10725,6 @@ Eliyeli, Obedo, nun Yaasiyɛli Mesobaka.
 Sɔɔrie nan ya naxee siga Dawuda yire Sikilaga, alako e xa a mali gere sode. Na waxati Dawuda mu nu na Kisu xa di Sɔlu fɛ ma.
 Bunyamin bɔnsɔɛ nan nu e ra, Sɔlu ngaxakerenyie. E nu fata tanbɛ nun gɛmɛe wolide e yirefanyi nun e kɔɔla bɛlɛxɛ ra.
 E xilie nan ya: Mangɛ Axiyeseri, Semaa xa die Yowasi Gibiyaka, Asamafeti xa die Yesiyeli nun Pɛlɛti, Beraka nun Yehu Anatɔtika,
-
 Yisemaya Gabayonka, naxan findi sɔɔri xungbe ra na sɔɔri tongo saxan ya ma, a fan findi e xa mangɛ nan na,
 Yeremi, Yaxasiyeli, Yoxanan, nun Yosabadi Gederaka,
 Elusayi, Yerimoti, Beyalaya, Sɛmaraya, Sɛfataya Xarufuka,
@@ -10762,7 +10761,8 @@ Danakae, sɔɔri wulu mɔxɔɲɛn nun solomasaxan kɛmɛ senni. Geresose na e bi
 Aserikae, sɔɔri wulu tongo naani. E birin rɛdixi.
 Sɔɔri naxee keli Yurudɛn naakiri ma sogetede biri, nee findi Rubenkae, Gadikae, nun Manasikae nan na, e lan mixi wulu kɛmɛ mɔxɔɲɛn nan ma. Geresosee na e birin yi ra.
 Yi sɔɔrie fa nɛ Xebiron alako e xa Dawuda dɔxɔ mangɛ ra Isirayila xun na. Na ɲanige nan nu na e bɛ. Isirayilakae birin nu bara na natɛ tongo.
-E naxa lu mɛnni Dawuda yire xi saxan e e dɛgema, e e minma. E ngaxakerenyie nan nu na donse rafalama e bɛ. E dɔxɔbooree fan naxa fa donse ra kelife ra Isakari bɔxi, Sabulon bɔxi, nun Nafatali bɔxi ma. E naxa fa na ra sofalee, ɲɔxɔmɛe, soee, nun ningee fari. E naxa fa kote mɔɔli birin na alɔ donse, farin, xɔrɛ xaraxi, wɛni bogi xaraxi, wɛni, ture, xuruse lanma nun a xungbe. E naxa fa a gbegbe ra barima Isirayilaka birin nu sɛɛwaxi.
+E naxa lu mɛnni Dawuda yire xi saxan e e dɛgema, e e minma. E ngaxakerenyie nan nu na donse rafalama e bɛ.
+E dɔxɔbooree fan naxa fa donse ra kelife ra Isakari bɔxi, Sabulon bɔxi, nun Nafatali bɔxi ma. E naxa fa na ra sofalee, ɲɔxɔmɛe, soee, nun ningee fari. E naxa fa kote mɔɔli birin na alɔ donse, farin, xɔrɛ xaraxi, wɛni bogi xaraxi, wɛni, ture, xuruse lanma nun a xungbe. E naxa fa a gbegbe ra barima Isirayilaka birin nu sɛɛwaxi.
 Dawuda naxa sɔɔri wulu xunyie, sɔɔri kɛmɛ xunyie, nun kuntigi birin xili, e xa malan.
 Dawuda naxa a fala Isirayila ɲama birin bɛ, «Xa a findixi fe fanyi nan na, xa a kelixi won Marigi Alatala nan ma, won xa xɛɛrae xɛɛ won ngaxakerenyie ma, naxee na Isirayila bɔxie ma. Won xa sɛrɛxɛdubɛe nun Lewikae fan xili, naxee na Isirayila taae kui, alako won birin xa lu yire keren.
 Won xa won Marigi xa saatɛ kankira ragbilen won yire, barima Sɔlu xa mangɛya waxati, won mu siga a fɔxɔ ra.»
@@ -11214,7 +11214,8 @@ Sulemani naxa sɔɔri ragisee nun soe ragie malan. Sɔɔri ragise wulu keren kɛ
 Mangɛ naxa a niya gbeti nun xɛɛma xa wuya Darisalamu dangife gɛmɛ xɔri ra. Wuri fanyi naxan xili sɛdiri, na naxa wuya dangife sikomoro wuri ra naxee na Sefela bɔxi ma.
 Sulemani nu soe sarama Misira nun Kowa bɔxi nan ma. Mangɛ xa yulɛe nan nu sigama e sarade a bɛ.
 E sɔɔri ragise sara gbeti kilo solofere ra, e soe sara gbeti kilo keren nun a tagi ra. E na mɔɔli sara Xiti nun Siriya mangɛe fan bɛ.
-Sulemani naxa yaamari fi a hɔrɔmɔbanxi xa ti Alatala bɛ, mangɛ banxi xa ti a tan fan bɛ. Sulemani naxa xɛmɛ wulu tongo solofere yamari e xa findi kote xaninyie ra. A man naxa xɛmɛ wulu tongo solomasaxan tongo gɛmɛ masolie ra, naxee walima geya ma. A man naxa xɛmɛ wulu saxan kɛmɛ senni sɔtɔ wali xunyie ra.
+Sulemani naxa yaamari fi a hɔrɔmɔbanxi xa ti Alatala bɛ, mangɛ banxi xa ti a tan fan bɛ.
+Sulemani naxa xɛmɛ wulu tongo solofere yamari e xa findi kote xaninyie ra. A man naxa xɛmɛ wulu tongo solomasaxan tongo gɛmɛ masolie ra, naxee walima geya ma. A man naxa xɛmɛ wulu saxan kɛmɛ senni sɔtɔ wali xunyie ra.
 Sulemani naxa xɛɛra xɛɛ Tire mangɛ Xirami xɔn, a xa sa a fala a bɛ, «Tɛmui dangixi i bara sɛdiri wuri rasanba n baba Dawuda ma alako a xa a xa banxi ti.
 Yakɔsi n fafe hɔrɔmɔbanxi tide n Marigi Alatala bɛ, sɛrɛxɛe bama dɛnnaxɛ. Mɛnni surayi fama gande sɛrɛxɛ ra, taami sɛrɛxɛ sama teebili ma Ala bɛ, sɛrɛxɛ gan daaxi bama gɛɛsɛgɛ nun nunmare birin, sali rabama malabui lɔxɔɛe ra, kike nɛɛnɛe ra, nun sali xungbee ra. Yi sɛriyɛ mu kanama Isirayila bɔxi ma abadan.
 N hɔrɔmɔbanxi naxan tima, a lan a xa findi banxi xungbe nan na, barima muxu Marigi Ala dangi alae birin na.
@@ -11231,7 +11232,6 @@ I naxan fala mɛngi maniyɛ, fundenyi maniyɛ, ture, nun wɛni xa fe ra, i xa na
 I wama Liban wuri xasabi naxan xɔn ma, muxu na sɛgɛma nɛ, muxu man e maxaninma nɛ kunkuie kui baa ma han Yafa. Mɛnni i nɔma e ratede Darisalamu.»
 Sulemani naxa mixie kɔnti naxee nu na Isirayila bɔxi ma, kɔnɔ e mu findi Isirayilakae ra. A baba Dawuda fan nu bara na mɔɔli raba. Na mixi xasabi nu lanxi mixi wulu kɛmɛ tongo suuli nun saxan kɛmɛ senni nan ma.
 Yi mixie ya ma a naxa xɛmɛ wulu tongo solofere yamari e xa findi kote xaninyie ra. A man naxa xɛmɛ wulu tongo solomasaxan tongo gɛmɛ masolie ra, naxee walima geya ma. A man naxa xɛmɛ wulu saxan kɛmɛ senni sɔtɔ wali xunyie ra naxee mixie rawalima.
-
 Sulemani naxa Alatala xa banxi ti fɔlɔ Darisalamu, Moriya geya fari, a baba Dawuda dɛnnaxɛ sugandi, Yebusuka Oronan xa lonyi fari.
 A naxa wali fɔlɔ a xa mangɛya ɲɛ naani, kike firin, xi firin nde lɔxɔɛ ma.
 Sulemani Ala xa banxi ti yi xasabi nan na: A xa kuyɛ nɔngɔn ya tongo senni, a xa gboe nɔngɔn ya mɔxɔɲɛn.
@@ -11478,7 +11478,8 @@ Abiya naxa bira Yerobowami fɔxɔ ra, a fa taae rasuxu a yi ra, alɔ Beteli, Yes
 Yerobowami mu sɛnbɛ sɔtɔ Abiya xa waxati. Alatala nan a bɔnbɔ, a naxa faxa.
 Kɔnɔ Abiya xa mangɛya mabanban nɛ a fanyi ra. Ginɛ fu nun naani nu na a yi ra. E di xɛmɛ mɔxɔɲɛn nun firin bari, nun di ginɛ fu nun senni.
 Abiya xa taruxui gbɛtɛe, a naxan nabaxi nun a naxan falaxi, a sɛbɛxi Annabi Ido xa taruxui sɛbɛxi kui.
-Abiya to laaxira, e naxa a ragata a babae sɛɛti ma Dawuda xa taa kui. A xa di Asa naxa ti a ɲɔxɔɛ ra. Asa naxa fe fanyi raba tinxinyi kui a Marigi Alatala ya xɔri.
+Abiya to laaxira, e naxa a ragata a babae sɛɛti ma Dawuda xa taa kui. A xa di Asa naxa ti a ɲɔxɔɛ ra.
+Asa naxa fe fanyi raba tinxinyi kui a Marigi Alatala ya xɔri.
 A naxa sɛrɛxɛbadee kana yire itexie kuye nu batuma dɛnnaxɛ. A man naxa kuye gɛmɛe nun Aseri wuri masolixie kana.
 A naxa a fala Yuda bɔnsɔɛ bɛ a e xa e babae Marigi Alatala fen, e xa a xa sɛriyɛ nun a xa yaamarie rabatu.
 Asa naxa kuye batude birin kana Yudaya bɔxi ma, a nun sɛrɛxɛbadee surayi nu ganma dɛnnaxɛ kuyee bɛ. A xa mangɛya lu nɛ bɔɲɛsa kui a xa waxati.
@@ -11492,7 +11493,6 @@ Alatala naxa Kusikae bɔnbɔ Asa nun Yudayakae ya xɔri, e naxa e gi.
 Asa nun a xa sɔɔri gali naxa bira e fɔxɔ ra han Gerara. Kusika gbegbe naxa faxa. E mu nɔ e yɛtɛ sɔtɔde sɔnɔn, barima Alatala nun a xa sɛnbɛmae nu bara gɛ e xun nakanade. Yudayakae naxa harige gbegbe xanin.
 E naxa taae birin kana Gerara rabilinyie, barima mɛnnikae mu suusa Alatala ya ra. E naxa harige gbegbe ba e yi ra barima bannaya nu na mɛnni ki fanyi ra.
 E naxa xuruse kanyie fan suxu, e xurusee nun ɲɔxɔmɛe ba e yi ra, e gbilen Darisalamu.
-
 Ala Xaxili to goro Odedi xa di Asaraya ma,
 a naxa siga Asa yire, a a masen a bɛ, «Asa, Yudayakae, nun Bunyaminkae, wo wo tuli mati n na. Xa wo bira Alatala fɔxɔ ra, a fan na wo fɔxɔ ra. Xa wo a fen, wo a toma nɛ. Kɔnɔ xa wo a rabolo, a fan wo raboloma nɛ.
 Ɲɛ wuyaxi Isirayila mu Ala ɲiɲɛ fen. Sɛrɛxɛdubɛ mu nu na naxan e xaranma. Sɛriyɛ mu nu na bɔxi ma.
@@ -12362,12 +12362,18 @@ Imeri xa di Sadɔki fan naxa tɛtɛ yailan a xa banxi ya ra. Sɛkanaya xa di Sem
 Selemiya xa di Xananiya nun Salafi xa di senni nde Xanun naxa tɛtɛ yailan Semaya xa wali sɛɛti ma. Berekiya xa di Mesulama naxa tɛtɛ yailan Selemiya nun Xanun xa wali sɛɛti ma, a xa konkoe ya ra.
 Malakiya, naxan xɛɛma walima, naxa tɛtɛ yailan Mesulama xa wali sɛɛti ma, fɔlɔfe hɔrɔmɔbanxi walikɛe xa banxie nun yulɛe xa banxi, sa dɔxɔ Mifikade naadɛ han konkoe itexi tuxui ra.
 Mixi naxee xɛɛma walima, a nun yulɛe, nee naxa tɛtɛ yailan konkoe itexi tuxui ra nun Yɛxɛɛ naadɛ lan tagi.
-Sanbalati to a kolon e na tɛtɛ yailanfe, a naxa xɔnɔ ki fanyi ra. Sanbalati, Tobiya, Arabukae, Amonikae, nun Asidodikae to a mɛ a Darisalamu tɛtɛ bara yailan fɔlɔ, e naxa xɔnɔ ki fanyi ra.
-A naxa yo Yuwifie ma. A naxa a fala a ngaxakerenyie nun sɔɔri Samarikae ya xɔri, «Yi Yuwifi kobilae na munse rabafe? E xa wali sɔɔnɛyama nɛ? E fama sɛrɛxɛe bade naa? E nɔma na wali ra? E nɔma na gɛmɛ ganxie rakelide sɔnɔn?» E birin naxa lan e xa siga gere sode Darisalamu, na wali xa kana.
-Tobiya Amonika, naxan nu na a fɛ ma, na naxa a fala, «E na tɛtɛ tima ki naxɛ, hali xulumase nɔma na rabirade.» Na kui muxu naxa muxu Marigi Ala maxandi, a xa muxu kanta. Muxu man naxa yire makantɛe ti kɔɛ nun yanyi ra muxu yaxuie xa fe ra.
-Na kui Annabi Nehemi naxa Ala maxandi, a naxɛ, «Muxu Marigi Ala, yandi, i xa i tuli mati muxu ra barima e na yofe muxu ma. I xa na sare ragbilen e ma, e xa findi konyie ra e yaxuie xa bɔxi ma. Kɔnɔ Yudayakae nu a falama, «Muxu bara tagan. Tɛtɛ xa kanɛ gbo han won ɲan mu nɔma tɛtɛ nɛɛnɛ rakelide kɔrɛ.»
-I naxa diɲɛ e ma. I naxa e xa yunubie xafari, barima e bara muxu konbi, muxu tan naxee na Darisalamu tɛtɛ yailanfe.» Muxu yaxuie nu a falama, «E mu fama won tode han won so e tagi, won fa e faxa. Na kui e xa wali fama dande.»
-Muxu naxa na tɛtɛ yailan han a tagi, barima ɲama nu bara a ɲanige e xa na wali suxu sɛnbɛ ra. Yuwifi naxee nu sabatixi e yaxuie sɛɛti ma, nee naxa fa a fala muxu bɛ han dɔxɔ fu, «Wo fa muxu xɔnyi.»
+Sanbalati to a kolon e na tɛtɛ yailanfe, a naxa xɔnɔ ki fanyi ra.
+A naxa yo Yuwifie ma. A naxa a fala a ngaxakerenyie nun sɔɔri Samarikae ya xɔri, «Yi Yuwifi kobilae na munse rabafe? E xa wali sɔɔnɛyama nɛ? E fama sɛrɛxɛe bade naa? E nɔma na wali ra? E nɔma na gɛmɛ ganxie rakelide sɔnɔn?»
+Tobiya Amonika, naxan nu na a fɛ ma, na naxa a fala, «E na tɛtɛ tima ki naxɛ, hali xulumase nɔma na rabirade.»
+Na kui Annabi Nehemi naxa Ala maxandi, a naxɛ, «Muxu Marigi Ala, yandi, i xa i tuli mati muxu ra barima e na yofe muxu ma. I xa na sare ragbilen e ma, e xa findi konyie ra e yaxuie xa bɔxi ma.
+I naxa diɲɛ e ma. I naxa e xa yunubie xafari, barima e bara muxu konbi, muxu tan naxee na Darisalamu tɛtɛ yailanfe.»
+Muxu naxa na tɛtɛ yailan han a tagi, barima ɲama nu bara a ɲanige e xa na wali suxu sɛnbɛ ra.
+Sanbalati, Tobiya, Arabukae, Amonikae, nun Asidodikae to a mɛ a Darisalamu tɛtɛ bara yailan fɔlɔ, e naxa xɔnɔ ki fanyi ra.
+E birin naxa lan e xa siga gere sode Darisalamu, na wali xa kana.
+Na kui muxu naxa muxu Marigi Ala maxandi, a xa muxu kanta. Muxu man naxa yire makantɛe ti kɔɛ nun yanyi ra muxu yaxuie xa fe ra.
+Kɔnɔ Yudayakae nu a falama, «Muxu bara tagan. Tɛtɛ xa kanɛ gbo han won ɲan mu nɔma tɛtɛ nɛɛnɛ rakelide kɔrɛ.»
+Muxu yaxuie nu a falama, «E mu fama won tode han won so e tagi, won fa e faxa. Na kui e xa wali fama dande.»
+Yuwifi naxee nu sabatixi e yaxuie sɛɛti ma, nee naxa fa a fala muxu bɛ han dɔxɔ fu, «Wo fa muxu xɔnyi.»
 N naxa sɔɔrie ti xabilɛ ki ma xare ra, tɛtɛ dɛnnaxɛ mu ite, e xa mɛnni kanta santidɛgɛma, xali, nun tanbɛ ra.
 N to gɛ na birin matode, n naxa a fala kuntigie nun kiitisae bɛ ɲama ya xɔri, «Wo naxa gaaxu e ya ra. Wo xa ratu wo Marigi Magaaxuxi ma. Wo xa gere so won ngaxakerenyie bɛ, wo xa di xɛmɛe nun wo xa di ginɛe, wo xa ginɛe nun wo xa banxie xa fe ra.»
 Yaxuie to a mɛ muxu bara e ɲanige kolon, Ala naxa e xa natɛ kana. Muxu birin man naxa gbilen tɛtɛ yire, kankan naxa a xa wali suxu.
@@ -12379,12 +12385,6 @@ Wo naxan nabama, wo nɛfɛ feri xui mɛ tɛmui naxɛ, wo birin xa wo malan muxu 
 Muxu nu walima na lahalɛ nan na. Tanbɛe na ɲama sɛɛti keren bɛlɛxɛ i, kelife subaxɛ han tunbuie mini tɛmui.
 Na tɛmui yati n man naxa a fala ɲama bɛ, «Birin nun a xa konyi xa xi Darisalamu kui alako won xa taa kanta kɔɛ ra, won man xa wali yanyi ra.»
 N tan, n ngaxakerenyie, n ma konyie, n ma kantamixi naxee nu biraxi n fɔxɔ ra, hali muxu xa dugie, muxu mu e rate muxu ma. Kankan keren kerenma xa geresose nan nu suxuxi a yi ra, hali a sigama ye bade tɛmui.
-
-
-
-
-
-
 Lɔxɔɛ nde Yudaya ɲama, xɛmɛe nun ginɛe, naxa kalamui sa e ngaxakerenyi ndee xa fe ra.
 Ndee naxa a fala, «Muxu xa di xɛmɛe nun di ginɛe bara wuya. Muxu wama mɛngi xɔn ma alako muxu xa balo.»
 Mixi gbɛtɛe naxa a fala, «Muxu bara muxu xa xɛe, wɛni bilie, nun banxie dɔxɔ sɛɛkɛ, alako muxu xa baloe sɔtɔ kaamɛ tɛmui.»
@@ -12490,11 +12490,11 @@ E naxa e ramini sɛrɛxɛdubɛ wali kui barima e mu nɔ e xilie tode taruxui kui
 Gomina naxa e yaamari, e naxa sɛrɛxɛdubɛ donse sɛniyɛnxi don han sɛrɛxɛdubɛ nde xa Ala sagoe maxɔrin Urimi nun Tumimi ma.»
 «Ɲama birin kɔnti lanxi mixi wulu tongo naani nun firin, mixi kɛmɛ saxan tongo senni nan ma.
 E xa konyie kɔnti lanxi mixi wulu solofere, mixi kɛmɛ saxan tongo saxan nun solofere nan ma. Bɛɛtiba kɛmɛ firin tongo suuli nun suuli fan nu na e ya ma. Ɲama nu bara xuruse gbegbe xanin naa: soe kɛmɛ solofere, tongo saxan, nun senni, sofale kɛmɛ firin, tongo naani, nun suuli,
-ɲɔxɔmɛ kɛmɛ naani, tongo saxan, nun suuli, sofale mɔɔli nde wulu senni, kɛmɛ solofere mɔxɔɲɛn.» «Denbaya kanyie naxa see fi alako wali xa raba. Gomina naxa xɛɛma kole wulu keren, pɔɔti fanyi tongo suuli, nun sɛrɛxɛdubɛ dugi kɛmɛ suuli, tongo saxan fi wali xa fe ra.
+ɲɔxɔmɛ kɛmɛ naani, tongo saxan, nun suuli, sofale mɔɔli nde wulu senni, kɛmɛ solofere mɔxɔɲɛn.»
+«Denbaya kanyie naxa see fi alako wali xa raba. Gomina naxa xɛɛma kole wulu keren, pɔɔti fanyi tongo suuli, nun sɛrɛxɛdubɛ dugi kɛmɛ suuli, tongo saxan fi wali xa fe ra.
 Denbaya kanyie naxa xɛɛma kole wulu mɔxɔɲɛn, nun gbeti kole wulu firin nun kɛmɛ firin fi wali xa fe ra.
 Ɲama naxan luxi naa naxa xɛɛma kole wulu mɔxɔɲɛn, nun gbeti kole wulu firin, nun sɛrɛxɛdubɛ dugi tongo senni nun solofere fi wali xa fe ra.»
 «Sɛrɛxɛdubɛe, Lewikae, hɔrɔmɔbanxi naadɛ makantɛe, bɛɛtibae, nun hɔrɔmɔbanxi walikɛe, nun Isirayilaka birin naxa sabati e xɔnyi.»
-
 Kike solofere nde, Isirayilakae nu bara sabati e xa taae kui. Na tɛmui e birin naxa e malan Darisalamu taa kui naadɛ ya ra, naadɛ naxan xili «Ye naadɛ.» E naxa a fala sɛriyɛ karamɔxɔ Esidirasi bɛ a xa fa Tawureta Munsa ra Alatala naxan fixi Isirayila ma.
 Esidirasi naxa fa a ra ɲama yire: xɛmɛe, ginɛe, nun mixi naxee birin nɔma masenyi fahaamude. Yi malanyi ti kike solofere nde xi singe lɔxɔɛ nɛ.
 Keli gɛɛsɛgɛ ma a sa dɔxɔ yanyi tagi ra, Esidirasi nu kitaabui xaranma ɲama bɛ naxan nu malanxi «Ye naadɛ» ya ra. Xɛmɛe, ginɛe, nun mixi naxee birin nɔma masenyi fahaamude, e naxa e tuli mati a fanyi ra na xaranyi ra.
@@ -12550,7 +12550,6 @@ Muxu xa mangɛe, muxu xa kuntigie, muxu xa sɛrɛxɛdubɛe, nun muxu babae mu bi
 Hali i to harige nun bɔxi fanyi sa e xa mangɛya bun ma tɛmui naxɛ, e mu i xui rabatu, e mu gbilen e xa wali ɲaaxie fɔxɔ ra.
 To lɔxɔɛ muxu na konyiya nan kui. Muxu bara findi konyie ra bɔxi ma i dɛnnaxɛ fixi muxu benbae ma, alako e xa balo na bɔxi fanyi saabui ra.
 Kɔnɔ na bɔxi bogi fanyi birin luma mangɛ gbɛtɛe nan bɛ, muxu na naxee bun ma muxu xa yunubie xa fe ra. E e waxɔnfe rabama muxu fatee nun muxu xa xurusee ra. Muxu na tɔɔrɛ belebele nan kui.»
-
 Na birin kui, muxu bara yi natɛ sɛbɛxi tongo, muxu xa mangɛe, Lewikae, nun muxu xa sɛrɛxɛdubɛe xa tɔnxuma dɔxɔxi a ma.
 E xilie nan yi ki: Gomina Nehemi Xakalaya xa di, Sedekiya,
 Seraya, Asaraya, Yeremi,
@@ -12589,7 +12588,8 @@ alɔ sɛrɛxɛ taami, sansi xɔri naxee bama sɛrɛxɛ ra lɔxɔ yo lɔxɔ, sɛr
 Muxu naxa natɛ tongo ɲɛ yo ɲɛ muxu xa muxu xa bɔxi daxamui singee nun muxu xa sansi bogi singee xanin Alatala xa banxi.
 Muxu man xa muxu xa di xɛmɛ singee nun muxu xa xuruse di singee xanin sɛrɛxɛdubɛe xɔn ma, muxu Marigi Ala xa banxi kui, alɔ a sɛbɛxi kitaabui kui ki naxɛ.»
 «Muxu naxa natɛ tongo, muxu xa muxu xa farin xun singee, sansi bogi singee, wɛni nɛɛnɛ, nun ture nɛɛnɛ xanin muxu Marigi Ala xa hɔrɔmɔbanxi bilie kui sɛrɛxɛdubɛe bɛ. Muxu man xa farilɛ fi Lewikae ma. E luma siga ra na farilɛ fɔxɔ ra muxu walima dɛnnaxɛ.
-E xa na raba Haruna bɔnsɔɛ sɛrɛxɛdubɛ nde ya xɔri. E xa farilɛ ba na farilɛ nan kui, e fa na tan xanin hɔrɔmɔbanxi bilie kui, daxamui ragatama dɛnnaxɛ. Isirayilakae nun Lewikae xa na mɛngi, wɛni nɛɛnɛ, nun ture nɛɛnɛ xanin na bilie kui hɔrɔmɔbanxi xa see saxi dɛnnaxɛ. Sɛrɛxɛdubɛe, naadɛ kantae, nun bɛɛtibae fan na mɛnni nɛ. Muxu mu muxu Marigi Ala xa hɔrɔmɔbanxi raboloma!»
+E xa na raba Haruna bɔnsɔɛ sɛrɛxɛdubɛ nde ya xɔri. E xa farilɛ ba na farilɛ nan kui, e fa na tan xanin hɔrɔmɔbanxi bilie kui, daxamui ragatama dɛnnaxɛ.
+Isirayilakae nun Lewikae xa na mɛngi, wɛni nɛɛnɛ, nun ture nɛɛnɛ xanin na bilie kui hɔrɔmɔbanxi xa see saxi dɛnnaxɛ. Sɛrɛxɛdubɛe, naadɛ kantae, nun bɛɛtibae fan na mɛnni nɛ. Muxu mu muxu Marigi Ala xa hɔrɔmɔbanxi raboloma!»
 Ɲama kuntigie naxa sabati Darisalamu taa sɛniyɛnxi, a nun mixi gbɛtɛe naxee sugandixi Ala xa mali ra. Mixi fu yo mixi fu, keren naxa sugandi dɔxɔfe ra Darisalamu. Mixi dɔnxɔɛ naxee luxi, nee naxa sabati taa gbɛtɛe.
 Ɲama naxa duba mixie bɛ, naxee bara tin lude Darisalamu.
 Isirayilakae, sɛrɛxɛdubɛe, Lewikae, hɔrɔmɔbanxi walikɛe, nun Sulemani xa konyie xa die, naxee mu nu na Darisalamu, nee naxa sabati e xɔnyi, e xa taae kui Yudaya bɔxi ma.
@@ -13890,14 +13890,22 @@ A xima niini bun ma, a a nɔxun dabonyie kui.
 A a malabuma wuri bilie niini bun ma, naxee na dabon dɛ ra.
 Dabonyi ye xa gboe mu a magaaxuma. Yurudɛn xure na banbaran yɛ, a mu a tɔɔrɔma.
 A ya rabixi nɔma suxude? A nɔma suxude gantanyi ra, a ɲɔɛ xa tunba?»
-«I nɔma sɔɲɛ suxude kɔnyi ra? I nɔma a dɛ xiride, i a ba ye xɔɔra? «Mixi mu nɔma a ra, a xa toe gbansan findima gaaxui nan na.
-I nɔma a ɲɔɛ, xa na mu a ra a dɛ tunbade, i luuti sa a ma? Xa mixi mu suusama a ya ra, nde fa nɔma suusade n tan ya ra?
-A i mayandima i xa a fulun? A hayi na wɔyɛnyi ɲɔxunmɛ ma a falafe ra i bɛ? Nde n donixi se nde ra n naxan nagbilenma a ma? Duniɲa birin findixi n gbe nan na.
-Wo saatɛ xirima? A findima i xa konyi ra a xa simaya kui? N mu nɔma dundude na sɔɲɛ xa fe ma, a salonsee sɛnbɛ gbo, a man tofan.
-I nɔma berede a ra alɔ xɔni di? I nɔma a xiride, a findi i xa die xa bere se ra? A bura fɛɛrɛ na nde bɛ? Nde mu gaaxuma a ɲinyie ya ra?
-I nɔma a matide? Yulɛe a itaxunma e bore ma? Nde nɔma a dɛ rabide? A ɲinyi magaaxuxie a dɛ kui rafexi.
-I nɔma a kiri masɔxɔde tanbɛe ra? I nɔma a xunyi sɔxɔde sɔxɔse nde ra? Xalee fatuxi a kiri ma alɔ sɔɔri xa wure lefa,
-Gere ti a bɛ, na mu nɛɛmuma i ra. I mu na ifirinma sɔnɔn.» e xɛtɛnxi e bore ra, foye sode yati mu na e tagi
+«I nɔma sɔɲɛ suxude kɔnyi ra? I nɔma a dɛ xiride, i a ba ye xɔɔra?
+I nɔma a ɲɔɛ, xa na mu a ra a dɛ tunbade, i luuti sa a ma?
+A i mayandima i xa a fulun? A hayi na wɔyɛnyi ɲɔxunmɛ ma a falafe ra i bɛ?
+Wo saatɛ xirima? A findima i xa konyi ra a xa simaya kui?
+I nɔma berede a ra alɔ xɔni di? I nɔma a xiride, a findi i xa die xa bere se ra?
+I nɔma a matide? Yulɛe a itaxunma e bore ma?
+I nɔma a kiri masɔxɔde tanbɛe ra? I nɔma a xunyi sɔxɔde sɔxɔse nde ra?
+Gere ti a bɛ, na mu nɛɛmuma i ra. I mu na ifirinma sɔnɔn.»
+«Mixi mu nɔma a ra, a xa toe gbansan findima gaaxui nan na.
+Xa mixi mu suusama a ya ra, nde fa nɔma suusade n tan ya ra?
+Nde n donixi se nde ra n naxan nagbilenma a ma? Duniɲa birin findixi n gbe nan na.
+N mu nɔma dundude na sɔɲɛ xa fe ma, a salonsee sɛnbɛ gbo, a man tofan.
+A bura fɛɛrɛ na nde bɛ? Nde mu gaaxuma a ɲinyie ya ra?
+Nde nɔma a dɛ rabide? A ɲinyi magaaxuxie a dɛ kui rafexi.
+Xalee fatuxi a kiri ma alɔ sɔɔri xa wure lefa,
+e xɛtɛnxi e bore ra, foye sode yati mu na e tagi
 e fatuxi e bore ma a fanyi ra.
 A na ɲɛngi sɛnbɛ ra, yanbɛ nan luma mini ra, a yae fan luxi alɔ gɛɛsɛgɛ soge.
 Tɛ yiriyiri minima a dɛ i, e fulefulee nu fa yensen yɛ kuye ma.
@@ -13916,14 +13924,6 @@ A baa ixufuxufuma alɔ ye nɛ satunma, a dabonyi lu alɔ ture nɛ satunma.
 A na a ɲɛrɛ ye xɔɔra, mɔrɔnyi fiixɛ nan luma te ra a xanbi ra.
 Mangɛ yo mu a bɛ duniɲa, a daaxi nɛ, gaaxui yo mu a yi.
 A a ya ragoroma nɛ daalise yɛtɛ igboe ma, a findixi subee birin ma mangɛ nan na.»
-
-
-
-
-
-
-
-
 Ayuba naxa Alatala yaabi,
 «N bara a kolon i nɔma fe birin na, sese mu nɔma i ɲanige kanade.
 I a masen nɛ i xa masenyi kui, ‹Nde na n ma walie ya isofe a xa xaxilitare wɔyɛnyie ra?› I nɔndi, n bara wɔyɛn a xaxilitare daaxi, n mu nu i xa kaabanakoe fahaamuxi. I xa fe rabaxie gbo n xunyi bɛ.
@@ -13959,7 +13959,6 @@ I e yamarima sawuri ra, i e kanama alɔ wure fɛɲɛ bɔɔma ki naxɛ, a kebelae
 Yakɔsi wo tan mangɛe, wo xaxili sɔtɔ. Kuntigie, wo bira nɔndi fɔxɔ ra.
 Wo Alatala batu gaaxui ra, wo sɛɛwa a xa fe ra, wo gaaxu a ya ra.
 Wo wo xun sin a xa mixi sugandixi bɛ. Xa na mu a ra, a wo halakima nɛ wo xa duniɲɛigiri kui. Ala xa xɔnɛ dɛxɛma alɔ tɛ nu so fiili ra. Ɲɛlɛxinyi na adama nan bɛ, naxan kantari fenma Ala ra.
-
 Dawuda xa bɛɛti a nu a gima a xa di Abisalomi ma tɛmui naxɛ.
 Alatala, n yaxuie bara wuya. N gerefae bara gbo.
 Mixi wuyaxi a falama, Ala mu nɔma n nakiside. Ɲɛngi rate.
@@ -13967,8 +13966,8 @@ Kɔnɔ i tan Alatala, i findixi n kantama nan na. N ma binyɛ nun n ma xunnakeli
 N nan n xui rate Ala ma, a n yaabima keli a xa geya sɛniyɛnxi fari. Ɲɛngi rate.
 N nan n sama, n xa xi, n man xunuma xaxili sa kui, barima Alatala nan na n dɛmɛnma ra.
 N mu gaaxuma yi ɲama duniɲa ya ra, naxee mu wama n ma fe xɔn ma.
-Alatala yandi, n nakisi, n Marigi Ala. I n yaxuie dɛ ragarinma nɛ, i mixi ɲaaxi ɲinyie magirama nɛ. Marakisima nan na Alatala ra. I xa barakɛ sa i xa ɲama xa fe. Ɲɛngi rate.
-
+Alatala yandi, n nakisi, n Marigi Ala. I n yaxuie dɛ ragarinma nɛ, i mixi ɲaaxi ɲinyie magirama nɛ.
+Marakisima nan na Alatala ra. I xa barakɛ sa i xa ɲama xa fe. Ɲɛngi rate.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba kɔra xui ra.
 N Marigi Ala tinxinxi, n na n xui rate i ma, yandi a ratin n bɛ. N ma tɔɔrɛ kui, i n bɔɲɛ sama. Hinnɛ n na, n ma dubɛ suxu.
 Adamadie, wo n ma binyɛ masarama yaagi ra han mun tɛmui? Wo birama fe fufafu nun wule fɔxɔ ra han mun tɛmui?
@@ -13976,8 +13975,8 @@ Wo xa a kolon Alatala bara tinxintɔɛ sugandi. N nan n xui rate Alatala ma, a a
 Wo fan xa gaaxu, wo gbilen yunubi fe fɔxɔ ra. Wo wo yɛtɛ rasi kɔɛ ra, wo xa wo raxara.
 Wo xa sɛrɛxɛ ba tinxinyi kui, wo xa wo yɛtɛ taxu Alatala ra.
 Mixi gbegbe a falama, «Nde nɔma hɛɛri masende won bɛ?» Alatala, i xa nɔrɛ masen muxu bɛ.
-I bara n bɔɲɛ rafe sɛɛwɛ ra dangife xɛ xaba tɛmui ra. N na n sa, n xima bɔɲɛsa kui, barima i tan Alatala, i keren nan nɔma n kantade.
-
+I bara n bɔɲɛ rafe sɛɛwɛ ra dangife xɛ xaba tɛmui ra.
+N na n sa, n xima bɔɲɛsa kui, barima i tan Alatala, i keren nan nɔma n kantade.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ xule xui ra
 Alatala, i tuli mati n ma maxandi ra, i xa n ma tɔɔrɛ kolon.
 N Marigi Ala, i tuli mati n ma maxandi ra, n na i tan nan maxandife.
@@ -13989,8 +13988,8 @@ Kɔnɔ n tan soma i xa banxi kui i xa fonisireya saabui nan na. N nan n igoroma 
 Alatala, n yaxuie xa fe ra, n xun ti i xa tinxinyi ra, i xa kira yailan n ya ra.
 Nɔndi mu na n yaxuie xa masenyi sese kui. E yuge mu fan. E xa wɔyɛnyi mixi rafilima nɛ, barima e dɛ iɲɔxun.
 Ala, e ɲaxankata. E xa yanfɛ xa gbilen e ma. E keri e xa fe kobi ma, barima e bara i matandi.
-Kɔnɔ mixi naxan birin a yɛtɛ taxuma i ra, e birin xa sɛɛwa, e xa ɲɛlɛxinyi naxa ɲɔn abadan. I xili rafanxi mixi naxee ma, e makanta, e xa sɛɛwa i xa fe ra, barima i tan Alatala, i barakɛ sama mixi tinxinxi xa fe. I xa hinnɛ naxan e rabilinxi, a bara findi e xa kantari ra.
-
+Kɔnɔ mixi naxan birin a yɛtɛ taxuma i ra, e birin xa sɛɛwa, e xa ɲɛlɛxinyi naxa ɲɔn abadan. I xili rafanxi mixi naxee ma, e makanta, e xa sɛɛwa i xa fe ra,
+barima i tan Alatala, i barakɛ sama mixi tinxinxi xa fe. I xa hinnɛ naxan e rabilinxi, a bara findi e xa kantari ra.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba kɔra luuti solomasaxan xui ra.
 Alatala, i naxa n ɲaxankata i xa xɔnɛ kui, i naxa n tɔɔrɔ i xa bɔɲɛ te kui.
 Alatala, hinnɛ n na, n bara halaki. Alatala, n nayalan, n xɔrie na sɛrɛnfe nɛ yi ki.
@@ -14000,8 +13999,8 @@ Mixi mu nɔma ratude i ma gaburi kui. Nde nɔma i tantude aligiyama?
 N bara tɔɔrɔ han n sɛnbɛ birin bara ɲɔn. Kɔɛ yo kɔɛ n wama, han n ma sade birin bunda n ya ye ra.
 Sunnunyi bara n ya mafɔɔrɔ. N mu sese tofe n yaxuie xa gboe xa fe ra.
 Wo wo masiga n na, wo tan tinxintaree, barima n wa xui bara Alatala li.
-Alatala bara n ma maxandi mɛ. Alatala bara n ma dubɛ suxu. N yaxuie birin yaagima nɛ, han e e gi.
-
+Alatala bara n ma maxandi mɛ. Alatala bara n ma dubɛ suxu.
+N yaxuie birin yaagima nɛ, han e e gi.
 Dawuda xa bɛɛti mɔɔli nde Alatala bɛ Kusi Bunyaminka xa fe ra.
 N Marigi Alatala, i tan nan na n kantama ra. N natanga n yaxuie ma, n ba e yi ra,
 e naxa n faxa alɔ yɛtɛ mixi faxama ki naxɛ. A na naxan suxu, na mu bama a yi ra.
@@ -14018,8 +14017,8 @@ Xa mixi ɲaaxie mu gbilen e yuge fɔxɔ ra, Ala a xa santidɛgɛma raluganma nɛ
 Ala na faxatise yailanma mixi ɲaaxie nan xili ma, a a xa tanbɛe dɛ findi tɛ ra.
 Mixi ɲaaxi luma fe ɲaaxi nan tun naba ra. A a ɲɔxɔ sa a xɔn ma han a findi a ra.
 A yili gema han a tilin, a fa bira a yɛtɛ xa yili gexi kui.
-A xa fe ɲaaxi nun a xa geregiri bara gbilen a ma. N Alatala tantuma nɛ a xa tinxinyi xa fe ra. N suuki bama nɛ Alatala xili ra, Ala xili xungbe kanyi.
-
+A xa fe ɲaaxi nun a xa geregiri bara gbilen a ma.
+N Alatala tantuma nɛ a xa tinxinyi xa fe ra. N suuki bama nɛ Alatala xili ra, Ala xili xungbe kanyi.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba maxase luuti daaxi xui ra.
 Muxu Marigi Alatala! Xili xungbe kanyi nan lanxi i ma duniɲa bɛndɛ fuɲi fari, i tan naxan ma nɔrɛ na koore ma.
 Dimɛe nun diyɔrɛe i sɛnbɛ matɔxɔma, i i yaxuie nun i gerefae dɛ balanma na matɔxɔɛ ra.
@@ -14028,8 +14027,8 @@ n nan n yɛtɛ maxɔrinma nɛ, «Munse lanxi adama ma i to i maɲɔxunma a xa fe
 I a daaxi ki naxɛ, a gbe mu luxi a xa findi malekɛ ra. I bara binyɛ nun fisamanteya fi a ma.
 I bara yaamari so a yi ra i xa daalisee birin xun ma. I bara duniɲa findi a sanyi bun ma se ra:
 yɛxɛɛe, ningee, wulai subee,
-xɔni naxee ɲɛrɛma koore ma, yɛxɛ naxee birin ɲɛrɛma baa ma. Muxu Marigi Alatala! Xili Xungbe Kanyi nan lanxi i ma duniɲa bɛndɛ fuɲi fari!»
-
+xɔni naxee ɲɛrɛma koore ma, yɛxɛ naxee birin ɲɛrɛma baa ma.
+Muxu Marigi Alatala! Xili Xungbe Kanyi nan lanxi i ma duniɲa bɛndɛ fuɲi fari!»
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «Di xa faxɛ.»
 Alatala, n i tantuma n sondonyi birin na, n i xa wali fanyi ixaranma mixi birin bɛ.
 N sɛɛwama nɛ i xa fe ra, i tan Alatala Xili Xungbe Kanyi, n i matɔxɔ bɛɛti ra.
@@ -14049,7 +14048,8 @@ Sie nu gantanyi naxan texi e yaxuie bɛ, e bara e yɛtɛ sanyie suxu a ra.
 Alatala kolonxi a xa tinxinyi nan ma. Tinxintaree suxuma e yɛtɛ bɛlɛxɛ fɔxi nan saabui ra.
 Matandila naxee nɛɛmuma Ala ma, e birin naɲɔnma aligiyama nɛ.
 Ala fama ratude tɔɔrɔmixi ma, a mu nɛɛmuma e ma abadan.
-Alatala, keli, i naxa a lu adama xa nɔ i ra. A makiiti. Alatala, i xa e magaaxu. E xa a kolon ibunadama gbansan nan e ra.
+Alatala, keli, i naxa a lu adama xa nɔ i ra. A makiiti.
+Alatala, i xa e magaaxu. E xa a kolon ibunadama gbansan nan e ra.
 Alatala, i i makuyaxi n na munfe ra? I i nɔxunxi muxu ma muxu xa tɔɔrɛ kui munfe ra?
 Yɛtɛ igboe setaree tɔɔrɔma, a xa maɲɔxunyi kobi nɔma e ra.
 A a yɛtɛ igboma a xa wali ɲaaxi xa fe ra. Alatala xɔnɔma a xa naafuli sɔtɔ ki ma.
@@ -14075,7 +14075,6 @@ Alatala na a xa hɔrɔmɔbanxi sɛniyɛnxi kui. A xa kibanyi na ariyanna. A adam
 Alatala tinxintɔɛ nun tinxintare matoma. Gbaloe rafan naxee ma, a nee raɲaaxu.
 A tinxintare luma tɔɔrɛ mɔɔli birin kui. Na luma nɛ alɔ tɛ wolenxi nun foye ɲaaxi.
 Alatala tinxin. Tinxinyi rafan a ma. Tinxintɔɛ fama a yatagi tode.
-
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba kɔra luuti solomasaxan xui ra.
 Alatala, muxu rakisi! Lanlanteya mu na sɔnɔn, nɔndi falɛe bara ɲɔn adamadie tagi.
 Kankan a boore tɔɔɲɛgɛma, a a yanfama wɔyɛn ɲɔxunmɛ ra. Filankafui nan e ra.
@@ -14083,13 +14082,14 @@ Alatala xa e dɛ balan. E dɛ igbo.
 E naxɛ, «Muxu sɛnbɛ gbo, muxu fata wɔyɛnde. Nde nɔma muxu ra?»
 Alatala a masenma, «N kelima tɔɔrɔmixi nun setare xa fe ra ya. N e ratangama mixie ma naxee e ɲaxankatama.»
 Alatala xa masenyi sɛniyɛn. A luma alɔ gbeti mixi naxan naxunuma sanya solofere alako a gbi xa ba.
-Alatala, i tɔɔrɔmixi kantama, i muxu ratangama yi mixi mɔɔli ma tɛmui birin. Na mixi ɲaaxie e maɲɛrɛma yire birin, ɲaaxuɲa bara gbo yɛ adamadie ya ma.
-
+Alatala, i tɔɔrɔmixi kantama, i muxu ratangama yi mixi mɔɔli ma tɛmui birin.
+Na mixi ɲaaxie e maɲɛrɛma yire birin, ɲaaxuɲa bara gbo yɛ adamadie ya ma.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Alatala, i nɛɛmuma n ma han mun tɛmui? I i nɔxunma n ma han mun tɛmui?
 N bɔɲɛ tɔɔrɔma han mun tɛmui? N sondonyi ɲaxankatama han mun tɛmui? N luma n yaxuie bun ma han mun tɛmui?
 N Marigi Alatala, a mato, i xa n yaabi. Ti n fanga ra, xa na mu n faxama nɛ,
-n yaxuie fa a fala, «N bara nɔ a ra.» N yaxuie ɲɛlɛxinma nɛ n ma birɛ ra. Kɔnɔ n tan bara la i xa hinnɛ ra, n bɔɲɛ bara ɲɛlɛxin i xa kisi xa fe ra. N bɛɛti bama Alatala bɛ a xa hinnɛ nan ma.
+n yaxuie fa a fala, «N bara nɔ a ra.» N yaxuie ɲɛlɛxinma nɛ n ma birɛ ra.
+Kɔnɔ n tan bara la i xa hinnɛ ra, n bɔɲɛ bara ɲɛlɛxin i xa kisi xa fe ra. N bɛɛti bama Alatala bɛ a xa hinnɛ nan ma.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ Xaxilitare a falama a bɔɲɛ kui, «Ala mu na.» A bɔɲɛ bara kana, a ɲaaxuɲa nan tun nabama. Fe fanyi rabae mu na sɔnɔn.
 Alatala a ya ragorofe adamadie ma keli ariyanna, a xa a to xa lɔnnila nde na na naxan Ala fenma.
 Kɔnɔ birin bara kira bɛɲin, e ɲaaxu. Hali fe fanyi rabama keren mu na sɔnɔn.
@@ -14128,7 +14128,6 @@ E luxi alɔ yɛtɛ naxan sube fenma, alɔ yɛtɛ kaamɛxie naxee gbataxi sube fa
 Alatala, keli! N yaxuie gere, i xa nɔ e ra. N natanga mixi ɲaaxie ma i xa santidɛgɛma ra.
 N natanga na duniɲa mixi mɔɔlie ma, naxee e masundi sɔtɔma yi duniɲɛigiri gbansan kui. E raluga na masundi ra, i naxan nagataxi e bɛ. E xa die fan xa wasa na ra, a dɔnxɔɛ xa lu e xa mamadie bɛ!
 Kɔnɔ n tan fama nɛ i yatagi tode tinxinyi saabui ra. N na xunu, n wasama nɛ i yatagi ra.
-
 Alatala xa konyi Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A yi bɛɛti nan ba Alatala bɛ a to a ratanga Sɔlu nun a yaxui birin ma.
 Alatala, n sɛnbɛ nun n xanuntenyi nan i ra.
 N nakisima Alatala luma alɔ fanye, a findi n bɛ tɛtɛ ra. N Marigi Ala luma alɔ gɛmɛ xungbe, n yigiyama dɛnnaxɛ. Sɛnbɛma nan a ra naxan n nakisima, naxan n makantama.
@@ -14178,8 +14177,8 @@ E mu suusama n ya ra. E minima e xa tɛtɛ makantaxi kui gaaxui ra.
 Alatala sɛnbɛ mu ɲɔnma abadan. Tantui na n ma Kantama bɛ. Tantui na n Marigi Ala Marakisima bɛ.
 Ala nan n gbeɲɔxɔma. Ala nan sie rabirama n ma nɔɛ bun ma.
 Ala nan n natangama n yaxuie ma. I tan nan n itema n yaxuie xun ma. I tan nan n natangama suutee ma.
-Alatala, n i tantuma sie tagi na birin nan ma, n bɛɛti bama nɛ i bɛ. A xunnakeli nun hinnɛ fima nɛ a xa mixi sugandixi ma, naxan findi mangɛ Dawuda nun a xa die ra abadan.
-
+Alatala, n i tantuma sie tagi na birin nan ma, n bɛɛti bama nɛ i bɛ.
+A xunnakeli nun hinnɛ fima nɛ a xa mixi sugandixi ma, naxan findi mangɛ Dawuda nun a xa die ra abadan.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Koore Ala xa nɔrɛ masenma. Koore walaxɛ Ala xa wali masenma.
 Yanyi lɔnni masenma lɔxɔ yo lɔxɔ. Dimi xaxili masenma kɔɛ yo kɔɛ.
@@ -14193,8 +14192,8 @@ Alatala xa yaragaaxui, fe sɛniyɛnxi na a ra. A mu ɲɔnma abadan. Alatala xa y
 Ala xa yaamari, a fan xɛɛma bɛ, a fan dangi xɛɛma fanyi birin na. Ala xa yaamari, a ɲɔxun kumi bɛ, a ɲɔxun dangi kumi fanyi birin na.
 I xa konyi xaxili sɔtɔma nɛ i xa sɛriyɛ kui. A geeni gbegbe toma nɛ naa.
 Nde nɔma a yɛtɛ kan yuge ɲaaxie birin kolonde? I xa n ma yunubi nɔxunxi xafari n mu naxan kolon.
-I xa n ma yunubi makɛnɛnxi makuya n na. A naxa n suxu sɛnbɛ ra. Na tɛmui n fama findide mixi tinxinxi ra, naxan mu yunubi ɲaaxi rabama. Wɔyɛnyi naxan kelima n dɛ i, a nun wɔyɛnyi naxan kelima n bɔɲɛ ma, Ala xa na tongo n bɛ ɲɛlɛxinyi ra. Alatala, n kantama nan i ra, i bara n xunsara.
-
+I xa n ma yunubi makɛnɛnxi makuya n na. A naxa n suxu sɛnbɛ ra. Na tɛmui n fama findide mixi tinxinxi ra, naxan mu yunubi ɲaaxi rabama.
+Wɔyɛnyi naxan kelima n dɛ i, a nun wɔyɛnyi naxan kelima n bɔɲɛ ma, Ala xa na tongo n bɛ ɲɛlɛxinyi ra. Alatala, n kantama nan i ra, i bara n xunsara.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Alatala xa i yaabi i xa tɔɔrɛ kui. Yaxuba Marigi Ala xa i ratanga.
 Ala xa i mali kelife a xa yire sɛniyɛnxi, a xa i mali kelife Siyon geya fari.
@@ -14203,8 +14202,8 @@ Ala xa i waxɔnfe fi i ma, a xa i xa wali sɔɔnɛya i bɛ.
 Won won xui itema ɲɛlɛxinyi kui. Won won ma tɔnxuma itema won Marigi Ala xili ra. Alatala xa i xa maxandi birin nasuxu.
 N a kolon a Alatala a xa mixi sugandixi rakisima nɛ. A a yaabima nɛ a sɛnbɛ ra kelife ra a xa yire sɛniyɛnxi.
 Nde lama a xa sɔɔri ragise ra, nde lama a xa soee ra, kɔnɔ won tan laxi won Marigi Alatala xili nan na.
-Soee tan birama nɛ, kɔnɔ won tan tixi tun. Alatala xa mangɛ rakisi, a xa won ma maxandi suxu.
-
+Soee tan birama nɛ, kɔnɔ won tan tixi tun.
+Alatala xa mangɛ rakisi, a xa won ma maxandi suxu.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Alatala, mangɛ bara sɛɛwa i sɛnbɛ ra. A xa ɲɛlɛxinyi gbo barima i bara a rakisi.
 I bara a waxɔnfe raba, i bara a xa dubɛ suxu. Ɲɛngi rate.
@@ -14217,8 +14216,8 @@ I fama i yaxui birin suxude. I fama nɔde i xɔnmixie ra.
 I na fa, i e ɲɔnma nɛ, alɔ tɛ belebele wuri ganma ki naxɛ. Alatala xɔnɔma e ma han tɛ e gan.
 I bɔnsɔɛe bama nɛ duniɲa ma, i adamadie raɲɔn.
 E bara wa fe ɲaaxi rabafe i ra. E bara kata han, kɔnɔ na mu findixi sɔɔnɛya yo ra e bɛ,
-barima i tan nan fama e ragide i xa xali ra. Alatala, i xa i sɛnbɛ masen e bɛ. Muxu wama bɛɛti bafe i ya xɔri, muxu xa i matɔxɔ i sɛnbɛ xa fe ra.
-
+barima i tan nan fama e ragide i xa xali ra.
+Alatala, i xa i sɛnbɛ masen e bɛ. Muxu wama bɛɛti bafe i ya xɔri, muxu xa i matɔxɔ i sɛnbɛ xa fe ra.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «Subaxɛ xeli.»
 Ala, n Marigi Ala, i n naboloxi munfe ra? I kisi makuya n na, i mu n wa xui ramɛ?
 N Marigi Ala, kɔɛ nun yanyi, n i xilima, kɔnɔ i mu n ma xili ratinma.
@@ -14249,7 +14248,8 @@ Mixi magoroxie fama e dɛgede, han e wasa. Naxee Alatala fenma, e fama a matɔx�
 Duniɲa birin fama ratude Alatala xa fe ma, e man birin e ya rafindima a ma. Si birin fama e magorode a bɛ,
 barima birin na Alatala xa mangɛya nan bun. A si birin yamarima.
 Duniɲa sɛnbɛmae na gɛ e dɛgede, e birin fama e magorode Ala bɛ. Naxee birin findima bɛndɛ ra, e fama e xun sinde Ala bɛ. E mu nɔma e yɛtɛ nii ratangade.
-Adamadie birin fama Ala batude. E e Marigi xa fe falama e bore bɛ. Ala fama a xa tinxinyi masende mixi birin bɛ naxee fama baride. Ala bara na ragiri.
+Adamadie birin fama Ala batude. E e Marigi xa fe falama e bore bɛ.
+Ala fama a xa tinxinyi masende mixi birin bɛ naxee fama baride. Ala bara na ragiri.
 Alatala n mɛɛnima alɔ xuruse kantɛ a xa xuruse mɛɛnima ki naxɛ. Se birin na n yi ra n hayi na naxan ma.
 Alatala n xaninma fe fanyi ma, alɔ xuruse kantɛ xurusee xaninma ɲooge fanyi ma ki naxɛ, alɔ a e xun tima ye raxaraxi ra ki naxɛ.
 A sɛnbɛ fima n ma. A n tima kira tinxinxi xɔn, barima Alatala nan a ra.
@@ -14334,7 +14334,6 @@ Alatala xui Kadesi gbengberenyi rasɛrɛnma.
 Alatala xui a niyama xelie nun sie xa bari. Ɲama birin e xui itema a xa hɔrɔmɔbanxi kui, a a fala, «Matɔxɔɛ na Ala bɛ!»
 Alatala nu na a xa kibanyi kui duniɲa banbaran yɛ tɛmui naxɛ. A xa mangɛya mu ɲɔnma abadan.
 Alatala nan sɛnbɛ fima a xa ɲama ma, a barakɛ nun bɔɲɛsa fima e ma.
-
 Dawuda xa bɛɛti a naxan sɛbɛ Ala xa hɔrɔmɔbanxi xa fe ra
 N bara i matɔxɔ Alatala, barima i bara n nakeli. I mu tin n yaxuie xa xunnakeli sɔtɔ n xun ma.
 N Marigi Alatala, n to i xili, i naxa n nayalan.
@@ -14346,8 +14345,8 @@ Alatala, tɛmui dangixi i naxa n sɛnbɛ lu alɔ geya, kɔnɔ yakɔsi i bara i n
 Alatala, n naxa i xili, n naxa i maxandi.
 N naxa a fala i bɛ, «N ma faxɛ findima geeni mundun na i bɛ? Xa n bara goro gaburi kui, na nɔma findide matɔxɔɛ ra i bɛ? Na nɔma i xa lanlanteya masende duniɲa bɛ?»
 Alatala, i tuli mati n na, i xa kinikini n ma. Alatala, n mali.
-I bara n ma nimisɛ masara sɛɛwɛ ra. I bara n ma sunnun donma masara ɲɛlɛxin donma ra. N Marigi Alatala, na na a ra n mu dunduma, n tantui bɛɛti bama nɛ i bɛ abadan.
-
+I bara n ma nimisɛ masara sɛɛwɛ ra. I bara n ma sunnun donma masara ɲɛlɛxin donma ra.
+N Marigi Alatala, na na a ra n mu dunduma, n tantui bɛɛti bama nɛ i bɛ abadan.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Alatala, n bara n xaxili ti i ra. I naxa tin n xa lu yaagi kui, i xa kiiti fanyi sa n ma.
 I xa i tuli mati n na, n nakisi. I xa lu n bɛ alɔ fanye, alɔ yire makantaxi alako n xa kisi.
@@ -14371,7 +14370,8 @@ I xa hinnɛ gbo, i naxan nagataxi i yaragaaxuie bɛ, naxee i xa kantari fenma.
 I bara e yigiya alako fe kobi rabae naxa e suxu. I bara e ratanga wule falɛe ma.
 Alatala tantu, barima a bara hinnɛ n na n ma tɔɔrɛ kui.
 N ma gaaxui kui, n nu bara a fala, «I bara i nɔxun n ma,» kɔnɔ i bara n ma maxandi suxu.
-Danxaniyatɔɛe, wo xa Alatala xanu. Alatala togondiyatɔɛe rakisima nɛ, kɔnɔ a yɛtɛ igboe ɲaxankatama nɛ. Wo tan naxee wo xaxili tixi Alatala ra, wo wo sɛnbɛ so, wo xa limaniya.
+Danxaniyatɔɛe, wo xa Alatala xanu. Alatala togondiyatɔɛe rakisima nɛ, kɔnɔ a yɛtɛ igboe ɲaxankatama nɛ.
+Wo tan naxee wo xaxili tixi Alatala ra, wo wo sɛnbɛ so, wo xa limaniya.
 Ɲɛlɛxinyi na adama bɛ naxan xa yunubi bara ba, naxan xa fe kobi bara xafari.
 Ɲɛlɛxinyi na adama bɛ Alatala bara diɲɛ naxan ma fe kobi ma, a nun maifui mu na naxan xaxili ya ma.
 Danmi n dunduxi, n mu nɔma minide tɔɔrɛ kui. N nu tɔɔrɔma nɛ yanyi birin na.
@@ -14405,7 +14405,6 @@ alako e nii naxa laaxira, alako e xa balo kaamɛ waxati.
 Won xaxili tixi Alatala nan na. A tan nan won malima ra, a tan nan won kantama ra.
 Won bɔɲɛe sɛɛwaxi a tan nan ma fe ra, barima won bara la a xili sɛniyɛnxi ra.
 Alatala, i xa hinnɛ muxu ra, barima muxu xaxili tixi i tan nan na.
-
 Dawuda to a yɛtɛ findi daxui ra Abimeleki ya i alako a xa a bɛɲin, a naxa yi bɛɛti sɛbɛ.
 N Alatala tantuma waxati birin. A xa matɔxɔɛ mu bama n dɛ i.
 N Alatala matɔxɔma n bɔɲɛ kui. Tɔɔrɔmixie fama nɛ na mɛde, e fa sɛɛwa.
@@ -14427,7 +14426,8 @@ Tinxintɔɛe na e mawa Alatala bɛ, a a tuli matima nɛ e ra, a e ba e xa tɔɔr
 Alatala luma mixi fɛ ma naxan sunnunxi a bɔɲɛ ma, a mixi rakisima naxan xaxili bara ifu.
 Tɔɔrɛ gbegbe tinxintɔɛ lima nɛ, kɔnɔ Alatala a rakisima na birin ma.
 Alatala mɛɛnima nɛ a ma, sese mu a toma.
-Fe ɲaaxi nan mixi ɲaaxi faxama. Tinxintɔɛ yaxuie fama ɲaxankatade. Alatala a xa konyie xun sarama nɛ. Naxan a xaxili tima Ala ra, na mu kiiti ɲaaxi sɔtɔma.
+Fe ɲaaxi nan mixi ɲaaxi faxama. Tinxintɔɛ yaxuie fama ɲaxankatade.
+Alatala a xa konyie xun sarama nɛ. Naxan a xaxili tima Ala ra, na mu kiiti ɲaaxi sɔtɔma.
 Alatala, i xa mixi tɔɔrɔ naxan wama n tɔɔrɔfe. Naxan wama n gerefe, na kanyi gere.
 Keli, i xa n mali i xa geresose ra.
 I xa xali nun tanbɛ xa ite n yaxuie xili ma. A fala n bɛ, a i tan nan n ma marakisima ra.
@@ -14456,7 +14456,6 @@ I naxa tin e xa a fala, «Muxu bara nɔ a ra, muxu bara a masɔtɔ.»
 Ala xa n xɔnmixie rayaagi, n yaxuie xaxili xa ifu.
 Ala xa n xanuntenyie rasɛɛwa, naxee a falama e xui itexi ra, «Tantui na Alatala bɛ naxan a xa konyi luma bɔɲɛsa kui.»
 N i xa tinxinyi masenma nɛ, n i tantuma nɛ tɛmui birin.
-
 Alatala xa konyi Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 N bara mixi ɲaaxi xa matandi maɲɔxun n bɔɲɛ kui. A mu a kolon a lanma a xa gaaxu Ala ya ra.
 A a yɛtɛ igboma han a mu nɔma a xa yunubi tode, a mu nɔma a ɲɛrɛ ki xɔnde.
@@ -14468,7 +14467,8 @@ Ala, i xa hinnɛ fan. Adamadie birin yigiya sɔtɔma nɛ i yi ra, alɔ tɔxɔɛ 
 E wasama i xa nɛmɛ nan na, i xa fe fanyi luma e bɛ alɔ ye xinbeli.
 I tan nan gbansan nɔma adama rabalode. I xa naiyalanyi bara muxu xa kira iyalan.
 I xa hinnɛ i kolonmae ra, i xa i xa tinxinyi masen tinxintɔɛe bɛ.
-I xa n natanga yɛtɛ igboee ma, i naxa a lu mixi ɲaaxie xa n keri. Tinxintaree birama nɛ, e mu nɔma kelide sɔnɔn.
+I xa n natanga yɛtɛ igboee ma, i naxa a lu mixi ɲaaxie xa n keri.
+Tinxintaree birama nɛ, e mu nɔma kelide sɔnɔn.
 I naxa kɔntɔfili mixi ɲaaxie ra. I naxa tin lude alɔ e tan.
 E lisima nɛ mafuren alɔ ɲooge, e faxama nɛ alɔ sansie.
 I xa i taxu Alatala ra, i xa fe fanyi rabatu. I xa lu yi bɔxi ma, nɔndi xa findi i xa baloe ra.
@@ -14509,7 +14509,6 @@ I xa mixi fanyi nan mato, tinxintɔɛ nan igbɛ. Na mixi mɔɔli findima barakat
 Kɔnɔ yunubitɔɛe tan fama nɛ sɔntɔde, e bɔnsɔɛ birin fa halaki.
 Alatala tinxintɔɛe rakisima nɛ, a findi e xa makantama ra e xa tɔɔrɛ kui.
 A e malima nɛ, a e ratanga. A e ratanga mixi ɲaaxie ma, a e rakisi, barima e yigiyaxi a tan nan ma.
-
 Dawuda xa maxandi bɛɛti
 Alatala, i naxa n ɲaxankata i xa xɔnɛ kui, i naxa n halaki i xa bɔɲɛte kui.
 I bara n maxɔnɔ i xa tanbɛ ra, i bara n nabira.
@@ -14531,8 +14530,8 @@ A gbe mu luxi n xa bira, n na tɔɔrɔfe tɛmui birin.
 N bara n ti n ma yunubi rabaxie ra, n yangoe naxee rabaxi, na fe bara n kɔntɔfili.
 N yaxuie tan kɛndɛ, e sɛnbɛ gbo. N xɔnmixie bara wuya, hali nɔndi mu na e bɛ.
 Naxee fe fanyi masarama fe ɲaaxi ra, e n tɔɔrɔma, barima n tan birama fe fanyi nan fɔxɔ ra.
-Alatala, i naxa n nabɛɲin. N Marigi Ala, i naxa i makuya n na. N Marigi, i xa fa mafuren n malide. N Marigi, n ma marakisima nan i ra.
-
+Alatala, i naxa n nabɛɲin. N Marigi Ala, i naxa i makuya n na.
+N Marigi, i xa fa mafuren n malide. N Marigi, n ma marakisima nan i ra.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ Yedutun bɛ
 N bara a fala, «N fe birin nabama, alako n naxa yunubi raba n dɛ ra. N fe birin nabama, alako n naxa na wɔyɛnyi mɔɔli fala mixi ɲaaxie ya xɔri.»
 N ma tɔɔrɛ xungbe kui, n naxa dundu, n mu sese fala, n naxa n sabari tun.
@@ -14545,8 +14544,8 @@ N nakisi n ma yunubie birin ma. I naxa n nayaagi daxuie ya xɔri.
 N bara dundu, n mu sese falama, barima i tan nan na walife.
 I xa fure ba n ma, beenu i xa n naɲɔn tɔɔrɛ kui.
 I mixi ɲaxankatama a xa yunubi xa fe ra. Naxan nafan adama ma, i na bama a yi. Na fe luma nɛ alɔ kuli naxan bogise fanyi xun nakanama beenu mixi xa a matongo. Adamadi misaalixi foye nan na naxan dangima. Ɲɛngi rate.
-Alatala, n ma dubɛ suxu, i xa i tuli mati n ma maxandi ra. I xa n wa xui mɛ, barima i xa xɔɲɛ nan n na. N luma alɔ n benbae, n mu buma yi duniɲa bɛndɛ fuɲi fari. I xa i xa ɲaxankatɛ ragbilen n fɔxɔ ra sinden, xa na mu a ra n faxama nɛ.
-
+Alatala, n ma dubɛ suxu, i xa i tuli mati n ma maxandi ra. I xa n wa xui mɛ, barima i xa xɔɲɛ nan n na. N luma alɔ n benbae, n mu buma yi duniɲa bɛndɛ fuɲi fari.
+I xa i xa ɲaxankatɛ ragbilen n fɔxɔ ra sinden, xa na mu a ra n faxama nɛ.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 N bara n xaxili ti Alatala ra, a bara a tuli mati n na.
 A bara n ba boora xɔɔra, a n sanyi radiki fanye ra.
@@ -14563,8 +14562,8 @@ Tɔɔrɛ gbegbe bara n nabilin. N ma yunubi fan bara gbo han a bara dangi a i. E
 Alatala, yandi, n natanga. Alatala, yandi, n mali.
 Naxee wama n nii bafe, naxee wama n ma fe ɲaaxi xɔn ma, e birin xa makuya n na yaagi kui.
 Naxee n mayelema, yaagi xa e dɛ ixara.
-Naxee birin biraxi i fɔxɔ ra, e xa sɛɛwa, e xa ɲɛlɛxin i xa fe ra. Naxee wama i xa kisi xɔn ma, e xa a fala tɛmui birin, «Tantui na Alatala bɛ.» Setare nun misikiinɛ nan na n na, kɔnɔ Marigi bara ratu n ma fe ma. I tan nan na n ma malima ra a nun n nakisima. N Marigi Alatala, i naxa dugundi!
-
+Naxee birin biraxi i fɔxɔ ra, e xa sɛɛwa, e xa ɲɛlɛxin i xa fe ra. Naxee wama i xa kisi xɔn ma, e xa a fala tɛmui birin, «Tantui na Alatala bɛ.»
+Setare nun misikiinɛ nan na n na, kɔnɔ Marigi bara ratu n ma fe ma. I tan nan na n ma malima ra a nun n nakisima. N Marigi Alatala, i naxa dugundi!
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Ɲɛlɛxinyi na mixi bɛ naxan hinnɛma tɔɔrɔmixi ra. Alatala a ratangama nɛ a xa tɔɔrɛ ma.
 Alatala a ratangama nɛ, a a rabalo. A ɲɛlɛxinma nɛ duniɲa. I mu a luma a yaxuie sagoe.
@@ -14577,8 +14576,8 @@ E naxɛ, «Fure ɲaaxi bara a suxu, a bara tagan, a mu kelima sɔnɔn.»
 Hali n dɛfanboore, n nu laxi naxan na, muxu nun naxan nu muxu dɛgema yire keren, na bara a kobe ti n na.
 Alatala, hinnɛ n na, i xa n nakeli, alako n xa n yaxuie sare ragbilen e ma.
 N a kolon n nafan i ma, barima i mu n luma n yaxuie sagoe.
-I n malima nɛ barima n tinxin. I bara tin n xa lu i sɛɛti ma abadan. Tantui na Isirayila Marigi Alatala bɛ abadan. Amina. Amina.
-
+I n malima nɛ barima n tinxin. I bara tin n xa lu i sɛɛti ma abadan.
+Tantui na Isirayila Marigi Alatala bɛ abadan. Amina. Amina.
 Kora xa die xa lɔnni bɛɛti bɛɛtibae xa mangɛ bɛ
 Ala, n wama lufe i yire. N i fenma alɔ xeli ye fenma ki naxɛ.
 N hayi na Ala ɲiɲɛ ma. N a yire lima mun tɛmui?
@@ -14589,13 +14588,13 @@ N Marigi Ala, n bɔɲɛ nimisaxi n yɛtɛ kan ma fe ra. Na na a ra n nan n natum
 N ma tɔɔrɛ xun nan tun masafe. A luma alɔ susui ye naxan sinma xure ye xun.
 Alatala hinnɛma n na yanyi ra, n fan bɛɛti bama a bɛ kɔɛ ra. N Ala maxandima naxan n nabaloma.
 N bara a fala Ala bɛ, naxan sɛnbɛ gbo alɔ fanye, «I nɛɛmuxi n ma munfe ra? I n luxi tɔɔrɛ kui n yaxuie xa nɔɛ bun ma munfe ra?»
-N yaxuie n tɔɔrɔma konbi ra lɔxɔ yo lɔxɔ. E n maxɔrinma, «I Marigi Ala na minden?» N sondonyi nimisaxi munfe ra? N bɔɲɛ sunnunxi munfe ra? N xa n xaxili ti Ala ra, n man xa a tantu a xa kisi xa fe ra. N Marigi nan na n ma marakisima ra.
+N yaxuie n tɔɔrɔma konbi ra lɔxɔ yo lɔxɔ. E n maxɔrinma, «I Marigi Ala na minden?»
+N sondonyi nimisaxi munfe ra? N bɔɲɛ sunnunxi munfe ra? N xa n xaxili ti Ala ra, n man xa a tantu a xa kisi xa fe ra. N Marigi nan na n ma marakisima ra.
 Ala, i xa n ma kiiti sa. I xa n xun mafala ɲama danxaniyatare xɔn ma. I xa n natanga yanfantee nun wule falɛe ma.
 Ala n ma kantama na i tan nan na, i n nabɛɲinxi munfe ra? I n luxi tɔɔrɛ kui n yaxuie xa nɔɛ bun ma munfe ra?
 I xa n ma kira iyalan i xa nɔndi ra, i xa n xun ti sigafe ra i yire i xa geya sɛniyɛnxi fari.
 N nan n makɔrɛma nɛ Ala xa sɛrɛxɛbade ra, Ala naxan findixi n ma sɛɛwɛ nun n ma ɲɛlɛxinyi ra. N bɛɛti bama n Marigi Ala bɛ kɔra ra.
 N sondonyi nimisaxi munfe ra? N bɔɲɛ sunnunxi munfe ra? N xa n xaxili ti Ala ra, n man xa a tantu a xa kisi xa fe ra.
-
 Kora xa die xa lɔnni bɛɛti bɛɛtibae xa mangɛ bɛ
 Ala, muxu bara a mɛ muxu benbae saabui ra, i wali naxan nabaxi tɛmui dangixi.
 I bara sie keri be alako muxu benbae xa sabati yi bɔxi ma.
@@ -14621,8 +14620,8 @@ Ala mu a kolonma xɛ? A mu mixi gundo birin kolon?
 Kɔnɔ mixie na muxu faxafe alɔ xurusee. E na rabama tɛmui birin i tan nan ma fe ra.
 N Marigi, xunu. I xife munfe ra? Keli, i naxa mɛɛ muxu ra tɛmui birin.
 I yatagi nɔxunma muxu ma munfe ra? I nɛɛmuxi muxu xa tɔɔrɛ nun yaagi ma munfe ra?
-Muxu bira nɛ bɔxi, muxu mu nɔma kelide sɔnɔn. Yandi, keli, fa muxu mali. I xa muxu xun sara i xa hinnɛ xa fe ra.
-
+Muxu bira nɛ bɔxi, muxu mu nɔma kelide sɔnɔn.
+Yandi, keli, fa muxu mali. I xa muxu xun sara i xa hinnɛ xa fe ra.
 Kora xa die xa lɔnni bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «Fuge tofanyie.» Xanunteya sigi.
 Wɔyɛn fanyie bara n bɔɲɛ rafe. N xa yi wali raba mangɛ bɛ. N nɛnyi luma nɛ alɔ sɛbɛliti fanyi xa kale.
 I tofan adamadi birin bɛ, i fata wɔyɛn ɲɔxunmɛ tide, barima Ala barakɛ sama i xa fe ma tɛmui birin.
@@ -14639,8 +14638,8 @@ Tirekae fama bunsee ra i bɛ, naafuli kanyie fan fanma i binyade.
 Mangɛ xa di ginɛ soma banxi kui, a maxirixi dugi tofanyi ra, xɛɛma na a ma.
 A xa konyi ginɛe a matima mangɛ xɔn. Mangɛ fan maxirixi dugi tofanyi ra.
 Ginɛ so tɛmui, mixi birin ɲɛlɛxinxi, e xulunyi tima.
-I xa die fama lude alɔ i benbae, e findi mangɛe ra bɔxi birin xun ma. N i tan findima xili kanyi nan na abadan. Bɔnsɔɛ birin i matɔxɔma nɛ waxati yo waxati.
-
+I xa die fama lude alɔ i benbae, e findi mangɛe ra bɔxi birin xun ma.
+N i tan findima xili kanyi nan na abadan. Bɔnsɔɛ birin i matɔxɔma nɛ waxati yo waxati.
 Kora xa die xa bɛɛti bɛɛtibae xa mangɛ bɛ ginɛdimɛdi xui daaxi
 Ala, won kantama nan a ra. Won ma kantari na a yi ra. A won malima won ma tɔɔrɛ birin kui.
 Xa bɔxi sa sɛrɛn, won mu gaaxuma. Xa geya sa bira baa ma, won mu gaaxuma.
@@ -14651,8 +14650,8 @@ Sie sɔnxɔɛ ratema, mangɛyae birama nɛ. Ala nɛfɛ a xui ramini, duniɲa bir
 Mangɛ Alatala na won sɛɛti ma. Won ma kantari na Yaxuba Marigi Ala yi ra.
 Wo fa Alatala xa wali mato, a gbaloe naxan luxi bɔxi ma.
 A tan nan gere ɲɔnma duniɲa birin ma. A xali girama nɛ. A tanbɛ kanama nɛ, a makantase gan.
-«Wo wo raxara, wo xa a kolon Ala na n tan nan na. N si birin yamarima. N ma yaamari na duniɲa birin ma.» Alatala na won sɛɛti ma, Won ma kantari na Yaxuba Marigi Ala yi ra.
-
+«Wo wo raxara, wo xa a kolon Ala na n tan nan na. N si birin yamarima. N ma yaamari na duniɲa birin ma.»
+Alatala na won sɛɛti ma, Won ma kantari na Yaxuba Marigi Ala yi ra.
 Kora xa die xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Wo tan sie birin, wo wo bɛlɛxɛ bɔnbɔ, wo sɔnxɔ, wo xui ite ɲɛlɛxinyi kui Ala bɛ!
 Alatala Xili Xungbe Kanyi magaaxu. Mangɛ xungbe nan a ra duniɲa birin xun ma.
@@ -14661,8 +14660,8 @@ A bara bɔxi fi won ma kɛ ra, naxan findixi Yaxuba bɔnsɔɛ xa xunnakeli ra. A
 Ala tema ɲɛlɛxin xui nan tagi, a fama sarae fe xui ma.
 Wo bɛɛti ba Ala bɛ, wo bɛɛti ba! Wo bɛɛti ba won ma mangɛ bɛ, wo bɛɛti ba!
 Ala nan mangɛ ra duniɲa birin xun ma, wo xa lɔnni bɛɛti ba.
-Ala magoroxi mangɛ kibanyi sɛniyɛnxi kui, si birin mangɛ nan a ra. Sie xa mangɛe kafuma Iburahima Marigi Ala xa ɲama ma, barima Ala nan a ragiri mangɛe xa duniɲa kanta. Ala na se birin xun.
-
+Ala magoroxi mangɛ kibanyi sɛniyɛnxi kui, si birin mangɛ nan a ra.
+Sie xa mangɛe kafuma Iburahima Marigi Ala xa ɲama ma, barima Ala nan a ragiri mangɛe xa duniɲa kanta. Ala na se birin xun.
 Kora xa die xa bɛɛti. Sigi sɛniyɛnxi.
 Alatala gbo. A lanma won xa a matɔxɔ a xa taa kui a xa geya sɛniyɛnxi fari.
 Ala xa geya Siyon tofan, a rafan duniɲa birin ma. Na findi Mangɛ Xungbe xa taa nan na.
@@ -14676,8 +14675,8 @@ Ala, muxu na so i xa Hɔrɔmɔlingira kui, muxu ratuma i xa hinnɛ nan ma.
 Ala Xili Xungbe Kanyi, i xili tantuma nɛ duniɲa yire birin. I xa mangɛya tinxin.
 Ɲama ɲɛlɛxinma nɛ Siyon geya fari, Yudakae sɛɛwama nɛ i xa kiiti xa fe ra.
 Wo xa Siyon mabilin, wo xa a xa sɔɔri tidee kɔnti.
-Wo xa a tɛtɛ nun a yire makantaxie mato, alako wo xa na fala wo xa die bɛ. Ala nan na won Marigi Ala ra abadan. A won naɲɛrɛma han aligiyama.
-
+Wo xa a tɛtɛ nun a yire makantaxie mato, alako wo xa na fala wo xa die bɛ.
+Ala nan na won Marigi Ala ra abadan. A won naɲɛrɛma han aligiyama.
 Kora xa die xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Wo wo tuli mati yi ra, wo tan ɲama birin. Duniɲa ɲama birin, wo wo tuli mati n na.
 Tide xuri kanyi, tide xungbe kanyi, setare a nun se kanyi, wo birin xa wo tuli mati.
@@ -14697,7 +14696,8 @@ Kɔnɔ Ala n nii xunsarama nɛ aligiyama, a n xanin. Ɲɛngi rate.
 Mixi na findi banna ra, a harige na gbo, i naxa gaaxu,
 barima a mu sese xaninma aligiyama. A harige mu birama a fɔxɔ ra.
 A ɲɛlɛxinma nɛ a harige ra a xa duniɲɛigiri kui, barima birin a matɔxɔma na xa fe ra,
-kɔnɔ a fa siga aligiyama a a benbae li na, naxee mu duniɲa toma sɔnɔn. Xa banna mixi xaxili mu na, a luxi nɛ alɔ sube naxee faxama.
+kɔnɔ a fa siga aligiyama a a benbae li na, naxee mu duniɲa toma sɔnɔn.
+Xa banna mixi xaxili mu na, a luxi nɛ alɔ sube naxee faxama.
 Alatala na wɔyɛnfe. A na duniɲa birin xilife, keli sogetede han sogegorode.
 Kelife Siyon, Ala xa tofanyi yanbama.
 Won Marigi Ala na fafe, a mu dunduxi. Tɛ belebele na a ya ra, foye xungbe fan na a rabilinyi.
@@ -14721,8 +14721,6 @@ Wo nun naxan nga keren a ra, wo na tɔɔɲɛgɛma.
 Wo naxan nabaxi, na nan ya. Han yakɔsi n bara n sabari. Wo ɲɔxɔ a ma a n na wo sɛɛti ma, kɔnɔ n fama xaaɲɛde wo ma, n fama a birin ya bade wo bɛ.
 Wo xa yi fe mɛ, wo tan naxee nɛɛmuxi Ala ma, xa na mara n wo xa fe kanama nɛ. Mixi yo mu wo ratangama.
 Naxan tantui sɛrɛxɛ bama n bɛ, na mixi bara n matɔxɔ. Mixi naxan a ɲɛrɛ ki matoma a fanyi ra, n fama n tan Ala xa marakisi masende a bɛ.»
-
-
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ.
 Annabi Natan wɔyɛnfe Dawuda bɛ a yunubi raba Batiseba ra tɛmui naxɛ.
 Ala, hinnɛ n na alɔ i darixi a ra ki naxɛ. Diɲɛ n ma fe ɲaaxi ma i xa bɔɲɛ fanyi saabui ra.
@@ -14740,10 +14738,10 @@ Kisi sɛɛwɛ nun limaniya fi n ma naxan n malima.
 N i xa kira masenma nɛ i matandilae bɛ, alako e man xa bira i fɔxɔ ra.
 N nakisima Ala, n bara mixi faxa. Yandi, n xunsara, alako n xa i xa fe fanyi masen.
 N Marigi, na niya n bɛ, n xa i tantu.
-Sɛrɛxɛ mu rafan i ma, xa na mu a ra n na bama nɛ i bɛ nu. I mu wama sɛrɛxɛ gan daaxi xɔn. I xa hinnɛ Siyoni ra, i xa Darisalamu tɛtɛ rakeli.
-Sɛrɛxɛ fanyi findixi yɛtɛ magoroe nan na. Ala wama yi sɛrɛxɛ mɔɔli nan xɔn ma. Na tɛmui i ɲɛlɛxinma nɛ sɛrɛxɛ tinxinxi nun sɛrɛxɛ gan daaxi ra. Na tɛmui tuurae nan bama sɛrɛxɛ ra i xa sɛrɛxɛbade.
-
-
+Sɛrɛxɛ mu rafan i ma, xa na mu a ra n na bama nɛ i bɛ nu. I mu wama sɛrɛxɛ gan daaxi xɔn.
+Sɛrɛxɛ fanyi findixi yɛtɛ magoroe nan na. Ala wama yi sɛrɛxɛ mɔɔli nan xɔn ma.
+I xa hinnɛ Siyoni ra, i xa Darisalamu tɛtɛ rakeli.
+Na tɛmui i ɲɛlɛxinma nɛ sɛrɛxɛ tinxinxi nun sɛrɛxɛ gan daaxi ra. Na tɛmui tuurae nan bama sɛrɛxɛ ra i xa sɛrɛxɛbade.
 Dawuda xa lɔnni bɛɛti bɛɛtibae xa mangɛ bɛ.
 Masenyi nan ya Dowege Edonka xa fe ra, naxan a fala Sɔlu bɛ a Dawuda na Aximeleki xɔnyi.
 I i yɛtɛ igboma fe kobi rabafe ra munfe ra? Ala xa hinnɛ buma nɛ abadan.
@@ -14751,25 +14749,26 @@ I dɛ luma alɔ finɛ naxan fe ɲaaxi rabama. Yanfante nan i ra.
 Fe ɲaaxi rafan i ma dangife fe fanyi ra. Wule rafan i ma dangife nɔndi ra. Ɲɛngi rate.
 I wɔyɛn xui xaaɲɛ, i dɛ mu fan.
 Na kui Ala fama i rahalakide tɛmui birin. A i suxuma nɛ, a i keri i xa banxi kui, a i keri duniɲa ma. Ɲɛngi rate.
-Tinxintɔɛ naxee findima seedee ra e fama yelede na kanyi ma yi ki nɛ, Kɔnɔ, n tan naxan laxi Ala xa hinnɛ ra, n ma fe birin na sɔɔnɛyafe alɔ Oliwi wuri tofanyi naxan na Ala xɔnyi.»
-«Wo na mixi mato, naxan mu nu a xaxili tixi Ala ra. A naxa la a xa naafuli ra, a a yɛtɛ kanta a xa yanfanteya ra. N i tantuma nɛ abadan i xa wali xa fe ra. N xaxili tixi i xili fanyi nan na i xa danxaniyatɔɛe tagi, barima i fan.
-
+Tinxintɔɛ naxee findima seedee ra e fama yelede na kanyi ma yi ki nɛ,
+«Wo na mixi mato, naxan mu nu a xaxili tixi Ala ra. A naxa la a xa naafuli ra, a a yɛtɛ kanta a xa yanfanteya ra.
+Kɔnɔ, n tan naxan laxi Ala xa hinnɛ ra, n ma fe birin na sɔɔnɛyafe alɔ Oliwi wuri tofanyi naxan na Ala xɔnyi.»
+N i tantuma nɛ abadan i xa wali xa fe ra. N xaxili tixi i xili fanyi nan na i xa danxaniyatɔɛe tagi, barima i fan.
 Dawuda xa lɔnni bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba xule xui ra.
 Xaxilitare a falama a bɔɲɛ kui, «Ala mu na.» E fe haramuxie rabama, e mu tinxin. Mixi yo mu na naxan fe fanyi rabama.
 Ala a ya ragoroma adamadie ma kelife ariyanna, a xa e mato xa xaxilima nde na na naxan Ala fenma.
 Kɔnɔ birin bara makuya Ala ra, e nu fe ɲaaxi raba. Hali mixi keren mu na naxan fe fanyi rabama.
 Tinxintaree xaxili mu na? E nu n ma ɲama tɔɔrɔ tun. E mu Ala xilima feo.
-E fama sɛrɛnde gaaxui ra na nan ma, barima Ala fama na mixi mɔɔlie rayensende, naxee wama wo tɔɔrɔfe. Nde kelima Siyon a xa Isirayila rakisi? Ala na a xa ɲama ramini konyiya kui, Yaxuba bɔnsɔɛ sɛɛwama nɛ, Isirayila ɲɛlɛxinma nɛ.
-
-
+E fama sɛrɛnde gaaxui ra na nan ma, barima Ala fama na mixi mɔɔlie rayensende, naxee wama wo tɔɔrɔfe.
+Nde kelima Siyon a xa Isirayila rakisi? Ala na a xa ɲama ramini konyiya kui, Yaxuba bɔnsɔɛ sɛɛwama nɛ, Isirayila ɲɛlɛxinma nɛ.
 Dawuda xa lɔnni bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba kɔra xui ra.
 Sifikae to a fala Sɔlu bɛ a Dawuda a nɔxunxi e xɔnyi, Dawuda naxa yi bɛɛti ba.
 Ala, n nakisi i xili ra, n ma kiiti sa i sɛnbɛ ra.
 Ala, n ma dubɛ suxu, i tuli mati n ma wɔyɛnyi ra.
 Xɔɲɛ ndee bara keli n xili ma, mixi kobi naxee wama n faxafe. E mu Ala kolon fefe ma. Ɲɛngi rate.
-Ala n malima, n Marigi tima n bun ma. N bara a ɲanige n xa sɛrɛxɛ ba i bɛ. Alatala, n i xili tantuma nɛ barima i fan,
-A n yaxuie xa kobiɲa sare ragbilenma e ma. I xa e halaki i xa dugutɛgɛɲa kui. i man n nakisima n ma tɔɔrɛ kui, n fa nɔ n yaxuie ra.
-
+Ala n malima, n Marigi tima n bun ma.
+A n yaxuie xa kobiɲa sare ragbilenma e ma. I xa e halaki i xa dugutɛgɛɲa kui.
+N bara a ɲanige n xa sɛrɛxɛ ba i bɛ. Alatala, n i xili tantuma nɛ barima i fan,
+i man n nakisima n ma tɔɔrɛ kui, n fa nɔ n yaxuie ra.
 Dawuda xa lɔnni bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba kɔra xui ra.
 Ala, n ma dubɛ suxu, i naxa i nɔxun n ma maxandi ma.
 I tuli mati n na, i xa n yaabi. Xanmɛri nun gaaxui bara gɛ n suxude
@@ -14792,8 +14791,8 @@ N yaxuie to wuya, a bara n natanga na gere ma.
 Ala naxan na a xa kibanyi kui kabi a fɔlɛ, a a tuli matima n na, a fa n yaxuie rabira, Ɲɛngi rate barima e tondixi tuubide. E mu gaaxu Ala ya ra.
 Yi mixie bara e bore gere, e saatɛ kana.
 E dɛ iɲɔxun alɔ xiɲɛ, kɔnɔ gere na e bɔɲɛ kui. E xa wɔyɛnyi salaxun alɔ ture, kɔnɔ e mixi tɔɔrɔma alɔ santidɛgɛma naxan baxi a tɛɛ i.
-I xa i xaxili ti Alatala ra, a i malima nɛ. A mu tinma tinxintɔɛ xa bira. Ala, yi geresoe nun yi yanfantee xanin aligiyama. I naxa e xa simaya kɔnti rakamali. Ala, n bara n taxu i ra.
-
+I xa i xaxili ti Alatala ra, a i malima nɛ. A mu tinma tinxintɔɛ xa bira.
+Ala, yi geresoe nun yi yanfantee xanin aligiyama. I naxa e xa simaya kɔnti rakamali. Ala, n bara n taxu i ra.
 Dawuda xa suuki bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili, «Ganbɛ na wuri makuye fari.» A a ba Filisitakae a suxu tɛmui naxɛ Gati.
 Ala, hinnɛ n na barima mixie na n gerefe. E gere tima n bɛ tɛmui birin.
 N yaxuie fɛɛɲɛnma gere ra. Ala Xungbe, n gerefae bara wuya.
@@ -14806,8 +14805,8 @@ I n ma duniɲɛigiri kolon, i n yaye toxi. N ma tɔɔrɛ birin sɛbɛxi i yi ra.
 N na i xili tɛmui naxɛ, n yaxuie gbilenma nɛ n fɔxɔ ra. N a kolon n nun Ala na a ra.
 N Ala xa wɔyɛnyi matɔxɔma, n Alatala xa masenyi matɔxɔma.
 N mu gaaxuma sɔnɔn, barima n bara la Ala ra. Ibunadama gbansan nɔma munse rabade n na?
-Ala, n xa n ma laayidi rakamali i bɛ, n ma tantui sɛrɛxɛe ra, barima i bara n natanga faxɛ ma. I mu tin n xa bira, alako n xa ɲɛrɛ i xa kira xɔn ma yi bɛndɛ fuɲi fari.
-
+Ala, n xa n ma laayidi rakamali i bɛ, n ma tantui sɛrɛxɛe ra,
+barima i bara n natanga faxɛ ma. I mu tin n xa bira, alako n xa ɲɛrɛ i xa kira xɔn ma yi bɛndɛ fuɲi fari.
 Dawuda xa suuki bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «I naxa halaki ti.» Dawuda naxa yi ba a to a gi Sɔlu ma, a sa so fɔnmɛ kui.
 Ala, hinnɛ n na, yandi i xa hinnɛ n na. N maratangɛ fenma i yire alɔ tɔxɛyɔrɛ a fenma a nga gabutenyi bun ma ki naxɛ han fe xɔrɔxɔɛ xa dangi.
 N bara Ala Xili Xungbe Kanyi maxandi naxan n ma fe birin sɔɔnɛyama.
@@ -14818,8 +14817,8 @@ E bara yɛlɛ ti n ya ra, a gbe mu luxi n xa so a ra. E bara yili ge n ya ra, k�
 Ala, n bɔɲɛ bara limaniya, n bara limaniya sɔtɔ. N bɛɛti bama nɛ, n i tantuma nɛ.
 N bɔɲɛ bara keli n na, n xa n ma kɔrae tongo, n xa bɛɛti ba han subaxɛ.
 Marigi, n i tantuma nɛ sie tagi. N bɛɛti bama nɛ i bɛ bɔnsɔɛe tagi.
-I xa hinnɛ koore lima nɛ, i xa tinxinyi tema nɛ han nuxuie. Ala, i xa i xa binyɛ masen koore ma, i xa a masen bɔxi ma.
-
+I xa hinnɛ koore lima nɛ, i xa tinxinyi tema nɛ han nuxuie.
+Ala, i xa i xa binyɛ masen koore ma, i xa a masen bɔxi ma.
 Dawuda xa suuki bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «I naxa kasarɛ ti».
 Wo xa wɔyɛnyi mu tinxin. Adamadie, wo nɔma kiiti sade nɔndi ra?
 Ade, wo fe ɲaaxi rabama wo bɔɲɛ kui, wo fe ɲaaxi rabama yi bɔxi ma, wo mixi ratantanma duniɲa ma.
@@ -14830,8 +14829,8 @@ Ala, i xa e ɲinyi kana e dɛ i, barima e luxi nɛ alɔ yɛtɛ. Alatala, i xa e 
 E ɲɔnma nɛ alɔ ye naxan ifilima bɔxi. E xa tanbɛ mu ɲɛrɛma sɛnbɛ ra.
 A luma alɔ boe naxan fate lɔɛma lingi kui. A luma alɔ di naxan baxi a nga fate i, a mu foye to.
 Beenun tunde xa fura yege malinsinxi ra, xa na mu a ra yege xare ra, Ala e kɔma nɛ, a e wɔlɛ a i.
-Mixi tinxinxi fama ɲɛlɛxinde barima a fama gbeɲɔxɔɛ sɔtɔde. A fama a sanyi maxade mixi ɲaaxi wuli ra. Adamadie fama a falade, «Iyo, Ala mixi tinxinxi sare fima. Iyo, Ala kiiti sama nɛ duniɲa ma.»
-
+Mixi tinxinxi fama ɲɛlɛxinde barima a fama gbeɲɔxɔɛ sɔtɔde. A fama a sanyi maxade mixi ɲaaxi wuli ra.
+Adamadie fama a falade, «Iyo, Ala mixi tinxinxi sare fima. Iyo, Ala kiiti sama nɛ duniɲa ma.»
 Dawuda xa suuki bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «I naxa halaki ti». A naxa a ba Sɔlu to sɔɔrie xɛɛ e xa Dawuda faxa a xa banxi kui.
 N Marigi Ala, n natanga n yaxuie ma. N ma fe xa te dangife n yaxuie xa fe ra.
 N natanga tinxintaree ma. N nakisi faxɛtie ma,
@@ -14848,9 +14847,8 @@ E yunubi rabama e xa wɔyɛnyie ra. I xa e suxu e xa yɛtɛ igboɲa kui. E dank�
 I xa e raɲɔn i xa xɔnɛ ra, alako e naxa to sɔnɔn, alako e xa a kolon Ala nan Mangɛ ra Yaxuba bɔnsɔɛ nun duniɲa birin xun ma. Ɲɛngi rate.
 E fama kɔɛ ra alɔ bare xaaɲɛe e fa taa rabilin.
 Baree donse fenma yire birin kɔɛ ra, kɔnɔ e mu lugama.
-N i sɛnbɛ matɔxɔma bɛɛti ra. N i xa hinnɛ matɔxɔma gɛɛsɛgɛ, barima n ma kantama nan i ra, i n kantama n ma tɔɔrɛ kui. N ma sɛnbɛma, n bɛɛti bama i bɛ. N Marigi Ala nan n kantama ra, n Marigi Ala nan n hinnɛma n na.
-
-
+N i sɛnbɛ matɔxɔma bɛɛti ra. N i xa hinnɛ matɔxɔma gɛɛsɛgɛ, barima n ma kantama nan i ra, i n kantama n ma tɔɔrɛ kui.
+N ma sɛnbɛma, n bɛɛti bama i bɛ. N Marigi Ala nan n kantama ra, n Marigi Ala nan n hinnɛma n na.
 Dawuda xa lɔnni suuki bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «Fuge tofanyi alɔ Ala xa saatɛ.»
 Isirayila to Sirenikae gere, e yi bɛɛti ba na tɛmui nɛ. E nu kelixi Mesopotamiya nun Soba bɔxi ma. Yowaba naxa Edonka wulu fu nun firin faxa fole kui fɔxɔɛ na dɛnnaxɛ.
 Ala, i bara muxu ralɔɛ, i bara nde ba muxu xa gali ra, i bara xɔnɔ muxu ma, kɔnɔ yakɔsi, i xa sɛnbɛ fi muxu ma.
@@ -14861,9 +14859,10 @@ I xa i xanuntenyie rakisi i sɛnbɛ ra, i xa muxu xa dubɛ suxu.
 Ala xa masenyi nan ya, a naxan falaxi hɔrɔmɔbanxi sɛniyɛnxi kui, «N Sikemi taa fima nɛ wo ma xunnakeli kui, n Sukɔti geya lanbanyi fan fi wo ma.
 Galadi bɔxi, n gbe. Manasi bɔxi, n gbe. Efiramikae nan findima n ma geresoe ra. N mangɛ dɔxɔma nɛ Yudaya.
 Mowabakae findima n ma konyie nan na. Edon findi n ma bɔxi ra. N gere xui ratema nɛ Filisita.»
-Ala, nde nɔma n xaninde na taa makantaxi kui? Nde nɔma n xaninde han Edon bɔxi ma? Muxu mali muxu yaxuie gerede. Adamadi xa mali, sese mu a ra,
-I tan gbansan, i tan naxan muxu ralɔɛ, i tan naxan mu nu na muxu xa sɔɔrie sɛɛti ma. kɔnɔ Ala xa mali tan fama muxu yaxui birin halakide.
-
+Ala, nde nɔma n xaninde na taa makantaxi kui? Nde nɔma n xaninde han Edon bɔxi ma?
+I tan gbansan, i tan naxan muxu ralɔɛ, i tan naxan mu nu na muxu xa sɔɔrie sɛɛti ma.
+Muxu mali muxu yaxuie gerede. Adamadi xa mali, sese mu a ra,
+kɔnɔ Ala xa mali tan fama muxu yaxui birin halakide.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba kɔra xui ra.
 Ala, i tuli mati n ma maxandi ra. N ma maxandi ramɛ.
 N i maxandima kelife ra bɔxi makuye. N bɔɲɛ mu saxi. N xanin geya fari naxan ite dangife n na.
@@ -14871,8 +14870,8 @@ I findixi n bɛ yire nan na n kantaxi dɛnnaxɛ n yaxuie ya i.
 N wama lufe i xɔnyi tɛmui birin. N wama lufe i xa kantari kui, alɔ xɔni yɔrɛ luma a nga gabutenyi bun ma ki naxɛ.
 N Marigi Ala, i bara i tuli mati n ma maxandi ra. I bara kɛ fi n ma, nun mixi birin ma naxee gaaxuxi i xili ya ra.
 Mangɛ xa simaya xunmasa, alako a xa bu a gbegbe ra.
-A xa mangɛya xa bu i ya i tɛmui birin, I xa hinnɛ a ra, i xa findi a dugutɛgɛ ra. Iyo, n mu taganma bɛɛti bafe ra i xili binye bɛ, barima i n ma maxandi yaabima tɛmui birin.
-
+A xa mangɛya xa bu i ya i tɛmui birin, I xa hinnɛ a ra, i xa findi a dugutɛgɛ ra.
+Iyo, n mu taganma bɛɛti bafe ra i xili binye bɛ, barima i n ma maxandi yaabima tɛmui birin.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ Yedutun bɛ
 N bɔɲɛ saxi Ala nan saabui ra, n ma kisi fatanxi a tan nan na.
 A luxi n bɛ alɔ fanye, n ma marakisima nun n makantama nan a ra. N mu nɔma birade sɔnɔn.
@@ -14884,8 +14883,8 @@ N ma kisi nun n ma binyɛ na Ala nan yi. Ala n makantama nan a ra, n yigi tide n
 Ɲama, wo xa wo taxu a ra, wo xa wo xa kɔntɔfili masen a bɛ. A tan nan nɔma won malide. Ɲɛngi rate.
 Adamadie luma alɔ foye naxan dangima. Mixi xungbe findima mixi xuri ra, Xa e xa fe bara maniya, a yelebu alɔ foye.
 Wo naxa harige fen fe kobi ra, wo naxa a fen muɲɛ ra. Xa wo xa naafuli sa gbo, wo naxa wo xaxili ti na ra.
-Ala bara fe firin fala n naxee mɛxi. Keren, sɛnbɛ na Ala bɛ. A firin nde, n Marigi nan hinnɛnte ra, barima a mixie sare ragbilenma e ma.
-
+Ala bara fe firin fala n naxee mɛxi. Keren, sɛnbɛ na Ala bɛ.
+A firin nde, n Marigi nan hinnɛnte ra, barima a mixie sare ragbilenma e ma.
 Dawuda xa bɛɛti, a naxan ba Yudaya, a to nu gbengberenyi ma tɛmui naxɛ
 Ala nan n Marigi ra. Ala n i fenma, barima n hayi na i ma, alɔ fate hayi to na ye ma gbengberenyi ma.
 N luma i xa hɔrɔmɔbanxi kui alako n xa i sɛnbɛ nun i xa binyɛ to.
@@ -14896,8 +14895,8 @@ N na n sa n i xa fe maɲɔxunma kɔɛ birin,
 barima i tan nan n malima. N sɛɛwama nɛ i niini bun ma.
 N nii bara fatu i ma, i bɛlɛxɛ luma nɛ n bun ma.
 Naxee katama n faxade, e tan nan faxama.
-Santidɛgɛma fama nɛ e sɔxɔde, wulai baree fa e ibɔɔde. Mangɛ sɛɛwama nɛ Ala xa fe ra. Naxee e kalima Ala xili ra, nee fama nɛ a matɔxɔde. Kɔnɔ wule falɛe dɛe balanma nɛ.
-
+Santidɛgɛma fama nɛ e sɔxɔde, wulai baree fa e ibɔɔde.
+Mangɛ sɛɛwama nɛ Ala xa fe ra. Naxee e kalima Ala xili ra, nee fama nɛ a matɔxɔde. Kɔnɔ wule falɛe dɛe balanma nɛ.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Ala, i tuli mati n wa xui ra, N natanga n yaxuie ma.
 N nɔxun mixi ɲaaxie ma naxee wama n tɔɔrɔfe tinxintareya kui.
@@ -14907,8 +14906,8 @@ E dɛ kobi, e yɛlɛ italama mixi ya ra. E naxɛ, «Nde na kolonma?»
 E yanfanteya yailanma, e a fala, «Won xa keli a yanfa xili ma. A sɔɔnɛyama nɛ.» Adama xa maɲɔxunyi tilin.
 Kɔnɔ Ala na tanbɛe woli, e e lima nɛ keren na.
 E bara wule fala. Naxee e toma, e e gima nɛ.
-Na gaaxui adama birin suxuma nɛ. E Ala xa wali masenma, e a xa wali kolonma nɛ. Tinxintɔɛ sɛɛwama nɛ Alatala ra, a fa lu a niini bun ma. Sondon fanyi kanyi ɲɛlɛxinma nɛ.
-
+Na gaaxui adama birin suxuma nɛ. E Ala xa wali masenma, e a xa wali kolonma nɛ.
+Tinxintɔɛ sɛɛwama nɛ Alatala ra, a fa lu a niini bun ma. Sondon fanyi kanyi ɲɛlɛxinma nɛ.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Matɔxɔɛ na i tan Ala bɛ Siyoni geya fari. Muxu laayidi naxan tongoxi i bɛ, muxu na birin nakamalima nɛ.
 Ala, i muxu xa maxandi birin mɛma nɛ. Duniɲa birin fama nɛ birade i fɔxɔ ra.
@@ -14921,7 +14920,8 @@ Duniɲa birin gaaxuma nɛ i xa kaabanakoe ya ra. Kelife sogetede han sogegorode,
 I bɔxi mɛɛni, a a rafe fe fanyi ra. I xure rafema ye ra alako mixie xa baloe sɔtɔ.
 I tunɛ ye sama bɔxi ma alako bɔxi xa bɔrɔxɔ sansi bɛ. I barakɛ sama xɛ ma, a xa fan.
 Xɛ xaba tɛmui i fe fanyi raminima nɛ. I xa sansi sase rafema nɛ, han a fili a ma.
-Gbengberenyi fiilie nun geyae fanma nɛ. Xurusee yiriwama nɛ fiili ma. Sansi yiriwama nɛ geya bunyie. Na birin, Ala xa fe fanyi nan masenma won bɛ sɛɛwɛ kui.
+Gbengberenyi fiilie nun geyae fanma nɛ.
+Xurusee yiriwama nɛ fiili ma. Sansi yiriwama nɛ geya bunyie. Na birin, Ala xa fe fanyi nan masenma won bɛ sɛɛwɛ kui.
 Adamadie birin xui xa ite sɛɛwɛ ra Ala bɛ.
 Wo xa a xili binya bɛɛti ra, wo xa a binya matɔxɔɛ ra.
 Wo xa a fala Ala bɛ, «I xa kaabanakoe magaaxu. I sɛnbɛ gbo han. Hali i yaxuie sɛrɛnma i ya ra.
@@ -14942,15 +14942,14 @@ N bara a xili, n bara a matɔxɔ.
 Xa yanfanteya nu na n bɔɲɛ kui nu, n Marigi mu nu a tuli matima n na.
 Kɔnɔ Ala bara n xui ramɛ, a n ma dubɛ suxu.
 Tantui na Ala bɛ naxan bara n ma maxandi xui mɛ, a man bara hinnɛ n na.
-
 Bɛɛti nun suuki bɛɛtibae xa mangɛ bɛ. A xa ba kɔra xui ra.
 Ala xa hinnɛ won na, Ala xa barakɛ ragoro won ma, Ala xa naiyalanyi xa yanba won ma, Ɲɛngi rate
 alako a xa kirae xa kolon duniɲa ma, alako si birin xa a xa marakisi kolon.
 Ala, sie xa i tantu, si birin xa i tantu.
 E xa bɛɛti ba ɲɛlɛxinyi kui, barima i sie makiitima nɔndi ra, i tan nan e raɲɛrɛma yi duniɲa bɛndɛ fuɲi fari. Ɲɛngi rate.
 Ala, sie xa i tantu, si birin xa i tantu.
-Bɔxi bara daxamui ramini won bɛ, tantui na won Marigi Ala bɛ. Ala xa barakɛ sa won ma, duniɲa birin xa gaaxu a ya ra.
-
+Bɔxi bara daxamui ramini won bɛ, tantui na won Marigi Ala bɛ.
+Ala xa barakɛ sa won ma, duniɲa birin xa gaaxu a ya ra.
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Ala xa keli, a yaxuie xa yensen yɛ. Naxee a xɔnma, e xa e gi a ya ra.
 I i yaxuie ralɔɛma nɛ alɔ foye tɛ tuuri ralɔɛma ki naxɛ. Kaafiri lɔɛma nɛ Ala ya i, alɔ ture xunuma tɛ i ki naxɛ.
@@ -14985,8 +14984,8 @@ I xa xaaɲɛ Misira ma, naxan maniyɛ mali xungbe ra naxan na ye xɔɔra. A luma
 Misira xɛɛrae, a nun Kusi xɛɛrae, xa fa duuti ra Ala bɛ.
 Mangɛ naxee birin na duniɲa, nun a rabilinyi, wo xa bɛɛti ba Ala bɛ, wo xa Alatala tantu,
 naxan ɲɛrɛma nuxui fari koore ma kabi a rakuya, naxan galanyi xui raminima sɛnbɛ ra.
-Wo xa a kolon, Ala sɛnbɛ gbo. A Isirayila yamarima a sɛnbɛ ra, sɛnbɛ naxan kelima koore ma. Ala, i na i xa hɔrɔmɔlingira kui. Ala, i magaaxu. Isirayila Marigi Ala sɛnbɛ fima nɛ a xa ɲama ma. Ala tantu!
-
+Wo xa a kolon, Ala sɛnbɛ gbo. A Isirayila yamarima a sɛnbɛ ra, sɛnbɛ naxan kelima koore ma.
+Ala, i na i xa hɔrɔmɔlingira kui. Ala, i magaaxu. Isirayila Marigi Ala sɛnbɛ fima nɛ a xa ɲama ma. Ala tantu!
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili, «Fuge tofanyie.»
 Ala, n nakisi! Ye bara te han n kɔnyi.
 N na birife boora tilinxi kui, n sanyi mu tide yo sɔtɔfe. N na madulafe ye xɔɔra.
@@ -15022,13 +15021,14 @@ Na rafan Alatala ma dangife sɛrɛxɛ ra, hali ninge kamalixi na a ra, hali tuur
 Tɔɔrɔmixie sɛɛwama nɛ na tofe ra. Naxee Ala fenma, e simaya xɔnkuye sɔtɔma nɛ.
 Alatala a tuli matima setaree ra, a mu nɛɛmuma a xa mixie ma e xa tɔɔrɛ kui.
 Koore nun bɔxi xa a matɔxɔ, baa nun yɛxɛɛe xa a binya.
-Ala fama Siyoni rakiside, a Yuda taae tima nɛ. A man ɲama sabati naa, naa xa findi e gbe ra. Na findima a xa konyie xa mamadie kɛ nan na. Ala xanuntenyie fama nɛ lude naa.
-
+Ala fama Siyoni rakiside, a Yuda taae tima nɛ. A man ɲama sabati naa, naa xa findi e gbe ra.
+Na findima a xa konyie xa mamadie kɛ nan na. Ala xanuntenyie fama nɛ lude naa.
 Dawuda xa maxandi bɛɛti bɛɛtibae xa mangɛ bɛ
 Ala, n nakisi! Alatala, fa n mali mafuren.
 Ala xa mixie rayaagi naxee wama n faxafe. Ala xa e keri, Ala xa e ya ifu, naxee wama n tɔɔrɔfe.
 Ala xa e keri yaagi kui, naxee a falama n bɛ, «I xa tɔɔrɔ!»
-I fenmae xa sɛɛwa. Naxee wama i xa kisi xɔn, e xa Ala matɔxɔ tɛmui birin. Ala, n findixi misikiinɛ nun tɔɔrɔmixi nan na, fa n mali, i naxa dugundi.
+I fenmae xa sɛɛwa. Naxee wama i xa kisi xɔn, e xa Ala matɔxɔ tɛmui birin.
+Ala, n findixi misikiinɛ nun tɔɔrɔmixi nan na, fa n mali, i naxa dugundi.
 Alatala, n kantama na i tan nan na, i naxa tin n xa lu yaagi kui.
 I xa n nakisi, i xa n mali i xa tinxinyi kui. I tuli mati n na, i n nakisi.
 I xa n kanta. I bara a fala n bɛ n xa lu i xa niini bun ma tɛmui birin, alako n xa kisi. N kantama na i tan nan na.
@@ -15124,7 +15124,6 @@ I xa i ɲɔxɔ sa i xa saatɛ ma, barima fe kobie bara gbo yi bɔxi ma han a bar
 I naxa tɔɔrɔmixie lu e xa yaagi kui. Misikiinɛe nun setaree xa i xili matɔxɔ.
 Ala, i xa keli i xili xunmafalafe ra. I xa ratu xaxilitare xa mabere ma.
 I naxa nɛɛmu i yaxuie xa wɔyɛnyie ma, i naxa nɛɛmu i gerefae xa sɔnxɔɛ ma naxan mu ɲɔnma.
-
 Asafi xa bɛɛti bɛɛtibae mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «I naxa kasarɛ ti.»
 Muxu Marigi Ala, muxu bara i matɔxɔ. Matɔxɔɛ na i bɛ, i tan naxan na muxu sɛɛti ma, i tan naxan xa kaabanakoe falama yire birin.
 I naxɛ, «N ma waxati sugandixi na a li, n tan nan kiiti sama tinxinyi ra.
@@ -15134,8 +15133,8 @@ Wo naxa wo xunyi ite koore ma, wo ba yɛtɛ igboɲa wɔyɛnyi falafe ra.›»
 Wo xa a kolon xunnakeli mu kelima sogetede, a mu kelima sogegorode, a mu kelima gbengberenyi ma.
 Ala nan kiiti sama, a mixi nde xa fe ragoro, a mixi nde xa fe ite.
 Tɔnbili nde na Alatala xɔnyɛ, wɛni xaaɲɛ rafalaxi na naxan kui. A na soma duniɲa mixi ɲaaxie nan yi, e a min han a ɲɔn.
-N na masenyi tima tɛmui birin, n Yaxuba Marigi Ala matɔxɔma bɛɛti ra. «N mixi ɲaaxie xa yɛtɛ igboɲa xun nakanama nɛ, n tinxintɔɛe xun nakeli.»
-
+N na masenyi tima tɛmui birin, n Yaxuba Marigi Ala matɔxɔma bɛɛti ra.
+«N mixi ɲaaxie xa yɛtɛ igboɲa xun nakanama nɛ, n tinxintɔɛe xun nakeli.»
 Asafi xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba kɔra xui ra.
 Ala kolonxi Yudaya bɔxi ma, a xili gbo Isirayila.
 A xɔnyi na Salamu, a xa banxi na Siyon.
@@ -15147,8 +15146,8 @@ I magaaxu! I xa xɔnɛ kui, nde suusama i ya ra?
 I to kiiti sa koore ma, duniɲa naxa sabari gaaxui kui.
 I xa kiiti naxa tɔɔrɔmixie rakisi.
 I xa xɔnɛ ibunadama mabiri findixi i matɔxɔɛ nan na. I xa bɔɲɛte luxi nɛ alɔ bɛlɛti i i tagi ixirima naxan na gere kui.
-Wo xa wo xa daakan nakamali wo Marigi Alatala bɛ, wo xa fa sɛrɛxɛe ra a xɔn ma, wo tan naxee birin a rabilinxi. A tan nan ɲɛngi bama sɛnbɛmae fate i, a magaaxu duniɲa mangɛe bɛ.
-
+Wo xa wo xa daakan nakamali wo Marigi Alatala bɛ, wo xa fa sɛrɛxɛe ra a xɔn ma, wo tan naxee birin a rabilinxi.
+A tan nan ɲɛngi bama sɛnbɛmae fate i, a magaaxu duniɲa mangɛe bɛ.
 Asafi xa bɛɛti bɛɛtibae xa mangɛ Yedutun bɛ
 N nan n xui ratefe Ala nan ma. A a tuli matima nɛ n xui ra.
 Lɔxɔ xɔrɔxɔɛe na fa n ma, n nan n Marigi xilima nɛ. Kɔɛ ra, n nan n bɛlɛxɛ itala a bɛ, kɔnɔ n mu madundui sɔtɔma.
@@ -15168,7 +15167,8 @@ I i xa ɲama xun saraxi i sɛnbɛ nan na, Yaxuba nun Yusufu xa mamadie.
 Ala, baa xungbe to i to, a dulonyi naxa sɛrɛn.
 Nuxuie naxa ye gbegbe ragoro, galanyi naxa bula koore ma, seyamakɔnyie naxa lu alɔ tanbɛ wolixie.
 I xa sarinyi xui naxa bula, seyamakɔnyi naxa duniɲa iyalan, bɔxi naxa a imaxa, a sɛrɛn.
-I naxa kira rabɔɔ baa ma, i dangi ye xungbe tagi, kɔnɔ i fɔxi mu to. I naxa i xa ɲama raɲɛrɛ alɔ xuruse gɔɔrɛ Annabi Munsa nun Haruna saabui ra.
+I naxa kira rabɔɔ baa ma, i dangi ye xungbe tagi, kɔnɔ i fɔxi mu to.
+I naxa i xa ɲama raɲɛrɛ alɔ xuruse gɔɔrɛ Annabi Munsa nun Haruna saabui ra.
 Asafi xa lɔnni bɛɛti N ma ɲama, wo wo tuli mati n ma xaranyi ra, wo wo, tuli mati n ma masenyi ra.
 N misaali nde falama wo bɛ, n fe dangixie madɔxɔ,
 muxu fe naxee mɛ, muxu fe naxee kolon, muxu babae saabui ra.
@@ -15254,7 +15254,6 @@ Munfe ra ɲamanɛe a falama, «E Marigi Ala na minden?» E xa a kolon i fama i x
 I xa i tuli mati geelimanie wa xui ra, i sɛnbɛ xa nee rakisi naxee xa kiitisae wama e faxafe.
 N Marigi, i xa sare dɔxɔ solofere ragbilen na sie ma, naxee bara i bɛxu.
 Na kui, muxu tan i xa ɲama fan fama nɛ i batude, muxu tan i xa xurusee fama nɛ i xa matɔxɔɛ masende muxu bɔnsɔɛ bɛ abadan.
-
 Asafi xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba alɔ bɛɛti naxan xili «Fuge tofanyie alɔ Ala xa saatɛ.»
 Isirayila kantama, i i tuli mati n na, i tan naxan Yusufu bɔnsɔɛ raɲɛrɛma alɔ xuruse gɔɔrɛ. I xa i xa nɔrɛ masen, i tan naxan magoroxi malekɛ masolixie tagi.
 I sɛnbɛ ramini Efirami, Bunyamin, nun Manasi bɔnsɔɛ ya i, i xa muxu rakisi.
@@ -15273,8 +15272,8 @@ Mangɛ Ala yandi, i xa gbilen fa ra, i ya ragoro muxu ma keli koore, i muxu mato
 i naxan si i yɛtɛ bɛ i bɛlɛxɛ ra.
 Yakɔsi a bara gan, a sɛgɛ i xa xɔnɛ saabui ra.
 I bɛlɛxɛ xa lu Adama xa Di ma, naxan na i yirefanyi ma, i naxan xun nakelixi.
-Muxu mu muxu makuyama i ra sɔnɔn. I xa kisi fi muxu ma alako muxu man xa i batu. Mangɛ Ala, i xa muxu ragbilen, i xa hinnɛ muxu ra alako muxu xa kisi sɔtɔ.
-
+Muxu mu muxu makuyama i ra sɔnɔn. I xa kisi fi muxu ma alako muxu man xa i batu.
+Mangɛ Ala, i xa muxu ragbilen, i xa hinnɛ muxu ra alako muxu xa kisi sɔtɔ.
 Asafi xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba maxase luuti daaxi xui ra.
 Wo xa sɛɛwa xui rate Ala ma, naxan findixi won sɛnbɛ ra. Wo wo xui rasiga Yaxuba Marigi Ala ma.
 Wo xa bɛɛti ba maxase nun kɔra xui ra.
@@ -15290,7 +15289,8 @@ N tan nan na wo Marigi Ala ra, naxan wo ramini Misira bɔxi ra. Wo wo dɛ rabi a
 Na kui n naxa e lu e xa bɔɲɛ xɔrɔxɔya kui, e xa ɲɛrɛ e yɛtɛ xaxili ma.
 Xa a sa li nu n ma ɲama naxa a tuli mati n na, xa Isirayila sa tin n ma kira ra nu,
 n fama nɛ a yaxui birin nayaagide keren na, n e ragoro tɛmui birin.
-Alatala yaxuie fama gaaxude a ya ra, e halaki abadan. Kɔnɔ n wo tan baloma nɛ donse fanyi ra, n kumi raminima nɛ gɛmɛ kui wo bɛ.»
+Alatala yaxuie fama gaaxude a ya ra, e halaki abadan.
+Kɔnɔ n wo tan baloma nɛ donse fanyi ra, n kumi raminima nɛ gɛmɛ kui wo bɛ.»
 Asafi xa bɛɛti Ala tixi a xa malanyi ya ra, a kiiti safe koore sɛnbɛmae ya ma.
 «Wo kiiti sama kobiɲa ra han mun tɛmui? Wo nɔndi fima mixi ɲaaxie ma munfe ra?
 Wo xa misikiinɛe nun kiridie xa kiiti sa sɛriyɛ ki ma. Wo xa setaree nun fuxarilae ratanga kiiti ɲaaxi ma.
@@ -15299,7 +15299,6 @@ Kɔnɔ e mu fahaamui sɔtɔ na fefe ma. E e ɲɛrɛma dimi nan kui tun. Duniɲa 
 N a fala nɛ, «Koore sɛnbɛmae nan wo ra, Ala Xili Xungbe Kanyi xa die nan wo birin na,
 kɔnɔ wo faxama nɛ alɔ adamadie, wo birama nɛ alɔ duniɲa mangɛe.»
 I tan Ala, keli, i xa duniɲa makiiti, barima i tan nan gbe na sie birin na.
-
 Asafi xa bɛɛti
 Ee Ala, i naxa i sabari! Ala, i naxa lu dundui kui,
 barima i yaxuie mu e raxaraxi, i xɔnmae bara e xunyie ikeli.
@@ -15317,8 +15316,8 @@ N Marigi Ala, i xa na mixie lu alɔ sɛxɛ, foye naxan xaninma.
 I xa e xun nakana alɔ tɛ fɔtɔnyi ganma ki naxɛ geyae fari.
 I xa bira e fɔxɔ ra xɔnɛ kui alɔ turunnaadɛ magaaxuxi.
 Marigi, i xa e rayaagi alako e xa gbilen i ma.
-Yaagi nun gaaxui xa lu e bɔɲɛ ma, i xa e bɔnsɔɛ raɲɔn abadan. E xa a kolon a i tan nan xili Alatala, a Ala Xili Xungbe Kanyi na i tan nan na duniɲa xun na.
-
+Yaagi nun gaaxui xa lu e bɔɲɛ ma, i xa e bɔnsɔɛ raɲɔn abadan.
+E xa a kolon a i tan nan xili Alatala, a Ala Xili Xungbe Kanyi na i tan nan na duniɲa xun na.
 Kora xa die xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba maxase luuti daaxi xui ra.
 Mangɛ Alatala, i xa lingira tofan!
 N wama sofe i xa tɛtɛ kui n bɔɲɛ birin na. Na waxɔnyi minima n dɛ i i tan Ala nan bɛ, i tan naxan ɲiɲɛ a ra.
@@ -15330,8 +15329,8 @@ E keli yire fanyi nde, e siga yire fanyi gbɛtɛ. E na birin to nɛ kira xɔn si
 N Marigi Alatala Sɛnbɛma, n ma dubɛ suxu! Yaxuba Marigi Ala, i n ma maxandi ramɛ. Ɲɛngi rate.
 Ala, hinnɛ i xa mixi sugandixi ra naxan findixi muxu xa wure lefa ra.
 Xi keren nadangife i xa banxi kui, na ɲɔxun dangife xi wulu wulu ra yire gbɛtɛ. N lufe i xa banxi dɛ ra, na fan lufe ra tinxintaree xɔnyi,
-barima Ala Xungbe findixi won ma kantari nan na, a hinnɛ nun binyɛ fima nɛ won ma. A mu tondima tinxintaree kide hɛɛri ra. Marigi Sɛnbɛma, hɛɛri na mixi bɛ naxan a yɛtɛ taxuma i ra.
-
+barima Ala Xungbe findixi won ma kantari nan na, a hinnɛ nun binyɛ fima nɛ won ma. A mu tondima tinxintaree kide hɛɛri ra.
+Marigi Sɛnbɛma, hɛɛri na mixi bɛ naxan a yɛtɛ taxuma i ra.
 Kora xa die xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Marigi, i xanunteya masenma i xa ɲama bɛ, i Yaxuba bɔnsɔɛ xun nakelima.
 I diɲɛma i xa ɲama xa fe ɲaaxie ma, i a xa yunubie birin xafarima. Ɲɛngi rate.
@@ -15344,7 +15343,8 @@ N nan n tuli matima nɛ n Marigi Ala xa masenyi ra, barima a bɔɲɛsa nan fima 
 A kisi yati yati nan fima mixie ma naxee gaaxuma a ya ra, alako a xa nɔrɛ xa sabati won ma bɔxi kui.
 Dugutɛgɛɲa nun nɔndi na yire keren. Tinxinyi nun bɔɲɛsa ɲɛrɛma kira keren xɔn.
 Nɔndi kelima lanbanyi ma, tinxinyi kelima koore ma.
-Alatala hɛri fima nɛ won ma, alako won ma bɔxi xa daxamui ramini. Tinxinyi ɲɛrɛma a ya ra, a findi sanyi fɔxi ra kira xɔn ma.
+Alatala hɛri fima nɛ won ma, alako won ma bɔxi xa daxamui ramini.
+Tinxinyi ɲɛrɛma a ya ra, a findi sanyi fɔxi ra kira xɔn ma.
 Dawuda xa Ala maxandi Marigi, i i tuli mati n na, i xa n yaabi. Misikiinɛ fuxarixi na n na.
 I xa n makanta, i dugutɛgɛ na n na. N Marigi Ala, i xa i xa konyi di rakisi naxan a taxuxi i ra.
 Kinikini n ma, n Marigi, barima n i xilima lɔxɔɛ birin.
@@ -15369,7 +15369,6 @@ Mixie Ala xa taa matɔxɔma a fanyi ra Ɲɛngi rate.
 A falaxi Siyonikae xa fe ra, ‹E to barixi naa, Marigi Ala e makantama nɛ.›»
 Alatala bara a sɛbɛ sie xa buki kui, «Yi tan barixi naa.» Ɲɛngi rate.
 Bɛɛtibae a falama e xui itexi ra, «N ma saabui birin na i tan nɛ.»
-
 Kora xa die xa bɛɛti bɛɛtibae xa mangɛ bɛ. A xa ba xule ra. Heman Esiraka xa lɔnni bɛɛti.
 Marigi, n nakisima Ala, n i xilima yanyi nun kɔɛ ra.
 I xa n ma maxandi suxu, i xa n ma dubɛ tongo.
@@ -15387,8 +15386,8 @@ N Marigi, n tan i xilima, gɛɛsɛgɛ yo gɛɛsɛgɛ n i maxandima.
 Marigi, i tondima n bɛ munfe ra? I i kobe soma n na munfe ra?
 N na tɔɔrɛ kui kabi n dimɛdi tɛmui. N gaaxuxi, xaxilisa birin bara ba n yi ra.
 I xa xɔnɛ sɛnbɛ bara dangi a i, i xa fe magaaxuxie bara nɔ n na.
-E n nabilinxi alɔ banbaranyi, e dusu n xun na. I bara n xanuntenyie birin makuya n na, n dɔxɔboore bara keli n xun ma.
-
+E n nabilinxi alɔ banbaranyi, e dusu n xun na.
+I bara n xanuntenyie birin makuya n na, n dɔxɔboore bara keli n xun ma.
 Etani Esiraka xa lɔnni bɛɛti
 N bɛɛti bama n Marigi xa dugutɛgɛɲa xa fe ra. N na masenma nɛ bɔnsɔɛ birin bɛ, a falafe ra,
 «I xa dugutɛgɛɲa mabanbanxi koore ma abadan. I xa hinnɛ mu kanama.»
@@ -15440,7 +15439,8 @@ I xa ratu a ma n ma simaya dunke ki naxɛ. I ibunadama daaxi fuyan nan na?
 Nde baloxi naxan mu faxama? Nde nɔma a yɛtɛ bade saya kira xɔn ma?
 N Marigi, i xa dugutɛgɛɲa singe na minden, i i kali naxan na Dawuda bɛ i xa tinxinyi kui?
 N Marigi, i xa i ɲɔxɔ sa i xa konyie xa yaagi xɔn ma. I xa na kote to mixi wuyaxie naxan dɔxɔ n xun ma.
-N Marigi, i xa i ratu a ma i yaxuie n maberema ki naxɛ, n tan i xa mixi sugandixi. Tantui na Marigi bɛ abadan. Amina. Amina.
+N Marigi, i xa i ratu a ma i yaxuie n maberema ki naxɛ, n tan i xa mixi sugandixi.
+Tantui na Marigi bɛ abadan. Amina. Amina.
 Ala xa mixi Munsa xa Ala maxandi N Marigi, i tan findixi muxu kantama nan na abadan.
 Beenun geyae nun duniɲa xa daa, i tan nan nu na Ala ra abadan.
 I ibunadama ragbilenma bɛndɛ i. I na nan fala, «Adamadi xa gbilen bɛndɛ.»
@@ -15474,7 +15474,6 @@ I nɔma yɛtɛe nun bɔximasee ra, i sɛnbɛ dangi baratɛe nun biidae ra.
 Alatala xa masenyi nan ya: «A to laxi n na, n a rakisima nɛ. N a makantama nɛ barima a n xili kolon.
 A na n xili, n a yaabima nɛ. Tɔɔrɛ na a li, n luma nɛ a sɛɛti ma. N a rakisima nɛ, n a xun nakeli.
 N simaya xɔnkuye fima nɛ a ma, n na n ma kisi masen a bɛ.»
-
 Bɛɛti naxan bama malabui lɔxɔɛ
 Marigi batufe fe fanyi na a ra. Ala Xili Xungbe Kanyi, a lanma i xili xa matɔxɔ bɛɛti ra.
 Kuye iba, a lanma i xa xanunteya xa matɔxɔ, kɔɛ kui, muxu xa i tantu i xa dugutɛgɛɲa xa fe ra.
@@ -15489,7 +15488,8 @@ I sɛnbɛ fima nɛ n ma alɔ sɛxɛ ninge, i ture fanyi sa n ma.
 N yae a toma n gerefae xun goroma ki naxɛ, n tuli e gi xui mɛ.
 Tinxintɔɛe xa fe fanma nɛ alɔ tugi bili, e xa fe te alɔ sɛdiri wuri bili naxee na Liban.
 E sabatixi Alatala xa hɔrɔmɔbanxi tɛtɛ kui, e xa fe fanma nɛ won Marigi Ala ya i.
-Hali e forixi e xunsɛxɛ fiixɛxi, sɛnbɛ na e bɛ fe fanyi rabafe ra, alako e xa a masen, «Alatala tinxin, n tixi a xa sɛriyɛ nan fari, tinxintareya yo mu na a ma.»
+Hali e forixi e xunsɛxɛ fiixɛxi, sɛnbɛ na e bɛ fe fanyi rabafe ra,
+alako e xa a masen, «Alatala tinxin, n tixi a xa sɛriyɛ nan fari, tinxintareya yo mu na a ma.»
 Marigi Alatala nan na mangɛ ra. Xunnakeli na a yi, a sɛnbɛ gbo. A xa duniɲa xanxi, a mu sɛrɛnma.
 I xa mangɛya fɔlɛ mu na, a dan mu na. I tan nan na Ala ra abadan.
 Marigi, baa mɔrɔnyi rawunduma alɔ galanyi, galanyi naxan goroma, a bula.
@@ -15585,7 +15585,6 @@ N mixi dɛ balanma nɛ naxan a boore mafalama. N mu tinma yɛtɛ matɔxɔɛ nun 
 N na n ɲɔxɔ sama nɛ yi bɔxi dugutɛgɛe xɔn ma, alako e xa lu n sɛɛti ma. N wama tinxintɔɛe nan xɔn ma, e xa n mali.
 Yanfantee mu luma n ma mixie ya ma, wule falɛe mu tima n ya i.
 Gɛɛsɛgɛ birin n mixi kobie sɔntɔma nɛ, alako na mixi mɔɔli naxa lu Alatala xa taa kui.
-
 Tɔɔrɔmixi naxan Alatala maxandife a xa tɔɔrɛ kui.
 Alatala, i xa n ma maxandi suxu, i xa i tuli mati n wa xui ra.
 I naxa i kobe so n na n ma tɔɔrɛ kui. I xa n ma maxandi suxu mafuren.
@@ -15613,7 +15612,8 @@ A bara n ma sɛnbɛ ba n yi ra n ma duniɲɛigiri kui, a bara n ma simaya radunk
 N naxa a fala a bɛ, «N Marigi Ala, i naxa n nii ba n ma simaya tagi ra, i tan naxan buma abadan,
 I tan nan duniɲa daa, i tan nan koore itala i xɔnyɛ ra.
 E tan ɲɔnma nɛ, kɔnɔ i tan buma nɛ abadan, e birin forima nɛ alɔ sose, kɔnɔ i tan e masarama nɛ alɔ donma. I e masarama nɛ, alɔ donma naxan nagoroma, a wɔlɛ.
-Kɔnɔ i tan mu masarama, i mu ɲɔnma abadan. I xa konyie xa die fama nɛ sabatide be, e bɔnsɔɛ fa bu xaxilisa kui i ya i.»
+Kɔnɔ i tan mu masarama, i mu ɲɔnma abadan.
+I xa konyie xa die fama nɛ sabatide be, e bɔnsɔɛ fa bu xaxilisa kui i ya i.»
 Dawuda xa bɛɛti N xa Alatala tantu n nii birin na, n xa a xili sɛniyɛnxi matɔxɔ.
 N xa Alatala tantu n nii birin na, n naxa nɛɛmu a xa hinnɛ ma.
 A tan nan diɲɛma i xa yunubie ma, a i xa furee rayalan,
@@ -15807,7 +15807,6 @@ A maraɲaaxui dusuma forie xun na, a e ralɔɛ gbengberenyi ma kirae mu dɛnnax�
 A misikiinɛe bama tɔɔrɛ kui, a e xa denbayae rawuya alɔ xurusee.
 Mixi tinxinxie na toma e ɲɛlɛxinma a ra, Kɔnɔ tinxintaree birin dɛ balanma nɛ.
 Xaxilima naxan na, a xa a ɲɔxɔ sa yi fe birin xɔnma, a xa Marigi xa dugutɛgɛɲa fahaamu.
-
 Dawuda xa bɛɛti
 Ala, n bara natɛ tongo n bɔɲɛ kui. N Marigi Xunnakeli Kanyi, n n xui raminima nɛ bɛɛtie ra.
 N n ma kɔrae nun n ma maxasee berema nɛ subaxɛ ma.
@@ -15820,7 +15819,8 @@ N gbe nan Galadi ra, n gbe nan Manasi ra. Efirami bɔxi tan luma nɛ alɔ n xun 
 N n sanyi maxama Mowaba bɔxi ma, n n ma sankiri wolima Edon nan ma a xa findi n gbe ra. N gere ti xui mɛma nɛ Filisita bɔxi ma.»
 «Nde n xun tima taa makantaxi ra? Nde n xaninma Edon bɔxi ma?
 Ala mu a ra, naxan muxu rabɛɲinxi gere kui?
-I xa fa muxu malide, i xa muxu ba muxu yaxuie yi ra. Adamadie xa mali fufafu na a ra. Won fama won sɛnbɛ raminide Ala xa mali saabui ra. A tan nan fama won yaxuie iwurude.»
+I xa fa muxu malide, i xa muxu ba muxu yaxuie yi ra. Adamadie xa mali fufafu na a ra.
+Won fama won sɛnbɛ raminide Ala xa mali saabui ra. A tan nan fama won yaxuie iwurude.»
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ N Marigi Ala, n naxan matɔxɔma, i naxa lu dundui kui,
 barima mixi ɲaaxie na wule falafe n xun ma. E dɛ mu fan, e wule fala tun.
 E na n nabilinfe xɔnnanteya wɔyɛnyie ra, hali n mu fe ɲaaxi yo rabaxi e ra.
@@ -16329,7 +16329,6 @@ Alatala, a mu lanma n xa i xɔnmixie xɔn? A mu lanma i matandilae xa raɲaaxu n
 N e xɔnma nɛ. E bara findi n yaxuie ra.
 Ala i xa n bɔɲɛ kui mato, i xa n ma kɔntɔfili kolon.
 A mato xa n na kira kobi nde nan xɔn ma, i naxan xɔnxi. Xa a na na ki nɛ, i xa n ti kisi kira nan xɔn ma.
-
 Dawuda xa bɛɛti bɛɛtibae xa mangɛ bɛ
 Alatala, n natanga mixi ɲaaxie yi ra, naxee wama n tɔɔrɔfe,
 naxee natɛ tongoma e bɔɲɛ ma gere masofe ra lɔxɔ yo lɔxɔ.
@@ -16342,7 +16341,8 @@ i naxa tin mixi kobie waxɔnfe ra, i naxa na sɔɔnɛya e bɛ alako e xun naxa f
 N gerefae xa fe ɲaaxi maxirixie xa gbilen e ma.
 Tɛ wole xa dɔxɔ e xun na, e xa radin tɛ xɔɔra, e naxa fa mini na kui sɔnɔn.
 Fe ɲaaxi rabae naxa sabati yi bɔxi ma, tɔɔrɛ nan tun xa ragiri e ma.
-N a kolon Alatala kiiti fanyi sama nɛ misikiinɛe bɛ, a nɔndi fima setaree ma. Tinxintɔɛe i xili matɔxɔma nɛ, nɔndilae kisima nɛ i ya i.
+N a kolon Alatala kiiti fanyi sama nɛ misikiinɛe bɛ, a nɔndi fima setaree ma.
+Tinxintɔɛe i xili matɔxɔma nɛ, nɔndilae kisima nɛ i ya i.
 Dawuda xa bɛɛti Alatala, n bara i maxandi, i xulun n malife ra, i xa i tuli mati n ma maxandi ra.
 N ma duba xa te i mabiri alɔ surayi xiri, n ma bɛlɛxɛ ti xa lu alɔ nunmare sɛrɛxɛ.
 Alatala, n dɛ makanta alako fe ɲaaxi yo naxa mini n dɛ kui.
@@ -16353,14 +16353,14 @@ E xa a fala, «Muxu xɔrie bara yensen aligiyama, alɔ xɛ sa bɔxi buxama ki na
 Kɔnɔ n Marigi Alatala, n ya tixi i tan na. N kantari toma i sɛɛti ma, i naxa n nii rabolo.
 N natanga gantanyie ma e naxee tema n bɛ, n natanga mixi ɲaaxie xa yɛlɛe ma.
 E tan xa suxu nee ra, n tan xa kisi.
-
 Dawuda xa lɔnni bɛɛti a to nu na fɔnmɛ ra
 N na n xui ratema Alatala nan ma kinikini xa fe ra.
 N na n ma kɔntɔfili dɛntɛgɛma a tan nan bɛ, n na n ma nimisɛ ya ba a bɛ.
 Limaniya na ba n yi ra, i tan n sigade kolon. E bara gantanyi te n bɛ n ma kira ra.
 N nabilinyi mato: mixi yo mu na n bɛ, kantari mu na n bɛ, mɛɛnima yo mu na n bɛ.
 Alatala, i tan nan keren peti na n bɛ sɔnɔn. I keren nan findixi n kantama ra yi duniɲa bɛndɛ fuɲi fari.
-I xa n wa xui mɛ, barima n sɛnbɛ birin bara ɲɔn. N ba n kerimae yi ra, barima e sɛnbɛ gbo n bɛ. N namini geeli kui, alako n xa i xili matɔxɔ. Na kui tinxintɔɛe fama nɛ e malande n yire i xa hinnɛ xa fe ra.
+I xa n wa xui mɛ, barima n sɛnbɛ birin bara ɲɔn. N ba n kerimae yi ra, barima e sɛnbɛ gbo n bɛ.
+N namini geeli kui, alako n xa i xili matɔxɔ. Na kui tinxintɔɛe fama nɛ e malande n yire i xa hinnɛ xa fe ra.
 Alatala, i tuli mati n ma maxandi ra, i xa kinikini n wa xui ma. I xa n ma duba suxu i xa dugutɛgɛɲa nun i xa tinxinyi xa fe ra.
 I naxa i xa konyi makiiti, barima daali yo mu tinxin i ya i.
 N yaxui birama nɛ n fɔxɔ ra, a n boronma nɛ bɔxi ma, a n luma nɛ faxɛ niini bun ma alɔ faxamixie.
@@ -17465,7 +17465,8 @@ Misikiinɛ xa di naxan xaxili fan, a sɛnbɛ gbo mangɛ bɛ naxan mu fata marasi
 Na mixi mɔɔli nɔma minide geeli kui, a findi mangɛ ra. A barixi setareɲa nan kui, a fa mangɛya sɔtɔ.
 Duniɲa mixi birin saxanyi nan nabama, i na dangi mixi gbɛtɛ fa ti i ɲɔxɔɛ ra.
 Mixi wuyaxi dangixi nɛ beenun na kanyi xa bari. Mixi naxee fama a xanbi ra, a xa fe mu fama rafande e ma. Na fan findixi fe fufafu nan na, alɔ mixi naxan birafe foye fɔxɔ ra.
-I na siga salide Ala xa banxi, i xa i yɛtɛ mato a fanyi ra. I na siga, i xa i tuli mati masenyi ra naxan tima naa. Na tide gbo dangife sɛrɛxɛ bafe ra naxan nabama xaxilitareɲa kui, barima xaxilitaree mu a kolon, a e na fe kobi nan xun ma na ki. I naxa gbata i dɛ rabide wɔyɛnyi xili ma, i naxa gbata laayidi tongode Ala bɛ, barima Ala tan na koore nɛ, kɔnɔ i tan na bɔxi nan ma. Awa, i xa wɔyɛnyi naxa wuya.
+I na siga salide Ala xa banxi, i xa i yɛtɛ mato a fanyi ra. I na siga, i xa i tuli mati masenyi ra naxan tima naa. Na tide gbo dangife sɛrɛxɛ bafe ra naxan nabama xaxilitareɲa kui, barima xaxilitaree mu a kolon, a e na fe kobi nan xun ma na ki.
+I naxa gbata i dɛ rabide wɔyɛnyi xili ma, i naxa gbata laayidi tongode Ala bɛ, barima Ala tan na koore nɛ, kɔnɔ i tan na bɔxi nan ma. Awa, i xa wɔyɛnyi naxa wuya.
 Alɔ xiye to kelima maɲɔxunyi gbegbe ma, xaxilitareɲa fan kelima dɛ wuya nan ma.
 Xa i bara laayidi tongo Ala bɛ, i naxa dugundi a rakamalide. Xaxilitareɲa mu rafan Ala ma. A lanma i xa i xa laayidi rakamali.
 Laayidi tongotareɲa fisa laayidi rakamalitareɲa bɛ.
@@ -17484,7 +17485,6 @@ A duniɲa igirima dimi nan kui, kɔntɔfili, tɔɔrɛ, nun bɔɲɛ maɲaaxui kui
 Na kui n naxa a fahaamu a fan adama bɛ xa a a dɛge, a a min, a sɛɛwa a xa wali ra, a naxan nabama duniɲa ma a xa simaya kui, Ala naxan nagirixi a ma na nan findixi a xa geeni ra.
 Xa Ala a ragiri mixi ma a xa harige sɔtɔ, a fa sɛɛwa na ra han a wasa, na bara findi Ala xa ki nan na.
 Na kui, a mu kɔntɔfilima a xa simaya xa dunke xa fe ra, barima Ala bara a niya a bɔɲɛ xa lu sɛɛwɛ kui tun.
-
 N fe xɔrɔxɔɛ gbɛtɛ nan to yi duniɲa ma:
 Ala bannaya nun binyɛ ragirixi mixi nde ma han a wasa na birin na, kɔnɔ Ala fa a niya a mu xan a yi, a fa a lu mixi gbɛtɛ yi ra. Fe fufafu nan na ki naxan xɔrɔxɔ a gbe ra.
 Hali mixi di kɛmɛ sɔtɔ, a naxa simaya xɔn kuye sɔtɔ, xa a mu nɔma sɛɛwade a harige ra, ɲama mu fa a ragata gaburi kui a ragata ki ma, diyɔrɛ naxan baxi a nga furi, na fisa na kanyi bɛ.
@@ -17694,7 +17694,6 @@ Kɔnɔ ginɛ keren peti nan n yi naxan dangi e birin na. A keren nan na a nga b�
 ‹Nde na yi ginɛ ra, naxan yanbama alɔ subaxɛ naiyalanyi, naxan tofan alɔ kike, naxan fate yanbama alɔ soge, naxan mamirin alɔ tunbui gaali?›»
 «N wama gorofe sansi yire, alako n xa sansi nɛɛnɛ to gulunba kui, alako n xa a kolon xa wɛni bili bara bogi, xa mangoe bara fuga.
 N mu nu a kolon xa n yɛtɛ fama tede n ma ɲama xa mangɛ ragise kui.»
-
 «Sulamika, i xa gbilen, i xa gbilen, alako muxu xa i mato.» «Munfe ra wo Sulamika matoma a fare boronfe ki naxɛ ɲama ya ma?»
 «Mangɛ xa di, i sanyi tofan sankiri kui. I tagi bilinyi rayabu alɔ xunmase mixi naxan yailanxi.
 I furi digilin, a rafexi fe fanyi ra, i tagi luxi alɔ mɛngi malanxi, a rabilinxi sansi fuge tofanyie ra.
@@ -17707,7 +17706,8 @@ N bara a fala n yɛtɛ bɛ, ‹N xa te na tugi kɔn na, n xa na bogi suxu.› I 
 i dɛ rafan n ma dangife wɛni ra.» «Iyo, a maniyaxi wɛni nan na, naxan findixi n xanuntenyi gbe ra, won firin naxan minma.
 N bara findi n xanuntenyi gbe ra, a xɔli na n tan nan ma.
 N xanuntenyi, won xa mini daaxa, won xa kɔɛ radangi taa xunxurie kui.
-Won kurunma nɛ sigafe ra wɛni bogi bili matode, won xa a to xa e fugaxi, won xa a mato xa mangoe fan fuge bara mini. Mɛnni n n ma xanunteya masenma nɛ i bɛ. Xanunteya ɲɔxun alɔ sansi bogi. N na fe fanyi fori nun a nɛɛnɛ ragataxi i tan nan bɛ.»
+Won kurunma nɛ sigafe ra wɛni bogi bili matode, won xa a to xa e fugaxi, won xa a mato xa mangoe fan fuge bara mini. Mɛnni n n ma xanunteya masenma nɛ i bɛ.
+Xanunteya ɲɔxun alɔ sansi bogi. N na fe fanyi fori nun a nɛɛnɛ ragataxi i tan nan bɛ.»
 «Xa i findixi n taara xɛmɛma nan na nu, n nga xiɲɛ fixi naxan ma, n nu nɔma i masunbude mixi ya xɔri n mu yaagima na ra.
 N nu nɔma i xaninde n nga yire, i xa findi n karamɔxɔ ra, n fa wɛni fanyi nun mangoe ye so i yi ra.»
 «N xunyi na n xanuntenyi bɛlɛxɛ, a na n mafurukufe a yirefanyi ra.
@@ -17897,7 +17897,8 @@ Mixi ndee a falama wo bɛ, wo xa siga karamɔxɔɛe yire, naxee mixi faxaxie raw
 Won xa won tuli mati Ala xa sɛriyɛ ra a seedeɲɔxɔya fixi naxan ma. Xa na mu a ra, ɲama luma dimi nan tun kui,
 E bɔxi igirima kaamɛ nun kɔntɔfili nan na. Kaamɛ na xɔrɔxɔ e ma tɛmui naxɛ, e e ya ratema nɛ koore ma, e e xa mangɛ nun e Marigi Ala danka.
 E na gɛ na rabade, e fa e ya ragoro duniɲa ma, e mu sese toma fo tɔɔrɛ, dimi, nun bɔɲɛsatareya.
-Kɔnɔ na dimi mu luma bɔxi ma abadan, tɔɔrɛ mu nɔma na ɲama ra. Sabulon nun Nafatali bɔxi halaki nɛ tɛmui dangixi, kɔnɔ na bɔxi naxan xili falama «ɲamanɛ xa Galile,» na fama nɛ nɔrɔde kelife baa dɛ ra, han Yurudɛn naakiri ma. Ɲama naxan nu na a ɲɛrɛfe dimi kui, e bara naiyalanyi xungbe to. Tɔɔrɛ xa nɔɛ nu na naxee fari, naiyalanyi xungbe bara yanba e ma.
+Kɔnɔ na dimi mu luma bɔxi ma abadan, tɔɔrɛ mu nɔma na ɲama ra. Sabulon nun Nafatali bɔxi halaki nɛ tɛmui dangixi, kɔnɔ na bɔxi naxan xili falama «ɲamanɛ xa Galile,» na fama nɛ nɔrɔde kelife baa dɛ ra, han Yurudɛn naakiri ma.
+Ɲama naxan nu na a ɲɛrɛfe dimi kui, e bara naiyalanyi xungbe to. Tɔɔrɛ xa nɔɛ nu na naxee fari, naiyalanyi xungbe bara yanba e ma.
 Alatala, i bara na ɲama xun nakeli, i bara sɛɛwɛ xungbe fi e ma. E sɛɛwaxi i ya ra alɔ mixie sɛɛwama sansi xaba tɛmui ki naxɛ, alɔ mixie sɛɛwama harige sɔtɔfe ra ki naxɛ.
 E sɛɛwaxi barima kote binye naxan nu dɛtɛnxi e ma, i bara na ba naa, luxusinyi naxan nu e bɔnbɔma e fari ma, i bara na kana alɔ i Madiyankae rabira tɛmui naxɛ.
 E yaxuie xa sankiri naxee nu e maboronma, e donma naxee nɔxɔxi wuli ra, nee birin bara wɔlɛ tɛ xɔɔra, e gan feo.
@@ -17917,7 +17918,6 @@ Gbaloe na fafe e ma alɔ tɛ naxan na fili ma, a fa ɲooge ɲaaxi nun tunbe biri
 Mangɛ Alatala xa xɔnɛ bara duniɲa rasɛrɛn, adamadie bara lu alɔ tɛ naxee e boore gan, mixi yo mu kisi.
 E bara e boore muɲa naxan nu na e yirefanyi ma, kɔnɔ e naxa lu kaamɛ kui. E bara nde muɲa naxan nu na e kɔɔla ma, kɔnɔ e mu wasa, kankan naxa din a boore ra.
 Manasikae bara Efiramikae tɔɔrɔ, Efiramikae bara Manasikae tɔɔrɔ, e firin bara din Yudaya ra. Hali na birin to raba, Alatala xa xɔnɛ mu gbilenxi e fɔxɔ ra, a bɛlɛxɛ man itexi e xili ma.
-
 Ɲaxankatɛ na yareratie bɛ, naxee yaamari ɲaaxie sɛbɛma, naxee tɔɔɲɛgɛ tima,
 alako e xa misikiinɛ tɔɔrɔ kiiti ɲaaxi ra, e tinxintareya raba setaree ra naxan baloe bama kaaɲɛ ginɛe nun kiridie yi ra.
 Wo munse rabama dɛntɛgɛ sa lɔxɔɛ Alatala ya i? Wo wo xaxili tima nde ra alako wo xa ratanga?
@@ -18953,7 +18953,8 @@ Kɔnɔ hali Iburahima nun Isirayila nɛɛmu muxu ma, i tan nan na muxu Baba ra. 
 Munfe ra i a niyama, muxu xa i xa kira rabɛɲin? Munfe ra i muxu bɔɲɛ xɔrɔxɔma han muxu xa susa i ra? Muxu Marigi, i xa muxu ragbilen i xa yaragaaxui kui.
 I xa hɔrɔmɔbanxi nu na muxu bɛlɛxɛ, kɔnɔ yakɔsi muxu yaxuie bara mɛnni boron.
 I gbe nan muxu ra kabi tɛmui xɔnkuye, kɔnɔ e tan mu tinxi i xa yaamari ra, e mu i xili falama. Xa i sa koore rabi nɛ nu gorofe ra duniɲa, geyae sɛrɛnma nɛ i ya ra nu.
-Duniɲa rakolon i xili sɛnbɛma ra, alako sie xa sɛrɛn gaaxui kui i ya ra. A xa lu alɔ yege naxan dɛxɛma, a fa ye satun a xɔrɔxɔɛ ra. I bara kaabanakoe raba naxee bara muxu tɛrɛnna, i bara goro, geyae fa sɛrɛn i ya ra.
+Duniɲa rakolon i xili sɛnbɛma ra, alako sie xa sɛrɛn gaaxui kui i ya ra. A xa lu alɔ yege naxan dɛxɛma, a fa ye satun a xɔrɔxɔɛ ra.
+I bara kaabanakoe raba naxee bara muxu tɛrɛnna, i bara goro, geyae fa sɛrɛn i ya ra.
 Yi fe mɔɔli mu kolonxi sinden. I keren nan bara na fe mɔɔli kolon, i tan naxan mixi malima naxee laxi i ra.
 I fa nɛ mixi malide naxee tinma tinxinyi ra, naxee wama birafe i xa kira fɔxɔ ra. Kɔnɔ muxu tan bara yunubi raba, i fa xɔnɔ muxu ma. Muxu nɔma kiside sɔnɔn?
 Muxu birin bara findi mixi sɛniyɛntare ra. Muxu naxan nabama i bɛ a nɔxɔxi alɔ dunkobi. Muxu xa fe luxi nɛ alɔ burɛxɛ lisixi. Muxu xa yunubie na muxu xaninfe alɔ foye burɛxɛ xaninma ki naxɛ.
@@ -18963,7 +18964,6 @@ I naxa xɔnɔ muxu ma Marigi. I naxa ratu muxu xa yunubie ma. I ya ti muxu ra, i
 I xa taa sɛniyɛnxie bara findi gbengberen yire ra, Siyoni bara findi yire maxaraxi ra, Darisalamu bara kana,
 i xa hɔrɔmɔbanxi muxu nu sɛɛwaxi naxan na, na bara gan. Muxu harige fanyi birin bara kana.
 Na birin kui, i tondixi muxu malide? I i sabarima han mun tɛmui? I muxu ɲaxankatama nan tui?
-
 «N bara n yɛtɛ masen mixie be naxee mu nu n xilixi, mixie bara n to naxee mu nu n fenma. N bara a fala, ‹N tan nan ya,› si nde bɛ naxan mu nu xilima.
 N na n bɛlɛxɛ ti nɛ lɔxɔɛ birin ɲama tuli xɔrɔxɔxi bɛ, naxan ɲɛrɛma kira ɲaaxi xɔn e yɛtɛ waxɔnyi fenfe ra.
 Na ɲama katama tɛmui birin n naxɔnɔfe ra. E sɛrɛxɛe bama sansi yire, e surayi fan gan sɛrɛxɛ ra e xa alae bɛ.
@@ -19242,7 +19242,8 @@ I tuli mati n bɔnsɔɛ wa xui ra naxan kelife yire makuye. E a falama, ‹Alata
 Xɛ xaba tɛmui bara dangi, sogofure fan bara dangi. Han ya won mu kisi sɔtɔ.
 N bɔnsɔɛ xa tɔɔrɛ bara findi kote ra n bɛ. N bara kinikini, limaniya bara ba n yi ra.
 Seri yo mu na Galadi bɔxi ma? Seriba yo mu naa? Munfe ra n bɔnsɔɛ mu nɔma yalande?
-Ye yo mu na n fate kui sɔnɔn naxan findima ya ye ra. N bara wa kɔɛ nun yanyi ra n bɔnsɔɛ bɛ naxan tɔɔrɔxi.» «Xa a sa li n mixi nde sɔtɔ naxee na biyaasi kui, n kafuma nee nan ma, n na n ma ɲama rabɛɲin. N wama n makuyafe nɛ e ra, barima yɛnɛlae nun yanfantee nan e ra.
+Ye yo mu na n fate kui sɔnɔn naxan findima ya ye ra. N bara wa kɔɛ nun yanyi ra n bɔnsɔɛ bɛ naxan tɔɔrɔxi.»
+«Xa a sa li n mixi nde sɔtɔ naxee na biyaasi kui, n kafuma nee nan ma, n na n ma ɲama rabɛɲin. N wama n makuyafe nɛ e ra, barima yɛnɛlae nun yanfantee nan e ra.
 E dɛ wule falama alɔ sɔɔri naxan tanbɛ wolima. Wule sɛnbɛ gbo e ya ma, e mu nɔndi kolon. E luma yunubi raba ra, e mu n kolon.» Alatala xa masenyi nan na ki.
 «Wo naxa la wo boore ra, wo naxa la wo ngaxakerenyi ra, barima birin luma nɛ e boore madaxu ra, e birin bira tɔɔɲɛgɛ fɔxɔ ra.
 Kankan wule falama e boore bɛ, yanfanteya gbo e ya ma. E dɛ bara wule matinkan, e luma na yunubi kira nan xɔn ma.
@@ -19267,7 +19268,6 @@ Alatala xa masenyi nan ya: «Lɔnnila naxa a yɛtɛ matɔxɔ a xa lɔnni xa fe r
 Xa mixi wama a yɛtɛ matɔxɔfe fe nde ma, a xa a yɛtɛ matɔxɔ a xa danxaniya nan ma fe ra. Alatala nan n na, hinnɛnte naxan tinxinyi nun sɛriyɛ rawalima duniɲa ma. Na fe mɔɔli rafan n ma.» Alatala xa masenyi nan na ki.
 Alatala xa masenyi nan ya: «Lɔxɔɛ fama fade, n mixi halakima nɛ, naxan sunnaxi kɔnɔ a bɔɲɛ mu sɛniyɛn,
 alɔ Misirakae, Yudayakae, Edonkae, Amonikae, Mowabakae, naxee birin e xunsɛxɛ maxabama naxan na e xunyi sɛɛtie ma. Yi si birin naxee na gbengberenyi ma, e sunnaxi, kɔnɔ e mu sunna wali rabama. Hali Isirayilakae mu sunna wali rabama, e bɔɲɛ mu sɛniyɛn.»
-
 Isirayila bɔnsɔɛ, wo wo tuli mati Alatala xa masenyi ra.
 Alatala xa masenyi nan ya: «Wo naxa bira si gbɛtɛe ɲɛrɛ ki fɔxɔ ra. Wo naxa gaaxu tɔnxumae ya ra naxee na koore ma. Si gbɛtɛe gaaxuma na fe mɔɔli nan ya ra.
 E xa diinɛ mu findixi nɔndi ra. E wuri sɛgɛma wula i, mixi nde a masoli beera ra.
@@ -21006,11 +21006,6 @@ N na wo ramini ɲamanɛe tagi wo rayensenxi dɛnnaxɛ, n wo rasɛnɛma nɛ a fan
 N na wo ragbilen wo xa bɔxi ma Isirayila, n na n kalixi naxan fife ra wo benbae ma, wo fama nɛ a kolonde a n tan nan na Alatala ra.
 Mɛnni, wo wo ratuma nɛ wo xa fe ɲaaxie birin ma, naxee wo findi mixi sɛniyɛntaree ra, wo fa lu na yaagi kui tun.
 N na wo rakisi n xili xa fe ra, n mu wo xa wali ɲaaxie sare fi wo ma, wo fama nɛ a kolonde a n tan nan na Alatala ra. Isirayila bɔnsɔɛ, wo Marigi Alatala xui nan na ki.›»
-
-
-
-
-
 Alatala naxa a masen n bɛ, a naxɛ,
 «Adamadi, i ya rafindi i yirefanyi ma, i kawandi ti Negewi fɔtɔnyi bɛ.
 A fala: ‹Negewi fɔtɔnyi, i i tuli mati i Marigi Alatala xa masenyi ra. A xui nan ya: N tɛ radɛxɛma nɛ i xɔnyi, naxan i xa wuri xindee nun wuri xaree birin ganma. Na tɛ mu tuma. A fɔxi toma nɛ keli yirefanyi ma han kɔɔla ma.
@@ -21038,11 +21033,16 @@ Alatala naxa a masen n bɛ, a naxɛ,
 Kira keren xa siga Amorikae xɔnyi naxan xili Raaba. Kira firin nde xa siga Yudaya xa taa makantaxi naxan xili Darisalamu.
 Babilɔn mangɛ tima nɛ na kira firin xunyi ra, a xa sematoe wali raba alɔ xalie mawolife, kuyee maxɔrinfe, nun sube bɔɲɛ matofe.
 Na sematoe wali a masenma nɛ a bɛ a xa siga Darisalamu mabiri, a xa geresosee tongo tɛtɛ longori ra, a xa na naadɛe rabira, a fa gbaloe ti taa kui.
-Darisalamukae to saatɛ xiri e nun Babilɔn mangɛ ra, e na sematoe wali toma wule nan na. Kɔnɔ Babilɔn mangɛ mu a tuli matima e ra, barima a naxɛ e fan bara haakɛ sɔtɔ a mabiri. Na nan a ra, a e xaninma konyiya kui.» «Adamadi, i xa masenyi ti n xili ra a falafe ra, ‹Alatala yi nan masenxi Amonikae xa konbie xa fe ra, a naxɛ: Santidɛgɛma bara ba a tɛɛ i gbaloe xa fe ra. A bara raxaɲɛn alako a xa faxɛ ti alɔ seyamakɔnyi.
-«Wo Marigi Alatala yi nan masenxi: Wo xa wali ɲaaxi bara a niya n xa ratu wo xa yunubi dangixie ma, n xa wo xanin konyiya kui. Wo bara la wule laamatunyie ra, wo bara wo tuli mati sematoe wule falɛe ra. Na kui na santidɛgɛma tima nɛ tinxintaree kɔn na, naxee lanma e xa ɲaxankata e xa yunubi kamalixie xa fe ra.
-I tan Isirayila mangɛ tinxintare, i xa ɲaxankatɛ lɔxɔɛ bara a li. Wo xa wo xa santidɛgɛma ragbilen a tɛɛ i. N wo makiitima nɛ wo xa bɔxi ma wo daaxi dɛnnaxɛ.
-I Marigi Alatala yi nan masenxi, a naxɛ, ‹Mangɛ tɔnxuma ba i xunyi ma! Mangɛya bara ba i yi ra. Mixi magoroxi xa fe itema nɛ, mixi matexi xa fe magoro. N na n ma xɔnɛ xɔrɔxɔɛ raminima nɛ wo ma, n wo so xɛmɛ ɲaaxie yi ra naxee fata gbaloe ra.
-I xa mangɛya xun nakanama nɛ, a ɲɔn. Na mangɛya mu gbilenma a ra fo mixi fa, a lan a xa so naxan yi ra. Na fima na kanyi nan ma.›» Wo luma nɛ alɔ yege tɛ xɔɔra, wo wuli ifili wo xa bɔxi ma, wo xili ɲɔn feo. Alatala xa masenyi nan na ki.›»
+Darisalamukae to saatɛ xiri e nun Babilɔn mangɛ ra, e na sematoe wali toma wule nan na. Kɔnɔ Babilɔn mangɛ mu a tuli matima e ra, barima a naxɛ e fan bara haakɛ sɔtɔ a mabiri. Na nan a ra, a e xaninma konyiya kui.»
+«Wo Marigi Alatala yi nan masenxi: Wo xa wali ɲaaxi bara a niya n xa ratu wo xa yunubi dangixie ma, n xa wo xanin konyiya kui.
+I tan Isirayila mangɛ tinxintare, i xa ɲaxankatɛ lɔxɔɛ bara a li.
+I Marigi Alatala yi nan masenxi, a naxɛ, ‹Mangɛ tɔnxuma ba i xunyi ma! Mangɛya bara ba i yi ra. Mixi magoroxi xa fe itema nɛ, mixi matexi xa fe magoro.
+I xa mangɛya xun nakanama nɛ, a ɲɔn. Na mangɛya mu gbilenma a ra fo mixi fa, a lan a xa so naxan yi ra. Na fima na kanyi nan ma.›»
+«Adamadi, i xa masenyi ti n xili ra a falafe ra, ‹Alatala yi nan masenxi Amonikae xa konbie xa fe ra, a naxɛ: Santidɛgɛma bara ba a tɛɛ i gbaloe xa fe ra. A bara raxaɲɛn alako a xa faxɛ ti alɔ seyamakɔnyi.
+Wo bara la wule laamatunyie ra, wo bara wo tuli mati sematoe wule falɛe ra. Na kui na santidɛgɛma tima nɛ tinxintaree kɔn na, naxee lanma e xa ɲaxankata e xa yunubi kamalixie xa fe ra.
+Wo xa wo xa santidɛgɛma ragbilen a tɛɛ i. N wo makiitima nɛ wo xa bɔxi ma wo daaxi dɛnnaxɛ.
+N na n ma xɔnɛ xɔrɔxɔɛ raminima nɛ wo ma, n wo so xɛmɛ ɲaaxie yi ra naxee fata gbaloe ra.
+Wo luma nɛ alɔ yege tɛ xɔɔra, wo wuli ifili wo xa bɔxi ma, wo xili ɲɔn feo. Alatala xa masenyi nan na ki.›»
 Alatala naxa a masen n bɛ, a naxɛ,
 «Adamadi, a mu lanma xɛ i xa yi taa faxɛti makiiti, i xa a rakolon a xa wali kobie birin na?
 A fala a bɛ, ‹Wo Marigi Alatala yi nan masenxi: Taa nan yi ki, naxan xun nakanama a xa faxɛ tife ra, naxan a findima taa sɛniyɛntare ra a xa kuye batufe ra.
@@ -21904,9 +21904,12 @@ Mangɛ rasimae, kuntigie, gominae, nun mangɛ xa lɔnnilae naxa e maso e ra. E n
 Nebukadansari naxa a masen, «Tantui na Sadiraki, Mesaki, nun Abedinego Marigi Ala bɛ. A tan nan a xa malekɛ xɛɛxi a xa konyie ratangade. E nu bara la a ra han e naxa tin faxafe ra, alako e naxa mangɛ xa yaamari rabatu, naxan findi ala gbɛtɛ batufe ra bafe e Marigi Ala ra.
 N ma yaamari nɛɛnɛ nan ya: mixi yo fe nde kobi fala Sadiraki, Mesaki, nun Abedinego Marigi Ala bɛ, na kanyi faxama nɛ, a ibolon a xuntun xuntunyie ra, a xa banxi fan kana, barima ala yo mu na bafe Ala ra naxan nɔma mixi ratangade yi mɔɔli ra.»
 Na tɛmui mangɛ naxa Sadiraki, Mesaki, nun Abedinego xa fe mate Babilɔn bɔxi ma.
-«Mangɛ Nebukadansari nan yi masenyi tife si birin bɛ, bɔnsɔɛ birin bɛ, xui birin falae bɛ: Bɔɲɛsa xa lu wo bɛ a fanyi ra. «N tan Nebukadansari, n nu na n ma mangɛ banxi kui, n bɔɲɛ saxi, n sɛɛwaxi ki fanyi.
-A lanma n xa tɔnxumae nun kaabanakoe masen wo bɛ, Ala xungbe naxee rabaxi n bɛ. N naxa xiye magaaxuxi nde sa. N naxan maɲɔxunxi, a nun n laamatunyi naxan toxi n ma sade ma, nee bara n nagaaxu ki fanyi.
-A xa tɔnxumae wuya, a xa kaabanakoe sɛnbɛ gbo. A xa mangɛya mu ɲɔnma abadan, danyi mu na a xa bui ma.» N yaamari fi Babilɔn lɔnnilae ma na nan ma e xa fa n yire, alako e xa n ma xiye tagiraba n bɛ.»
+«Mangɛ Nebukadansari nan yi masenyi tife si birin bɛ, bɔnsɔɛ birin bɛ, xui birin falae bɛ: Bɔɲɛsa xa lu wo bɛ a fanyi ra.
+A lanma n xa tɔnxumae nun kaabanakoe masen wo bɛ, Ala xungbe naxee rabaxi n bɛ.
+A xa tɔnxumae wuya, a xa kaabanakoe sɛnbɛ gbo. A xa mangɛya mu ɲɔnma abadan, danyi mu na a xa bui ma.»
+«N tan Nebukadansari, n nu na n ma mangɛ banxi kui, n bɔɲɛ saxi, n sɛɛwaxi ki fanyi.
+N naxa xiye magaaxuxi nde sa. N naxan maɲɔxunxi, a nun n laamatunyi naxan toxi n ma sade ma, nee bara n nagaaxu ki fanyi.
+N yaamari fi Babilɔn lɔnnilae ma na nan ma e xa fa n yire, alako e xa n ma xiye tagiraba n bɛ.»
 «Karamɔxɔɛe, sematoe, Babilɔn sɛrɛxɛdubɛe, nun mandurulae naxa fa. N naxa n ma xiye yaba e bɛ, kɔnɔ e mu nɔ na tagirabade.
 Daniyɛli naxa fa n yire a dɔnxɔɛ ra, n ma kuye Beletesasari xili saxi naxan xun ma. Ala sɛniyɛnxie xaxili na a bɛ. N naxa n ma xiye madɔxɔ a bɛ.»
 «Beletesasari, karamɔxɔɛe xunyi, n a kolon ala sɛniyɛnxie xaxili na i bɛ. Gundo mu na naxan kolonfe xɔrɔxɔma i bɛ. Awa, i xa n ma laamatunyie tagiraba n bɛ, n naxee toxi xiye kui.
@@ -21938,9 +21941,6 @@ Na wɔyɛnyi naxa kamali Mangɛ Nebukadansari ma keren na. A naxa keri mixie ya 
 Ala a yɛtɛ waxɔnfe rabama nɛ duniɲa ma hali adama mu tin na ra. A wama naxan xɔn, a na nan nabama adama nun malekɛe ra. Mixi yo mu nɔma a matandide, a fa a fala, ‹I na munse rabafe?›
 N xaxili to gbilen n ma, n ma mangɛya binyɛ nun nɔrɛ fan naxa gbilen n ma. N nasimae nun n ma mixi xungbee naxa n xili, e n dɔxɔ n ma mangɛ kibanyi kui. N sɛnbɛ naxa gbo dangi a singe ra.
 Yakɔsi, n tan Nebukadansari, n Koore Mangɛ tantuma nɛ, n a matɔxɔ, n a binya. A xa kɛwali birin tinxin, a xa kirae birin findixi nɔndi nan na. A tan nan mixi xa fe magoroma, naxan a yɛtɛ igboma.»
-
-
-
 Lɔxɔɛ nde, mangɛ Belisasari naxa xulunyi belebele ti a xa kuntigi wulu bɛ. A naxa wɛni min han
 a siisi fɔlɔ e ya xɔri. Na tɛmui Belisasari naxa yaamari fi e xa fa xɛɛma nun gbeti pɔɔtie ra, a baba Nebukadansari naxee tongoxi Ala xa hɔrɔmɔbanxi kui Darisalamu. Mangɛ bara wa a yɛtɛ, a xa ginɛe, a xa konyi ginɛe, nun a xa kuntigi birin xa na see rawali xulunyi kui.
 E to fa xɛɛma pɔɔtie ra, naxee tongo Ala xa hɔrɔmɔbanxi kui Darisalamu, mangɛ yo, a xa kuntigie yo, a xa ginɛe yo, nun a xa konyi ginɛe, e birin naxa wɛni min nee ra,
@@ -21971,7 +21971,6 @@ Na wama naxan masenfe na nan ya: ‹Mene›, na nan na ki ‹kɔnti›. Ala bara
 ‹Parisin› na nan na ki ‹maitaxunyi›. Ala bara i xa mangɛya itaxun Medekae nun Perisekae ma.»
 Belisasari naxa yaamari fi keren na, a Daniyɛli xa maxiri mangɛ dugi ra, a nun xɛɛma kɔnmagore ra, a man xa findi mangɛ saxan nde ra bɔxi birin xun ma.
 Na kɔɛ kerenyi kui mixi nde naxa Babilɔn mangɛ Belisasari faxa.
-
 Dariyusi Medeka naxa findi mangɛ ra a ɲɛ tongo senni nun firin ma.
 A naxa marasi ti e xa mixi kɛmɛ mixi mɔxɔɲɛn sugandi e xa a xa bɔxi yamari.
 A man naxa mixi saxan ti e xun na, marasitie e dɛntɛgɛma naxee bɛ alako mangɛ xa fe birin xa sɔɔnɛya. Daniyɛli nu na na mixi saxanyie nan ya ma.
@@ -21999,7 +21998,8 @@ Mangɛ naxa sɛɛwa ki fanyi, a fa yaamari fi e xa Daniyɛli rate naa kui. E to 
 Mangɛ naxa yaamari fi, a na xɛmɛ naxee Daniyɛli kalamu, e xa woli yɛtɛe tagi, e nun e xa ginɛe nun e xa die ra. Beenu e xa yili bɔtini li, yɛtɛe nu bara gɛ e faxade, e e xɔri birin magira.
 Na dangi xanbi, Mangɛ Dariyusi naxa yaamari sɛbɛ sie nun bɔnsɔɛe birin ma, a nun xui birin falae naxee na duniɲa ma, «Bɔɲɛsa fanyi xa lu wo bɛ.
 N bara n ma mangɛya birin yaamari, wo xa gaaxu Daniyɛli Marigi Ala ya ra, wo xa a binya.» «Ala ɲiɲɛ na a ra. A na na tɛmui birin. A xa mangɛya mu kanama abadan. A xa yaamari buma nɛ han duniɲa ɲɔn.
-A tan nan mixi rakisima, a e ratanga. A tɔnxumae nun kaabanakoe rabama koore nun bɔxi ma. A tan nan Daniyɛli ratangaxi yɛtɛe ma.» Daniyɛli xa munafanyi xun naxa masa Dariyusi nun Sirusi Periseka xa mangɛyae bun ma.
+A tan nan mixi rakisima, a e ratanga. A tɔnxumae nun kaabanakoe rabama koore nun bɔxi ma. A tan nan Daniyɛli ratangaxi yɛtɛe ma.»
+Daniyɛli xa munafanyi xun naxa masa Dariyusi nun Sirusi Periseka xa mangɛyae bun ma.
 Belisasari xa mangɛya ɲɛ singe ra Babilɔn, Daniyɛli naxa xiye sa, laamatunyie naxa ragoro a ma a saxi tɛmui naxɛ. Na dangi xanbi, a naxa na xiye kui ife sɛbɛ.
 Daniyɛli naxa a fala, «N bara laamatunyi to xiye kui kɔɛ ra, foye kelixi koore ma duniɲa tunxun naanie ra, a din baa ra, a a i maxa.»
 «Sube magaaxuxi naani naxa mini baa ma, e sese keren mu a ra.
@@ -22170,8 +22170,6 @@ Gomeri man naxa tɛɛgɛ, a di ginɛ bari. Alatala naxa a masen Hose bɛ, «A xi
 Kɔnɔ n kinikinima nɛ Yudaya tan ma, n fa a rakisi a Marigi Alatala sɛnbɛ ra. N mu e rakisima tanbɛ ra, xa na mu a ra santidɛgɛma ra, gere ra, soee ra, nun soe ragie ra.»
 Gomeri to «Mixi xɔnxi» dɛ ba, a man naxa tɛɛgɛ, a di bari a xa mɔri Hose bɛ.
 Alatala naxa a masen, «I xa a xili sa ‹N gbe mu a ra,› barima n ma ɲama mu wo ra sɔnɔn, wo Marigi mu n na sɔnɔn.»
-
-
 Isirayilakae fama nɛ wuyade alɔ baa dɛ ra mɛyɛnyi, naxan mu nɔma maniyade, naxan mu nɔma kɔntide. Singe ra, a nu a falama e bɛ dɛnnaxɛ, «N ma ɲama mu wo ra,» a a falama nɛ e bɛ, «Ala Ɲiɲɛ xa die.»
 Yuda bɔnsɔɛe nun Isirayila bɔnsɔɛe malanma nɛ, e mangɛ keren sugandi e birin bɛ. Na lɔxɔɛ xungbe Ala e raminima nɛ konyiya kui, a e rasabati e xɔnyi.
 «Wo xa a fala wo taarae xa fe ra, ‹Ala xa ɲama.› Wo xa a fala wo xunyae xa fe ra, ‹Ala xanuntenyie.›
@@ -22193,8 +22191,10 @@ Alatala xa masenyi nan ya, «Na lɔxɔɛ i n xilima nɛ ‹N ma mɔri.› I mu n
 N Bali kuye xilie bama nɛ i dɛ i, alako i xa nɛɛmu e ma.
 Na lɔxɔɛ n saatɛ tongoma nɛ e bɛ, nun wulai subee, xɔnie, a nun bubusee ra. N xali, santidɛgɛma, nun gere bama nɛ e xa bɔxi ma, alako e xa sabati naa bɔɲɛsa kui.
 N i findima n ma ginɛ nan na tinxinyi, dugutɛgɛɲa, nun hinnɛ kui. N mu mɛɛma i ra abadan.
-Lanlanteya luma nɛ won tagi, i fa Alatala kolon.» Koore tunɛ ye ragoroma nɛ bɔxi ma. Bɔxi baloe raminima nɛ wo bɛ. Sansie wɛni nun ture fima nɛ wo ma. Yisireeli hayi birin fanma nɛ.
-Alatala xa masenyi nan ya. «Na lɔxɔɛ, n i xa dubɛ suxuma nɛ. N Isirayila rasabatima nɛ na bɔxi ma n yɛtɛ bɛ. N nu naxan ma ‹Mixi xɔnxi,› n kinikinima nɛ a ma. N nu naxan ma, ‹N ma ɲama mu a ra,› n a xilima nɛ, ‹N ma ɲama.› E fan fama n tan nan xilide, ‹N Marigi Ala.›»
+Lanlanteya luma nɛ won tagi, i fa Alatala kolon.»
+Alatala xa masenyi nan ya. «Na lɔxɔɛ, n i xa dubɛ suxuma nɛ.
+Koore tunɛ ye ragoroma nɛ bɔxi ma. Bɔxi baloe raminima nɛ wo bɛ. Sansie wɛni nun ture fima nɛ wo ma. Yisireeli hayi birin fanma nɛ.
+N Isirayila rasabatima nɛ na bɔxi ma n yɛtɛ bɛ. N nu naxan ma ‹Mixi xɔnxi,› n kinikinima nɛ a ma. N nu naxan ma, ‹N ma ɲama mu a ra,› n a xilima nɛ, ‹N ma ɲama.› E fan fama n tan nan xilide, ‹N Marigi Ala.›»
 Alatala naxa a masen n bɛ, «I man xa i xa ginɛ xanu, hali a to yɛnɛ rabama a nun a ɲɛngɛe ra. Na luma nɛ alɔ Alatala xa xanunteya Isirayilakae bɛ, e tan naxee birama ala gbɛtɛe fɔxɔ ra, e nu sɛrɛxɛ ba e bɛ.»
 N naxa gbilen na ginɛ xa kote dɔxɔ ra gbeti kole fu nun suuli ra, nun mɛngi busali keren nun a tagi.
 N naxa a fala a bɛ, «I xa i raxara n xɔnyi. I naxa langoeɲa raba sɔnɔn, i naxa xɛmɛ gbɛtɛ yo kolon fa. N fan luma i bɛ na ki nɛ.»
@@ -22318,7 +22318,6 @@ N ma ɲama bara gbilen n fɔxɔ ra. Hali e birin n xili, n mu e xun nakelima.»
 N bara n ma natɛ masara, n bɔɲɛ bara xinbeli. N bara diɲɛ Efirami ma, barima Ala nan n na. Adama mu na n tan na. Sɛniyɛntɔɛ nan n na wo tagi. N bara n ma xɔnɛ lu na.
 E fama nɛ birade Alatala fɔxɔ ra. Ala na a xui ramini sɛnbɛ ra alɔ yɛtɛ magaaxuxi, e fama nɛ lude a xanbi ra kelife sogegorode mabiri.
 E kelima nɛ Misira bɔxi ma alɔ xɔnie, e kelima nɛ Asiriya bɔxi ma alɔ ganbɛe.» Alatala xa masenyi nan na ki.
-
 «Efirami wama n madaxufe. Isirayila wama n yanfafe. Yudaya tan birama nɛ Ala fɔxɔ ra, a mu lanlanteya kana Ala sɛniyɛnxi mabiri.
 Efirami fe fufafu fenma, a birama mixie fɔxɔ ra naxee na fuge ra. A xa wulee nun fe ɲaaxie gbo. A saatɛ tongoma Asiriya bɛ, a oliwi ture fima nɛ Misira mangɛ ma.
 Ala Yudayakae makiitima nɛ, a Yaxuba bɔnsɔɛ ɲaxankatama nɛ, a fa a xa kɛwali sare ragbilen a ma.»
@@ -22332,7 +22331,8 @@ Efirami bara a fala, «N bara banna han! N bara naafuli sɔtɔ n yɛtɛ sɛnbɛ 
 N nu wɔyɛnma namiɲɔnmɛe bɛ, n laamatunyie wuyaxi so e yi ra. N nu taalie masenma wo bɛ namiɲɔnmɛe saabui ra.
 Galadikae luma nɛ fe ɲaaxi raba ra. Na fe na a niyama n fama e xun nakanade. E ningee bama sɛrɛxɛ ra Giligali, kɔnɔ n fama nɛ e xa sɛrɛxɛbadee kanade, e xa lu alɔ gɛmɛ malanxie xɛe ma.»
 Yaxuba naxa a gi Arami bɔxi ma. Isirayila naxa findi xurusee dɛmadonyi ra, alako a xa ginɛ nde sɔtɔ.
-Alatala naxa Isirayila ramini Misira bɔxi ma namiɲɔnmɛ nde saabui ra. Alatala naxa mɛɛni Isirayila ma a xa xɛɛrae saabui ra. Efirami bara Alatala raxɔnɔ a ɲaaxi ra. E Marigi fama nɛ e ɲaxankatade e xa faxɛ tixie xa fe ra, a fa e rayaagi.
+Alatala naxa Isirayila ramini Misira bɔxi ma namiɲɔnmɛ nde saabui ra. Alatala naxa mɛɛni Isirayila ma a xa xɛɛrae saabui ra.
+Efirami bara Alatala raxɔnɔ a ɲaaxi ra. E Marigi fama nɛ e ɲaxankatade e xa faxɛ tixie xa fe ra, a fa e rayaagi.
 Ɲama nu gaaxuma nɛ Efirami xa wɔyɛnyi ya ra, barima mixi binyɛ nan nu a ra, kɔnɔ a naxa yunubi sɔtɔ Bali kuye batufe ra, a fa faxa.
 Yakɔsi e man yunubie nan nabama, e kuye rafalama gbeti ra. E kuye yailanma, kɔnɔ xabui wali gbansan nan a ra. E adamadie bama sɛrɛxɛ ra, e ninge kuye sunbuma.
 Na na a niyama e fama ɲɔnde alɔ kunda naxan goroma gɛɛsɛgɛ, alɔ xini naxan yolonma gɛɛsɛgɛ, alɔ maale lagi foye naxan xaninma foye ra, alɔ tuuri naxan minima kuri kui.
@@ -22348,7 +22348,6 @@ Efirami xa fe ɲaaxi birin sɛbɛxi, Ala mu nɛɛmuma a xa yunubie ma.
 Tɔɔrɛ fama nɛ a lide, alɔ ginɛ naxan di barima. Kɔnɔ di xaxilitare na a ra. A bari tɛmui na a li, a mu tinma minide a nga tɛɛgɛ.»
 «N xa e xun sara aligiyama sɛnbɛ yi? N xa e rakisi saya ma? Saya, i xa xɔnɛ na minden? Aligiyama, i xa sɛnbɛ na minden? N mu kinikinima wo ma feo!
 Hali a sɛnbɛ gbo a ngaxakerenyie tagi, Alatala foye xare rafama nɛ keli gbengberenyi sogetede mabiri, a fa xuree nun kɔlɔnyie xɔride. Harige birin bama nɛ a yi ra.»
-
 Samarikae bara yunubi sɔtɔ e Marigi Alatala matandife ra. Na nan a ra e faxama santidɛgɛma ra, e xa diyɔrɛe wolima nɛ bɔxi ma, e xa ginɛ furuxie furi rabɔɔma nɛ.
 Isirayila, gbilen i Marigi Alatala ma, barima i xa wali kobi bara i rabira.
 Wo tuubi Alatala ma, wo fa yi wɔyɛn fanyi fala a bɛ, «I xa diɲɛ muxu xa yunubie ma, i xa hinnɛ muxu ra. Muxu xa tantui ba sɛrɛxɛ ra, tuurae xa lu na.
@@ -22357,7 +22356,8 @@ Asiriya mu nɔma muxu rakiside, muxu mu tema soee fari gere xili ma. Muxu mu kuy
 N luma nɛ Isirayila bɛ alɔ xini, e tofanma nɛ alɔ sansi fugaxi. E sabatima nɛ alɔ wuri bili fanyi naxan na Liban.
 A salonyi kuyama nɛ. A tofanma nɛ alɔ oliwi wuri, a xiri fanyi raminima nɛ alɔ wondi naxan na Liban.
 Ɲama man sabatima nɛ Isirayila bɔxi ma Ala xa niini bun ma. E xa mɛngi fanma nɛ. E xa fe ɲɔxunma nɛ alɔ wɛni bogi, e fa xili fanyi sɔtɔ alɔ Liban xa wɛni.
-Efirami bɔnsɔɛ, munse na n nun kuyee tagi? N tan nan wo xa dubɛ suxuma, n nan n ɲɛngi sama nɛ wo xɔn. N luma nɛ wo bɛ alɔ wuri xinde fanyi. Wo baloe sɔtɔma n tan nan saabui ra.» Lɔnnila yi wɔyɛnyi kolonma nɛ. Xaxilima yi masenyi fahaamuma nɛ. Alatala xa kirae tinxin, tinxintɔɛe ɲɛrɛma nee nan xɔn, kɔnɔ matandilae dinkonma nee nan na.
+Efirami bɔnsɔɛ, munse na n nun kuyee tagi? N tan nan wo xa dubɛ suxuma, n nan n ɲɛngi sama nɛ wo xɔn. N luma nɛ wo bɛ alɔ wuri xinde fanyi. Wo baloe sɔtɔma n tan nan saabui ra.»
+Lɔnnila yi wɔyɛnyi kolonma nɛ. Xaxilima yi masenyi fahaamuma nɛ. Alatala xa kirae tinxin, tinxintɔɛe ɲɛrɛma nee nan xɔn, kɔnɔ matandilae dinkonma nee nan na.
 Masenyi nan yi ki Alatala naxan masen Petuweli xa di Yoweli bɛ:
 Forie, wo yi fe ramɛ, bɔxikae, wo wo tuli mati. Yi fe mɔɔli bara raba nu wo xa waxati, xa na mu wo benbae xa waxati?
 Wo yi ya maxaran wo xa die bɛ, wo xa die fan xa a ya maxaran e gbe die bɛ, e gbe die fan xa a ya maxaran e gbe die bɛ e fama naxee baride.
@@ -22405,16 +22405,16 @@ Lonyie rafema nɛ sansi xɔri ra, fifae rafema nɛ wɛni nɛɛnɛ nun ture ra.
 N wo xa daxamui ɲɔxɔɛ fima nɛ, n ma geresoe sɛnbɛmae naxan kana, n ma geresoe naxee lanxi kulie, katoe, nun katoe maniyɛe ma, n naxee rasanba wo xili ma.
 Wo fama nɛ wo dɛgede han wo luga. Wo n matɔxɔma nɛ, n tan wo Marigi Ala, naxan bara kaabanakoe raba wo bɛ. N ma ɲama mu rayarabima sɔnɔn.
 Na kui wo a kolonma nɛ a n na Isirayila fɔxɔ ra, a n tan nan na wo Marigi Alatala ra, a Ala gbɛtɛ mu na. N ma ɲama mu rayarabima sɔnɔn.
-
-
-
-
-
-Na dangi xanbi, n na n Xaxili ragoroma nɛ mixi birin ma. Wo xa di xɛmɛe nun di ginɛe namiɲɔnmɛɲa rabama nɛ, wo xa forie xiyee sama nɛ, laamatunyie goroma nɛ wo xa fonikee ma. Na tɛmui, n na Yuda nun Darisalamu ragbilen e xɔnyi,
-N na n Xaxili ragoroma nɛ konyi xɛmɛe nun konyi ginɛe ma. n si birin malanma nɛ Yehosafati gulunba kui. Mɛnni n e makiitima nɛ n ma ɲama Isirayila xa fe ra, naxee findixi n kɛ tongomae ra. Duniɲa si naxee rayensen yɛ ɲamanɛe ma, e n ma bɔxi itaxun e boore ma,
-N tɔnxumae raminima nɛ koore nun bɔxi ma, naxee findima wuli, tɛ, nun tuuri ra. e n ma ɲama raba e sago ra. E xɛmɛ dimɛe mati langoeɲa sare ra, e ginɛ dimɛe mati beere sare ra alako e xa siisi.
-Soge dimima nɛ, kike masarama nɛ a findi wuli ra, beenun Marigi xa lɔxɔɛ xungbe magaaxuxi xa a li. «Wo tan Tirekae, Sidɔnkae, nun Filisitakae, wo wama munse xɔn ma n bɛ? Wo wama wo gbe nan ɲɔxɔfe n ma? Xa na na a ra, n wo sare fima nɛ wo xa wali ra mafuren mafuren.
-Na kui, naxan yo na Alatala xili, na kanyi kisima nɛ. Mixi kisixie luma nɛ Siyoni nun Darisalamu, alɔ Alatala a masenxi ki naxɛ. Alatala kisi ragirixi naxee ma, nee luma nɛ kisi mixie dɔnxɔɛ ya ma. Wo bara n ma xɛɛma nun n ma gbeti tongo n ma hɔrɔmɔbanxi kui, wo fa a raso wo xa kuye banxie kui.
+Na dangi xanbi, n na n Xaxili ragoroma nɛ mixi birin ma. Wo xa di xɛmɛe nun di ginɛe namiɲɔnmɛɲa rabama nɛ, wo xa forie xiyee sama nɛ, laamatunyie goroma nɛ wo xa fonikee ma.
+N na n Xaxili ragoroma nɛ konyi xɛmɛe nun konyi ginɛe ma.
+N tɔnxumae raminima nɛ koore nun bɔxi ma, naxee findima wuli, tɛ, nun tuuri ra.
+Soge dimima nɛ, kike masarama nɛ a findi wuli ra, beenun Marigi xa lɔxɔɛ xungbe magaaxuxi xa a li.
+Na kui, naxan yo na Alatala xili, na kanyi kisima nɛ. Mixi kisixie luma nɛ Siyoni nun Darisalamu, alɔ Alatala a masenxi ki naxɛ. Alatala kisi ragirixi naxee ma, nee luma nɛ kisi mixie dɔnxɔɛ ya ma.
+Na tɛmui, n na Yuda nun Darisalamu ragbilen e xɔnyi,
+n si birin malanma nɛ Yehosafati gulunba kui. Mɛnni n e makiitima nɛ n ma ɲama Isirayila xa fe ra, naxee findixi n kɛ tongomae ra. Duniɲa si naxee rayensen yɛ ɲamanɛe ma, e n ma bɔxi itaxun e boore ma,
+e n ma ɲama raba e sago ra. E xɛmɛ dimɛe mati langoeɲa sare ra, e ginɛ dimɛe mati beere sare ra alako e xa siisi.
+«Wo tan Tirekae, Sidɔnkae, nun Filisitakae, wo wama munse xɔn ma n bɛ? Wo wama wo gbe nan ɲɔxɔfe n ma? Xa na na a ra, n wo sare fima nɛ wo xa wali ra mafuren mafuren.
+Wo bara n ma xɛɛma nun n ma gbeti tongo n ma hɔrɔmɔbanxi kui, wo fa a raso wo xa kuye banxie kui.
 Wo bara Yudakae nun Darisalamukae mati Girɛkikae ma, alako e xa makuya e xɔnyi ra.»
 «N e ramaxama nɛ alako e xa keli yire wo e matixi dɛnnaxɛ, n fa wo sare fi wo xa wali ɲaaxi ra.
 N wo xa di xɛmɛe nun di ginɛe matima nɛ Yudakae ma, alako e fan xa e mati Sebakae ma naxee makuya wo ra.» Alatala xa masenyi nan na ki.
@@ -22614,7 +22614,6 @@ Kunkuimae naxa kata laala bade e xa xare masɔtɔ, kɔnɔ na mu sɔɔnɛya. Baa 
 Na tɛmui e naxa Alatala maxandi, «Alatala, muxu bara i maxandi i xa muxu ratanga yi xɛmɛ xa faxɛ ma. Mixi fanyi nii bafe kote naxa dɔxɔ muxu xun ma, barima i tan Alatala na i waxɔnfe nan tun nabafe yi ki.»
 Na fala xanbi, e naxa Yunusa tongo fa, e a woli baa ma. Baa xa xaaɲɛ naxa dan.
 Na fe naxa na mixie ragaaxu Alatala ya ra ki fanyi ra. E naxa sɛrɛxɛ ba Alatala bɛ, e kɛrɛ tongo a bɛ.
-
 Alatala naxa yɛxɛ xungbe nde yamari baa ma a xa Yunusa gerun. Yunusa naxa lu yɛxɛ furi kui fɛɛɲɛn saxan, kɔɛ saxan.
 A naxa a Marigi Alatala maxandi yɛxɛ furi kui yi ki:
 «Alatala, n to n xui rate i ma n ma bɔɲɛ mini kui, i bara n yaabi. N to i xili kelife aligiyama, i bara n xui mɛ.
@@ -22624,7 +22623,8 @@ N naxa madula ye xɔɔra, baa naxa nɔ n na. Baa ɲooge naxa filin filin n kɔny
 N goro nɛ baa bɔtini ma han geyae fɔlɔde. N nu na geeli aligiyama, kɔnɔ i tan Marigi Alatala, i naxa n namini na yili tilinxi kui n ɲiɲɛ ra.
 N nii to nu na bafe n fate i, n naxa n maɲɔxun Alatala ma. N ma maxandi naxa siga han a sa i li, i xa hɔrɔmɔbanxi sɛniyɛnxi.
 Mixi naxee e nii taxu kuye sɛnbɛtare ra, nee e yɛtɛ raganma hinnɛ fanyi nan na.
-Kɔnɔ n tan tantui bɛɛti nan bama i bɛ sɛrɛxɛ ra, n na n ma kɛrɛ tongoxi rakamalima nɛ. Kisi fatanxi Alatala nan na.» Na dangi xanbi, Alatala naxa yɛxɛ yamari, a xa sa Annabi Yunusa bɔxun xare ma.
+Kɔnɔ n tan tantui bɛɛti nan bama i bɛ sɛrɛxɛ ra, n na n ma kɛrɛ tongoxi rakamalima nɛ. Kisi fatanxi Alatala nan na.»
+Na dangi xanbi, Alatala naxa yɛxɛ yamari, a xa sa Annabi Yunusa bɔxun xare ma.
 Alatala naxa gbilen masenyi ti ra Yunusa bɛ, a naxɛ,
 «Keli, i siga yi taa xungbe naxan xili Ninewe. I xa sa n ma xɛɛra iba e bɛ, n i tixi naxan na.»
 Annabi Yunusa naxa keli a siga Ninewe, alɔ Alatala a masen a bɛ ki naxɛ. Taa nan nu Ninewe ra naxan xungbo ki fanyi ra xi saxan ɲɛrɛ rabama dɛnnaxɛ.
@@ -22700,7 +22700,8 @@ Siyonikae, wo furie xa wo matolin alɔ furi ginɛ, barima e wo raminima nɛ taa 
 Kɔnɔ yakɔsi si gbegbe tixi wo xili ma, a falafe ra, «Siyoni xa yaagi won ya xɔri!»
 Nee mu Alatala xa maɲɔxunyi kolonxi, e mu a xa wali fahaamuxi. Alatala bara e malan lonyi ma maale bɔnbɔma dɛnnaxɛ.
 Siyonikae, wo keli wo xa e bɔnbɔ. N wo sɛnbɛ gboma nɛ alɔ tuura, naxan ferie yailanxi wure ra, naxan tore findixi wure gbeeli ra. Na kui wo ɲamanɛ wuyaxi butuxunma nɛ, wo e xa naafuli findima n tan Duniɲa Marigi Alatala nan gbe ra.
-Yakɔsi wo xa wo fatee mabɔɔ sunnunyi ma, barima e na won ma taa suxufe, e na Isirayila ɲama xa mangɛ bɔnbɔfe a yatagi ma wuri ra. «I tan, Bɛtɛlɛɛmu Efarata, naxan xurun Yuda xabilɛe ya ma, mixi nde minima nɛ i ya ma naxan Isirayila yamarima n bɛ. A xa fe fɔlɔxi tɛmui dangixi nɛ naxan makuya pon.»
+Yakɔsi wo xa wo fatee mabɔɔ sunnunyi ma, barima e na won ma taa suxufe, e na Isirayila ɲama xa mangɛ bɔnbɔfe a yatagi ma wuri ra.
+«I tan, Bɛtɛlɛɛmu Efarata, naxan xurun Yuda xabilɛe ya ma, mixi nde minima nɛ i ya ma naxan Isirayila yamarima n bɛ. A xa fe fɔlɔxi tɛmui dangixi nɛ naxan makuya pon.»
 Na na a toma, Alatala Isirayila raboloma, han furi ginɛ fa a xa di baride. Na tɛmui, na di ngaxakerenyie dɔnxɔɛe fama nɛ gbilende Isirayila.
 A kelima nɛ, a ti a xa xurusee ya ra, a e dɛ madon a Marigi Alatala Xili Xungbe Kanyi sɛnbɛ ra. E sabatima nɛ a fanyi ra, barima a xa xunnakeli duniɲa birin lima nɛ.
 A tan nan findima won ma bɔɲɛsa ra. Asiriyakae na fa won ma bɔxi ma, e so won ma yire makantaxie kui, won kantama solofere nun mangɛ solomasaxan nan kelima e xili ma.
@@ -22714,7 +22715,6 @@ N wo xa duureya kanama nɛ, n wo xa se matoe rayensen yɛ.
 N wo xa kuyee nun wo xa gɛmɛ masolixi birin kanama nɛ. Na tɛmui, wo mu suyidima se yailanxie bɛ sɔnɔn.
 N wo xa Aseri wuri masolixie talama nɛ wo tagi, n wo xa taae kanama nɛ,
 n n gbeɲɔxɔma xɔnɛ nan kui, sie ma naxee mu tin n xui suxude.»
-
 Wo wo tuli mati Alatala xa masenyi ra: «Keli, wo xa wo xa kalamui ti geyae ya xɔri, duniɲa birin xa i xui mɛ.
 Geya naxee na duniɲa ma kabi a fɔlɛ, wo xa n tan Alatala xa kalamui mɛ, n naxan tima n ma ɲama Isirayila xili ma.»
 «N ma ɲama, n munse rabaxi wo ra? N kote mundun dɔxɔxi wo xun ma? Wo xa n yaabi.
@@ -22765,7 +22765,6 @@ Nineweka nde bara fe ɲaaxi raba Alatala ra, a mixie rasixi fe kobi nan ma.
 Ala xa masenyi nan ya e xa fe ra: «Hali wo yaxuie wuya, e xun fama nɛ rakanade, e ɲɔn. N bara wo tan Yudayakae tɔɔrɔ, kɔnɔ n mu na rabama sɔnɔn.
 Yakɔsi n wo bama nɛ wo yaxuie xa nɔɛ bun ma, n luutie bolon wo xirixi naxee ra.»
 Alatala xa masenyi nan ya wo tan Ninewekae xa fe ra: «Wo bɔnsɔɛ fama nɛ ɲɔnde. N wo xa kuye masolixie nun wo xa kuye naxee yailanxi wure ra, naxee na wo xa alae xa banxie kui, n nee birin kanama nɛ. N wo sɔntɔma nɛ, barima wo ɲaaxu.»
-
 Xɛɛra na fafe geyae fari, a fafe xibaarui fanyi ra wo bɛ, a bɔɲɛsa masenyi nan tima wo bɛ. Yudayakae, wo xa wo xa salie raba, wo xa wo xa laayidie rakamali Ala bɛ, barima mixi ɲaaxie mu fama wo sɔntɔde sɔnɔn.
 Ninewekae, wo yaxuie na fafe wo xili ma. Wo wo xa tɛtɛ makanta, wo mɛɛni wo xa kira ma, wo wo tagi ixiri, wo xa limaniya, wo xa sɛnbɛ sɔtɔ,
 barima Alatala fama nɛ Yaxuba xun nakelide, a fama nɛ Isirayila itede, hali kasarɛ to ti e xa bɔxi ma, e xa sansie naxa tuxunsan.
@@ -22778,7 +22777,8 @@ Ninewe bara lu alɔ ye ragatade ibɔɔxi, a ye fa mini bɔxi ma. Nde a falama, �
 Booree a falama, «Wo gbeti nun xɛɛma tongo. Naafuli gbegbe na e yi ra.»
 Kasarɛ, tuxunsanyi, nun gbaloe! Limaniya bara ba e yi ra, e sanyie mu xanfe e bun ma, e bɔɲɛ na tɔɔrɔfe, e lahalɛ bara masara.
 Taa sɛnbɛma naxan nu luxi alɔ yɛtɛ lude, yɛtɛ yɔrɛe nun e nga nu malabuxi xaxilisa kui dɛnnaxɛ, na taa munse sɔtɔxi yi ki?
-Na yɛtɛ sɛnbɛma nu sube faxama a xa ginɛ nun a xa die bɛ, a nu a xɔnyi rafema sube ibɔɔxi ra. Mangɛ Alatala xa masenyi nan ya: «N kelima nɛ wo xili ma, n wo xa sɔɔri ragisee ganma nɛ, n wo xa yɛtɛ yɔrɛe faxama nɛ santidɛgɛma ra, n sube birin bama nɛ wo yi ra duniɲa. Wo xa xɛɛrae xui mu mɛma sɔnɔn.»
+Na yɛtɛ sɛnbɛma nu sube faxama a xa ginɛ nun a xa die bɛ, a nu a xɔnyi rafema sube ibɔɔxi ra.
+Mangɛ Alatala xa masenyi nan ya: «N kelima nɛ wo xili ma, n wo xa sɔɔri ragisee ganma nɛ, n wo xa yɛtɛ yɔrɛe faxama nɛ santidɛgɛma ra, n sube birin bama nɛ wo yi ra duniɲa. Wo xa xɛɛrae xui mu mɛma sɔnɔn.»
 Ɲaxankatɛ na yi taa faxɛti bɛ, naxan nafexi yanfanteya, se muɲaxie, nun tɔɔrɔmixie ra.
 Luxusinyi xui minima naa, sɔɔri ragise sanyie xui minima, soee e gima, sɔɔri ragise e imaxama.
 Soe ragie geresoma, santidɛgɛma lintanma alɔ tɛ luutie, tanbɛ wolima alɔ seyamakɔnyie, mixi faxaxie ralantanxi yire birin ma, fure saxie mu ɲɔnma, mixie e sanyi radinma furee ra.
@@ -22962,10 +22962,6 @@ Alatala naxa na malekɛ ralimaniya, a a madundu, malekɛ naxan nu wɔyɛnma n na
 N bara xɔnɔ si gbɛtɛe ma naxee ɲɔxɔ a ma tɔɔrɛ yo mu nɔma e lide. Singe n nu xɔnɔxi dondoronti n ma ɲama ma, kɔnɔ sie tan bara nde sa n ma ɲama xa tɔɔrɛ xun ma.›»
 «Na nan a ra, Alatala naxa a masen, ‹N man kinikinima nɛ Darisalamu ma, n man n ma banxi tima nɛ. Luuti ibɛndunma nɛ Darisalamu taa xun ma alako na xa maniya, na taa man xa gbilen ti ra.› Mangɛ Alatala xa masenyi nan na ki.
 I man xa a fala, ‹Mangɛ Alatala xa masenyi nan ya: Harige man luma n ma taae kui, n man Siyon madundu ma nɛ, n man Darisalamu sugandima nɛ.›»
-
-
-
-
 N naxa yi laamatunyi to: N bara feri naani to.
 N bara malekɛ maxɔrin, naxan nu wɔyɛnma n na, «Munse na yee ra?» A naxa n yaabi, «Sɛnbɛmae nan yee ra naxee Yudaya, Isirayila, nun Darisalamu rayensenxi.»
 Na tɛmui, Alatala naxa xabui naani masen n bɛ.
@@ -22975,10 +22971,14 @@ N naxa a maxɔrin, «I siga minden?» A naxa n yaabi, «N Darisalamu nan maniyaf
 Malekɛ naxan nu wɔyɛnma n na, a naxa siga yare, malekɛ gbɛtɛ naxa fa a ralande.
 A naxa a fala a bɛ, «I gi, sa a fala yi sɛgɛtala bɛ, a Darisalamukae nun xurusee fama nɛ wuyade han tɛtɛ mu nɔ e rabilinde sɔnɔn.»
 Alatala xa masenyi nan ya: «N tan yati e makantama nɛ. N luma nɛ e bɛ alɔ tɛtɛ tɛ daaxi, n ma nɔrɛ fa lu e tagi.»
-Alatala xa masenyi nan ya: «Wo wo gi, wo wo gi! Wo xa keli ɲamanɛ ma naxan na kɔɔla ma.» Alatala xa masenyi nan ya: «Singe n nu bara wo rayensen yɛ duniɲa ma. «Darisalamukae, wo wo xui ite sɛɛwɛ kui, barima n fama nɛ lude wo tagi.» Alatala xa masenyi nan na ki.
-Siyon mixie, wo wo gi. Wo tan naxee na Babilɔn, wo xa keli naa.» Si wuyaxi fama nɛ Alatala ma na lɔxɔɛ, e fa findi n ma ɲama ra. N luma nɛ wo tagi, wo fa a kolon a Mangɛ Alatala nan n xɛɛxi wo ma.
-Mangɛ Alatala naxa a masen n bɛ, a naxan xɛɛxi binyɛ kui, fe falafe yi sie xa fe ra naxee wo tɔɔrɔxi: «Naxan a bɛlɛxɛ dinma wo ra, a luxi nɛ alɔ na kanyi bara a bɛlɛxɛ din Ala ra.» Yudaya man findima Alatala gbe nan na a xa bɔxi sɛniyɛnxi kui. A man fama nɛ Darisalamu sugandide.
-N na keli e xili ma, e findi e xa konyie xa konyie ra. Na kui wo a kolonma nɛ a Mangɛ Alatala nan n xɛɛxi. Adamadi birin xa a sabari Alatala bɛ, a na kelife a xa yire sɛniyɛnxi.
+Alatala xa masenyi nan ya: «Wo wo gi, wo wo gi! Wo xa keli ɲamanɛ ma naxan na kɔɔla ma.» Alatala xa masenyi nan ya: «Singe n nu bara wo rayensen yɛ duniɲa ma.
+Siyon mixie, wo wo gi. Wo tan naxee na Babilɔn, wo xa keli naa.»
+Mangɛ Alatala naxa a masen n bɛ, a naxan xɛɛxi binyɛ kui, fe falafe yi sie xa fe ra naxee wo tɔɔrɔxi: «Naxan a bɛlɛxɛ dinma wo ra, a luxi nɛ alɔ na kanyi bara a bɛlɛxɛ din Ala ra.»
+N na keli e xili ma, e findi e xa konyie xa konyie ra. Na kui wo a kolonma nɛ a Mangɛ Alatala nan n xɛɛxi.
+«Darisalamukae, wo wo xui ite sɛɛwɛ kui, barima n fama nɛ lude wo tagi.» Alatala xa masenyi nan na ki.
+Si wuyaxi fama nɛ Alatala ma na lɔxɔɛ, e fa findi n ma ɲama ra. N luma nɛ wo tagi, wo fa a kolon a Mangɛ Alatala nan n xɛɛxi wo ma.
+Yudaya man findima Alatala gbe nan na a xa bɔxi sɛniyɛnxi kui. A man fama nɛ Darisalamu sugandide.
+Adamadi birin xa a sabari Alatala bɛ, a na kelife a xa yire sɛniyɛnxi.
 A naxa sɛrɛxɛdubɛ kuntigi Yosuwe masen n bɛ, a nu tixi Alatala xa malekɛ ya i. Sentanɛ nu tixi a yirefanyi ma a xa a tɔɔɲɛgɛ.
 Alatala naxa a fala Sentanɛ bɛ, «N tan, Alatala naxan Darisalamu sugandixi, n bara a fala i bɛ Sentanɛ, i sabari! Yege xuntunyi xa mu na yi xɛmɛ ra naxan baxi tɛ dɛ i?»
 Yosuwe nu tixi malekɛ ya i, dugi nɔxɔxi nan nu ragoroxi a ma.

@@ -564,7 +564,7 @@ Bada ena aneya malamo Eiblaḡam lisinemo giu i wai labuna gado,
 Bada niga mainana i giuna gado, “Tam kuna voteyeteyegu bi natuotim ḡemota bi mote ku nuwevi, taunana aubaina tagu e giuvavasaḡem.
 Te tam yà kavisuvisum bi bilem sa wapana mai kipola galewemo ee gimoli nisa diyanemo. Tam bilem yaḡolo edi ḡaviya sa vawaiubedi.
 Tam em tubulelesemo lava matabudi dobumo visuvisu sa vai. Banina tam egu giuvavasaḡa kuna voteyeteye.”
-Kamaina bi a munaḡa ena taupaula lisidimo bi matabudi a nawa Biyasiba, Eiblaḡam ena ani miyamo. Sela ena kwalabu ba 127 bi i peki. Eiblaḡam mwanena i wai nuwaboyae bi mote gabu te mwanena ya dobo. Kamaina bi dobuna lavedi lisidimo doḡa i gimeli bi mwanena i dobo. Bi kwalabu faiona mulidimo Eiblaḡam natuna Aisik Alan waivinina i naḡi, isana ba Lebeka bi tana ba Eiblaḡam tasina Nao natuna. Aisik ena kwalabu 40 bi i naḡi mulinemo Eiblaḡam i peki bi natunatuna labu taubeuna a vai bi mwanena diyanemo a dobo. Eiblaḡam ena kwalabu ba 175 bi i peki.
+Kamaina bi a munaḡa ena taupaula lisidimo bi matabudi a nawa Biyasiba, Eiblaḡam ena ani miyamo.
 
 
 
@@ -1273,7 +1273,7 @@ Bi tedi a giuna gado, “Mm bada geḡa! Tama em taupaula ke tava kani ka gimeli
 
 Kamaina bi taudiḡa a giuna munaḡedina gado, “Niga ba eda kauwa waigebo tasida lisinemo niganana kovoḡina ta vaivai. Mba sauginemo ena nopoyavimo sagu i waibaḡaye bi mote ta sagu. Taunana aubaina niganana kovoḡina ta vaivai.”
 Ḡome Lubin i giuna gado, “E giuwemi te gomana maso mote ko laukivigebogeboye bi kalinagu mote ko vaiye. Niganana kamaina te ena peki kovoḡina ta vai.”
-Tana giu matabuna tolopeta lisinemo i waidama. Bi mote a sibe te bai a giugiuwena Diyousep kaikana i vaiyedi. Diyousep tuwatuwaḡana lisinemo kani a gimeli bi a munaḡa Keinanmo tamedi lisinemo. Bi kota muliḡa a munaḡa kani ḡesaudi a gimeli munaḡe.
+Tana giu matabuna tolopeta lisinemo i waidama. Bi mote a sibe te bai a giugiuwena Diyousep kaikana i vaiyedi.
 
 
 
@@ -1504,7 +1504,7 @@ Bi ḡalibona ena diḡona waibada matailina mote kaka Diuda ima gose. Bi em tub
 
 
 
-Laḡannemo Deikap natunatuna i giuwailovelovedi bi i guliyovo ena gabumo bi peki. Deikap Idipmo i miya kwalabu 17 a kovi. Bi tana dobumo i miyana kwalabu wapana 147 a kovi.
+Laḡannemo Deikap natunatuna i giuwailovelovedi bi i guliyovo ena gabumo bi peki.
 
 
 
@@ -1592,7 +1592,7 @@ Bi geḡa te Mousis Maimaituwa i giuwena gado, “Bai! Tagu mote bai yà sibe, t
 Bi kota Maimaituwa i giuwena gado, “Tagu vaitem ta nawa. Bi laḡannemo Islael lavedi Idipmo kwa kapotiyovodina, ba temi niga oyanemo ko lauduneyegu. Ḡome kaka kwa sibe kauwe te tagu taunana e giukamaḡem.”
 Bi Mousis Maimaituwa i giuwena gado, “Laḡannemo yà nawa Islael lavedi lisidimo bi yà giuwedina gado, ‘Emi magumagula edi Maimaituwa i giukamaḡegu lisimimo.’ Bi simai talayegu gado, ‘Tana bainewa isana?’ Te tagu bainewa yà giuwedi?”
 Bi Maimaituwa Mousis i giuwena gado, “Niga mainana kwa giuwedi, tagu mai miyamiyagu.”
-Bi kota Maimaituwa Mousis i giuwena gado, “Islael lavedi kwa giuwedi te tagu Bada edi magumagula Eiblaḡam, Aisik bi Deikap edi Maimaituwa, yà giugiukamaḡem lisidimo. Niga taunana tagu isagu ya kena nonoḡa bi tubulelesa matabuna sa noḡotiwata bi sa giuwata.” Mba taunana mulinemo Mousis i munaḡa nawa Midian, ḡome kaka i nawana Idip. Idip ḡalibonana Mousis i giuwena gado, “Tagu mote ḡemoḡemotina te bai kwa giugiuwena yà voiye. Tedi kamaina te mai sa noyanoya.” Taunana aubaina Maimaituwa Idip lisidimo kauwa gebogebodi wapawapa i voiyedi.
+Bi kota Maimaituwa Mousis i giuwena gado, “Islael lavedi kwa giuwedi te tagu Bada edi magumagula Eiblaḡam, Aisik bi Deikap edi Maimaituwa, yà giugiukamaḡem lisidimo. Niga taunana tagu isagu ya kena nonoḡa bi tubulelesa matabuna sa noḡotiwata bi sa giuwata.” Idip ḡalibonana Mousis i giuwena gado, “Tagu mote ḡemoḡemotina te bai kwa giugiuwena yà voiye. Tedi kamaina te mai sa noyanoya.” Taunana aubaina Maimaituwa Idip lisidimo kauwa gebogebodi wapawapa i voiyedi.
 
 
 
@@ -1867,7 +1867,7 @@ Islael lavedi matabudi kamaina te vawaitauli soina sa voiye.”
 
 
 Bada, Mousis i giuwena gado,
-“Libilibi oloolotodi tautautuwaḡa ba ko vine kamaḡedi tagu aubaigu. Libilibi oloolotodi tautautuwaḡa Islael noponemo bi ḡamoḡamo geigei tubuḡidi oloolotodi ba Bada aubaina.” Mousis Islael lavedi i giuwedina gado,
+“Libilibi oloolotodi tautautuwaḡa ba ko vine kamaḡedi tagu aubaigu. Libilibi oloolotodi tautautuwaḡa Islael noponemo bi ḡamoḡamo geigei tubuḡidi oloolotodi ba Bada aubaina.”
 
 
 
@@ -2215,7 +2215,7 @@ Bi gold ko bibi waitabetabedi te kelubim aluwidi labu ko voiyedi.
 Bi kuvu dabanemo aluwidi kwa pati waiḡemotidi, ḡesau isunemo bi ḡesau isunemo.
 Kelubim aluwidi labu kwai moitodi te matedi gabu ḡemota. Bi mabedi kuvuna sai kwesitawi bi sa kitakita yovoḡe.
 Kamaina bi ḡakima tabetabedi dabedimo waiḡake gilugilumidi bogesina noponemo kwa sivu yovoḡedi bi kuvuna kwa vai te kwa kuvu.
-Bi waianina bogesina kuvu dabanemo, gebogebo ani noḡotikamaḡena gabunemo kelubim labu gavogavodimo, tagu tam vaitem tai taubanava. Bi egu waiḡake matabudi yà vitem Islael lavedi aubaidi.” Maimaituwa kota Mousis i giuwe te bainewa bena olta goldimo voivoiyena piupiu ani gabuna. Bi kwadam kaina lagana 7 ya voiyedi. Tana kota Mousis i giuwe bainewa palai waiyawa ya voiye. Bi noponemo nakanaka labu, guduboyo yai dawe te yai govegove. Bi kota i giuwe te blonsimo olta ya voiye ḡamoḡamo ani lausewasewayedi bi aboma dididiga ani launimakoḡa.
+Bi waianina bogesina kuvu dabanemo, gebogebo ani noḡotikamaḡena gabunemo kelubim labu gavogavodimo, tagu tam vaitem tai taubanava. Bi egu waiḡake matabudi yà vitem Islael lavedi aubaidi.”
 
 
 
@@ -2529,7 +2529,7 @@ Kamaina bi Mousis, Elon bi Islael babadidi i yogedi a nato lisinemo bi i giuwedi
 Bi kota Islael lavedi matabudi a tava lisinemo bi Bada ena wailovelove Sainai oyana dabanemo i gilugilumina i giuvitedi.
 Laḡannemo Mousis lava lisidimo giu i waiwaikovi ba gala puselina i vai te solana i suma.
 Bi laḡannemo palai waiyawemo i sola nawa Bada vaitena wai giugiu aubaina ba galana i kaikaikamaḡe. Bi kota i potiyovo te Bada ena wailovelove lava i giugiu vitedi.
-Bi lava tana solana namalina a kitakita ba gala i vai bi solana i sumasuma. Bi laḡannemo i munaḡa Bada vaitena waigiugiu aubaina ba solana ani sumana i kaikaikamaḡe. Bi Mosis puyo bi palai waiyawa ani kelina pulepuledi aubaidi te Islael lavedi i waibaḡedi. Kamaina bi pilipilisi edi gala waiwaiyawidi bi kota bai matabudi lava a tavitedi. Te luvana mba pulepuledimo mwali matabudi sa voiye kovidi. Bi Diuda damnemo Besalel bi Oliyab bi ediya taulauvevewana waiwaivini bi olooloto bainewa Maimaituwa, Mousis i wailovena mainana palai pulepuledi a voiyedi.
+Bi lava tana solana namalina a kitakita ba gala i vai bi solana i sumasuma. Bi laḡannemo i munaḡa Bada vaitena waigiugiu aubaina ba solana ani sumana i kaikaikamaḡe.
 
 
 
@@ -2751,7 +2751,7 @@ Tana nimana ḡamoḡamo gabuḡosa puyona kununemo ya sako te Bada yai anine. M
 Ḡome taulausewasewa Bada matanemo muselina yai peki. Kaka bi pilisi Elon natunatuna niga muselina kwasinina sa vai nawe bi palai waiyawa mataetinemo olta moimoitona liuna 4 sa lai sepusepudi.
 Mulinemo niga lavana ḡamoḡamo gabuḡosa puyona kwapina ya kopa bi ya nigo.
 Kamaina bi pilipilisi Elon natunatuna olta dabanemo kai sa muka.
-Bi mba muselina tinaḡena kwa tili bi musala kaḡedi kwa koḡedi. Bi soisoi matabudi ba pilisi kwa vitedi te tedi kai matanemo sa sivudi te sa kalaḡosa. Bi panena visuvisuna Bada yai nuwavisuwe.” Bi vaitena Bada, Mousis i giuwe te sewasewa sipu, gouti, mwanuwa gabubu bi bunebune kauwina ḡemotinemo mainana sa lau sewasewa.
+Bi mba muselina tinaḡena kwa tili bi musala kaḡedi kwa koḡedi. Bi soisoi matabudi ba pilisi kwa vitedi te tedi kai matanemo sa sivudi te sa kalaḡosa. Bi panena visuvisuna Bada yai nuwavisuwe.”
 <range>
 
 
@@ -2781,7 +2781,7 @@ Bada, Mousis i giuwena gado, “Bamoda aiyai wainuwaḡemota kanina kwa voivoiye
 Bi palai waiyawa mataetinemo tam nimam ḡamoḡamo kununemo kwa sako bi kwai peki. Bi pilipilisi Elon natunatuna ḡamoḡamo kwasinina sa vai bi olta liuna 4 dabediḡa sa lai sepusepudi.
 Bi musala yapana, ganiganina bi liliva labu vaitedi bi momonidi matabudi pilisi sa legaudi bi Bada lisinemo wainuwaḡemota kanina sa lausewasewaye.
 <range>
-Ḡome Elon natunatuna sa legaudi bi olta dabanemo kai kalakalatinemo sai kalaḡosedi bi musala panena Bada yai nuwavisuwe.” Bi soisoi ḡesaudi ba ḡamoḡamo taniwagina ena lava vaitedi sa kani ḡemota. Bi kauwina ḡemotina mainana kau, sipu bi gouti wainuwaḡemota aubaina sa voiye Bada ena giuvavasaḡa luvanemo.
+Ḡome Elon natunatuna sa legaudi bi olta dabanemo kai kalakalatinemo sai kalaḡosedi bi musala panena Bada yai nuwavisuwe.”
 
 
 
@@ -4116,7 +4116,7 @@ Bi Nan natuna Diyosuwa bi Defune Natuna Keleb labuidi nuwedi i gebo bi edi gala 
 Bi a giuna Islael lavedi matabudi lisidimo gado “Ei, tama doḡana matabuna ke vakita kovi, te doḡa visuvisu guletina.
 Bamo te Bada lisidemo i wainuwavisuna ba ya naweda dobunemo bi doḡana ya viteda. Niga doḡana ba maumaulina bi ḡamoḡamo wapewapedi.
 Bada lisinemo mote koma giuvitavitala bi mote koma naila. Tada ḡemoḡemotida mba dobuna lavedi ta lauyovoḡedi. Bada tada lisidemo ya miyamiya bi tedi ba yasidi geḡa.”
-Ḡome lava matabudi a giu te Diyosuwa bi Keleb maso a lauḡakimidi. Bi geḡa te Bada namalina palai waiyawa mataetinemo i laumaḡata lava matabudi matedimo. Maimaituwa, Mousis i giuwe te lava yai etadoliyedi te nisa sabasabana etanaḡa sa munaḡa kalakalalelemo.
+Ḡome lava matabudi a giu te Diyosuwa bi Keleb maso a lauḡakimidi. Bi geḡa te Bada namalina palai waiyawa mataetinemo i laumaḡata lava matabudi matedimo.
 
 
 
@@ -4387,7 +4387,7 @@ Bi ena giu i waimunena gado, “Dipo natuna Balak mowabi edi ḡalibona kalinana
 “Bi i giu te lava Idipmo a potipotiyovona tedi dobu ai wanavu kamaḡe. Taunana aubaina tana ya ḡoeḡoegu te Islael lavedi yà pasilidi, mba mainana te tana Islael lavedi ya kwavi vaidi.”
 Bi geḡa te Maimaituwa Beilam i giuwena gado, “Niga babadidi mote vaitedi koma nawa bi mote Islael kuma pasilidi, banina mba lavedi ba tagu e kavisuvisudi.”
 Laḡan i sako olaolalemo Beilam i nawa Balak ena tauwainoyanoya lisidimo bi i giuwedina gado, “Ko munaḡa emi dobumo, banina Bada mote i wai aninegu te vaitemi ta nawa.”
-Kamaina bi a munaḡa Balak lisinemo bi a giuwena gado, “Beilam nato vaitemai i daboka.” Ḡome Balak ena waibabada laukaidi i giukamaḡe a munaḡa Beilam lisinemo. Bi i giu te mai'a didiga ya vite bamoda ya nato bi Islael lavedi ya pasilidina. Niga laḡannemo ba Maimaituwa Beilam i giuwe te waibabada vaitedi sa nawa lisinemo bi bai Maimaituwa ya giugiuwena taunana ya voiye.
+Kamaina bi a munaḡa Balak lisinemo bi a giuwena gado, “Beilam nato vaitemai i daboka.”
 
 
 
@@ -6563,7 +6563,7 @@ Laḡannemo bi waiḡaviya aubaina a potiyovona ba Bada Islael kedi ḡaviya mul
 Kamaina bi Bada taulaididimana i vinedi te tedi kaka kedi ḡaviya nimedimo sai yawasanidi.
 Bi kota Islael lavedi taulaididimana kalinedi mote a vaiye, bi kamaina te koikoitau a lau lauduneyedi. Tedi edi magumagula Bada kalinana a kaikaiwatana etana a pale, bi noi taunana te a miya vitaledi te koikoitau ḡesaudi a laulauduneyedi.
 Laḡannemo bi Bada taulaididimana lavana i vinena, ba tana ena waibada sauginemo Islael ya sagudi te kedi ḡaviya nimedimo yai yawasanidi. Banina edi lau aiyoi bi edi wainuwatoi i kitedi te i launuwatoiyedi.
-Laḡannemo taulaididimana lavana i pekina, ba kota lavedi a munaḡa kauwa waimatawalawala otidi a voivoiyedi, mote mainana wala edi magumagula. Tedi maimaituwa ḡesaudi a laulauduneyedi bi a kaikaiwatedi. Bi a laukasaḡaiḡai bi edi yawasana gebogebodi mote a gosedi. Islael lavedi edi yawasana gebogebodimo edi giuwapa Bada lisinemo a voivoiyedina a wai doukotokotodi. Tana i medi bi Islael lavedi i wailaulubudi te sagudi i kai sako bi Islael kedi ḡaviya i kita kamaḡedi bi ḡaviya a tava te lauyovoḡedi. Kedi ḡaviya edi yawasana gebogebodimo Islael lavedi ai laulubudi te edi Maimaituwa sa kaiwata e geḡa maibena edi magumagula a kaikaiwatana.
+Laḡannemo taulaididimana lavana i pekina, ba kota lavedi a munaḡa kauwa waimatawalawala otidi a voivoiyedi, mote mainana wala edi magumagula. Tedi maimaituwa ḡesaudi a laulauduneyedi bi a kaikaiwatedi. Bi a laukasaḡaiḡai bi edi yawasana gebogebodi mote a gosedi.
 
 
 
@@ -7250,7 +7250,7 @@ Bada, tam lava ḡesaudi kwa wai gomelidi bi ḡesaudi kwa wai maulidi. Bi ḡes
 Tam wai yamoyamonidi gobusemo, miyemiyedi kwa kaikailagetidi. Tam lava malumaluwabidi venimo miyemiyedi kwa kailagetidi. Te ḡalibona vaitedi ḡemoḡemotidi, tedi edi ani miya ba gabu pounemo sa miya. Dobu matabuna ba tam mabimmo. Bi mwali matabudi edi gabu kauwemo kuna sivudi.
 Tam em lava wai patutudi ba kwa moimoito galamedi. Bi gebo tauvoiyedi ba pekimo sa launeḡaneḡa. Lava taudiḡa edi ḡailisimo mote bai simai tubu.
 Tam em ḡaviya ba kwa kovoḡidi. Tam em medi galewaḡa ya yovona mai palele. Tam dobu matabuna kwai talapiliye, bi em ḡalibona ḡailisi kwa vite, bi em buyobuyona kwa voiye te ya ḡailisi gulata.”
-Kamaina bi Elikana ena vanuwa lavedi vaitedi gomana a gose bi a munaḡa Lama. Ḡome Samuwel Sailomo i miya bi Maimaituwa aubaina i noyanoya, pilisi Eli ena waibada gabulinemo. Samuwel i dididiga bi Maimaituwa ena noyamo i waiwaisagu, Maimaituwa ena palai noponemo. Maimaituwa bi lava edi waikitamo ba Samuwel, lava visuvisu kaukauwina. Bi Eli natunatuna labu ba Pilisi bi gebogebo a voivoiye, taunana aubaina Bada taugiuwatana i giukamaḡe, Eli lisinemo te Eli ya giuwe te sauga ḡesaunemo Bada kaka libilibidi yai peki labuiyedi. Banina tana natunatuna gebo a voivoiyedi bi mote i kaka didimanidi. Eli ena tubulelesa mulimulidi ba valivaliudimo a peki kovi.
+Kamaina bi Elikana ena vanuwa lavedi vaitedi gomana a gose bi a munaḡa Lama. Ḡome Samuwel Sailomo i miya bi Maimaituwa aubaina i noyanoya, pilisi Eli ena waibada gabulinemo.
 
 
 
@@ -7393,7 +7393,7 @@ Kamaina bi Samuwel lava edi giu matabudi Maimaituwa i giuvite.
 Bi Maimaituwa i giuwena gado, “Kamaina edi ḡowana aubaina ḡalibona ku vitedi.”
 Bendiman ena dammo ba oloto waiguyauna, isana Kis. Bi Kis tamana Abiel, itana ba Diyelo bi nosina ba Bekolat. Tedi edi magula ba Apila, tana Bendiman damnemo. Bendiman ena dammo oloto laukaina, isana Kis.
 Bi natuna Sol ewalina i visu kauwa, mote mai Islael oloolotodi ḡesaudi mai kitedi. Tana ba oloto lofalofana bi ena lava i nadonado tawedi.
-Sauga ḡemota Kis ena donki a gwegwe. Taunana aubaina natuna Sol i giuwena gado, “Tam, taupaula kwai doli bi ko nawa donki ko tavuḡedi.” Sol bi ena taupaula a nawa donki a tavuḡedina ba i lofa gulata bi bamo mote a banavidi. Taunana aubaina a nawa taugiuwatana, Samuwel lisinemo bi ai talaye te bamo ḡome maso a nawa bi donki a tavuḡedi.
+Sauga ḡemota Kis ena donki a gwegwe. Taunana aubaina natuna Sol i giuwena gado, “Tam, taupaula kwai doli bi ko nawa donki ko tavuḡedi.”
 
 
 
@@ -7684,7 +7684,7 @@ Sol, Deivida i giukamaḡe tauwaiḡaviya tabudi bi tabudi lisidimo bi tana i wa
 Deivida Filistiya edi ḡaviya badana Golaiet i wai peki. Laḡannemo tauwaiḡaviya a munamunaḡa malagaimo ba Islael waivinidi malagai nopodiḡa a tava ḡalibona Sol aubiga voyainemo. Tedi gita kitedi tabudi bi tabudi tambalin vaitedi ai beyakuluḡedi bi mayasisidi a weya bi a bigabiga.
 Mba waivinidi mayasisidi a weyaweyana gado, “Sol tana ḡaviya 1,000 i waipekidi, Bi Deivida tana 10,000 i waipekidi.”
 Sol mba giudimo mote i wainuwavisu, taunana aubaina i medi gulata. Bi i wainoḡotana gado, “Tedi Deivida isana sa kaikailageti bi sa giugiu te ḡaviya 10,000 i waipekidi bi tagu ḡaviya 1,000 ota ei pekidi. Muliḡa male tana sa sako saḡe te edi ḡalibona.”
-Ḡome bi noi i nawana ba Sol, Deivida unulena i waitubu. Niga kauwidi mulidimo Sol, Deivida i mediye bi i ḡoeḡoe te maso i wai peki. Sol natuna Diyonatan, Deivida i giuwe te tamana ya ḡoeḡoe te yai peki, taunana aubaina Deivida i velau i nawa dobu ḡesaudimo te Sol ya kandavone.
+Ḡome bi noi i nawana ba Sol, Deivida unulena i waitubu.
 
 
 
@@ -8884,7 +8884,7 @@ Kamaina bi Solomon giu i giukamaḡe ḡalibona Ḡilam lisinemo bi i giuwena ga
 “Tam kuna sibe te bainewa tamagu Deivida dobu wapewapedi vaitedi a waiḡaviya. Taunana aubaina mote ḡemoḡemotina te maso Maimaituwa anilaudunena vanuwina i ḡala.
 Bi tagu niganana Bada egu Maimaituwa nuwauba i vitegu te visuvisunemo yà miyamiya bi mote bamo egu ḡaviya.
 Taunana aubaina niganana yà wainoḡota te Maimaituwa anilaudunena vanuwina yà ḡala. Bainewa Maimaituwa tamagu Deivida i giugiuwena mainana, tana i giuwena gado, ‘Tagu kaka natum ḡemota yà voiye te em gabu ya vai bi tana taunana kaka anilaudune vanuwina ya ḡala isagu anivivilena aubaina.’
-Taunana aubaina em taubagibagi kwa giukamaḡedi Lebononmo te kai seda sa oidi tagu aubaigu. Bi egu taubagibagi vaitedi sa noya ḡemota bi em taubagibagi bainewa kwa ḡoeḡoena luvanemo yai maiidi. Kuna sibe te tama mote kai oidi ka sibedi mai temi Sidon lavemi kona sibesibena.” Kamaina bi ḡalibona Solomon Ḡilam edi ḡalibona lisinemo kai i gimelidi bi Islael oloolotodi 30,000 i legaudi te a sagu bi kai bi anilauḡala ḡoneḡonedi a liye tavaite. Maimaituwa ena vanuwa ḡalana aubaina. Bi Solomon kota olooloto 150,000 i legaudi te sa noya, tedi ḡakima nananakidi a bwalibwalidi Maimaituwa ena vanuwa ḡala aubaina.
+Taunana aubaina em taubagibagi kwa giukamaḡedi Lebononmo te kai seda sa oidi tagu aubaigu. Bi egu taubagibagi vaitedi sa noya ḡemota bi em taubagibagi bainewa kwa ḡoeḡoena luvanemo yai maiidi. Kuna sibe te tama mote kai oidi ka sibedi mai temi Sidon lavemi kona sibesibena.”
 
 
 
@@ -9182,7 +9182,7 @@ Laḡan ḡemota Yelobwam niga mainana i wai nuwa noḡonoḡota gado, “Islael
 Taunana aubaina ena tauwaibabada vaitedi ai ogatala bi koikoitau kau aluwidi labu goldimo i voiyedi bi lava i giuwedina gado, “Noke ko nawanawana Yelusalem ba manekina i lofa. Niga emi maimaituwa, tedi taunana Idipmo a kapotiyovomi.”
 Kamaina bi ḡemota Betelmo i waimoito bi ḡesauna Denmo i waimoito.
 Avena te maneka bi a nawa Denmo bi kau natuna goldimo voivoiyena a laulauduneye, taunana aubaina lava gebogebo a voiye.
-Bi Yelobwam anilaudune vanuwidi oya dabedimo i ḡaledi bi dam ḡesaudimo pilisi i vinedi, tedi mote Livai damnemo. Bi mba sauginemo ḡalibona Yelobwam Islael i waibadaye bi ḡalibona Liyabwam tana Diuda i waibadaye. Bi Liyabwam Diuda i waibadayena kwalabu 17 nopodimo. Bi Diuda lavedi maimaituwa kaikaiyovudi a lau lauduneyedi bi Idip lavedi a nato bi ai ḡaviyedi te a lauyovoḡedi bi edi waiguyau ḡoneḡonedi, Maimaituwa ena vanuwemo bi ḡalibona ena ani miyamo ḡonaḡona visuvisudiḡa a nawedi. Liyabwam bi Yelobwam laḡan matabuna a waiḡasiḡasi. Sauginemo ḡalibona Liyabwam i peki ba natuna Aḡida i saḡa gabuna i vai bi kwalabu faiona Diuda i waibadaye. Bi tana kota ḡalibona Yelobwam vaitena a waiḡaviya. Bi sauginemo i peki ba natuna Asa gabuna i vai bi kwalabu 41 nopodimo Diuda lavedi i waibadayedi. Bi tana ba ḡalibona visuvisuna bi Maimaituwa i laulauduneye bi Diuda lavedi maimaituwa kaikaiyovudi i waiḡaviyedi. Bi tana kota Islael lavedi edi ḡalibona Baḡasa vaitena laḡan matabuna ai ḡasiḡasi. Bi sauginemo ḡalibona Asa i peki ba natuna Diosafat gabuna i vai bi Diuda i waibadaye. Bi Islael noponemo Yelobwam natuna Nadab ba ḡalibona gebogebona bi mabai mulinemo a waibadana ba a gebogebo gulata. Bi tana kwalabu labu nopodimo Islael lavedi i waibadayedi. Baḡasa i miya moito te Nadab bi Yelobwam ena dam lavedi matabudi i waipekidi. Bi Baḡasa i saḡa ḡalibona gabuna i vai bi kwalabu 24 nopodimo i waibada bi i peki. Bi natuna Ela ena gabu i vai bi Islael lavedi kwalabu labu i waibadayedi. Kamaina bi Ela ena tauwaiḡaviya isana Dimli i miya moito te i wai peki bi taunaḡa i sako saḡe te ḡalibona. Bi tapalolo ḡemota i kovi mulinemo Islael lavedi edi tauwaiḡaviya edi bada isana Omli a sako saḡe edi ḡalibona. Ḡome te Dimli taunaḡa i waipeki munaḡe. Bi Omli kwalabu 12 nopodimo i waibada. Mulinemo tana natuna Aḡab i saḡa tamana gabuna i vai. Bi kwalabu 22 nopodimo Islael lavedi i waibadayedi.
+Bi Yelobwam anilaudune vanuwidi oya dabedimo i ḡaledi bi dam ḡesaudimo pilisi i vinedi, tedi mote Livai damnemo.
 
 
 
@@ -9318,7 +9318,7 @@ Bi i wainoḡota te gebo voiyena ba kauwa ḡaubona maibena Nabet natuna Yelobwa
 Aḡab Sameliyamo Bal ani lauduneyena vanuwina i ḡala bi noponemo olta i voiye.
 Bi kota Aḡab, edi maimaituwa Asela waivinina, aluwina kaina i waimoito. Bi kauwa ḡesaudi i voiyedi te Islael edi Maimaituwa i waimedina, kaka ḡalibona dolidolidi a waibadana.
 
-Taugiuwatana Elaidiya Dobu Giled noponemo taun isana Tisbe lavana. Tana i nawa ḡalibona Aḡab lisinemo bi giuwena gado, “Giukauwa, te Islael edi Maimaituwa yawayawasanina bi tagu ena taupaula, isanemo yà giugiu te kwalabu matademo sa natonatona mote nabu ee uba sima yovo te tagu yà giu kaka sa tubuḡa.” Mba kauwina mainana i tubuḡa. Sauga i lofa kauwa mote nabu bi mote kani.
+Taugiuwatana Elaidiya Dobu Giled noponemo taun isana Tisbe lavana. Tana i nawa ḡalibona Aḡab lisinemo bi giuwena gado, “Giukauwa, te Islael edi Maimaituwa yawayawasanina bi tagu ena taupaula, isanemo yà giugiu te kwalabu matademo sa natonatona mote nabu ee uba sima yovo te tagu yà giu kaka sa tubuḡa.”
 
 
 
@@ -9667,7 +9667,7 @@ Taunana aubaina Naman i nawa Diyoudan gaubinemo bi mala 7 i asiwa maibena Maimai
 Bi geḡa te taugiuwatana i giuna gado, “Giukauwa, Bada ya miyamiya, tana taunana ena taupaula tagu bi isanemo yà giugiu te puyo mote yàma legaudi.” Avena te Naman, i giu vavasaḡe te maso puyo i legaudi bi geḡa te Elisa i daboka.
 Kamaina bi Naman i giuwena gado, “Bamoda kwai aninegu te niga dobuna doḡana ḡotona yà ḡalavai bi egu donki labu sai geludi te yà nawe egu dobumo. Niganana bi noke i saḡa i nawana ba maimaituwa ḡesaudi lisidimo mote yàma laupuyo ee sewasewa yàma gabudi. Bi olta yà pati te Islael edi Maimaituwa taunaḡa lisinemo yà lausewasewa.
 Bi yà noḡonoḡoti te Bada egu gebogebo ya noḡotikamaḡe sauginemo egu ḡalibona yai saguye bi ka nawa Sailiya edi maimaituwa Limon ani laudunena vanuwinemo bi laḡaninemo ka lauduneyena ba Bada maso egu gebogebo i noḡotikamaḡe.”
-Kamaina bi Elisa, Naman i giuwena gado, “Ma nuwaubam kwa nawa.” Ḡome te Naman i nawa. Islael edi ḡalibona Aḡab i peki. Tana mulinemo ba Islael lavedi edi ḡaliḡalibona ḡesaudi a moito saḡa. Bi tedi Sameliya tauninemo a miyamiya eete Oseya i saḡa i waibada. Bi muliḡa te Asaliya lavedi edi tauwaiḡaviya Islael lavedi a lauyovoḡedi.
+Kamaina bi Elisa, Naman i giuwena gado, “Ma nuwaubam kwa nawa.” Ḡome te Naman i nawa.
 
 
 
@@ -10033,7 +10033,7 @@ Bi Esekaiya tana laudune kaikaiyovudi gabudi i dousuwesuwedi bi edi anivivila �
 Bi Esekaiya tana Islael edi Maimaituwa i waisumaḡe bi i laulauduneye. Mba laḡannemo mote bamo mai ḡalibona ḡesaudi Diuda noponemo, mote mai ḡaliḡalibona mulinemo e ḡaliḡalibona matanemo.
 Tana Bada i waisumaḡedidi bi kaiwatana mote i kaisako bi Bada ena waiḡake Mousis i vitevitena i kaiwata kauwe.
 Tana Bada vaitena aubaina te noya i voivoiyedina ba didimanidi. Tana Asaliya edi ḡalibona i waiḡaviye bi mote aubaina i noya.
-Bi tana Filistiya lavedi i lauyovoḡedi, malagai keikeilikidimo te taun nananakidimo bi i nawa te Gasa taunina palatina. Sauginemo ḡalibona Esekaiya i peki bi natuna Manasa ena gabu i vai.
+Bi tana Filistiya lavedi i lauyovoḡedi, malagai keikeilikidimo te taun nananakidimo bi i nawa te Gasa taunina palatina.
 
 
 
@@ -10148,7 +10148,7 @@ Bi Diuda lavedi ḡesaudi a miya moito te ai ogatala bi Amon tauwaipekina ai pek
 
 
 Mba sauginemo Dosaiya ena kwalabu 8 bi tamana gabuna i vai te Diuda edi ḡalibona bi Yelusalem noponemo i waibadana ba kwalabu 31. Bi tinana ba Yedida bi Yedida tinana ba Adaiya tana ba Boskat lavana.
-Dosaiya ena wai bada i visu Maimaituwa matanemo bi ena magula Deivida i voivoiyena mainana i voiye bi Maimaituwa ena waiḡake matabudi i kaikaiwatedi. Dosaiya lava ḡesaudi i giuwedi te Bada ena vanuwa sa laivaliu. Bi laḡannemo a lailaivaliu ba Mousis ena waiḡake bukana a banavi bi a vai natome Dosaiya a vite.
+Dosaiya ena wai bada i visu Maimaituwa matanemo bi ena magula Deivida i voivoiyena mainana i voiye bi Maimaituwa ena waiḡake matabudi i kaikaiwatedi.
 
 
 
@@ -10159,7 +10159,7 @@ Dosaiya ena wai bada i visu Maimaituwa matanemo bi ena magula Deivida i voivoiye
 
 Sauginemo waiḡake bukana a iyevi bi ḡalibona i vaivaiye ba nopona i kalati bi ena gala i lisi kamaḡe.
 Bi Pilisi Ḡilkiya, Safet natuna Aḡikam, Mikaiya natuna Akbo, Safet ba ediya taugiluma bi Asiya ba ḡalibona taulaididimanina. Tana i giuna gado,
-“Eda magumagula niga bukana bai i giugiuwena mote a kaiwata. Bi mote a giuweda te maso te kaiwata. Taunana aubaina Maimaituwa lisidemo i medi gulata. Ko nawa pali vanuwinemo te tagu bi Diuda lavedi matabuda aubaida Maimaituwa koi baḡa.” Bi Dosaiya ena tauwaibada ḡesaudi i giukamaḡedi Bada taugiuwatana ḡemota lisinemo. Bi taugiuwatana waivinina, niga giuna i giukamaḡe munaḡe ḡalibona lisinemo.
+“Eda magumagula niga bukana bai i giugiuwena mote a kaiwata. Bi mote a giuweda te maso te kaiwata. Taunana aubaina Maimaituwa lisidemo i medi gulata. Ko nawa pali vanuwinemo te tagu bi Diuda lavedi matabuda aubaida Maimaituwa koi baḡa.”
 
 
 “Bada niga mainana i giu, ‘Egu lava Diuda a dabokegu bi maimaituwa ḡesaudi lisidimo a laulausewasewa bi gebogebo ḡesaudi a voivoiyedi taunana aubaina lisidimo e medi gulata. E medina Yelusalem lisidimo mote aiyai kaka ima ka tautaugu, kamaina te ya tubuḡa.’ Niga mainana Maimaituwa i giu, ‘Tagu kaka Yelusalem lavedi matabudi yà kovoḡidi, maibena bukamo gilugilumimina ḡalibona i iyeiyevina mainana ya tubuḡa.’
@@ -10170,7 +10170,7 @@ Taunana aubaina kovoḡa e giugiuwapayena ma miyammo mote ima tubuḡa bi ma nuw
 Kamaina bi ḡalibona, waibabada Yelusalemmo bi Diuda nopodimo i giuwedi a tava ai ḡemotidi.
 Bi Diuda bi Yelusalem lavedi, pilipilisi, taugiuwatana bi lava matabudi nananakidi te keikeilikidi vaitedi a saḡa a nawa Bada ena vanuwinemo. Kamaina bi waianina bukana gilugilumina Bada ena vanuwinemo a banabanavina, a wai beyavaiye bi i iyevi.
 Kamaina bi ḡalibona Pali vanuwina noponemo duḡumoito diyanemo i moito bi Bada matanemo i giuwapa te ena waianina i laivaliu te Bada ena giuvavasaḡa bi ena waiḡake bukamo ba ya kaiwatedi. Bi kota lava matabudi a giuwapa bi ai anina te Bada sa kaiwata.
-Kamaina bi ḡalibona Dosaiya bi Pilisi saḡasaḡa guletina Ḡilkaiya bi ena tausagu pilipilisi bi mataeta taulabena i giuwedi te palivanuwina noponemo Bal, maimaituwa waivinina Asela bi kipola ani lauduneyedi ḡoneḡonedi ai yovodi. Bi ḡalibona Yelusalem taunina mulinemo Kidlon gwagwanemo i wai kalaḡosedi bi pumedi i nawedi Betelmo. Kamaina bi Dosaiya, Diuda bi Islael dobudi i nawa yaḡosidi bi lava koikoitau a laulauduneyedina gabudi i kagebogebodi bi koikoitau edi pilipilisi noyamo i waipotiyovodi. Bi ḡaliḡalibona mabai Dosaiya a kaikaiwatana ba gebogebo a voiye bi mote Maimaituwa a vivile.
+Kamaina bi ḡalibona Dosaiya bi Pilisi saḡasaḡa guletina Ḡilkaiya bi ena tausagu pilipilisi bi mataeta taulabena i giuwedi te palivanuwina noponemo Bal, maimaituwa waivinina Asela bi kipola ani lauduneyedi ḡoneḡonedi ai yovodi. Bi ḡalibona Yelusalem taunina mulinemo Kidlon gwagwanemo i wai kalaḡosedi bi pumedi i nawedi Betelmo.
 
 
 
@@ -12107,7 +12107,7 @@ Tedi olta gabunemo a ḡala munaḡe te olaolalemo bi aubigamo sewasewa a gabuga
 
 
 Pesiya ḡalibonana Saelus i giugiuna mainana, Islael lavedi ḡakima taunoyaedi bi taukamda manemo ai maiidi. Tedi kani, tego bi olip masina a giukamaḡedi Taiya bi Sidon lavedi lisidimo, te tedi seda kaidi Lebanonmo bi nisaḡa sa natomedi Diyopamo.
-Bi ḡome Selitel natuna Delubabel, Yessuwa natuna Yosadak bi edi vanuwa lavedi, pilipilisi, Livai damna bi lava mabai a panipani nawedina a tava munaḡa Yelusalemmo. Bi kwalabu ḡemota i kovi mulinemo nawalai wailabunemo tedi Bada ena vanuwa ḡala munaḡena ai tubu. Bi Livai damna mabai edi kwalabu 20 bi noke i saḡasaḡana taudidi a sivudi te noyana ai badae. Lava a noya gulata te kwalabu 21 a kovikovi ba vanuwa ai kovi.
+Bi ḡome Selitel natuna Delubabel, Yessuwa natuna Yosadak bi edi vanuwa lavedi, pilipilisi, Livai damna bi lava mabai a panipani nawedina a tava munaḡa Yelusalemmo. Bi kwalabu ḡemota i kovi mulinemo nawalai wailabunemo tedi Bada ena vanuwa ḡala munaḡena ai tubu. Bi Livai damna mabai edi kwalabu 20 bi noke i saḡasaḡana taudidi a sivudi te noyana ai badae.
 
 
 
@@ -12939,7 +12939,7 @@ Mabai bi a kulukuluvana ba em giumo kuna kaisagudi bi gwaḡegwaḡedi kuna lage
 Bi niganana pilipili i laulaugulatem ba nuwam i kuluva. Bi pilipili i vaivaim ba kuna naila gulata.
 Tam Maimaituwa tauvivilena bi taulauduneyena niganana kwa ḡailisi. Tam noḡota didimanemo kwa miyamiyana taunana yai yawasanim.
 Kwai nuwa noḡonoḡota! Lava visu tauvoiyena mote ima peki. Kuna kita Maimaituwa mote lava edi yawasana didimanidi ima kagebogebodi.
-Tagu bai e sibena ba lava gebogebo pesina i wadina ba damonemo kota gebogebo ya banavi.” Diyoba ena lava a giugiuwe te tana gebo wapewapedi i voivoiyedi, taunana aubaina pilipili a nananaka lisinemo sa tubutubuḡa. Bi Diyoba i giuna gado, “Tagu mote gebogebo yà voiyedi.”
+Tagu bai e sibena ba lava gebogebo pesina i wadina ba damonemo kota gebogebo ya banavi.”
 
 
 
@@ -24947,7 +24947,7 @@ Laḡannemo matedi a tautaulagetidi ba ḡakimina dididiga ḡimaḡima kamaḡe
 Tedi tauyewamo a sola nawa te oloto lauewalina a kita, ena gala potipotina kataiyedimo i miyamiya. Ḡome tedi a tatava bi a naila gulata.
 Kamaina bi i giuwedina gado, “Koma nainaila! Temi ba Nasalet Yesuna tupatupalatuna ko tavutavuḡe. Tana mote niga ḡome, kaikana pekimo i kenamoito. Ko kita, niga taubeu gabukavanaḡa.
 Bi ko nawa ena tauwaikaiwatana ḡesaudi lisidimo bi kota Pita bi niga mainana ko giuwedi, ‘Tana ya dolidoli Galilimo, i giugiuwemina mainana, ḡome kaka ko kita.”
-Kamaina bi waivinidi ma nuwagusugusudi tauyewa a potiyovo kamaḡe bi a velau a nawa. Tedi a naila gulata aubaina te mote bamo aiyai a giuwe.
+Kamaina bi waivinidi ma nuwagusugusudi tauyewa a potiyovo kamaḡe bi a velau a nawa. Tedi a naila gulata aubaina te mote bamo aiyai a giuwe. [Mak ena buka damodamona i gilugilumina ba i ai nawanawa bi mote a banavi. Bi lova 9 te 20 noponemo bai a noḡonoḡotina luvanemo mainana a gilumi.]
 Kamaina bi Sande olaolalemo Yesu pekimo i kenamoito bi Meli Magdalin lisinemo i gei laumaḡata. Niga waivinina wala lisinemo aluwa gebogebodi wapedi 7 i kwavivaidi.
 Tana i nawa te Yesu taukaiwatana bai i tubutubuḡana i giuwedi. Banina Yesu i peki aubaina tedi ma nuwaboyedi a miya bi a ḡabaḡaba.
 Bi laḡannemo Meli i giuwedina gado, “Tagu lisigumo Yesu i laumaḡata te e kita.” Tedi waivinina ena giu mote ai sumaḡe.
