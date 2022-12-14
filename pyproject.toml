@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ebible"
+version = "0.1.0"
+description = ""
+authors = ["Partnership for Applied Biblical NLP (PAB-NLP)"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+tqdm = "^4.64.1"
+pandas = "^1.5.2"
+requests = "^2.28.1"
+lxml = "^4.9.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
