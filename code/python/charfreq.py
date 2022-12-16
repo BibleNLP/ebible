@@ -614,6 +614,60 @@ def unicode_data(character,count,file=""):
         Also deal with certain characters, like tab, end of line and commas since
         they mess up the formatting of a csv file.
     """
+    # TODO Posibly change this so that it takes only a character and returns the dictionary.
+    # Possibly create the dictionary of all {char:info_dict} for each character found.
+    # Then add in the filename and count as needed later.
+    
+    # The data is stored in a dictionary:
+    c = OrderedDict()
+
+    if not file == "" :
+        c["filename"] = file.name
+
+    #c["char"] = " " + character + " "
+    c["char"] = character
+    c["count"] = count
+    c["code"] = ord(character)
+    c["unicode_hex"] = f'{c["code"]:x}'.upper()
+    try:
+        c["name"] = unicodedata.name(character)
+    except:
+        c["name"] = "No name found."
+
+    #Remove charatcers that mess up the CSV output - replace with a space.
+    if character in ["	","\t", "\n", "\r", ","]  or ord(character) == 9:
+        c["char"] = ' '
+        c["name"] = " CHARACTER TABULATION"
+    elif character == "," or ord(character) == 44:
+        c["char"] = ' '
+        c["name"] = "COMMA"
+    elif character == "\n" or ord(character) == 10:
+        c["char"] = ' '
+        c["name"] = "END OF LINE"
+    elif character == "\r" or ord(character) == 13:
+        c["char"] = ' '
+        c["name"] = "CARRIAGE RETURN"
+
+    c["script"] = script(character)
+    c["cat"] = unicodedata.category(character)
+    c["bytes"] = len(character.encode('utf8'))
+
+    c["bidi"] = unicodedata.bidirectional(character)
+    c["combining"] = unicodedata.combining(character)
+    c["eaw"] = unicodedata.east_asian_width(character)
+    c["mirrored"] = unicodedata.mirrored(character)
+
+    return c
+
+def simple_unicode_data(character):
+    """ With a single unicode character look up lots of information about it.
+        Also deal with certain characters, like tab, end of line and commas since
+        they mess up the formatting of a csv file.
+    """
+    # TODO This is the attempt to change unicode_data so that it takes only a character and returns the dictionary.
+    # Possibly create the dictionary of all {char:info_dict} for each character found.
+    # Then add in the filename and count as needed later.
+    
     # The data is stored in a dictionary:
     c = OrderedDict()
 
@@ -643,14 +697,14 @@ def unicode_data(character,count,file=""):
     c["script"] = script(character)
     c["cat"] = unicodedata.category(character)
     c["bytes"] = len(character.encode('utf8'))
+
     c["bidi"] = unicodedata.bidirectional(character)
     c["combining"] = unicodedata.combining(character)
     c["eaw"] = unicodedata.east_asian_width(character)
     c["mirrored"] = unicodedata.mirrored(character)
-    if not file == "" :
-        c["filename"] = file.name
-    #c["char"] = " " + character + " "
+
     return c
+
 
 def write_csv(outfile, row_data, column_headers = [], overwrite = False):
     '''Write the data to a csv file.
@@ -663,57 +717,61 @@ def write_csv(outfile, row_data, column_headers = [], overwrite = False):
 
     if overwrite:
         with open(outfile, 'w', encoding='utf-8', newline='') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=column_headers)
+            writer = csv.DictWriter(csvfile, dialect='excel-tab', fieldnames=column_headers)
             writer.writeheader()
             writer.writerows(row_data)
     else:
         with open(outfile, 'a', encoding='utf-8', newline='') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=column_headers)
+            writer = csv.DictWriter(csvfile, dialect='excel-tab', fieldnames=column_headers)
             writer.writerows(row_data)
     return None
 
 def get_character_data(char_counts,file=""):
     """ Given a Counter that has counted the occurrences of characters, return a list of dictionaries with
-    lots of data about the characters."""
+    lots of data about each character."""
     character_data = []
     for char, count in char_counts.most_common():
         c = unicode_data(char,count,file)
         character_data.append(c)
     return character_data
+
+#def get_all_char_dict(character_counter):
+#    return {c: unicode_data(c)  for c in character_counter.keys() }
     
 
 def main():
     
     parser = argparse.ArgumentParser(description="Write csv reports about the characters found in multiple files.")
-    parser.add_argument('--input_folder',  type=Path,                                                help="Folder to search")
-    parser.add_argument('--output_folder', type=Path,                                                help="Folder for the output results. The default is the current folder.", required=False)
-    parser.add_argument('--extension',     type=str,            default="txt",                       help="Specify which files to read by extension. The default is 'txt'.")
-    parser.add_argument('--input_files',   nargs="+",           default=[],                          help="Files to read. Ignores input folder and extension argument.")
-    parser.add_argument('--split_token',   action="store_true", default=False,                       help="Count the indiviual characters in the <range> token.")
-    parser.add_argument("--summary",       type=str,            default="character_summary.csv",     help="The filename for the summary csv file.")
-    parser.add_argument("--full",          type=str,            default="character_report.csv",      help="The filename for the summary csv file.")
+    parser.add_argument("--folder",  type=Path, default="../../corpus", help="Folder with corpus of Bible extracts")
+    parser.add_argument("--files",   type=str, default="*-*.txt", help="Specify which files to read by extension. The default is: *-*.txt")
+    parser.add_argument("--output",  type=Path, default="../../metadata/", help="Folder for the output results. The default is ../../metadata/")
+
+    #parser.add_argument('--folder',  type=Path,                                                help="Folder to search")
+    #parser.add_argument('--output_folder', type=Path,                                                help="Folder for the output results. The default is the current folder.", required=False)
+    #parser.add_argument('--files',     type=str,            default="txt",                       help="Specify which files to read by extension. The default is 'txt'.")
+    parser.add_argument('--input-files',   nargs="+",           default=[],                          help="Files to read. Ignores input folder and extension argument.")
+    parser.add_argument('--split-token',   action="store_true", default=False,                       help="Count the indiviual characters in the <range> token.")
+    parser.add_argument("--summary",       type=str,            default="character_summary.csv",     help="The filename for the tsv summary file. The default is character_summary.csv")
+    parser.add_argument("--full",          type=str,            default="character_report.csv",      help="The filename for the tsv report file. The default is character_report.csv")
     
     # Command line to count characters in eBible
-    # python charfreq.py --input_folder F:\GitHub\davidbaines\eBible\corpus --output_folder F:\GitHub\davidbaines\eBible\metadata 
+    # python charfreq.py --folder F:\GitHub\davidbaines\eBible\corpus --output_folder F:\GitHub\davidbaines\eBible\metadata 
 
     # Command line to count characters in Paratext extracts
-    # python charfreq.py --input_folder "G:\Shared drives\Partnership for Applied Biblical NLP\Data\Corpora\Paratext_extracts_2022_11_03" --output_folder "G:\Shared drives\Partnership for Applied Biblical NLP\Data\Corpora\Paratext_metadata"
+    # python charfreq.py --folder "G:\Shared drives\Partnership for Applied Biblical NLP\Data\Corpora\Paratext_extracts_2022_11_03" --output_folder "G:\Shared drives\Partnership for Applied Biblical NLP\Data\Corpora\Paratext_metadata"
 
     #
-    #python charfreq.py --input_folder F:\Corpora --output_folder F:\Corpora 
+    #python charfreq.py --folder F:\Corpora --output_folder F:\Corpora 
     args = parser.parse_args()
-    split_token = args.split_token
 
+    split_token = args.split_token
     tokens = [] if split_token else ["<range>"]
         
-    if args.output_folder:
-        output_folder = Path(args.output_folder)
-    else: 
-        output_folder = Path.cwd()
+    output_folder = Path(args.output)
     
     summary_csv_file = output_folder / args.summary
     detail_csv_file  = output_folder / args.full
-    csv.register_dialect('default')
+    #csv.register_dialect('excel-tab')
 
     if len(args.input_files) > 0:
         files_found = sorted([Path(file) for file in args.input_files])
@@ -721,30 +779,25 @@ def main():
         for file in files_found:
             print(file)
         
-    elif args.input_folder:
-        input_folder = args.input_folder
-        extension    = args.extension
+    elif args.folder:
+        input_folder = args.folder
+        extension    = args.files
         
-        path_split = Path(input_folder).parts
-        folder = path_split[-1]
+        #path_split = Path(input_folder).parts
+        #folder = path_split[-1]
         
-        #root_Path = Path(root)
-        pattern = "".join([r"**\*.", extension])
+        pattern = "".join([r"**\\", extension])
         files_found = sorted(input_folder.glob(pattern))
         print(f"Found {len(files_found)} files with .{extension} extension in {input_folder}")
 
     else :
-        print("Either --input_folder or --input_files must be specified.")
+        print("Either --folder or --input_files must be specified.")
         exit(0)
           
     no_of_cpu = 20
     print(f"Number of processors: {mp.cpu_count()} using {no_of_cpu}")
     pool = mp.Pool(no_of_cpu)
     
-    #Keep a running total of the characters seen across all files.
-    all_chars = Counter()
-
-    filecount = 0
     sys.stdout.flush()
     
     # Iterate over files_found with multiple processors.
@@ -754,6 +807,10 @@ def main():
     #print(results, "\n" , type(results), "\n", len(results) )     
     #print(f"There are {len(results)} results\n")
     
+    #Keep a running total of the characters seen across all files.
+    all_chars = Counter()
+
+    filecount = 0
     for result in results:
 
     #    print("This is a single result:")
@@ -772,11 +829,13 @@ def main():
             filecount += 1
             if filecount == 1:          #If it is the first writing then write the column headers.
                 # Set column headers
-                chars_list[0][input_folder] = ''
+
+                # 
+                #chars_list[0][input_folder] = ''
                 column_headers = chars_list[0].keys()
                 
                 with open(detail_csv_file, 'w', encoding='utf-8', newline='') as csvfile:
-                    writer = csv.DictWriter(csvfile, fieldnames=column_headers)
+                    writer = csv.DictWriter(csvfile, dialect='excel-tab', fieldnames=column_headers)
                     writer.writeheader()
                     
                     # And write the data for the first file
@@ -785,7 +844,7 @@ def main():
                         
             else :                      #For subsequent files just write the data.
                 with open(detail_csv_file, 'a', encoding='utf-8', newline='') as csvfile:
-                    writer = csv.DictWriter(csvfile, fieldnames=column_headers)
+                    writer = csv.DictWriter(csvfile, dialect='excel-tab', fieldnames=column_headers)
                     for char_dict in chars_list:
                         writer.writerow(char_dict)
             
@@ -793,8 +852,10 @@ def main():
 
     all_char_data = get_character_data(all_chars)
     column_headers = all_char_data[0].keys()
+    print(column_headers)   
     write_csv(summary_csv_file, all_char_data, column_headers, overwrite=True)
     print(f'Wrote summary csv file to {summary_csv_file}')
+    print
 
 if __name__ == "__main__":
     main()
