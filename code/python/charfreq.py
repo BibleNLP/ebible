@@ -203,7 +203,7 @@ def main():
     parser.add_argument('--split-token',   action="store_true", default=False,                       help="Count the indiviual characters in the <range> token.")
     parser.add_argument("--summary",       type=str,            default="character_summary.tsv",     help="The filename for the tsv summary file. The default is character_summary.tsv")
     parser.add_argument("--full",          type=str,            default="character_report.tsv",      help="The filename for the tsv report file. The default is character_report.tsv")
-    parser.add_argument("--script",        type=str,            default="script_details.tsv",      help="The filename for the tsv report file. The default is character_report.tsv")
+    parser.add_argument("--script",        type=str,            default="script_summary.tsv",      help="The filename for the tsv report file. The default is character_report.tsv")
     
     # Command line to count characters in eBible
     # python charfreq.py --folder F:\GitHub\davidbaines\eBible\corpus --output_folder F:\GitHub\davidbaines\eBible\metadata 
