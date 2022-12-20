@@ -42,7 +42,7 @@ Blank lines in the Bible text file indicate that the verse was not part of the s
   
 ### Verse Ranges
  
-If a source Bible contained a verse range, with the text of multiple verses grouped together, then all of the verse text from the verse range will be found in the Bible text file on the line corresponding to the first verse in the verse range.  For each additional verse in the verse range, the token '<range>' will be found on the corresponding line of the Bible text file.  For example, if a source Bible contained Gen. 1:1-3 as a verse range, then the first 3 lines of its Bible text file will appear as follows:
+If a source Bible contained a verse range, with the text of multiple verses grouped together, then all of the verse text from the verse range will be found in the Bible text file on the line corresponding to the first verse in the verse range.  For each additional verse in the verse range, the token '&lt;range&gt;' will be found on the corresponding line of the Bible text file.  For example, if a source Bible contained Gen. 1:1-3 as a verse range, then the first 3 lines of its Bible text file will appear as follows:
 
     ...verse range text...
     <range>
