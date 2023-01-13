@@ -1,7 +1,9 @@
 """ebible.py contains functions to:
-Download zipped Bibles in USFM format from ebible.org to one folder.
-Unzip the downloaded files to another folder.
+Download zipped Bibles in USFM format from ebible.org to the 'downloads' folder.
+Unzip the downloaded files to the 'projects' folder.
 Check the licence data contained in the copr.htm files in the unzipped folders. Write that as a csv file.
+Check the existence of verses in certain chapters in order to guess the versification. Add that to a Settings.xml in each project.
+The Settings.xml file is necessary for silnlp.common.extract_corpora.
 Extract files that have a licence that permits redistibution using SILNLP for the extraction.
 """
 
@@ -420,10 +422,10 @@ def main():
     #The unzipped folder is for the unzipped downloaded files.
     #To this folder we add a settings.xml file that we create.
     #The settings.xml file is required for the extraction process.
-    unzipped = base / "unzipped"
+    unzipped = base / "projects"
 
     #The zipped folder is where we download files from eBible.org
-    zipped = base / "zipped"
+    zipped = base / "downloads"
 
     metadata = base / "metadata"
     logs = base / "logs"
