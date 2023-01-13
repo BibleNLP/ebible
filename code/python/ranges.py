@@ -52,6 +52,7 @@ def main():
     parser.add_argument(
         "output", type=Path, help="The folder for modified output files."
     )
+    
     args = parser.parse_args()
 
     input = Path(args.input)

@@ -387,8 +387,9 @@ def main():
     parser = argparse.ArgumentParser(description="Download, unzip and extract text corpora from eBible.")
     parser.add_argument("--base-folder", default=Path.home() / "eBible", help="The base folder where others will be created.")
     parser.add_argument("-d", "--force_download", default=False, action="store_true", help="Set this flag to overwrite all previous data and start again.")
-    parser.add_argument("-s", "--overwrite_settings" , default=False, action="store_true", help="Set this flag to overwrite existing settings.xml files.")
-    parser.add_argument("-e", "--overwrite_extracts" , default=False, action="store_true", help="Set this flag to overwrite existing extracted files.")
+    parser.add_argument("-s", "--overwrite_settings" , default=False, action="store_true", help="Set this flag to overwrite the settings.xml files.")
+    parser.add_argument("-e", "--overwrite_extracts" , default=False, action="store_true", help="Set this flag to overwrite the extracted files.")
+    parser.add_argument("-l", "--overwrite_licences" , default=False, action="store_true", help="Set this flag to overwrite the licences.csv file.")
 
     args = parser.parse_args()
     #print(args)
@@ -504,7 +505,7 @@ def main():
 
 
     if not licence_file.is_file():
-        # Get copyright info from eBible projects """
+        # Get copyright info from eBible projects
 
         data = list()
         copr_regex = r".*[/\\](?P<id>.*?)[/\\]copr.htm"
