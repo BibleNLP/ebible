@@ -54,7 +54,7 @@ def download_file(url, file, headers=headers):
         return file
     return None
     
-def download_files(filenames,url,folder,logfile):
+def download_files(filenames, url, folder, logfile, redownload=False):
     
     for i, filename in enumerate(filenames):
 
@@ -69,6 +69,16 @@ def download_files(filenames,url,folder,logfile):
         # Skip existing files that contain data.
         elif file.exists() and file.stat().st_size > 100:
             log_and_print(logfile, f"{i+1}: {file} already exists and contains {file.stat().st_size} bytes.")
+            
+            if redownload:
+                log_and_print(logfile, f"{i+1}: Redownloading from {url} to {file}.")
+                done = download_file(url, file)
+
+                if done:
+                    log_and_print(logfile, f"Saved {url} as {file}\n")
+                    # Pause for a random number of miliseconds
+                    pause = randint(1, 5000) / 1000
+                    sleep(pause)
             continue
 
         else:
@@ -387,18 +397,18 @@ def get_redistributable_projects(translations_csv,licences_csv):
 
 def main():
     parser = argparse.ArgumentParser(description="Download, unzip and extract text corpora from eBible.")
-    parser.add_argument("--base-folder", default=Path.home() / "eBible", help="The base folder where others will be created.")
     parser.add_argument("-d", "--force_download", default=False, action="store_true", help="Set this flag to overwrite all previous data and start again.")
     parser.add_argument("-s", "--overwrite_settings" , default=False, action="store_true", help="Set this flag to overwrite the settings.xml files.")
     parser.add_argument("-e", "--overwrite_extracts" , default=False, action="store_true", help="Set this flag to overwrite the extracted files.")
-    parser.add_argument("-l", "--overwrite_licences" , default=False, action="store_true", help="Set this flag to overwrite the licences.csv file.")
+    parser.add_argument("-l", "--overwrite_licences" , default=False, action="store_true", help="Set this flag to overwrite the licences.tsv file.")
+    parser.add_argument("folder", help="The base folder where others will be created.")
 
     args = parser.parse_args()
     #print(args)
     #exit()
 
     # Define base folder
-    base = Path(args.base_folder)
+    base = Path(args.folder)
         
     csv_headers = [
         "ID",
@@ -447,7 +457,7 @@ def main():
     translations_csv = metadata / "translations.csv"
 
     #The file we will save that contains the licence information for each file.
-    licence_file = metadata / "licences.csv"
+    licence_file = metadata / "licences.tsv"
 
     all_folders = [corpus, unzipped, zipped, metadata, logs]
     missing_folders = [folder for folder in all_folders if not folder.is_dir()]
@@ -483,27 +493,27 @@ def main():
     if not translations_csv.is_file() or args.force_download :
         download_file(translations_csv_url, translations_csv)
 
-    if args.force_download:
 
-        # These wont download usually.
-        wont_download = ["due_usfm.zip", "engamp_usfm.zip", "engnasb_usfm.zip", "khm-h_usfm.zip", "khm_usfm.zip", "sancol_usfm.zip", "sankan_usfm.zip", "spaLBLA_usfm.zip", "spanblh_usfm.zip"]
+    # These wont download usually.
+    wont_download = ["due_usfm.zip", "engamp_usfm.zip", "engnasb_usfm.zip", "khm-h_usfm.zip", "khm_usfm.zip", "sancol_usfm.zip", "sankan_usfm.zip", "spaLBLA_usfm.zip", "spanblh_usfm.zip"]
 
-        all_files, redistributable_files, restricted_files, to_download, already_downloaded = get_download_lists(translations_csv, file_suffix, zipped, wont_download = wont_download)
-        redistributable_filenames = sorted([file + file_suffix for file in redistributable_files])
-        resticted_filenames = sorted([file + file_suffix for file in restricted_files])
+    all_files, redistributable_files, restricted_files, to_download, already_downloaded = get_download_lists(translations_csv, file_suffix, zipped, wont_download = wont_download)
 
-        log_and_print(logfile, f"The translations csv file lists {len(all_files)} translations and {len(redistributable_files)} are redistributable.")
-        log_and_print(logfile, f"The translations csv file lists {len(restricted_files)} restrcited translations.")
-        log_and_print(logfile, f"{len(restricted_files)} + {len(redistributable_files)} = {len(restricted_files) + len(redistributable_files)}")
-        log_and_print(logfile, f"There are {len(already_downloaded)} files with the suffix {file_suffix} already in {zipped}")
-        log_and_print(logfile, f"There are {len(wont_download)} files that usually fail to download.")
-        log_and_print(logfile, f"There are {len(to_download)} files still to download.")
-    
-        # Download the required zipped USFM files.
-        download_files(to_download,eBible_url,zipped,logfile)
+    redistributable_filenames = sorted([file + file_suffix for file in redistributable_files])
+    resticted_filenames = sorted([file + file_suffix for file in restricted_files])
 
-        # Unzip the downloaded files.
-        unzip_ebibles(zipped, file_suffix, unzipped, logfile)
+    log_and_print(logfile, f"The translations csv file lists {len(all_files)} translations and {len(redistributable_files)} are redistributable.")
+    log_and_print(logfile, f"The translations csv file lists {len(restricted_files)} restrcited translations.")
+    log_and_print(logfile, f"{len(restricted_files)} + {len(redistributable_files)} = {len(restricted_files) + len(redistributable_files)}")
+    log_and_print(logfile, f"There are {len(already_downloaded)} files with the suffix {file_suffix} already in {zipped}")
+    log_and_print(logfile, f"There are {len(wont_download)} files that usually fail to download.")
+    log_and_print(logfile, f"There are {len(to_download)} files still to download.")
+
+    # Download the required zipped USFM files.
+    download_files(to_download,eBible_url,zipped,logfile,redownload = args.force_download)
+
+    # Unzip the downloaded files.
+    unzip_ebibles(zipped, file_suffix, unzipped, logfile)
 
 
     if not licence_file.is_file():
