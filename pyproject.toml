@@ -12,6 +12,8 @@ pandas = "^1.5.2"
 requests = "^2.28.1"
 lxml = "^4.9.1"
 daiquiri = "^3.2.1"
+beautifulsoup4 = "^4.11.1"
+regex = "^2022.10.31"
 
 
 [build-system]
