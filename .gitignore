@@ -1,5 +1,7 @@
-# Don't upload the projects folder to github
+# Tell git not to track the downloads or folders.
+downloads/
 projects/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
