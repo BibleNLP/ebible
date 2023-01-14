@@ -1,7 +1,7 @@
 """ebible.py contains functions to:
 Download zipped Bibles in USFM format from ebible.org to the 'downloads' folder.
 Unzip the downloaded files to the 'projects' folder.
-Check the licence data contained in the copr.htm files in the redistributable_project_folder folders. Write that as a csv file.
+Check the licence data contained in the copr.htm files in the redistributable_folder folders. Write that as a csv file.
 Check the existence of verses in certain chapters in order to guess the versification. Add that to a Settings.xml in each project.
 The Settings.xml file is necessary for silnlp.common.extract_corpora.
 Extract files that have a licence that permits redistibution using SILNLP for the extraction.
@@ -488,7 +488,7 @@ def get_redistributable_projects(translations_csv, licences_csv):
     return redistributable
 
 
-def write_licence_file(licence_file, logfile, redistributable_project_folder):
+def write_licence_file(licence_file, logfile, redistributable_folder):
 
     csv_headers = [
         "ID",
@@ -509,8 +509,8 @@ def write_licence_file(licence_file, logfile, redistributable_project_folder):
 
     log_and_print(logfile, "Collecting eBible copyright information...")
 
-    for i, copyright_file in enumerate(sorted(redistributable_project_folder.glob("**/copr.htm"))):
-        id = str(copyright_file.parents[0].relative_to(redistributable_project_folder))
+    for i, copyright_file in enumerate(sorted(redistributable_folder.glob("**/copr.htm"))):
+        id = str(copyright_file.parents[0].relative_to(redistributable_folder))
 
         id_match = regex.match(copr_regex, str(copyright_file))
         id = id_match["id"]
@@ -639,32 +639,23 @@ def main():
     file_suffix = "_usfm.zip"
 
     # The corpus folder is for the verse aligned text files.
-    corpus = base / "corpus"
+    corpus_folder = base / "corpus"
 
-    # The redistributable_project_folder folder is for the redistributable_project_folder downloaded files.
+    # The redistributable_folder folder is for the redistributable_folder downloaded files.
     # To this folder we add a settings.xml file that we create.
     # The settings.xml file is required for the extraction process.
-    redistributable_project_folder = base / "projects"
+    redistributable_folder = base / "projects"
 
     # Folder for the non-redistributable projects.
-    private_projects = base / "private_projects"
+    non_redistributable_folder = base / "private_projects"
 
     # The zipped folder is where we download files from eBible.org
-    zipped = base / "downloads"
+    downloads_folder = base / "downloads"
 
-    metadata = base / "metadata"
+    metadata_folder = base / "metadata"
 
     logs = base / "logs"
     
-    # Temporary reference to variable names from notebooks.
-    # ebible_projects = corpus / 'projects'
-    # ebible_metadata = corpus / 'metadata'
-    # ebible_translations_csv = ebible_metadata / 'translations.csv'
-    # ebible_copyright_csv = ebible_metadata / 'copyrights.csv'
-    # ebible_redistributable = corpus / "redistributable/projects"
-    # ebible_extractions = corpus / "MT/scripture"
-    # ebible_logs = corpus / "logs"
-
     year, month, day, hour, minute = map(int, strftime("%Y %m %d %H %M").split())
     log_suffix = f"_{year}_{month}_{day}-{hour}_{minute}.log"
     log_filename = ("ebible" + log_suffix)
@@ -673,12 +664,12 @@ def main():
     extract_log_file = logs / ("extract" + log_suffix)
 
     # The file to download from eBible.org
-    translations_csv = metadata / "translations.csv"
+    translations_csv = metadata_folder / "translations.csv"
 
     # The file we will save that contains the licence information for each file.
-    licence_file = metadata / "licences.tsv"
+    licence_file = metadata_folder / "licences.tsv"
 
-    all_folders = [corpus, redistributable_project_folder, zipped, metadata, logs]
+    all_folders = [corpus_folder, redistributable_folder, non_redistributable_folder, downloads_folder, metadata_folder, logs]
     missing_folders = [folder for folder in all_folders if not folder.is_dir()]
 
     print(f"The base folder is : {base}")
@@ -736,18 +727,16 @@ def main():
         to_download,
         already_downloaded,
     ) = get_download_lists(
-        translations_csv, file_suffix, zipped, wont_download=wont_download
+        translations_csv, file_suffix, downloads_folder, wont_download=wont_download
     )
 
-    print(f"The first redistributable file is {redistributable_files[0]}") 
-    print(f"The first non redistributable file is {non_redistributable_files[0]}") 
+    redistributable_zipfiles = sorted([downloads_folder / (file + file_suffix) for file in redistributable_files])
 
-    redistributable_filenames = sorted(
-        [file + file_suffix for file in redistributable_files]
-    )
+    non_redistributable_files = sorted([downloads_folder / (file + file_suffix) for file in non_redistributable_files])
 
-    non_redistributable_filenames = sorted([file + file_suffix for file in non_redistributable_files])
-
+    #print(f"The first redistributable file is {redistributable_files[0]}") 
+    #print(f"The first non redistributable file is {non_redistributable_files[0]}") 
+    
     log_and_print(
         logfile,
         f"The translations csv file lists {len(all_files)} translations and {len(redistributable_files)} are redistributable.",
@@ -762,7 +751,7 @@ def main():
     )
     log_and_print(
         logfile,
-        f"There are {len(already_downloaded)} files with the suffix {file_suffix} already in {zipped}",
+        f"There are {len(already_downloaded)} files with the suffix {file_suffix} already in {downloads_folder}",
     )
     log_and_print(
         logfile, f"There are {len(wont_download)} files that usually fail to download."
@@ -771,27 +760,28 @@ def main():
 
     # Download the required zipped USFM files.
     download_files(
-        to_download, eBible_url, zipped, logfile, redownload=args.force_download
+        to_download, eBible_url, downloads_folder, logfile, redownload=args.force_download
     )
-    exit()
-    # Unzip the redistributable downloaded files.
-    redistributable_project_folder_count = unzip_files(zipped, file_suffix, redistributable_project_folder, logfile)
-    
-    # Unzip the non_redistributable downloaded files to the private_projects folder.
 
-    if redistributable_project_folder_count:
+    # Unzip the redistributable downloaded files.
+    redistributable_project_count = unzip_files(redistributable_files, file_suffix, redistributable_folder, logfile)
+
+    # Unzip the non_redistributable downloaded files to the private_projects folder.
+    non_redistributable_project_count = unzip_files(non_redistributable_files, file_suffix, non_redistributable_folder, logfile)
+
+    if redistributable_project_count:
         # Write the licence file.
-        write_licence_file(licence_file, logfile, redistributable_project_folder)
+        write_licence_file(licence_file, logfile, redistributable_folder)
     else:
         log_and_print(logfile, f"There are no changes required to the licence file.")
 
     # Now add the Settings.xml file to each project folder.
     # print(f"Files extracted. ")
     redistributable_projects = {
-        folder: str(folder.name)[:3] for folder in redistributable_project_folder.glob("*") if folder.is_dir() and folder.name in redistributable_files
+        folder: str(folder.name)[:3] for folder in redistributable_folder.glob("*") if folder.is_dir() and folder.name in redistributable_files
     }
     #print(projects, len(projects))
-    exit()
+
 
     count_existing_settings_files = 0
     count_new_settings_files = 0
@@ -811,7 +801,7 @@ def main():
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
     print("\nThe files are ready for extracting. Use this command in the SILNLP repo.")
-    print(f"poetry run python -m silnlp.common.bulk_extract_corpora --input {redistributable_project_folder} --output {corpus} --error-log {extract_log_file}")
+    print(f"poetry run python -m silnlp.common.bulk_extract_corpora --input {redistributable_folder} --output {corpus_folder} --error-log {extract_log_file}")
 
 
 if __name__ == "__main__":
@@ -829,7 +819,7 @@ if __name__ == "__main__":
     # print(f"There are {len(unexpectedly_missing)} missing extract folders.")
 
     # if len(unexpectedly_missing) == 0:
-    #    print(f"There are exactly {len(wont_download)} missing redistributable_project_folder folders. They are the same {len(missing_files)} that we didn't try to download.")
+    #    print(f"There are exactly {len(wont_download)} missing redistributable_folder folders. They are the same {len(missing_files)} that we didn't try to download.")
     # else :
     #    print(f"{len(unexpectedly_missing)} files were not extracted. Upto 50 are shown:")
     #    for file in sorted(unexpectedly_missing)[:50]:
