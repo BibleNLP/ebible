@@ -775,7 +775,29 @@ def main():
     redistributable_project_count = unzip_files(redistributable_zipfiles, file_suffix, redistributable_folder, logfile)
 
     # Unzip the non_redistributable downloaded files to the private_projects folder.
-    non_redistributable_project_count = unzip_files(non_redistributable_zipfiles, file_suffix, non_redistributable_folder, logfile)
+    unzip_files(non_redistributable_zipfiles, file_suffix, non_redistributable_folder, logfile)
+
+    
+
+    #print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")
+
+    # Check whether any non_redistributable files are in the redistributable folder and list them.
+    incorrect_non_redistributable_folders = [redistributable_folder / non_redistributable_file for non_redistributable_file in non_redistributable_files]
+    incorrect_non_redistributable_folders = [folder for folder in incorrect_non_redistributable_folders if folder.is_dir()]
+    if incorrect_non_redistributable_folders:
+        print(f"There are {len(incorrect_non_redistributable_folders)} non_redistributable projects in the redistributable project folder: {redistributable_folder}")
+        delete = input("Delete them Yes / No / Quit?")
+        while  delete.strip()[0].lower() not in "ynq":
+            print("Please enter either yes or no, or q to exit.")
+            delete = input("Delete them Yes / No / Quit?")
+        
+        if delete.strip()[0].lower() == 'y':
+            for incorrect_non_redistributable_folder in incorrect_non_redistributable_folders:
+                shutil.rmtree(incorrect_non_redistributable_folder, ignore_errors=True)
+
+        elif delete.strip()[0].lower() == 'q':
+            exit()
+            
 
     if redistributable_project_count:
         # Write the licence file.
