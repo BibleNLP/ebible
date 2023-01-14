@@ -172,9 +172,9 @@ def unzip_entire_folder(source_folder, file_suffix, unzip_folder, logfile):
 
     return len(extracts)
 
-def unzip_files(zip_files, file_suffix, destination_folder, logfile):
+def unzip_files(zip_files, file_suffix, unzip_folder, logfile):
 
-    log_and_print(logfile, f"\nUnzipping files...")
+    log_and_print(logfile, f"\nUnzipping files to {unzip_folder}")
     
     # Strip off the file_suffix so that the subfolder name is the project ID.
     extract_folders = [
@@ -187,18 +187,23 @@ def unzip_files(zip_files, file_suffix, destination_folder, logfile):
     extracts = [
         (zip_file, folder)
         for zip_file, folder in extract_folders
-        if not folder.exists() or zip_file.stat().st_size >= get_tree_size(folder)
+        if not folder.exists()
     ]
 
     log_and_print(
         logfile,
-        f"Found {len(extracts)} that were not yet extracted or are smaller than the zip file.\n",
+        f"Found {len(extracts)} that were not yet extracted.",
     )
 
     for zip_file, extract in extracts:
         extract.mkdir(parents=True, exist_ok=True)
         log_and_print(logfile, f"Extracting to: {extract}")
-        shutil.unpack_archive(zip_file, extract)
+        try:
+            shutil.unpack_archive(zip_file, extract)
+        except shutil.ReadError:
+            log_and_print(logfile, f"ReadError: While trying to extract: {zip_file}")
+        except FileNotFoundError:
+            log_and_print(logfile, f"FileNotFoundError: While trying to extract: {zip_file}")
 
     #log_and_print(logfile, f"Finished unzipping eBible files\n")
 
@@ -732,7 +737,7 @@ def main():
 
     redistributable_zipfiles = sorted([downloads_folder / (file + file_suffix) for file in redistributable_files])
 
-    non_redistributable_files = sorted([downloads_folder / (file + file_suffix) for file in non_redistributable_files])
+    non_redistributable_zipfiles = sorted([downloads_folder / (file + file_suffix) for file in non_redistributable_files])
 
     #print(f"The first redistributable file is {redistributable_files[0]}") 
     #print(f"The first non redistributable file is {non_redistributable_files[0]}") 
@@ -763,11 +768,14 @@ def main():
         to_download, eBible_url, downloads_folder, logfile, redownload=args.force_download
     )
 
+    #print(f"Redist files = {redistributable_zipfiles}, {type(redistributable_zipfiles)}")
+    #print(f"Non redist files = {non_redistributable_zipfiles}, {type(non_redistributable_zipfiles)}")
+    
     # Unzip the redistributable downloaded files.
-    redistributable_project_count = unzip_files(redistributable_files, file_suffix, redistributable_folder, logfile)
+    redistributable_project_count = unzip_files(redistributable_zipfiles, file_suffix, redistributable_folder, logfile)
 
     # Unzip the non_redistributable downloaded files to the private_projects folder.
-    non_redistributable_project_count = unzip_files(non_redistributable_files, file_suffix, non_redistributable_folder, logfile)
+    non_redistributable_project_count = unzip_files(non_redistributable_zipfiles, file_suffix, non_redistributable_folder, logfile)
 
     if redistributable_project_count:
         # Write the licence file.
@@ -775,18 +783,18 @@ def main():
     else:
         log_and_print(logfile, f"There are no changes required to the licence file.")
 
+
     # Now add the Settings.xml file to each project folder.
     # print(f"Files extracted. ")
     redistributable_projects = {
         folder: str(folder.name)[:3] for folder in redistributable_folder.glob("*") if folder.is_dir() and folder.name in redistributable_files
     }
-    #print(projects, len(projects))
-
-
+    #print(redistributable_projects, len(redistributable_projects))
+    
     count_existing_settings_files = 0
     count_new_settings_files = 0
 
-    for project_folder, language_code in projects.items():
+    for project_folder, language_code in redistributable_projects.items():
         settings_file = project_folder / "Settings.xml"
         if settings_file.is_file():
             count_existing_settings_files += 1
@@ -796,11 +804,16 @@ def main():
             #print(f"Adding Settings.xml to {project_folder}")
             add_settings_file(project_folder, language_code)
 
-    print(f"Created {count_new_settings_files} Settings.xml files. There were {count_existing_settings_files} existing settings files.")
+    print(f"\nCreated {count_new_settings_files} Settings.xml files. There are {count_existing_settings_files} existing settings files.")
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
-    print("\nThe files are ready for extracting. Use this command in the SILNLP repo.")
+    
+    print("\nUse this command ONLY if you want to extract the non_redistributable files.")
+    print(f"poetry run python -m silnlp.common.bulk_extract_corpora --input {non_redistributable_folder} --output <OUTPUT_FOLDER>")
+
+
+    print("\nThe files are ready for extracting. Use this command in the SILNLP repo to extract the redistributable files.")
     print(f"poetry run python -m silnlp.common.bulk_extract_corpora --input {redistributable_folder} --output {corpus_folder} --error-log {extract_log_file}")
 
 
