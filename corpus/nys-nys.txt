@@ -23228,7 +23228,6 @@ Nidja djoowaka Perez-ang: Perez maaman Hezron-ang; Hezron maaman Ram-ang; Ram ma
 
 
 
-...
 
 
 
@@ -23236,7 +23235,6 @@ Nidja djoowaka Perez-ang: Perez maaman Hezron-ang; Hezron maaman Ram-ang; Ram ma
 
 
 
-...
 
 
 
@@ -23245,7 +23243,6 @@ Nidja djoowaka Perez-ang: Perez maaman Hezron-ang; Hezron maaman Ram-ang; Ram ma
 
 
 
-<range>
 
 
 
@@ -23257,7 +23254,6 @@ Nidja djoowaka Perez-ang: Perez maaman Hezron-ang; Hezron maaman Ram-ang; Ram ma
 
 
 
-...
 
 
 
@@ -23368,7 +23364,6 @@ Nidja djoowaka Perez-ang: Perez maaman Hezron-ang; Hezron maaman Ram-ang; Ram ma
 
 
 
-<range>
 
 
 
@@ -23377,7 +23372,6 @@ Nidja djoowaka Perez-ang: Perez maaman Hezron-ang; Hezron maaman Ram-ang; Ram ma
 
 
 
-<range>
 
 
 
@@ -23475,7 +23469,6 @@ Narla nginda Jesus moortaman karni-waangka, baal mardayan moorta-mokiny waangka,
 
 
 
-...
 
 
 
@@ -23629,7 +23622,6 @@ Bandang moorta boorda koort-djal noonookany narla nganyang kwerl. Yalga bayinya 
 
 
 
-...
 
 
 
@@ -23655,7 +23647,6 @@ Bandang moorta boorda koort-djal noonookany narla nganyang kwerl. Yalga bayinya 
 
 
 
-<range>
 
 
 
@@ -23792,7 +23783,6 @@ Bandang moorta boorda koort-djal noonookany narla nganyang kwerl. Yalga bayinya 
 
 
 
-...
 
 
 
@@ -23817,7 +23807,6 @@ Bandang moorta boorda koort-djal noonookany narla nganyang kwerl. Yalga bayinya 
 
 
 
-<range>
 
 
 
@@ -23923,7 +23912,6 @@ Bandang moorta boorda koort-djal noonookany narla nganyang kwerl. Yalga bayinya 
 
 
 
-...
 
 
 
@@ -24075,10 +24063,7 @@ Bandang moorta boorda koort-djal noonookany narla nganyang kwerl. Yalga bayinya 
 
 
 
-...
 
-<range>
-<range>
 
 
 
