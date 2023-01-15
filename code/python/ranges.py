@@ -45,6 +45,13 @@ def fix_file(params):
 
     return (verse_count, range_count, empty_range)
 
+def check_folder_exists_or_exit(folder: Path) -> None:
+    
+    if not folder.is_dir():
+        print(f"Folder {folder} not found. Exiting.")
+        exit()
+
+
 
 def main():
     parser = argparse.ArgumentParser(description="Removes empty ranges from extracts.")
@@ -55,9 +62,14 @@ def main():
     
     args = parser.parse_args()
 
-    input = Path(args.input)
+    input_folder = Path(args.input)
     output_folder = Path(args.output)
-    files = [file for file in input.glob("*.txt")]
+    check_folder_exists_or_exit(output_folder)
+    check_folder_exists_or_exit(output_folder)
+
+    files = [file for file in input_folder.glob("*.txt")]
+    print(f"Found {len(files)} in {input_folder} folder to check.")
+    
     empty_files = list()
     short_files = list()
 
