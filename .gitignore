@@ -1,3 +1,9 @@
+# Tell git not to track the downloads or folders.
+downloads/
+logs/
+private_projects/
+projects/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
