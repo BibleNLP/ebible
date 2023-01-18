@@ -1,0 +1,242 @@
+OVERVIEW:
+File size: 41899 lines, 1064614 characters
+Letter scripts: 1
+    LATIN (699449 instances)
+Number scripts: 1
+    ASCII_DIGIT (311 instances): 0123456789
+Other character groups: 4
+    SPACE (160239 instances)
+    COMBINING_DIACRITICAL_MARKS (126849 instances):  ́
+    ASCII_PUNCTUATION (30460 instances): !(),-.:;?[]
+    GENERAL_PUNCTUATION (4847 instances): —‘’“”
+Non-canonical character combinations: 8
+
+DETAILS:
+Non-canonical character combinations: 8
+    Non-canonical: Á (NFD, A + ́, count: 1)  Canonical: Á (NFC, Á, count: 0)
+    Non-canonical: Í (NFD, I + ́, count: 1)  Canonical: Í (NFC, Í, count: 0)
+    Non-canonical: Ó (NFD, O + ́, count: 35)  Canonical: Ó (NFC, Ó, count: 0)
+    Non-canonical: á (NFD, a + ́, count: 35880)  Canonical: á (NFC, á, count: 0)
+    Non-canonical: é (NFD, e + ́, count: 3113)  Canonical: é (NFC, é, count: 0)
+    Non-canonical: í (NFD, i + ́, count: 9846)  Canonical: í (NFC, í, count: 0)
+    Non-canonical: ó (NFD, o + ́, count: 3304)  Canonical: ó (NFC, ó, count: 0)
+    Non-canonical: ú (NFD, u + ́, count: 6077)  Canonical: ú (NFC, ú, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 585, lines: 23288, 23325, 23340, 23381, 23390
+    ( U+0028 LEFT PARENTHESIS count: 204, lines: 23229, 23230, 23234, 23236, 23242
+    ) U+0029 RIGHT PARENTHESIS count: 204, lines: 23229, 23230, 23234, 23236, 23242
+    , U+002C COMMA count: 13980, lines: 23214, 23224, 23225, 23229, 23230
+    - U+002D HYPHEN-MINUS count: 1064, lines: 23233, 23237, 23251, 23252, 23257
+    . U+002E FULL STOP count: 13326, lines: 23214, 23215, 23216, 23217, 23218
+    : U+003A COLON count: 13, lines: 23488, 24963, 27005, 27277, 27432
+    ; U+003B SEMICOLON count: 72, lines: 23488, 23580, 24101, 24120, 24121
+    ? U+003F QUESTION MARK count: 1008, lines: 23240, 23268, 23275, 23316, 23349
+    [ U+005B LEFT SQUARE BRACKET count: 2, lines: 24951, 26450
+    ] U+005D RIGHT SQUARE BRACKET count: 2, lines: 24962, 26461
+GENERAL_PUNCTUATION characters:
+    — U+2014 EM DASH count: 2, line: 24041
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 365, lines: 23234, 23244, 23264, 23282, 23284
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 365, lines: 23234, 23244, 23264, 23282, 23284
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 2188, lines: 23233, 23236, 23240, 23243, 23251
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 1927, lines: 23234, 23236, 23240, 23244, 23251
+SPACE characters:
+      U+0020 SPACE count: 160239, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 174, examples: 40 (l.23280), 100 (l.23616, 23631), 60 (l.23616), 30 (l.23616)
+    1 U+0031 DIGIT ONE count: 27, example: 100 (l.23616, 23631, 23808, 24400, 24412)
+    2 U+0032 DIGIT TWO count: 17, examples: 2 (l.24446), 72 (l.25433), 20 (l.25653), 200 (l.25695), 120 (l.27007)
+    3 U+0033 DIGIT THREE count: 13, example: 30 (l.23616, 23631, 24138, 24400, 24412)
+    4 U+0034 DIGIT FOUR count: 31, examples: 40 (l.23280), 4 (l.23740, 23751, 24578), 84 (l.25079)
+    5 U+0035 DIGIT FIVE count: 19, examples: 5 (l.23687, 23750, 24520, 24588), 50 (l.24516)
+    6 U+0036 DIGIT SIX count: 11, examples: 60 (l.23616, 23631, 24400, 24412), 276 (l.27960)
+    7 U+0037 DIGIT SEVEN count: 7, examples: 70 (l.23818, 27825), 72 (l.25433), 75 (l.27199), 276 (l.27960)
+    8 U+0038 DIGIT EIGHT count: 4, examples: 84 (l.25079), 800 (l.25696), 38 (l.26284), 180 (l.31015)
+    9 U+0039 DIGIT NINE count: 8, examples: 99 (l.23808, 25661, 25664), 90 (l.27951), 39 (l.29081)
+COMBINING_DIACRITICAL_MARKS characters:
+     ́ U+0301 COMBINING ACUTE ACCENT count: 126849, examples: Owíe (l.23214), ámʋ (l.23214), ɩlɩ́ntɔ (l.23214), nɩ́ (l.23214), lɔ́kwɩɩ́ (l.23215)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 2281, examples: Abraham (l.23214, 23215), Amʋ́ (l.23216), Aminadab (l.23217), Abia (l.23220)
+    B U+0042 LATIN CAPITAL LETTER B count: 5403, examples: Boas (l.23218), Babilon (l.23224, 23225, 23230), Bulu (l.23229)
+    D U+0044 LATIN CAPITAL LETTER D count: 149, examples: Dawid (l.23214, 23219, 23233), Dawidsʋ (l.23230), Da (l.23288)
+    E U+0045 LATIN CAPITAL LETTER E count: 203, examples: Eliakim (l.23226), Elihud (l.23227, 23228), Eleasar (l.23228), Egyipte (l.23251)
+    F U+0046 LATIN CAPITAL LETTER F count: 535, examples: Fʋ́ (l.23244, 23340, 23357), Farisifɔ (l.23268, 23323)
+    G U+0047 LATIN CAPITAL LETTER G count: 187, example: Galilea (l.23260, 23274, 23290, 23291, 23293)
+    H U+0048 LATIN CAPITAL LETTER H count: 191, examples: Hesron (l.23216), Hiskia (l.23222, 23223), Herode (l.23239, 23241)
+    I U+0049 LATIN CAPITAL LETTER I count: 404, examples: Isak (l.23215), Israelfɔ (l.23224, 23244), Imanuel (l.23236), Israel (l.23258)
+    K U+004B LATIN CAPITAL LETTER K count: 1071, examples: Kristo (l.23214, 23229, 23230, 23231), Kɩ (l.23236)
+    L U+004C LATIN CAPITAL LETTER L count: 182, examples: Lampóo (l.23349, 23458), Lɛ (l.23644, 23717), Lɛ́lɛ́ (l.23699)
+    M U+004D LATIN CAPITAL LETTER M count: 4758, examples: Manase (l.23223), Mʋ (l.23224), Matan (l.23228), Maria (l.23229), Mʋ́ (l.23230)
+    N U+004E LATIN CAPITAL LETTER N count: 1928, examples: Nahson (l.23217), Nkʋ́nʋ́ (l.23240), Nɩ́ (l.23246), Nɛtɩ (l.23253), Nasaret (l.23261)
+    O U+004F LATIN CAPITAL LETTER O count: 828, examples: Owíe (l.23214, 23219, 23230), Obed (l.23218), Oletsiá (l.23237)
+    P U+0050 LATIN CAPITAL LETTER P count: 671, examples: Peres (l.23216), Petro (l.23296, 23428, 23488, 23694)
+    R U+0052 LATIN CAPITAL LETTER R count: 98, examples: Ram (l.23216, 23217), Rahab (l.23218), Rut (l.23218), Rehabeam (l.23220)
+    S U+0053 LATIN CAPITAL LETTER S count: 734, examples: Sera (l.23216), Salmon (l.23217, 23218), Salomo (l.23219, 23220)
+    T U+0054 LATIN CAPITAL LETTER T count: 1789, examples: Tamar (l.23216), Tsú (l.23230), Támɛ (l.23231, 23233), Tsúfɛ́ (l.23234)
+    U U+0055 LATIN CAPITAL LETTER U count: 4, examples: Uria (l.23219), Usia (l.23221, 23222), Urbano (l.28413)
+    W U+0057 LATIN CAPITAL LETTER W count: 802, examples: Wankɩ́hɛ́ (l.23231, 23233, 23272, 23279), Wíe (l.23264)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 3019, examples: Yesu (l.23214), Yakob (l.23215), Yuda (l.23215, 23216), Yisai (l.23218)
+    a U+0061 LATIN SMALL LETTER A count: 95568, examples: Dawid (l.23214), na (l.23214), Abraham (l.23214, 23215), ámʋ (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 29076, examples: Abraham (l.23214, 23215), Yakob (l.23215), Aminadab (l.23217), Rahab (l.23218)
+    d U+0064 LATIN SMALL LETTER D count: 9952, examples: Dawid (l.23214), Yuda (l.23215, 23216), Aminadab (l.23217), Obed (l.23218)
+    e U+0065 LATIN SMALL LETTER E count: 12972, examples: Yesu (l.23214), Owíe (l.23214), Peres (l.23216), Sera (l.23216), Hesron (l.23216)
+    f U+0066 LATIN SMALL LETTER F count: 11196, examples: Yehosafat (l.23221), Israelfɔ (l.23224), Yosef (l.23229), ofúli (l.23229, 23230)
+    g U+0067 LATIN SMALL LETTER G count: 7705, examples: gyí (l.23216, 23218, 23219, 23229), ogyi (l.23219)
+    h U+0068 LATIN SMALL LETTER H count: 10865, examples: Abraham (l.23214, 23215), yinhɛ́ (l.23215), Nahson (l.23217), Rahab (l.23218)
+    i U+0069 LATIN SMALL LETTER I count: 26282, examples: Kristo (l.23214), Owíe (l.23214), Dawid (l.23214), apio (l.23215), yinhɛ́ (l.23215)
+    k U+006B LATIN SMALL LETTER K count: 20112, examples: lɔ́kwɩɩ́ (l.23215, 23216, 23217), Isak (l.23215), Yakob (l.23215)
+    l U+006C LATIN SMALL LETTER L count: 36495, examples: ɩlɩ́ntɔ (l.23214), lɔ́kwɩɩ́ (l.23215, 23216, 23217), Salmon (l.23217)
+    m U+006D LATIN SMALL LETTER M count: 39150, examples: mʋ (l.23214), Abraham (l.23214, 23215), ámʋ (l.23214), mʋa (l.23215)
+    n U+006E LATIN SMALL LETTER N count: 43269, examples: na (l.23214), ɩlɩ́ntɔ (l.23214), nɩ́ (l.23214), yinhɛ́ (l.23215), yín (l.23216)
+    o U+006F LATIN SMALL LETTER O count: 15730, examples: Kristo (l.23214), Yakob (l.23215), apio (l.23215), Hesron (l.23216), Nahson (l.23217)
+    p U+0070 LATIN SMALL LETTER P count: 13944, examples: apio (l.23215, 23224), Ɔkpa (l.23231), Bɔpʋ (l.23231), ɔkpa (l.23232)
+    r U+0072 LATIN SMALL LETTER R count: 5043, examples: Kristo (l.23214), Abraham (l.23214, 23215), Peres (l.23216), Sera (l.23216)
+    s U+0073 LATIN SMALL LETTER S count: 27918, examples: Yesu (l.23214), Kristo (l.23214), Isak (l.23215), Peres (l.23216), Hesron (l.23216)
+    t U+0074 LATIN SMALL LETTER T count: 26545, examples: Kristo (l.23214), ɩlɩ́ntɔ (l.23214), Rut (l.23218), ɔtsɩ (l.23219), tɛkɩ (l.23219)
+    u U+0075 LATIN SMALL LETTER U count: 24223, examples: Yesu (l.23214), Yuda (l.23215, 23216), Rut (l.23218), Serubabel (l.23225)
+    w U+0077 LATIN SMALL LETTER W count: 15572, examples: Owíe (l.23214), Dawid (l.23214), lɔ́kwɩɩ́ (l.23215, 23216, 23217)
+    y U+0079 LATIN SMALL LETTER Y count: 15552, examples: yinhɛ́ (l.23215), yín (l.23216), gyí (l.23216, 23218), yin (l.23218)
+LATIN_EXTENDED_A characters:
+    ŋ U+014B LATIN SMALL LETTER ENG count: 610, examples: Ɔŋɛ (l.23231, 23233, 23272), ŋáintɔ (l.23232), Ɔŋɛ́ (l.23277)
+LATIN_EXTENDED_B characters:
+    Ɔ U+0186 LATIN CAPITAL LETTER OPEN O count: 1982, examples: Ɔkpa (l.23231), Ɔŋɛ (l.23231, 23233), Ɔbɔ́kwɩɩ́ (l.23234), Ɔlɛpʋ́ (l.23234)
+    Ɛ U+0190 LATIN CAPITAL LETTER OPEN E count: 106, examples: Ɛkɛ (l.23296, 23462), Ɛkɛkɛɛkɛ (l.23463, 23535, 23536)
+    Ɩ U+0196 LATIN CAPITAL LETTER IOTA count: 1397, example: Ɩ́nɩ (l.23235, 23253, 23255, 23261, 23275)
+LATIN characters:
+    ɔ U+0254 LATIN SMALL LETTER OPEN O count: 38932, examples: ɩlɩ́ntɔ (l.23214), lɔ́kwɩɩ́ (l.23215, 23216, 23217, 23218)
+    ɛ U+025B LATIN SMALL LETTER OPEN E count: 40700, examples: yinhɛ́ (l.23215, 23224), tɛkɩ (l.23219), brɛ́sʋ́ (l.23224), bɛkɩtá (l.23224)
+    ɩ U+0269 LATIN SMALL LETTER IOTA count: 47376, examples: ɩlɩ́ntɔ (l.23214), nɩ́ (l.23214), lɔ́kwɩɩ́ (l.23215, 23216, 23217)
+    ʋ U+028B LATIN SMALL LETTER V WITH HOOK count: 55940, examples: mʋ (l.23214, 23215), ámʋ (l.23214), mʋa (l.23215, 23216)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 294, examples: mɩ́sʋ́! (l.23288), mɔtsɔ́! (l.23381), ɔbwɛpʋ́! (l.23390), Ɛkɛkɛɛkɛ! (l.23463), nfɩ! (l.23472)
+    Word!” count: 185, examples: gbloo!” (l.23412), ɩplɩ́ɩ!” (l.23417), kɩ!” (l.23424), wie!” (l.23439), mɔtsɔ́!” (l.23440)
+    “Word! count: 36, examples: “Owíé! (l.23416, 24324), “Mlɩnu! (l.23879, 24395), “Ohwée! (l.23922)
+    Word!’ count: 23, examples: abwɛpʋ́!’ (l.23408), mʋtɔ!’ (l.23546), mɩ!’ (l.23824), mʋ!’ (l.24083, 24287)
+    “Word!” count: 19, examples: “Baraba!” (l.24219), “Osunápʋ́!” (l.24868), “Másu!” (l.25277), “Ɩlatá!” (l.26924), “Rabuni!” (l.26952)
+    Word-Word! count: 8, examples: abí-aná! (l.23592, 24020), Abraham-ée! (l.25713), Ó-o! (l.28086, 28099)
+    ‘Word!’ count: 4, examples: ‘Ɔhakpan!’ (l.23325), ‘Raka!’ (l.23325), ‘Iin!’ (l.23340)
+    “Word-Word! count: 4, example: “Ó-o! (l.25022, 26707, 27342, 28281)
+    ‘Word-Word!’ count: 2, example: ‘Ó-o!’ (l.23340)
+    Word-Word!” count: 2, examples: abí-anásʋ́!” (l.24223), tsenyɔ-tsesa!” (l.30908)
+    Word!”) count: 2, examples: kʋsʋ!”) (l.24474), ba!”) (l.28866)
+    ‘Word! count: 2, examples: ‘Israelfɔ! (l.27227), ‘Mlɩkɩ! (l.28256)
+    “Word-Word!” count: 2, example: “Ó-o!” (l.30433)
+    ‘Word-Word! count: 1, example: ‘Ó-o! (l.23637)
+    Word!— count: 1, example: asɩ!— (l.24041)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 13629, examples: Kristo, (l.23214), na, (l.23214), Israelfɔ, (l.23224), á, (l.23225), Yosef, (l.23229)
+    “Word, count: 187, examples: “Yosef, (l.23233), “Kɩ, (l.23236), “Kʋsʋ, (l.23251, 23258), “Ɔbʋnsám, (l.23288)
+    Word-Word, count: 54, examples: abí-aná, (l.23268), ntá-ɛwɛ, (l.24150), obungyo-awu, (l.24227), akúsʋ́-akúsʋ́, (l.24516), ntsu-ɔlɔ́, (l.24836)
+    ‘Word, count: 27, examples: ‘Kɩ, (l.23538, 24049), ‘Agya, (l.23874, 23953), ‘Oo, (l.23932)
+    (Number), count: 16, examples: (40), (l.23280), (100), (l.23616, 23631), (60), (l.23616, 23631)
+    (Number,Number) count: 15, examples: (5,000) (l.23750, 24588), (4,000) (l.23751), (20,000) (l.25653), (10,000) (l.25653)
+    (Number,Number). count: 12, examples: (5,000). (l.23687, 24520), (4,000). (l.23740), (2,000). (l.24446), (500,000). (l.25305)
+    Word), count: 8, examples: ofúli), (l.24186, 26039, 26619), amʋ), (l.26006), tswɩ), (l.26974)
+    Word,” count: 7, examples: Wankláán,” (l.27931), Wíe,” (l.28265), keté,” (l.29307), Owíe,” (l.30133), ɔbwɛpʋ́,” (l.30383)
+    Word,’ count: 2, examples: yín,’ (l.23706), nána,’ (l.25743)
+    “Word-Word, count: 2, example: “Ó-o, (l.23818, 26518)
+    ‘Word,’ count: 2, examples: ‘Asunápʋ́,’ (l.23994), ‘Osunápʋ́,’ (l.26712)
+    Word’, count: 2, examples: ɔpʋtɔ’, (l.24732), nsíbisʋ’, (l.25257)
+    (Number,Number,Number), count: 2, examples: (5,000,000), (l.25305), (200,000,000), (l.30924)
+    “Word,” count: 2, examples: “Hermes,” (l.27495), “Ndɛ,” (l.30075)
+    —Word, count: 1, example: —Aklápʋ, (l.24041)
+    ‘Word-Word, count: 1, example: ‘Ó-o, (l.24086)
+    ‘Word’, count: 1, example: ‘Ɔdɔm’, (l.24442)
+    (Number,Number), count: 1, example: (4,000), (l.24578)
+    (Word, count: 1, example: (aklápʋ, (l.24800)
+    (Number,Number).) count: 1, example: (5,000).) (l.25384)
+    (Number,Number).’ count: 1, example: (1,000).’ (l.25696)
+    “Word”, count: 1, example: “Kristo”, (l.26154)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 717, examples: Bulu-ɔbɔpʋ (l.23233, 23237, 23251, 23257), onyé-onyé (l.23252)
+    Word-Word-Word count: 87, example: Nyankpʋsa-Mʋ-Bi (l.23434, 23454, 23509, 23547, 23566)
+    Word-Word. count: 66, examples: abí-aná. (l.23270), nyí-atsitsitɔ. (l.23271), nyankpʋsa-oyí. (l.23373), Bulu-abɔpʋ. (l.23647), ɔtsan-ɔtsan. (l.23655)
+    Word-Word, count: 54, examples: abí-aná, (l.23268), ntá-ɛwɛ, (l.24150), obungyo-awu, (l.24227), akúsʋ́-akúsʋ́, (l.24516), ntsu-ɔlɔ́, (l.24836)
+    “Word-Word count: 12, examples: “Ndɛmba-abíá (l.23786, 24626, 25411), “Ɔyɩ́-nsɩnɛ́ (l.24083), “Ndɛmba-abí (l.25503)
+    Word-Word! count: 8, examples: abí-aná! (l.23592, 24020), Abraham-ée! (l.25713), Ó-o! (l.28086, 28099)
+    Word-Word.” count: 6, examples: Bodobodotu-afásʋ́.” (l.23747, 23752), bodobodotu-afásʋ́.” (l.24584), ɔdɔ-kʋlɛtɔ.” (l.26277), obu-ɔnɔ́.” (l.27420)
+    “Word-Word! count: 4, example: “Ó-o! (l.25022, 26707, 27342, 28281)
+    Word-Word? count: 3, examples: atɔ́-abí? (l.25545), ndɔtɔ-atɔ́? (l.28615), mbwɩkɩ́tá-atɔ? (l.28818)
+    ‘Word-Word!’ count: 2, example: ‘Ó-o!’ (l.23340)
+    “Word-Word, count: 2, example: “Ó-o, (l.23818, 26518)
+    Word-Word!” count: 2, examples: abí-anásʋ́!” (l.24223), tsenyɔ-tsesa!” (l.30908)
+    “Word-Word.” count: 2, example: “Ó-o.” (l.26134, 28887)
+    “Word-Word!” count: 2, example: “Ó-o!” (l.30433)
+    ‘Word-Word! count: 1, example: ‘Ó-o! (l.23637)
+    ‘Word-Word, count: 1, example: ‘Ó-o, (l.24086)
+    “Word-Word-Word count: 1, example: “Nyankpʋsa-Mʋ-Bi (l.24091)
+    Word-Word-Word. count: 1, example: ta-ta-ta. (l.25977)
+    “Word-Word-Word-Word.” count: 1, example: “Bɩnasʋ-owí-ɔdalɩkpa-afú.” (l.27937)
+    “Word-Word” count: 1, example: “Ó-o” (l.28885)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 11681, examples: nɩ́. (l.23214), Isak. (l.23215), Yakob. (l.23215), yinhɛ́. (l.23215), Sera. (l.23216)
+    Word.” count: 1192, examples: nɩ́.” (l.23234), Imanuel.” (l.23236), mʋ.” (l.23240, 23251), ɔmátɔ́.” (l.23253)
+    Word.’ count: 245, examples: Israelfɔ.’ (l.23244), nkpa.’ (l.23282), kʋkʋsʋ.’ (l.23284), kɩ.’ (l.23285), súm.’ (l.23288)
+    Word-Word. count: 66, examples: abí-aná. (l.23270), nyí-atsitsitɔ. (l.23271), nyankpʋsa-oyí. (l.23373), Bulu-abɔpʋ. (l.23647), ɔtsan-ɔtsan. (l.23655)
+    Word.) count: 40, examples: dúanyɔ.) (l.24475), ɩwɩ.) (l.24536), lɛtɩn.) (l.24551), asɩ.) (l.24800), dodoodo.) (l.25032)
+    “Word.” count: 24, examples: “Mlɩyɔ.” (l.23446), “Ɔtɛká.” (l.23794), “Kaesare.” (l.23962), “Boanerges.” (l.24374), “Hefata.” (l.24566)
+    (Number). count: 16, examples: (40). (l.23280), (30). (l.24400, 26933), (50). (l.24516), (84). (l.25079)
+    (Number,Number). count: 12, examples: (5,000). (l.23687, 24520), (4,000). (l.23740), (2,000). (l.24446), (500,000). (l.25305)
+    Word). count: 8, examples: amʋ). (l.23242, 23997, 27170), ɔdɛblɩ́). (l.25403), gyí). (l.26894)
+    ‘Word.’ count: 7, examples: ‘Bʋtá.’ (l.23759), ‘Mmɔ́ɔyɔ.’ (l.23924), ‘Yohane.’ (l.24975, 25025), ‘Yesu.’ (l.24993)
+    Word.”) count: 6, examples: wá.”) (l.23236), Bulu.”) (l.25065), ɔmátɔ́.”) (l.26269), sɩ́sɩ́.”) (l.26516), mɔ́fwɩ.”) (l.26863)
+    Word-Word.” count: 6, examples: Bodobodotu-afásʋ́.” (l.23747, 23752), bodobodotu-afásʋ́.” (l.24584), ɔdɔ-kʋlɛtɔ.” (l.26277), obu-ɔnɔ́.” (l.27420)
+    (Number).” count: 3, examples: (30).” (l.23616), (100).” (l.24400), (50).” (l.25384)
+    “Word. count: 3, examples: “Ndenu. (l.23911), “Ɛkɛkɛɛkɛ. (l.26871, 26879)
+    (Number).’ count: 3, examples: (200).’ (l.25695), (100).’ (l.25695), (800).’ (l.25696)
+    Word).” count: 2, example: amʋ).” (l.26132, 30639)
+    “Word-Word.” count: 2, example: “Ó-o.” (l.26134, 28887)
+    “Word.”) count: 2, examples: “Bʋtá.”) (l.26155), “Osunápʋ́.”) (l.26952)
+    ‘Word.’) count: 1, example: ‘Ɔlɛpʋ́.’) (l.23234)
+    Word.”); count: 1, example: abí.”); (l.24374)
+    Word.] count: 1, example: ɔwʋnlɩ́n.] (l.24962)
+    (Number,Number).) count: 1, example: (5,000).) (l.25384)
+    (Number,Number).’ count: 1, example: (1,000).’ (l.25696)
+    Word-Word-Word. count: 1, example: ta-ta-ta. (l.25977)
+    Word.”] count: 1, example: lakpan.”] (l.26461)
+    “Word-Word-Word-Word.” count: 1, example: “Bɩnasʋ-owí-ɔdalɩkpa-afú.” (l.27937)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 13, examples: nɩ́: (l.23488), Tiofilo: (l.24963), gyí: (l.27005, 27277), Amʋ́gyí: (l.27432)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 71, examples: abí; (l.23488), lobwie; (l.23580), fʋmodu; (l.24101), obu; (l.24120, 24121)
+    Word.”); count: 1, example: abí.”); (l.24374)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 620, examples: amʋ? (l.23240), ámʋ? (l.23268), ɔdwɛ? (l.23316), fénya? (l.23349), dʋbɩ? (l.23350)
+    Word?” count: 339, examples: asú?” (l.23275), alɩ?” (l.23441), ɩfʋn?” (l.23443), atɔ́?” (l.23459), ɔnɔ́?” (l.23462)
+    Word?’ count: 44, examples: abégyi?’ (l.23382), abónu?’ (l.23382), abɛ́dɩdá?’ (l.23382), nsíbisʋ?’ (l.23389), nɩ́?’ (l.23407)
+    Word-Word? count: 3, examples: atɔ́-abí? (l.25545), ndɔtɔ-atɔ́? (l.28615), mbwɩkɩ́tá-atɔ? (l.28818)
+    Word)?” count: 1, example: amʋ)?” (l.24220)
+    Word)? count: 1, example: amʋ)? (l.24777)
+TOKENS WITH — (U+2014 EM DASH):
+    —Word, count: 1, example: —Aklápʋ, (l.24041)
+    Word!— count: 1, example: asɩ!— (l.24041)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 315, examples: ‘Fʋ́ (l.23244), ‘Mlɩla (l.23264), ‘Megyí (l.23282), ‘Bulu (l.23284), ‘Mákapʋ́ (l.23285)
+    ‘Word, count: 27, examples: ‘Kɩ, (l.23538, 24049), ‘Agya, (l.23874, 23953), ‘Oo, (l.23932)
+    ‘Word.’ count: 7, examples: ‘Bʋtá.’ (l.23759), ‘Mmɔ́ɔyɔ.’ (l.23924), ‘Yohane.’ (l.24975, 25025), ‘Yesu.’ (l.24993)
+    ‘Word!’ count: 4, examples: ‘Ɔhakpan!’ (l.23325), ‘Raka!’ (l.23325), ‘Iin!’ (l.23340)
+    ‘Word-Word!’ count: 2, example: ‘Ó-o!’ (l.23340)
+    ‘Word’ count: 2, examples: ‘Ɔbʋnsám’ (l.23511), ‘Beelsebul’ (l.23511)
+    ‘Word,’ count: 2, examples: ‘Asunápʋ́,’ (l.23994), ‘Osunápʋ́,’ (l.26712)
+    ‘Word! count: 2, examples: ‘Israelfɔ! (l.27227), ‘Mlɩkɩ! (l.28256)
+    ‘Word.’) count: 1, example: ‘Ɔlɛpʋ́.’) (l.23234)
+    ‘Word-Word! count: 1, example: ‘Ó-o! (l.23637)
+    ‘Word-Word, count: 1, example: ‘Ó-o, (l.24086)
+    ‘Word’, count: 1, example: ‘Ɔdɔm’, (l.24442)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word.’ count: 245, examples: Israelfɔ.’ (l.23244), nkpa.’ (l.23282), kʋkʋsʋ.’ (l.23284), kɩ.’ (l.23285), súm.’ (l.23288)
+    Word?’ count: 44, examples: abégyi?’ (l.23382), abónu?’ (l.23382), abɛ́dɩdá?’ (l.23382), nsíbisʋ?’ (l.23389), nɩ́?’ (l.23407)
+    Word!’ count: 23, examples: abwɛpʋ́!’ (l.23408), mʋtɔ!’ (l.23546), mɩ!’ (l.23824), mʋ!’ (l.24083, 24287)
+    Word’ count: 22, examples: mʋ’ (l.23264), Wíé’ (l.23406), nána’ (l.24049), dimbísʋ́’ (l.24052), obutótɔ́’ (l.24052)
+    ‘Word.’ count: 7, examples: ‘Bʋtá.’ (l.23759), ‘Mmɔ́ɔyɔ.’ (l.23924), ‘Yohane.’ (l.24975, 25025), ‘Yesu.’ (l.24993)
+    ‘Word!’ count: 4, examples: ‘Ɔhakpan!’ (l.23325), ‘Raka!’ (l.23325), ‘Iin!’ (l.23340)
+    ’ count: 4, lines: 24778, 25547, 27039, 27235
+    (Number).’ count: 3, examples: (200).’ (l.25695), (100).’ (l.25695), (800).’ (l.25696)
+    ‘Word-Word!’ count: 2, example: ‘Ó-o!’ (l.23340)
+    ‘Word’ count: 2, examples: ‘Ɔbʋnsám’ (l.23511), ‘Beelsebul’ (l.23511)
+    Word,’ count: 2, examples: yín,’ (l.23706), nána,’ (l.25743)
+    ‘Word,’ count: 2, examples: ‘Asunápʋ́,’ (l.23994), ‘Osunápʋ́,’ (l.26712)
+    Word’, count: 2, examples: ɔpʋtɔ’, (l.24732), nsíbisʋ’, (l.25257)
+    ‘Word.’) count: 1, example: ‘Ɔlɛpʋ́.’) (l.23234)
+    ‘Word’, count: 1, example: ‘Ɔdɔm’, (l.24442)
+    (Number,Number).’ count: 1, example: (1,000).’ (l.25696)

@@ -1,0 +1,207 @@
+OVERVIEW:
+File size: 41899 lines, 1241970 characters
+Letter scripts: 1
+    LATIN (1002164 instances)
+Number scripts: 0
+Other character groups: 4
+    SPACE (156064 instances)
+    ASCII_PUNCTUATION (30428 instances): !(),-.?
+    COMBINING_DIACRITICAL_MARKS (7350 instances):  ́
+    GENERAL_PUNCTUATION (3981 instances): ¡¿—‘’“”
+Non-canonical character combinations: 2
+
+DETAILS:
+Non-canonical character combinations: 2
+    Non-canonical: Ǘ (Ü + ́, count: 18)  Canonical: Ǘ (NFC, Ǘ, count: 0)
+    Non-canonical: ǘ (ü + ́, count: 7332)  Canonical: ǘ (NFC, ǘ, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 325, lines: 23268, 23288, 23374, 23377, 23390
+    ( U+0028 LEFT PARENTHESIS count: 23, lines: 23772, 24345, 24535, 26035, 26114
+    ) U+0029 RIGHT PARENTHESIS count: 23, lines: 23772, 24345, 24536, 26035, 26114
+    , U+002C COMMA count: 18174, lines: 23215, 23216, 23217, 23218, 23219
+    - U+002D HYPHEN-MINUS count: 204, lines: 23280, 23325, 23354, 23426, 23548
+    . U+002E FULL STOP count: 10817, lines: 23214, 23219, 23224, 23229, 23230
+    ? U+003F QUESTION MARK count: 862, lines: 23240, 23268, 23275, 23316, 23349
+GENERAL_PUNCTUATION characters:
+    ¡ U+00A1 INVERTED EXCLAMATION MARK count: 324, lines: 23268, 23288, 23374, 23377, 23390
+    ¿ U+00BF INVERTED QUESTION MARK count: 858, lines: 23240, 23268, 23275, 23316, 23349
+    — U+2014 EM DASH count: 1590, lines: 23233, 23240, 23243, 23246, 23251
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 250, lines: 23307, 23308, 23309, 23310, 23311
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 10, lines: 23406, 23512, 30773, 30776, 31128
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 475, lines: 23236, 23253, 23264, 23270, 23282
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 474, lines: 23236, 23253, 23264, 23270, 23282
+SPACE characters:
+      U+0020 SPACE count: 156064, lines: 23214, 23215, 23216, 23217, 23218
+COMBINING_DIACRITICAL_MARKS characters:
+     ́ U+0301 COMBINING ACUTE ACCENT count: 7350, examples: ladǘgawagun (l.23214), lagǘbürigubaña (l.23219), lagǘriajoún (l.23230, 23231), wǘri (l.23231)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 1056, examples: Abrahám (l.23214, 23215), Arám (l.23216, 23217), Aminadáb (l.23217)
+    B U+0042 LATIN CAPITAL LETTER B count: 3680, examples: Booz (l.23218), Babilónia (l.23224), Babilónioun (l.23230), Búngiu (l.23233, 23235)
+    C U+0043 LATIN CAPITAL LETTER C count: 1313, examples: Crístu (l.23229, 23230, 23242), Catoúrusuñanu (l.23230), Ca (l.23268)
+    D U+0044 LATIN CAPITAL LETTER D count: 830, examples: Davíd (l.23214, 23219, 23230, 23233), Dan (l.23233)
+    E U+0045 LATIN CAPITAL LETTER E count: 248, examples: Esróm (l.23216), Ezequías (l.23222, 23223), Eliaquím (l.23226), Eliúd (l.23227)
+    F U+0046 LATIN CAPITAL LETTER F count: 285, examples: Fáres (l.23216), Falá (l.23297), Furése (l.23298), Fuleíseiwatün (l.23306, 23307)
+    G U+0047 LATIN CAPITAL LETTER G count: 595, examples: Galiléoun (l.23260, 23290), Galiléa (l.23261), Gabáfuti (l.23272), Galiléagiñe (l.23274)
+    H U+0048 LATIN CAPITAL LETTER H count: 81, example: Heródes (l.23239, 23241, 23245, 23250, 23251)
+    I U+0049 LATIN CAPITAL LETTER I count: 347, examples: Isáac (l.23215), Isaí (l.23218, 23219), Israelítagu (l.23224, 23230)
+    J U+004A LATIN CAPITAL LETTER J count: 3421, examples: Jesucrístu (l.23214), Jacób (l.23215), Judá (l.23215, 23216), Josafát (l.23221)
+    L U+004C LATIN CAPITAL LETTER L count: 2364, examples: Lárigiñe (l.23225, 23247, 23250), Lasúseredunbei (l.23235), Lídan (l.23239)
+    M U+004D LATIN CAPITAL LETTER M count: 1371, examples: Manasés (l.23223), Matán (l.23228), María (l.23229, 23231, 23232)
+    N U+004E LATIN CAPITAL LETTER N count: 900, examples: Niján (l.23214), Naasón (l.23217), Niraǘ (l.23253), Nazarét (l.23261), Nazarétna (l.23261)
+    O U+004F LATIN CAPITAL LETTER O count: 62, examples: Oúsera (l.23269), Oúndaragua (l.23371), O (l.23389), Oúnaja (l.23681), Olívos (l.23896)
+    P U+0050 LATIN CAPITAL LETTER P count: 561, example: Pédro (l.23296, 23428, 23488, 23694, 23695)
+    Q U+0051 LATIN CAPITAL LETTER Q count: 191, examples: Quei (l.23232, 23417, 23479, 23583), Queíti (l.23452)
+    R U+0052 LATIN CAPITAL LETTER R count: 246, examples: Raháb (l.23218), Rut (l.23218), Roboám (l.23220), Ramá (l.23256), Raquél (l.23256)
+    S U+0053 LATIN CAPITAL LETTER S count: 1395, examples: Salmón (l.23217, 23218), Salomón (l.23219, 23220), Salatiél (l.23225)
+    T U+0054 LATIN CAPITAL LETTER T count: 241, examples: Támar (l.23216), Tagáraüduba (l.23234), Tadágeinaduba (l.23236), Taríñajare (l.23282), Tídaañanu (l.23299)
+    U U+0055 LATIN CAPITAL LETTER U count: 59, examples: Urías (l.23219), Uzías (l.23221, 23222), Uá (l.23637), Uweíriguni (l.23904)
+    W U+0057 LATIN CAPITAL LETTER W count: 776, examples: Wabúreme (l.23233, 23235, 23264), Warúguma (l.23247), Wáguchi (l.23319)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 28, examples: Yaráfaali (l.24141, 25103, 25934), Yaráfañanu (l.24578, 25384)
+    Z U+005A LATIN CAPITAL LETTER Z count: 46, examples: Zára (l.23216), Zorobabél (l.23225, 23226), Zabulón (l.23291, 23293)
+    a U+0061 LATIN SMALL LETTER A count: 123354, examples: linébaanfaangu (l.23214), jádaangiñebei (l.23214), meja (l.23214), ladǘgawagun (l.23214), Davíd (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 39760, examples: linébaanfaangu (l.23214), jádaangiñebei (l.23214), Abrahám (l.23214, 23215), lúguchibei (l.23215)
+    c U+0063 LATIN SMALL LETTER C count: 6986, examples: Jesucrístu (l.23214), lúguchibei (l.23215), Isáac (l.23215), lúguchi (l.23215), Jacób (l.23215)
+    d U+0064 LATIN SMALL LETTER D count: 27218, examples: jádaangiñebei (l.23214), ladǘgawagun (l.23214), Davíd (l.23214), Judá (l.23215, 23216)
+    e U+0065 LATIN SMALL LETTER E count: 52007, examples: Jesucrístu (l.23214), le (l.23214), jádaangiñebei (l.23214), meja (l.23214), lúguchibei (l.23215)
+    f U+0066 LATIN SMALL LETTER F count: 7965, examples: linébaanfaangu (l.23214, 23230), Josafát (l.23221), lubáfu (l.23231), Sífiri (l.23231)
+    g U+0067 LATIN SMALL LETTER G count: 57529, examples: linébaanfaangu (l.23214), jádaangiñebei (l.23214), ladǘgawagun (l.23214), lúguchibei (l.23215), lúguchi (l.23215)
+    h U+0068 LATIN SMALL LETTER H count: 3877, examples: Abrahám (l.23214, 23215), lúguchibei (l.23215), lúguchi (l.23215, 23216)
+    i U+0069 LATIN SMALL LETTER I count: 78907, examples: Niján (l.23214), jíri (l.23214), linébaanfaangu (l.23214), jádaangiñebei (l.23214), lúguchibei (l.23215)
+    j U+006A LATIN SMALL LETTER J count: 31530, examples: Niján (l.23214), jíri (l.23214), jádaangiñebei (l.23214), meja (l.23214), jáu (l.23215)
+    k U+006B LATIN SMALL LETTER K count: 5, examples: kilómetro (l.27004, 31015), kílo (l.30867), kilómetros (l.31138)
+    l U+006C LATIN SMALL LETTER L count: 62042, examples: linébaanfaangu (l.23214), le (l.23214), ladǘgawagun (l.23214), lúma (l.23214), lúguchibei (l.23215)
+    m U+006D LATIN SMALL LETTER M count: 23337, examples: meja (l.23214), lúma (l.23214), Abrahám (l.23214, 23215), lamúlenu (l.23215)
+    n U+006E LATIN SMALL LETTER N count: 82210, examples: Niján (l.23214), linébaanfaangu (l.23214), jádaangiñebei (l.23214), ladǘgawagun (l.23214), lamúlenu (l.23215)
+    o U+006F LATIN SMALL LETTER O count: 10716, examples: Booz (l.23218), Salomón (l.23219, 23220), Roboám (l.23220), Josafát (l.23221)
+    p U+0070 LATIN SMALL LETTER P count: 1575, examples: proféta (l.23235, 23243), cupáli (l.23249), Ejíptoun (l.23251, 23252)
+    q U+0071 LATIN SMALL LETTER Q count: 1610, examples: Ezequías (l.23222, 23223), Eliaquím (l.23226), Aquím (l.23227), quei (l.23231)
+    r U+0072 LATIN SMALL LETTER R count: 46908, examples: jíri (l.23214), Jesucrístu (l.23214), Abrahám (l.23214, 23215), Fáres (l.23216)
+    s U+0073 LATIN SMALL LETTER S count: 21149, examples: Jesucrístu (l.23214), Isáac (l.23215), Fáres (l.23216), Esróm (l.23216), Naasón (l.23217)
+    t U+0074 LATIN SMALL LETTER T count: 21254, examples: Jesucrístu (l.23214), tugúya (l.23216), Rut (l.23218), túma (l.23219), tó (l.23219)
+    u U+0075 LATIN SMALL LETTER U count: 96596, examples: linébaanfaangu (l.23214), Jesucrístu (l.23214), ladǘgawagun (l.23214), lúguchibei (l.23215), lúguchi (l.23215)
+    v U+0076 LATIN SMALL LETTER V count: 135, example: Davíd (l.23214, 23219, 23230, 23233, 23475)
+    w U+0077 LATIN SMALL LETTER W count: 10978, examples: ladǘgawagun (l.23214), janáanwagunbei (l.23224), adáürawagua (l.23224), janáanwagúniwa (l.23230), wǘri (l.23231)
+    x U+0078 LATIN SMALL LETTER X count: 13, examples: Arfaxád (l.25130), Félix (l.27826, 27828, 27859, 27860)
+    y U+0079 LATIN SMALL LETTER Y count: 4498, examples: tugúya (l.23216), tugúyati (l.23229), liyúmulugugiñe (l.23235), wéyu (l.23239, 23240)
+    z U+007A LATIN SMALL LETTER Z count: 78, examples: Booz (l.23218), Uzías (l.23221, 23222), Ácaz (l.23222), Ezequías (l.23222)
+LATIN_EXTENDED_LETTER characters:
+    Á U+00C1 LATIN CAPITAL LETTER A WITH ACUTE count: 2866, examples: Ása (l.23220, 23221), Ácaz (l.23222), Ábati (l.23239), Ába (l.23240)
+    É U+00C9 LATIN CAPITAL LETTER E WITH ACUTE count: 33, examples: Éjerajatiña (l.26040), Éfeso (l.27645, 27650, 27653), Éfesogiñe (l.27647)
+    Í U+00CD LATIN CAPITAL LETTER I WITH ACUTE count: 490, example: Ítara (l.23231, 23234, 23255, 23276, 23316)
+    Ñ U+00D1 LATIN CAPITAL LETTER N WITH TILDE count: 232, examples: Ñíñanu (l.23444), Ñíñanuti (l.23451), Ñíñounti (l.23468), Ñíñein (l.23568), Ñígili (l.23604)
+    Ó U+00D3 LATIN CAPITAL LETTER O WITH ACUTE count: 16, examples: Óbed (l.23218), Ódi (l.23563, 23876, 24741), Óra (l.25639)
+    Ú U+00DA LATIN CAPITAL LETTER U WITH ACUTE count: 166, examples: Úaalime (l.23316), Úaragua (l.23351), Úati (l.23375, 23510, 23512)
+    Ü U+00DC LATIN CAPITAL LETTER U WITH DIAERESIS count: 23, examples: Ǘmada (l.24596), Ǘrüwa (l.25088, 26081, 26165), Ǘnabuti (l.27278)
+    á U+00E1 LATIN SMALL LETTER A WITH ACUTE count: 46201, examples: Niján (l.23214), jádaangiñebei (l.23214), Abrahám (l.23214, 23215), Isáac (l.23215)
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 8447, examples: linébaanfaangu (l.23214), Manasés (l.23223), Salatiél (l.23225), Zorobabél (l.23225, 23226)
+    í U+00ED LATIN SMALL LETTER I WITH ACUTE count: 37886, examples: jíri (l.23214), Jesucrístu (l.23214), Davíd (l.23214), Isaí (l.23218, 23219)
+    ñ U+00F1 LATIN SMALL LETTER N WITH TILDE count: 20212, examples: jádaangiñebei (l.23214), lagǘbürigubaña (l.23219), Lárigiñe (l.23225), Catoúrusuñanu (l.23230), lúmagiñe (l.23230)
+    ó U+00F3 LATIN SMALL LETTER O WITH ACUTE count: 1385, examples: Jacób (l.23215), Esróm (l.23216), Naasón (l.23217), Salmón (l.23217, 23218)
+    ú U+00FA LATIN SMALL LETTER U WITH ACUTE count: 30191, examples: lúma (l.23214), lúguchibei (l.23215), lúguchi (l.23215, 23216), lamúlenu (l.23215)
+    ü U+00FC LATIN SMALL LETTER U WITH DIAERESIS count: 21683, examples: ladǘgawagun (l.23214), lagǘbürigubaña (l.23219), adáürawagua (l.23224), lagǘriajoún (l.23230, 23231)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 276, examples: le! (l.23268, 23390), Máfia! (l.23288), ligía! (l.23374), dunúru! (l.23377)
+    ¡Word! count: 18, examples: ¡Wadíbiragua! (l.23439), ¡Uá! (l.24413), ¡Derégüdaguabá! (l.24431), ¡Junrénba! (l.24566), ¡Glória! (l.24718)
+    —¡Word! count: 17, examples: —¡Úfiaü! (l.23692), —¡Magíindadügüyabá! (l.23914), —¡Maésturu! (l.24430), —¡Maníba! (l.24431), —¡Efata! (l.24566)
+    Word!, count: 6, examples: tigíbu!, (l.24000, 25518), jugúya!, (l.25521), Moisés!, (l.25526), le!, (l.25602)
+    Word!” count: 5, examples: dibúnetimaabei!” (l.25687), láu!” (l.25718), gafígounti!” (l.25770), asálbaruni!” (l.28271), Jesucrístu!” (l.31008)
+    Word!”, count: 1, example: Davíd!”, (l.23910)
+    ‘¡Word! count: 1, example: ‘¡Jéwegu! (l.24020)
+    “¡Word!” count: 1, example: “¡Núguchi!” (l.29204)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 17712, examples: Isáac, (l.23215), Jacób, (l.23215), lamúlenu, (l.23215), Zára, (l.23216), jáguchu, (l.23216)
+    —Word, count: 248, examples: —José, (l.23233), —Belén, (l.23243), —Jeíba, (l.23246), —Sarába, (l.23251, 23258)
+    “Word, count: 69, examples: “Nabúreme, (l.23406), “Wabúreme, (l.23407), “Sarába, (l.23453), “Wayúbudiri, (l.23635), “Uá, (l.23637)
+    Word”, count: 54, examples: wagía”, (l.23270), táu”, (l.23325), bifígoun”, (l.23453), Búngiu”, (l.23707), fulásu”, (l.23789)
+    —¡Word, count: 16, examples: —¡Wabúreme, (l.23439, 23891, 23892), —¡Nabúreme, (l.23724, 23727)
+    ‘Word, count: 15, examples: ‘Agúmujoúni, (l.23932), ‘Jugúyati, (l.24035), ‘Jugúya, (l.24793), ‘Fuleíseiwatün, (l.25236), ‘Jesúsu, (l.26220)
+    “Word”, count: 11, examples: “uá”, (l.23340), “dǘbü”, (l.23759), “maésturugu”, (l.23995), “Nirán”, (l.24807), “Niján”, (l.25741)
+    Word—Word, count: 10, examples: gürígia—jíwerutiña, (l.25768), wügǘri—Adán, (l.28132), afíñetiña—juríu, (l.28715), wagía—Silváno, (l.28887), túmari—buídumeraütu, (l.29398)
+    Word-Word, count: 7, examples: ǘrüwa-wein, (l.23616, 23631, 24400), bián-mílu, (l.24094), díisi-mílu, (l.24105)
+    Word!, count: 6, examples: tigíbu!, (l.24000, 25518), jugúya!, (l.25521), Moisés!, (l.25526), le!, (l.25602)
+    Word), count: 6, examples: jagía), (l.24345), Irájü), (l.26114), lubáragiñe), (l.26419), Moisés), (l.29162), Espíritu), (l.29296)
+    Word,” count: 4, examples: bágu,” (l.23389), Nabúreme,” (l.23406), amǘrüme,” (l.30376), luágu,” (l.31038)
+    ¿Word, count: 3, examples: ¿Búngiu, (l.23920, 24739), ¿Cátanasan, (l.25388)
+    ¡Word, count: 3, examples: ¡Jugúya, (l.24011), ¡ladáüraguagüdatimabadün, (l.25556), ¡Weíga, (l.25680)
+    Word,’ count: 2, examples: siélubei,’ (l.23406), gürígia,’ (l.23512)
+    “¡Word, count: 2, examples: “¡Wabúreme, (l.24088), “¡Búngiu, (l.25770)
+    Word!”, count: 1, example: Davíd!”, (l.23910)
+    Word—, count: 1, example: gunfaráandalá—, (l.24041)
+    —¿Word, count: 1, example: —¿Jalíñounbadibusan, (l.26735)
+    “¿Word, count: 1, example: “¿Cátabusan, (l.27906)
+    (Word, count: 1, example: (Áu, (l.28426)
+    ”, count: 1, line: 30773
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 141, examples: bián-wein (l.23280), luweírin-ágei (l.23325, 23426), lubuídun-ágei (l.23354), líbe-ágei (l.23548)
+    Word-Word-Word count: 15, examples: ǘrüwa-wein-díisi (l.23818, 25433, 25448, 25449), gádürü-weín-gádürü (l.25079)
+    Word-Word, count: 7, examples: ǘrüwa-wein, (l.23616, 23631, 24400), bián-mílu, (l.24094), díisi-mílu, (l.24105)
+    Word-Word. count: 5, examples: Síro-Feniciána. (l.24558), dimí-san. (l.25305, 25384), luweírin-ágei. (l.26700), lujúlilin-ágei. (l.30112)
+    Word-Word-Word-Word count: 4, examples: ǘrüwa-wein-díisi-mílu (l.24176), gádürü-wein-díisi-néfu (l.25661, 25664), ǘrüwa-wein-díisi-sísi (l.27960)
+    Word-Word.” count: 2, examples: dimí-san.” (l.25695), gádürü-wein.” (l.25696)
+    Word-Word-Word. count: 2, examples: ǘrüwa-irúmu-dimí. (l.30438), ǘrüwa-wein-sísi. (l.30995)
+    —Word-Word-Word count: 1, example: —Bián-wein-sísi (l.26184)
+    ‘Word-Word count: 1, example: ‘Bián-wein (l.27215)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 10443, examples: Abrahám. (l.23214), Salomón. (l.23219), Babilónia. (l.23224), Crístu. (l.23229, 23230)
+    Word.” count: 315, examples: Ejíptogiñe.” (l.23253), surúti.” (l.23264), Búngiu.” (l.23282, 23285), besériwida.” (l.23288)
+    —Word. count: 17, examples: —Jigábuti. (l.23695), —Afáyeijati. (l.23794), —Barabási. (l.24219), —Sédü. (l.24574), —Dúusu. (l.24588)
+    Word”. count: 12, examples: wáma”. (l.23236), wǘri”. (l.24663), jugúya”. (l.26584), Juríu”. (l.26913), Buídumeraüti”. (l.27075)
+    Word.) count: 8, examples: asíedu.) (l.24536), gadúnrunbaña.) (l.26035), Samariána.) (l.26234), gürígia.) (l.28064), jumánina.) (l.28155)
+    Word-Word. count: 5, examples: Síro-Feniciána. (l.24558), dimí-san. (l.25305, 25384), luweírin-ágei. (l.26700), lujúlilin-ágei. (l.30112)
+    Word). count: 5, examples: Iscarióte). (l.26759), lan). (l.28187), táu). (l.29078), Moisés). (l.29160), Agár). (l.29223)
+    “Word”. count: 3, examples: “maésturugu”. (l.23994), “Núguchi”. (l.23996), “Dimúrei”. (l.30608)
+    ‘Word’. count: 3, example: ‘Z’. (l.30776, 31128, 31162)
+    Word-Word.” count: 2, examples: dimí-san.” (l.25695), gádürü-wein.” (l.25696)
+    Word-Word-Word. count: 2, examples: ǘrüwa-irúmu-dimí. (l.30438), ǘrüwa-wein-sísi. (l.30995)
+    Word—Word. count: 1, example: Úguchili—Búngiu. (l.30055)
+    “Word.” count: 1, example: “Máfarajabá.” (l.30371)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 804, examples: agǘriajoúbei? (l.23240), liábin? (l.23268), nabásteragüdünibu? (l.23275), lan? (l.23316), líra? (l.23349)
+    Word?” count: 34, examples: weíga?” (l.23382), wáta?” (l.23382), wadáüra?” (l.23382), le?” (l.23635, 23636)
+    Word”? count: 9, examples: beíbuga”? (l.23453, 25199), beíba”? (l.24338, 26291), eíga”? (l.25727)
+    “Word”? count: 6, examples: “buíti”? (l.23848, 24675, 25776), “Nabúreme”? (l.24779, 25892)
+    ¿Word? count: 6, examples: ¿barúmuguñasan? (l.24860), ¿Afíñetibu? (l.26618), ¿mañúgungidünsan? (l.26972), ¿cátaün? (l.27669), ¿Cátanagi? (l.28483)
+    —¿Word? count: 3, example: —¿Cátabuti? (l.26134, 26135, 26475)
+TOKENS WITH ¡ (U+00A1 INVERTED EXCLAMATION MARK):
+    ¡Word count: 158, examples: ¡luweírin (l.23374), ¡Sarágu (l.23377), ¡Biángua (l.23390), ¡gúbuméti (l.23396), ¡ma (l.23412)
+    —¡Word count: 87, examples: —¡Jarásan (l.23268), —¡Beíba (l.23288), —¡Jeíbati (l.23446), —¡Gudéme (l.23475), —¡Fugiábu (l.23549)
+    ¡Word! count: 18, examples: ¡Wadíbiragua! (l.23439), ¡Uá! (l.24413), ¡Derégüdaguabá! (l.24431), ¡Junrénba! (l.24566), ¡Glória! (l.24718)
+    —¡Word! count: 17, examples: —¡Úfiaü! (l.23692), —¡Magíindadügüyabá! (l.23914), —¡Maésturu! (l.24430), —¡Maníba! (l.24431), —¡Efata! (l.24566)
+    —¡Word, count: 16, examples: —¡Wabúreme, (l.23439, 23891, 23892), —¡Nabúreme, (l.23724, 23727)
+    ‘¡Word count: 15, example: ‘¡Fugiábugu (l.24000, 24001, 24002, 24003, 24010)
+    “¡Word count: 6, examples: “¡Músu (l.23828), “¡Uweíriguni (l.23910), “¡Sarágu (l.25674), “¡Núguchi (l.25713), “¡Ma (l.28271)
+    ¡Word, count: 3, examples: ¡Jugúya, (l.24011), ¡ladáüraguagüdatimabadün, (l.25556), ¡Weíga, (l.25680)
+    “¡Word, count: 2, examples: “¡Wabúreme, (l.24088), “¡Búngiu, (l.25770)
+    ‘¡Word! count: 1, example: ‘¡Jéwegu! (l.24020)
+    “¡Word!” count: 1, example: “¡Núguchi!” (l.29204)
+TOKENS WITH — (U+2014 EM DASH):
+    —Word count: 815, examples: —Sáansi (l.23263), —Nugúya (l.23275), —Ítara (l.23276), —Niraǘ (l.23278), —Ánjein (l.23281)
+    —¿Word count: 292, examples: —¿Jageísan (l.23240), —¿Cásan (l.23440, 23443, 23452), —¿Cáteisan (l.23441)
+    —Word, count: 248, examples: —José, (l.23233), —Belén, (l.23243), —Jeíba, (l.23246), —Sarába, (l.23251, 23258)
+    —¡Word count: 87, examples: —¡Jarásan (l.23268), —¡Beíba (l.23288), —¡Jeíbati (l.23446), —¡Gudéme (l.23475), —¡Fugiábu (l.23549)
+    Word—Word count: 71, examples: uágu—ni (l.23337), lamúlen—lirájüñü (l.23488), Simón—ában (l.23490), sánduti—le (l.24041), Boanérges—míni (l.24374)
+    —¡Word! count: 17, examples: —¡Úfiaü! (l.23692), —¡Magíindadügüyabá! (l.23914), —¡Maésturu! (l.24430), —¡Maníba! (l.24431), —¡Efata! (l.24566)
+    —Word. count: 17, examples: —Jigábuti. (l.23695), —Afáyeijati. (l.23794), —Barabási. (l.24219), —Sédü. (l.24574), —Dúusu. (l.24588)
+    —¡Word, count: 16, examples: —¡Wabúreme, (l.23439, 23891, 23892), —¡Nabúreme, (l.23724, 23727)
+    Word—Word, count: 10, examples: gürígia—jíwerutiña, (l.25768), wügǘri—Adán, (l.28132), afíñetiña—juríu, (l.28715), wagía—Silváno, (l.28887), túmari—buídumeraütu, (l.29398)
+    Word— count: 9, examples: wagǘbürigu— (l.25017), jawágun— (l.25591), lan— (l.27913), weíyaasu— (l.28883), agáñidagüdübalün— (l.29365)
+    —¿Word? count: 3, example: —¿Cátabuti? (l.26134, 26135, 26475)
+    —“Word count: 1, example: —“Jínsiñelá (l.23978)
+    Word—, count: 1, example: gunfaráandalá—, (l.24041)
+    —Word-Word-Word count: 1, example: —Bián-wein-sísi (l.26184)
+    —¿Word, count: 1, example: —¿Jalíñounbadibusan, (l.26735)
+    Word—Word. count: 1, example: Úguchili—Búngiu. (l.30055)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 197, example: ‘Fuleíseiwatün (l.23307, 23308, 23309, 23310, 23311)
+    ‘Word, count: 15, examples: ‘Agúmujoúni, (l.23932), ‘Jugúyati, (l.24035), ‘Jugúya, (l.24793), ‘Fuleíseiwatün, (l.25236), ‘Jesúsu, (l.26220)
+    ‘¡Word count: 15, example: ‘¡Fugiábugu (l.24000, 24001, 24002, 24003, 24010)
+    ‘¿Word count: 13, examples: ‘¿Ca (l.23379), ‘¿Níjein (l.23394), ‘¿Malúgurúntiña (l.23515), ‘¿Cábasan (l.23544), ‘¿Ída (l.23587)
+    ‘Word’ count: 5, examples: ‘A’ (l.30773, 30776, 31128, 31162), ‘Z’ (l.30773)
+    ‘Word’. count: 3, example: ‘Z’. (l.30776, 31128, 31162)
+    ‘¡Word! count: 1, example: ‘¡Jéwegu! (l.24020)
+    ‘Word-Word count: 1, example: ‘Bián-wein (l.27215)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    ‘Word’ count: 5, examples: ‘A’ (l.30773, 30776, 31128, 31162), ‘Z’ (l.30773)
+    ‘Word’. count: 3, example: ‘Z’. (l.30776, 31128, 31162)
+    Word,’ count: 2, examples: siélubei,’ (l.23406), gürígia,’ (l.23512)

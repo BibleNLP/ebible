@@ -1,0 +1,172 @@
+OVERVIEW:
+File size: 41899 lines, 883486 characters
+Letter scripts: 2
+    BENGALI (437384 instances)
+    LATIN (3 instances): lŸ
+Number scripts: 1
+    BENGALI (1 instance): ১
+Other character groups: 7
+    BENGALI_MODIFIERS (295009 instances):  ং ঃ ় া ি ী ু ূ ৃ ৄ ে ৈ ো ৌ ্
+    SPACE (96079 instances)
+    ASCII_PUNCTUATION (12976 instances): !"(),-:;?[]|
+    DEVANAGARI_MODIFIERS (127 instances):  ा ि ी ु ू ृ े ै ौ ्
+    GENERAL_PUNCTUATION (6 instances): ‘’
+    DEVANAGARI_PUNCTUATION (1 instance): ॰
+    ZERO_WIDTH (1 instance)
+Non-canonical character combinations: 1
+Words with characters from multiple scripts: 1 category, 3 unique types, 3 instances
+
+DETAILS:
+Non-canonical character combinations: 1
+    Non-canonical: যৈ় (য + ৈ + ়, count: 1)  Canonical: য়ৈ (REORDERED, য + ় + ৈ, count: 0)
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (BENGALI, LATIN):
+    ঈশ্ৱরেণাদŸाং count: 1, line: 26904
+    দাস্যতিl count: 1, line: 23357
+    পততিl count: 1, line: 23410
+ZERO_WIDTH characters:
+    ‌ U+200C ZERO WIDTH NON-JOINER count: 1, line: 27407
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 2, lines: 24945, 24954
+    " U+0022 QUOTATION MARK count: 128, lines: 23282, 23285, 23288, 23908, 23973
+    ( U+0028 LEFT PARENTHESIS count: 18, lines: 23229, 23234, 23759, 24041, 24339
+    ) U+0029 RIGHT PARENTHESIS count: 18, lines: 23229, 23234, 23759, 24041, 24339
+    , U+002C COMMA count: 3900, lines: 23216, 23218, 23220, 23223, 23225
+    - U+002D HYPHEN-MINUS count: 37, lines: 23303, 23663, 23754, 23906, 24365
+    : U+003A COLON count: 9, lines: 23220, 23255, 23291, 23669, 23973
+    ; U+003B SEMICOLON count: 620, lines: 23229, 23230, 23254, 23265, 23276
+    ? U+003F QUESTION MARK count: 1022, lines: 23240, 23242, 23268, 23275, 23316
+    [ U+005B LEFT SQUARE BRACKET count: 1, line: 30977
+    ] U+005D RIGHT SQUARE BRACKET count: 1, line: 30977
+    | U+007C VERTICAL LINE count: 7220, lines: 23214, 23215, 23216, 23217, 23218
+GENERAL_PUNCTUATION characters:
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+SPACE characters:
+      U+0020 SPACE count: 96077, lines: 23214, 23215, 23216, 23217, 23218
+      U+00A0 NO-BREAK SPACE count: 2, lines: 23231, 23233
+BASIC_LATIN characters:
+    l U+006C LATIN SMALL LETTER L count: 2, examples: দাস্যতিl (l.23357), পততিl (l.23410)
+LATIN_EXTENDED_A characters:
+    Ÿ U+0178 LATIN CAPITAL LETTER Y WITH DIAERESIS count: 1, example: ঈশ্ৱরেণাদŸाং (l.26904)
+DEVANAGARI characters:
+     ा U+093E DEVANAGARI VOWEL SIGN AA count: 38, examples: অाগমাম (l.23240), র্ৱিরোধযিতুঞ্চাগতেाস্মি (l.23520), সেाপি (l.23523, 23524), যীশেाরন্তিকং (l.23695)
+     ि U+093F DEVANAGARI VOWEL SIGN I count: 3, examples: ক্ষুদ্রপ্রাএिনাম্ (l.23810), চর্তুिদশো (l.24362), র্পাिথৱপুরুষস্যাঙ্গানি (l.29589)
+     ी U+0940 DEVANAGARI VOWEL SIGN II count: 4, examples: উদ্যোগাी (l.27005), র্ভাीত্যা (l.29606), ত্রাीন্ (l.30262), সর্ৱ্ৱৱংশাीযাশ্চতুশ্চৎৱারিংশৎসহস্রাধিকলক্ষলোকা (l.30882)
+     ु U+0941 DEVANAGARI VOWEL SIGN U count: 15, examples: কুরিु (l.23353), পুुত্রেণ (l.23926), কর্ত্তাुম্ (l.24478), বৈথনিযাপুुরে (l.24826), স্ৱচক্ষুुষি (l.25256)
+     ू U+0942 DEVANAGARI VOWEL SIGN UU count: 1, example: সমূूহলোকা (l.31079)
+     ृ U+0943 DEVANAGARI VOWEL SIGN VOCALIC R count: 10, examples: ঋृতীযন্তে (l.23347), ঋृতীযিষ্যন্তে (l.23508), ঋृতীযাং (l.24036), দৃृষ্ট্ৱা (l.24448), যীশুृং (l.24896)
+     े U+0947 DEVANAGARI VOWEL SIGN E count: 44, examples: স্ৱস্ৱপিত্রোे (l.23507), স্ৱস্থানেे (l.24175), তথোेপাযং (l.24727), কুेক্কুটো (l.24891), যোेহন্ (l.24975)
+     ै U+0948 DEVANAGARI VOWEL SIGN AI count: 9, examples: এैচ্ছৎ (l.27078), পৌैলবর্ণব্বাৱক্ষোভৌ (l.27477), ভূমৌै (l.27779), পৌैेলোক্তৱাক্যতোপি (l.27934), এैক্যং (l.29342)
+     ौ U+094C DEVANAGARI VOWEL SIGN AU count: 1, example: শ্ষ্যিौ (l.23901)
+     ् U+094D DEVANAGARI SIGN VIRAMA count: 2, examples: তৃতীযেঽহি्ন (l.23792), কিঞি्চদাশ্চর্য্যকর্ম্ম (l.26012)
+    ॰ U+0970 DEVANAGARI ABBREVIATION SIGN count: 1, line: 26904
+BENGALI characters:
+     ং U+0982 BENGALI SIGN ANUSVARA count: 22128, examples: পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), জাযাযাং (l.23219), পূর্ৱ্ৱং (l.23224), যিখনিযং (l.23224), ভ্রাতৃংশ্চ (l.23224)
+     ঃ U+0983 BENGALI SIGN VISARGA count: 8326, examples: ইব্রাহীমঃ (l.23214, 23215), পেরসঃ (l.23216), পুত্রঃ (l.23217), যিশযঃ (l.23218)
+    অ U+0985 BENGALI LETTER A count: 4272, examples: অসোরঃ (l.23227), অর্থাদ্ (l.23229), অভিষিক্তং (l.23229), অনিচ্ছন্ (l.23232), অর্থাৎ (l.23234)
+    আ U+0986 BENGALI LETTER AA count: 1805, examples: আসা (l.23220), আহম্ (l.23222), আমোন্ (l.23223), আখীম্ (l.23227), আ (l.23230)
+    ই U+0987 BENGALI LETTER I count: 1444, examples: ইব্রাহীমঃ (l.23214, 23215), ইস্হাক্ (l.23215), ইলীযাকীম্ (l.23226), ইলীহূদ্ (l.23227)
+    ঈ U+0988 BENGALI LETTER II count: 1025, examples: ঈশ্ৱরঃ (l.23236), ঈশ্ৱরেণ (l.23250, 23253), ঈশ্ৱরাৎ (l.23260), ঈশ্ৱর (l.23270)
+    উ U+0989 BENGALI LETTER U count: 1116, examples: উষিযঃ (l.23221), উদ্ধরিষ্যতি (l.23234), উত্থায (l.23237), উদ্ৱিজ্য (l.23241), উদ্ভৱিষ্যতী (l.23244)
+    ঊ U+098A BENGALI LETTER UU count: 39, examples: ঊচুঃ (l.23735, 23736, 24085), ঊর্দ্ৱ্ৱে (l.24235), ঊর্দ্ৱ্ৱাদধো (l.24249)
+    ঋ U+098B BENGALI LETTER VOCALIC R count: 41, examples: ঋृতীযন্তে (l.23347), ঋृতীযিষ্যন্তে (l.23508, 25237), ঋृতীযাং (l.24036), ঋृতীযাকারিণশ্চৈৱ (l.25034)
+    এ U+098F BENGALI LETTER E count: 1790, examples: এতাদৃশীম্ (l.23247), এতদ্ৱচনং (l.23265), এতেভ্যঃ (l.23270), এষ (l.23278), এতস্মিন্নেৱ (l.23278)
+    ঐ U+0990 BENGALI LETTER AI count: 31, examples: ঐশ্ৱর্য্যৱানপি (l.23380), ঐচ্ছং (l.24024, 25621), ঐচ্ছৎ (l.24495, 25379)
+    ও U+0993 BENGALI LETTER O count: 6, examples: ওবেদ্ (l.23218, 25126), ওবেদঃ (l.25126), ওনীষিমনামানঞ্চ (l.29618), ওনীষিমম্ (l.30015)
+    ক U+0995 BENGALI LETTER KA count: 22132, examples: ইস্হাক্ (l.23215), যাকূব্ (l.23215), হিষ্কিযঃ (l.23222), প্রৱসনকালে (l.23225), ইলীযাকীম্ (l.23226)
+    খ U+0996 BENGALI LETTER KHA count: 1525, examples: যীশুখ্রীষ্টস্তস্য (l.23214), যিখনিযং (l.23224), যিখনিযঃ (l.23225), আখীম্ (l.23227), খ্রীষ্টম্ (l.23229)
+    গ U+0997 BENGALI LETTER GA count: 6012, examples: গর্ভে (l.23216, 23218, 23229), বাবিল্নগরে (l.23224), ৱাগ্দত্তাসীৎ (l.23231)
+    ঘ U+0998 BENGALI LETTER GHA count: 543, examples: ঘনসম্পত্তিং (l.23249), ঘাতযামাস (l.23254), প্রস্তরাঘাতস্ত্ৱাং (l.23284), ঘরিষ্যন্তি (l.23284), জলঘেস্তটে (l.23291)
+    ঙ U+0999 BENGALI LETTER NGA count: 547, examples: সঙ্গমাৎ (l.23231), কলঙ্গং (l.23232), সঙ্গীশ্ৱরইত্যর্থঃ (l.23235), শঙ্কিতৱান্ (l.23260), মহাঙ্গরোমজং (l.23265)
+    চ U+099A BENGALI LETTER CA count: 8746, examples: ভ্রাতরশ্চ (l.23215), ভ্রাতৃংশ্চ (l.23224), চতুর্দশপুরুষাঃ (l.23230), চতুর্দশপুরুষা (l.23230), অনিচ্ছন্ (l.23232)
+    ছ U+099B BENGALI LETTER CHA count: 1032, examples: অনিচ্ছন্ (l.23232), নোপাগচ্ছৎ (l.23238), পপ্রচ্ছ (l.23242), আগচ্ছ্তো (l.23268), আগচ্ছতি (l.23272)
+    জ U+099C BENGALI LETTER JA count: 5926, examples: জজ্ঞাতে (l.23216), জজ্ঞে (l.23218, 23219), রাজঃ (l.23219), জাযাযাং (l.23219)
+    ঝ U+099D BENGALI LETTER JHA count: 6, examples: ঝঞ্ভ্শনিল (l.23438), ঝঞ্ভ্শদ্য (l.23744), ঝটিতি (l.24314), মহাঝঞ্ভ্শগমাৎ (l.24429), প্রবলঝঞ্ভ্শগমাদ্ (l.25338)
+    ঞ U+099E BENGALI LETTER NYA count: 2349, examples: জজ্ঞাতে (l.23216), জজ্ঞে (l.23218, 23219), তদীযঞ্চ (l.23235), সংজ্ঞকে (l.23239)
+    ট U+099F BENGALI LETTER TTA count: 2274, examples: যীশুখ্রীষ্টস্তস্য (l.23214), যিহোশাফট্ (l.23221), খ্রীষ্টম্ (l.23229), খ্রীষ্টস্য (l.23230), যীশুখ্রীষ্টস্য (l.23231)
+    ঠ U+09A0 BENGALI LETTER TTHA count: 738, examples: তিষ্ঠন্তস্তদীযাং (l.23240), কুঠার (l.23271), অনাহারস্তিষ্ঠন্ (l.23280), ধর্ম্মানুষ্ঠানাৎ (l.23323), ধর্ম্মানুষ্ঠানে (l.23323)
+    ড U+09A1 BENGALI LETTER DDA count: 469, examples: দণ্ডৱদ্ (l.23249, 23287), ভাণ্ডাগারে (l.23273), চূডোপরি (l.23283), সর্ৱ্ৱপ্রকারপীডাশ্চ (l.23301)
+    ঢ U+09A2 BENGALI LETTER DDHA count: 140, examples: ৱোঢুমপি (l.23272), মূঢ (l.23325), নাৱমারূঢে (l.23437), দৃঢমাজ্ঞাপ্য (l.23478), নিগূঢাং (l.23619)
+    ণ U+09A3 BENGALI LETTER NNA count: 4817, examples: পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), হিষ্রোণ্ (l.23216), পৱিত্রেণাত্মনা (l.23231), নিদেশানুসারেণ (l.23237), প্রণন্তুম্ (l.23240)
+    ত U+09A4 BENGALI LETTER TA count: 51978, examples: সন্তানো (l.23214), তস্য (l.23214, 23215), যীশুখ্রীষ্টস্তস্য (l.23214), পুত্র (l.23215)
+    থ U+09A5 BENGALI LETTER THA count: 7213, examples: যোথম্ (l.23222), অর্থাদ্ (l.23229), ইত্থম্ (l.23230), কথ্থতে (l.23231), তথৈৱ (l.23233)
+    দ U+09A6 BENGALI LETTER DA count: 17860, examples: দাযূদ্ (l.23214), যিহূদাস্তস্য (l.23215), তস্মাদ্ (l.23216), যিহূদাতস্তামরো (l.23216), ঽম্মীনাদব্ (l.23217)
+    ধ U+09A7 BENGALI LETTER DHA count: 4860, examples: উদ্ধরিষ্যতি (l.23234), নামধেযং (l.23235), সিদ্ধমভৱৎ (l.23236), সার্দ্ধম্ (l.23241), প্রধানযাজকান্ (l.23242)
+    ন U+09A8 BENGALI LETTER NA count: 36215, examples: সন্তানো (l.23214), ঽম্মীনাদব্ (l.23217), নহশোন্ (l.23217), সল্মোন্ (l.23217), সুলেমান্ (l.23219)
+    প U+09AA BENGALI LETTER PA count: 21579, examples: পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), পুত্র (l.23215), পুত্রো (l.23215), পেরস্সেরহৌ (l.23216), পেরসঃ (l.23216)
+    ফ U+09AB BENGALI LETTER PHA count: 695, examples: যিহোশাফট্ (l.23221), যূষফ্ (l.23229, 23233), যূষফে (l.23231), র্যূষফ্ (l.23232)
+    ব U+09AC BENGALI LETTER BA count: 2516, examples: ইব্রাহীমঃ (l.23214, 23215), যাকূব্ (l.23215), ঽম্মীনাদব্ (l.23217), রাহবো (l.23218)
+    ভ U+09AD BENGALI LETTER BHA count: 8009, examples: ভ্রাতরশ্চ (l.23215), গর্ভে (l.23216, 23218, 23229), ভ্রাতৃংশ্চ (l.23224)
+    ম U+09AE BENGALI LETTER MA count: 28111, examples: ইব্রাহীমঃ (l.23214, 23215), তস্মাদ্ (l.23216), যিহূদাতস্তামরো (l.23216), ঽরাম্ (l.23216)
+    য U+09AF BENGALI LETTER YA count: 42064, examples: দাযূদ্ (l.23214), তস্য (l.23214, 23215), যীশুখ্রীষ্টস্তস্য (l.23214), যাকূব্ (l.23215)
+    র U+09B0 BENGALI LETTER RA count: 37796, examples: ইব্রাহীমঃ (l.23214, 23215), যীশুখ্রীষ্টস্তস্য (l.23214), পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), পুত্র (l.23215)
+    ল U+09B2 BENGALI LETTER LA count: 6428, examples: সল্মোন্ (l.23217), সুলেমান্ (l.23219), বাবিল্নগরে (l.23224), বাবিলি (l.23225), প্রৱসনকালে (l.23225)
+    শ U+09B6 BENGALI LETTER SHA count: 13061, examples: যীশুখ্রীষ্টস্তস্য (l.23214), পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), ভ্রাতরশ্চ (l.23215), নহশোন্ (l.23217), যিশযঃ (l.23218)
+    ষ U+09B7 BENGALI LETTER SSA count: 12338, examples: যীশুখ্রীষ্টস্তস্য (l.23214), পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), হিষ্রোণ্ (l.23216), উষিযঃ (l.23221), হিষ্কিযঃ (l.23222)
+    স U+09B8 BENGALI LETTER SA count: 28412, examples: সন্তানো (l.23214), তস্য (l.23214, 23215), যীশুখ্রীষ্টস্তস্য (l.23214), ইস্হাক্ (l.23215)
+    হ U+09B9 BENGALI LETTER HA count: 8001, examples: ইব্রাহীমঃ (l.23214, 23215), ইস্হাক্ (l.23215), যিহূদাস্তস্য (l.23215), যিহূদাতস্তামরো (l.23216)
+     ় U+09BC BENGALI SIGN NUKTA count: 1, example: প্রত্যৈ়ক্ষামহি (l.29005)
+    ঽ U+09BD BENGALI SIGN AVAGRAHA count: 1475, examples: ঽরাম্ (l.23216), ঽম্মীনাদব্ (l.23217), পুত্রোঽবিযঃ (l.23220), ঽবোহুদ্ (l.23226), সুতোঽসোর্ (l.23226)
+     া U+09BE BENGALI VOWEL SIGN AA count: 59742, examples: ইব্রাহীমঃ (l.23214, 23215), সন্তানো (l.23214), দাযূদ্ (l.23214), ইস্হাক্ (l.23215)
+     ি U+09BF BENGALI VOWEL SIGN I count: 38940, examples: যিহূদাস্তস্য (l.23215), যিহূদাতস্তামরো (l.23216), হিষ্রোণ্ (l.23216), যিশযঃ (l.23218), মৃতোরিযস্য (l.23219)
+     ী U+09C0 BENGALI VOWEL SIGN II count: 9142, examples: ইব্রাহীমঃ (l.23214, 23215), যীশুখ্রীষ্টস্তস্য (l.23214), পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), ঽম্মীনাদব্ (l.23217)
+     ু U+09C1 BENGALI VOWEL SIGN U count: 15677, examples: যীশুখ্রীষ্টস্তস্য (l.23214), পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), পুত্র (l.23215), পুত্রো (l.23215, 23216)
+     ূ U+09C2 BENGALI VOWEL SIGN UU count: 4681, examples: দাযূদ্ (l.23214), পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), যাকূব্ (l.23215), যিহূদাস্তস্য (l.23215), যিহূদাতস্তামরো (l.23216)
+     ৃ U+09C3 BENGALI VOWEL SIGN VOCALIC R count: 4171, examples: মৃতোরিযস্য (l.23219), ভ্রাতৃংশ্চ (l.23224), নীৱৃতঃ (l.23244), তাদৃগেকো (l.23244), দৃষ্টাভৱৎ (l.23245)
+     ৄ U+09C4 BENGALI VOWEL SIGN VOCALIC RR count: 1, example: জ্যোতিরৄতীযিৎৱা (l.26209)
+     ে U+09C7 BENGALI VOWEL SIGN E count: 19390, examples: পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), গর্ভে (l.23216), পেরস্সেরহৌ (l.23216), জজ্ঞাতে (l.23216), পেরসঃ (l.23216)
+     ৈ U+09C8 BENGALI VOWEL SIGN AI count: 2094, examples: তথৈৱ (l.23233), ভৈষীঃ (l.23233), বৈৎলেহমি (l.23239), যিরূশালম্নগরস্থিতৈঃ (l.23241), সর্ৱ্ৱমানৱৈঃ (l.23241)
+     ো U+09CB BENGALI VOWEL SIGN O count: 12179, examples: সন্তানো (l.23214), পুত্রো (l.23215, 23216), যিহূদাতস্তামরো (l.23216), হিষ্রোণ্ (l.23216)
+     ৌ U+09CC BENGALI VOWEL SIGN AU count: 1254, examples: পেরস্সেরহৌ (l.23216), সৌজন্যাৎ (l.23232), যীশৌ (l.23239), তস্যৌ (l.23247), কটৌ (l.23265)
+     ্ U+09CD BENGALI SIGN VIRAMA count: 97283, examples: ইব্রাহীমঃ (l.23214), সন্তানো (l.23214), দাযূদ্ (l.23214), তস্য (l.23214), যীশুখ্রীষ্টস্তস্য (l.23214)
+    ৎ U+09CE BENGALI LETTER KHANDA TA count: 7932, examples: প্রৱসনাৎ (l.23224), যাৱৎ (l.23230), প্রৱাসনকালাৎ (l.23230), ৱাগ্দত্তাসীৎ (l.23231), সঙ্গমাৎ (l.23231)
+    ১ U+09E7 BENGALI DIGIT ONE count: 1, line: 26904
+    ৱ U+09F1 BENGALI LETTER RA WITH LOWER DIAGONAL count: 32016, examples: পূর্ৱ্ৱপুরুষৱংশশ্রেণী (l.23214), প্রৱসনাৎ (l.23224), পূর্ৱ্ৱং (l.23224), প্রৱসনকালে (l.23225), সিরুব্বাৱিল্ (l.23225)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 2, examples: গদন্তি! (l.24945), দদৌ! (l.24954)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 3871, examples: জজ্ঞাতে, (l.23216), জজ্ঞে, (l.23218), রিহবিযাম্, (l.23220), পুত্রোঽবিযঃ, (l.23220), মিনশিঃ, (l.23223)
+    Word,Word count: 11, examples: মান্যতে,তর্হি (l.23813), মিত্র,ৎৱং (l.23953), মনুজঃ,সএৱ (l.24171), প্রত্যুৱাচ,অরোগিলোকানাং (l.24346), পাস্যামি,তাৱদহং (l.24848)
+    , count: 6, lines: 23245, 23822, 24619, 24620, 26324
+    Word," count: 6, examples: পাপান্যমোচযিষ্যন্ত," (l.24404), প্রীযধ্ৱং," (l.24772), কুরুধ্ৱং," (l.24773), ভৱিষ্যতি," (l.24923), সমর্প্যতাং," (l.25065)
+    Word", count: 3, examples: ৱিখ্যাস্যতি", (l.23908), শিৱক্তনী", (l.24244), ভৱিষ্যন্তি", (l.27090)
+    Word:, count: 1, example: ঈশ্ৱর:, (l.23973)
+    Word,| count: 1, example: জগাদ,| (l.24570)
+    Word,’ count: 1, example: বভূৱ,’ (l.28828)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 9, examples: কৈসরিযা-ফিলিপিপ্রদেশমাগত্য (l.23754), যিহূদিমতগ্রাহী-আন্তিযখিযানগরীযো (l.27175), কুরীণীযসিকন্দরীয-কিলিকীযাশীযাদেশীযাঃ (l.27179), অরাম্-নহরযিমদেশে (l.27187), মিসর-কিনানদেশযো (l.27196)
+    Word-Word-Word-Word count: 4, examples: গালীল্-দিকাপনি-যিরূশালম্-যিহূদীযদেশেভ্যো (l.23303), যাকুব্-যূষফ্-শিমোন্-যিহূদাশ্চ (l.23663), গালীল্যিহূদা-যিরূশালম্-ইদোম্-যর্দন্নদীপারস্থানেভ্যো (l.24365), যাকূব্-যোসি-যিহুদা-শিমোনাং (l.24479)
+    Word-Word-Word count: 4, examples: গালীল্প্রদেশীয-নাসরতীয-ভৱিষ্যদ্ৱাদী (l.23906), পার্থী-মাদী-অরাম্নহরযিম্দেশনিৱাসিমনো (l.27027), ফ্রুগিযা-পম্ফুলিযা-মিসরনিৱাসিনঃ (l.27028), আন্তিযখিযা-সুরিযা-কিলিকিযাদেশস্থভিন্নদেশীযভ্রাতৃগণায (l.27534)
+    Word-Word-Word-Word- count: 1, example: যিহূদা-কপ্পদকিযা-পন্ত-আশিযা- (l.27027)
+    Word-Word-Word-Word-Word count: 1, example: পন্ত-গালাতিযা-কপ্পদকিযা-আশিযা-বিথুনিযাদেশেষু (l.30442)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 7, examples: নিনাদ: (l.23255), য: (l.23291), নিজভ্রাতু: (l.23669), লোকা: (l.24620), পিত: (l.26677)
+    Word:| count: 1, example: আসা:| (l.23220)
+    Word:, count: 1, example: ঈশ্ৱর:, (l.23973)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 614, examples: মরিযম্; (l.23229), চতুর্দশপুরুষাঃ; (l.23230), চুকোপ; (l.23254), চর্ম্মকটিবন্ধনং; (l.23265), প্রত্যৱোচৎ; (l.23276)
+    ; count: 4, lines: 26248, 26299, 26310, 26659
+    Word;Word count: 1, example: দ্রক্ষ্যথ;অহং (l.26756)
+    Word;" count: 1, example: সমাগমং;" (l.30209)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 1015, examples: কুত্রাস্তে? (l.23240), জনিষ্যতে? (l.23242), কশ্চেতিতৱান্? (l.23268), আগচ্ছসি? (l.23275), ভৱিষ্যতি? (l.23316)
+    ? count: 6, lines: 23719, 23984, 24361, 26254, 26904
+    Word?" count: 1, example: মাং?" (l.24929)
+TOKENS WITH | (U+007C VERTICAL LINE):
+    Word| count: 7066, examples: পূর্ৱ্ৱপুরুষৱংশশ্রেণী| (l.23214), ভ্রাতরশ্চ| (l.23215), ঽরাম্| (l.23216), সল্মোন্| (l.23217), যিশযঃ| (l.23218)
+    Word|| count: 74, examples: ভৱিষ্যতি|| (l.23235), উদ্ভৱিষ্যতী|| (l.23244), হি|| (l.23255), রৱঃ|| (l.23264), করৈঃ|| (l.23284)
+    Word:| count: 1, example: আসা:| (l.23220)
+    Word"|| count: 1, example: ভৱিষ্যতি"|| (l.24154)
+    Word,| count: 1, example: জগাদ,| (l.24570)
+    Word"| count: 1, example: জীৱিষ্যতি"| (l.28015)
+    | count: 1, line: 31139
+TOKENS WITH ‌ (U+200C ZERO WIDTH NON-JOINER):
+    Word<U+200C>Word count: 1, example: হেরোদ্‌রাজো (l.27407)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 2, examples: ‘তস্য (l.27620), ‘আদিপুরুষ (l.28828)
+    ‘Word’ count: 1, example: ‘অৱিজ্ঞাতেশ্ৱরায’ (l.27615)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    ‘Word’ count: 1, example: ‘অৱিজ্ঞাতেশ্ৱরায’ (l.27615)
+    Word’ count: 1, example: হি’ (l.27620)
+    Word,’ count: 1, example: বভূৱ,’ (l.28828)

@@ -1,0 +1,123 @@
+OVERVIEW:
+File size: 41899 lines, 3970739 characters
+Letter scripts: 1
+    ARABIC (1866782 instances)
+Number scripts: 0
+Other character groups: 5
+    ARABIC_MODIFIERS (1564517 instances):  ً ٌ ٍ َ ُ ِ ّ ْ
+    SPACE (402945 instances)
+    ASCII_PUNCTUATION (46507 instances): !()-.:
+    ARABIC_PUNCTUATION (35737 instances): ،؟
+    GENERAL_PUNCTUATION (12352 instances): «»
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 1301, lines: 60, 89, 231, 318, 387
+    ( U+0028 LEFT PARENTHESIS count: 1, line: 6135
+    ) U+0029 RIGHT PARENTHESIS count: 1, line: 6135
+    - U+002D HYPHEN-MINUS count: 88, lines: 16161, 21611, 24041, 24800, 28109
+    . U+002E FULL STOP count: 36311, lines: 1, 2, 3, 4, 5
+    : U+003A COLON count: 8805, lines: 3, 6, 9, 11, 14
+GENERAL_PUNCTUATION characters:
+    « U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK count: 6583, lines: 3, 6, 9, 11, 14
+    » U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK count: 5769, lines: 3, 6, 9, 11, 15
+SPACE characters:
+      U+0020 SPACE count: 402945, lines: 1, 2, 3, 4, 5
+ARABIC characters:
+    ، U+060C ARABIC COMMA count: 32626, lines: 2, 3, 5, 7, 9
+    ؟ U+061F ARABIC QUESTION MARK count: 3111, lines: 57, 65, 67, 69, 86
+‎    ء U+0621 ARABIC LETTER HAMZA count: 6795, examples: ٱلْبَدْءِ (l.1), مَسَاءٌ (l.5, 8), سَمَاءً (l.8), ٱلسَّمَاءِ (l.9)
+‎    آ U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE count: 4526, examples: لِآيَاتٍ (l.14), آدَمَ (l.38, 39, 46), آدَمُ (l.38)
+‎    أ U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE count: 61523, examples: وَٱلْأَرْضَ (l.1), ٱلْأَرْضُ (l.2), وَرَأَى (l.4), أَنَّهُ (l.4), أَرْضًا (l.10)
+‎    ؤ U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE count: 1973, examples: رُؤُوسٍ (l.41), هَؤُلَاءِ (l.142, 225), يُؤْكَلُ (l.159), رُؤُوسُ (l.189)
+‎    إ U+0625 ARABIC LETTER ALEF WITH HAMZA BELOW count: 21617, examples: إِلَى (l.9), وَٱمْلَإِي (l.22), ٱلْإِنْسَانَ (l.26, 27), إِنِّي (l.29)
+‎    ئ U+0626 ARABIC LETTER YEH WITH HAMZA ABOVE count: 10733, examples: طَائِرٍ (l.21), قَائِلًا (l.22), بَهَائِمَ (l.24), وَٱلْبَهَائِمَ (l.25), ٱلْبَهَائِمِ (l.26)
+‎    ا U+0627 ARABIC LETTER ALEF count: 152316, examples: ٱلسَّمَاوَاتِ (l.1), وَكَانَتِ (l.2), وَخَالِيَةً (l.2), ٱلْمِيَاهِ (l.2), وَقَالَ (l.3)
+‎    ب U+0628 ARABIC LETTER BEH count: 79717, examples: ٱلْبَدْءِ (l.1), خَرِبَةً (l.2), بَيْنَ (l.4, 6), صَبَاحٌ (l.5)
+‎    ة U+0629 ARABIC LETTER TEH MARBUTA count: 25725, examples: خَرِبَةً (l.2), وَخَالِيَةً (l.2), ظُلْمَةٌ (l.2), وَٱلظُّلْمَةِ (l.4), وَٱلظُّلْمَةُ (l.5)
+‎    ت U+062A ARABIC LETTER TEH count: 61802, examples: ٱلسَّمَاوَاتِ (l.1), وَكَانَتِ (l.2), ٱلَّتِي (l.7), تَحْتَ (l.7), لِتَجْتَمِعِ (l.9)
+‎    ث U+062B ARABIC LETTER THEH count: 10174, examples: ثَانِيًا (l.8), ثَمَرٍ (l.11), ثَمَرًا (l.11, 12), ثَالِثًا (l.13)
+‎    ج U+062C ARABIC LETTER JEEM count: 26310, examples: وَجْهِ (l.2), جَلَدٌ (l.6), ٱلْجَلَدَ (l.7, 8), ٱلْجَلَدِ (l.7)
+‎    ح U+062D ARABIC LETTER HAH count: 29664, examples: وَرُوحُ (l.2), حَسَنٌ (l.4), صَبَاحٌ (l.5), وَاحِدًا (l.5), تَحْتَ (l.7)
+‎    خ U+062E ARABIC LETTER KHAH count: 17573, examples: خَلَقَ (l.1), خَرِبَةً (l.2), وَخَالِيَةً (l.2), فَأَخْرَجَتِ (l.12), فَخَلَقَ (l.21)
+‎    د U+062F ARABIC LETTER DAL count: 44085, examples: ٱلْبَدْءِ (l.1), وَدَعَا (l.5), دَعَاهَا (l.5), وَاحِدًا (l.5), جَلَدٌ (l.6)
+‎    ذ U+0630 ARABIC LETTER THAL count: 22562, examples: كَذَلِكَ (l.7, 9, 11), ذَلِكَ (l.10), ذَا (l.11)
+‎    ر U+0631 ARABIC LETTER REH count: 82842, examples: وَٱلْأَرْضَ (l.1), ٱلْأَرْضُ (l.2), خَرِبَةً (l.2), ٱلْغَمْرِ (l.2), وَرُوحُ (l.2)
+‎    ز U+0632 ARABIC LETTER ZAIN count: 7411, examples: يُبْزِرُ (l.11, 12), بِزْرًا (l.11, 12), بِزْرُهُ (l.11)
+‎    س U+0633 ARABIC LETTER SEEN count: 46304, examples: ٱلسَّمَاوَاتِ (l.1), حَسَنٌ (l.4), مَسَاءٌ (l.5), وَسَطِ (l.6), سَمَاءً (l.8)
+‎    ش U+0634 ARABIC LETTER SHEEN count: 18126, examples: عُشْبًا (l.11, 12), وَشَجَرًا (l.11, 12), وَوُحُوشَ (l.24)
+‎    ص U+0635 ARABIC LETTER SAD count: 13943, examples: وَفَصَلَ (l.4, 7), صَبَاحٌ (l.5, 8), فَاصِلًا (l.6)
+‎    ض U+0636 ARABIC LETTER DAD count: 12227, examples: وَٱلْأَرْضَ (l.1), ٱلْأَرْضُ (l.2, 11), أَرْضًا (l.10), ٱلْأَرْضِ (l.11)
+‎    ط U+0637 ARABIC LETTER TAH count: 13134, examples: وَسَطِ (l.6), وَلْيَطِرْ (l.20), طَيْرٌ (l.20), طَائِرٍ (l.21), ٱلطَّيْرُ (l.22)
+‎    ظ U+0638 ARABIC LETTER ZAH count: 3821, examples: ظُلْمَةٌ (l.2), وَٱلظُّلْمَةِ (l.4), وَٱلظُّلْمَةُ (l.5), وَلْتَظْهَرِ (l.9), ٱلْعَظِيمَيْنِ (l.16)
+‎    ع U+0639 ARABIC LETTER AIN count: 62081, examples: وَعَلَى (l.2), عَلَى (l.2), وَدَعَا (l.5), دَعَاهَا (l.5), فَعَمِلَ (l.7)
+‎    غ U+063A ARABIC LETTER GHAIN count: 5334, examples: ٱلْغَمْرِ (l.2), ٱلْأَصْغَرَ (l.16), وَفَرَغَ (l.33), وَغَرَسَ (l.39), غَرَّتْنِي (l.69)
+‎    ف U+0641 ARABIC LETTER FEH count: 49151, examples: فِي (l.1, 6), يَرِفُّ (l.2), فَكَانَ (l.3), وَفَصَلَ (l.4)
+‎    ق U+0642 ARABIC LETTER QAF count: 37686, examples: خَلَقَ (l.1), وَقَالَ (l.3, 6, 9), فَوْقَ (l.7)
+‎    ك U+0643 ARABIC LETTER KAF count: 59979, examples: وَكَانَتِ (l.2), لِيَكُنْ (l.3, 6), فَكَانَ (l.3), وَكَانَ (l.5)
+‎    ل U+0644 ARABIC LETTER LAM count: 205924, examples: ٱلْبَدْءِ (l.1), خَلَقَ (l.1), ٱللهُ (l.1), ٱلسَّمَاوَاتِ (l.1), وَٱلْأَرْضَ (l.1)
+‎    م U+0645 ARABIC LETTER MEEM count: 121631, examples: ٱلسَّمَاوَاتِ (l.1), ٱلْغَمْرِ (l.2), ظُلْمَةٌ (l.2), ٱلْمِيَاهِ (l.2), وَٱلظُّلْمَةِ (l.4)
+‎    ن U+0646 ARABIC LETTER NOON count: 114439, examples: وَكَانَتِ (l.2), لِيَكُنْ (l.3), نُورٌ (l.3), فَكَانَ (l.3), ٱلنُّورَ (l.4)
+‎    ه U+0647 ARABIC LETTER HEH count: 70159, examples: ٱللهُ (l.1, 3), وَجْهِ (l.2), ٱللهِ (l.2), ٱلْمِيَاهِ (l.2)
+‎    و U+0648 ARABIC LETTER WAW count: 126381, examples: ٱلسَّمَاوَاتِ (l.1), وَٱلْأَرْضَ (l.1), وَكَانَتِ (l.2), وَخَالِيَةً (l.2), وَعَلَى (l.2)
+‎    ى U+0649 ARABIC LETTER ALEF MAKSURA count: 17437, examples: وَعَلَى (l.2), عَلَى (l.2), وَرَأَى (l.4, 10), إِلَى (l.9)
+‎    ي U+064A ARABIC LETTER YEH count: 142340, examples: فِي (l.1), وَخَالِيَةً (l.2), يَرِفُّ (l.2), ٱلْمِيَاهِ (l.2), لِيَكُنْ (l.3)
+‎     ً U+064B ARABIC FATHATAN count: 18311, examples: خَرِبَةً (l.2), وَخَالِيَةً (l.2), نَهَارًا (l.5), لَيْلًا (l.5), يَوْمًا (l.5)
+‎     ٌ U+064C ARABIC DAMMATAN count: 9763, examples: ظُلْمَةٌ (l.2), نُورٌ (l.3), حَسَنٌ (l.4), مَسَاءٌ (l.5), صَبَاحٌ (l.5)
+‎     ٍ U+064D ARABIC KASRATAN count: 13598, examples: مِيَاهٍ (l.6), وَمِيَاهٍ (l.6), مَكَانٍ (l.9), وَاحِدٍ (l.9), ثَمَرٍ (l.11)
+‎     َ U+064E ARABIC FATHA count: 709293, examples: ٱلْبَدْءِ (l.1), خَلَقَ (l.1), ٱلسَّمَاوَاتِ (l.1), وَٱلْأَرْضَ (l.1), وَكَانَتِ (l.2)
+‎     ُ U+064F ARABIC DAMMA count: 198632, examples: ٱللهُ (l.1), ٱلْأَرْضُ (l.2), ظُلْمَةٌ (l.2), وَرُوحُ (l.2), يَرِفُّ (l.2)
+‎     ِ U+0650 ARABIC KASRA count: 295103, examples: فِي (l.1), ٱلْبَدْءِ (l.1), ٱلسَّمَاوَاتِ (l.1), وَكَانَتِ (l.2), خَرِبَةً (l.2)
+‎     ّ U+0651 ARABIC SHADDA count: 94367, examples: ٱلسَّمَاوَاتِ (l.1), يَرِفُّ (l.2), ٱلنُّورَ (l.4), أَنَّهُ (l.4), ٱلنُّورِ (l.4)
+‎     ْ U+0652 ARABIC SUKUN count: 225450, examples: ٱلْبَدْءِ (l.1), وَٱلْأَرْضَ (l.1), ٱلْأَرْضُ (l.2), وَجْهِ (l.2), ٱلْغَمْرِ (l.2)
+‎    ٱ U+0671 ARABIC LETTER ALEF WASLA count: 79337, examples: ٱلْبَدْءِ (l.1), ٱللهُ (l.1), ٱلسَّمَاوَاتِ (l.1), وَٱلْأَرْضَ (l.1), ٱلْأَرْضُ (l.2)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+‎    Word! count: 861, examples: تَمُوتَا! (l.60), أَعْلَمُ! (l.89), كَنْعَانُ! (l.231), ٱمْرَأَتُكَ! (l.318), عَلَيْكَ! (l.387)
+‎    Word!». count: 323, examples: وَٱذْهَبْ!». (l.318), أَمَامَكَ!». (l.416), شَيْخُوخَتِهِ!». (l.521), إِبْرَاهِيمُ!». (l.549), أَبِي!». (l.555)
+‎    «Word! count: 67, examples: «لَا! (l.440), «إِبْرَاهِيمُ! (l.559), «ٱنْظُرْ! (l.755), «ٱنْظُرُوا! (l.1164), «كَلَّا! (l.1265)
+‎    Word!» count: 25, examples: حُبْلَى!» (l.1145), ٱرْدَعْهُمَا!» (l.4053), ٱلْمَلِكُ!» (l.8445), فَيَتَنَبَّهَ!» (l.9371), أَخَزْيَا!» (l.9783)
+‎    «Word!». count: 12, examples: «رُدَّ!». (l.18572), «بَارَابَاسَ!». (l.24219), «لِيُصْلَبْ!». (l.24220, 24221), «ٱصْلِبْهُ!». (l.24908)
+‎    Word؟! count: 4, examples: إِسْرَائِيلُ؟! (l.22317), كَصَبُويِيمَ؟! (l.22317), لِلْأَوْثَانِ؟! (l.28605), شَيْءٌ؟! (l.28654)
+‎    «Word»! count: 3, examples: «سَلَامٌ»! (l.22682), «أَنَاثِيمَا»! (l.29132, 29133)
+‎    Word!Word count: 1, example: هَهْ!قَدْ (l.14451)
+‎    Word؟!». count: 1, example: ٱلْحَقُّ؟!». (l.26892)
+‎    «Word!» count: 1, example: «رَبُّونِي!» (l.26952)
+‎    Word!. count: 1, example: ٱلْخَلَاصَ!. (l.30044)
+‎    «Word!Word!». count: 1, example: «آمِينَ!هَلِّلُويَا!». (l.31090)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    - count: 46, lines: 16161, 24041, 28109, 28160, 28204
+‎    Word- count: 25, examples: لِإِسْرَائِيلَ- (l.16161), مُغَطَّاةٌ- (l.21611), ٱلْقَارِئُ- (l.24800), كَنْخَرِيَا- (l.28431), رُحِمْنَا- (l.28928)
+‎    -Word count: 15, examples: -وَالْكُوَى (l.21611), -كُتِبَتْ (l.28431), -كَمَا (l.28928), -مُسْتَوْطِنِينَ (l.28954), -إِذَا (l.29054)
+‎    Word-Word count: 2, examples: يَنْبَغِي-لِيَفْهَمِ (l.24800), ٱلْأَمِينِ-كَمَا (l.30544)
+TOKENS WITH . (U+002E FULL STOP):
+‎    Word. count: 31156, examples: وَٱلْأَرْضَ. (l.1), ٱلْمِيَاهِ. (l.2), نُورٌ. (l.3), حَسَنٌ. (l.4), وَٱلظُّلْمَةِ. (l.4)
+‎    Word». count: 4120, examples: وَمِيَاهٍ». (l.6), ٱلْيَابِسَةُ». (l.9), ٱلْأَرْضِ». (l.11, 15), ٱلسَّمَاءِ». (l.20)
+‎    Word؟». count: 491, examples: أَنْتَ؟». (l.65), تَذْهَبِينَ؟». (l.390), رُؤْيَةٍ؟». (l.395), سَنَةً؟». (l.415), شَاخَ؟». (l.437)
+‎    Word!». count: 323, examples: وَٱذْهَبْ!». (l.318), أَمَامَكَ!». (l.416), شَيْخُوخَتِهِ!». (l.521), إِبْرَاهِيمُ!». (l.549), أَبِي!». (l.555)
+‎    «Word». count: 139, examples: «إِسْمَاعِيلَ». (l.397), «صُوغَرَ». (l.480), «إِسْحَاقَ». (l.517), «هَأَنَذَا». (l.549, 559)
+‎    «Word. count: 51, examples: «هَأَنَذَا. (l.746), «لَا. (l.971), «أَحْيَيْتَنَا. (l.1446), «كَقَوْلِكَ. (l.1721), «اُنْظُرْ. (l.2423)
+‎    «Word!». count: 12, examples: «رُدَّ!». (l.18572), «بَارَابَاسَ!». (l.24219), «لِيُصْلَبْ!». (l.24220, 24221), «ٱصْلِبْهُ!». (l.24908)
+‎    Word؟. count: 3, examples: لِنَتَشَابَهَ؟. (l.18661), ٱلْأَبَدِ؟. (l.19430), زَوَانٌ؟. (l.23635)
+‎    Word».«Word count: 2, examples: وَنَعَمْ».«هَاتِ (l.9812), يُعْمَلُ».«فَٱلْآنَ (l.12415)
+‎    Word.؟ count: 2, examples: وَإِسْرَائِيلَ.؟ (l.11735), ٱلْفَهْمِ.؟ (l.18504)
+‎    Word،. count: 1, example: أَرَامَ،. (l.781)
+‎    Word.» count: 1, example: لِوَجْهٍ.» (l.6678)
+‎    Word».». count: 1, example: ٱلْهَاوِيَةِ».». (l.8782)
+‎    «Word؟». count: 1, example: «أَسَلَامٌ؟». (l.9672)
+‎    Word،Word. count: 1, example: ٱلْيَهُودِيَّيْنِ،أَحَدٌ. (l.19879)
+‎    Word.«Word count: 1, example: هَذَا.«فَهُوَ (l.22539)
+‎    Word.Word count: 1, example: بِعُبُوسَةٍ.يَا (l.23744)
+‎    Word؟!». count: 1, example: ٱلْحَقُّ؟!». (l.26892)
+‎    Word؟».Word count: 1, example: سَيِّدُ؟».فَقَالَ (l.27332)
+‎    Word!. count: 1, example: ٱلْخَلَاصَ!. (l.30044)
+‎    «Word!Word!». count: 1, example: «آمِينَ!هَلِّلُويَا!». (l.31090)
+TOKENS WITH : (U+003A COLON):
+‎    Word: count: 8786, example: ٱللهُ: (l.3, 6, 9, 11, 14)
+‎    «Word: count: 15, examples: «قُولُوا: (l.9422), «ٱطْلُبْ: (l.9564), «قُلْتَ: (l.14310), «قَائِلًا: (l.19072), «قُلْ: (l.20729)
+‎    «Word»: count: 2, examples: «كَفَا»: (l.17336), «رُسُلًا»: (l.25228)
+‎    ModifierWord: count: 1, example: َقَائِلًا: (l.3660)
+‎    Word»: count: 1, example: ٱلرَّبِّ»: (l.4355)
+TOKENS WITH ORPHAN MODIFIER:
+‎    ModifierWord: count: 1, example: َقَائِلًا: (l.3660)

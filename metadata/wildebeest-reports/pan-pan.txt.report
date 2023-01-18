@@ -1,0 +1,164 @@
+OVERVIEW:
+File size: 41899 lines, 3828154 characters
+Letter scripts: 2
+    GURMUKHI (1734587 instances)
+    LATIN (143 instances): l
+Number scripts: 1
+    ASCII_DIGIT (10 instances): 012468
+Other character groups: 5
+    GURMUKHI_MODIFIERS (1208534 instances):  ਂ ਼ ਾ ਿ ੀ ੁ ੂ ੇ ੈ ੋ ੌ ੍ ੰ ੱ
+    SPACE (764590 instances)
+    ASCII_PUNCTUATION (47992 instances): !(),-:;?
+    DEVANAGARI_PUNCTUATION (27360 instances): ।॥
+    GENERAL_PUNCTUATION (3039 instances): ‘’“”
+Words with characters from multiple scripts: 1 category, 3 unique types, 3 instances
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (GURMUKHI, LATIN):
+    ਦੇl count: 1, line: 1989
+    ਸ਼ਰਮਾਏਗਾl count: 1, line: 25396
+    ਹੈl count: 1, line: 9109
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 3018, lines: 428, 549, 559, 885, 971
+    ( U+0028 LEFT PARENTHESIS count: 65, lines: 249, 1498, 2176, 2396, 3740
+    ) U+0029 RIGHT PARENTHESIS count: 65, lines: 249, 1498, 2176, 2396, 3740
+    , U+002C COMMA count: 38176, lines: 2, 3, 4, 5, 6
+    - U+002D HYPHEN-MINUS count: 3335, lines: 11, 12, 16, 21, 26
+    : U+003A COLON count: 144, lines: 237, 238, 241, 257, 258
+    ; U+003B SEMICOLON count: 64, lines: 298, 594, 1481, 1482, 1527
+    ? U+003F QUESTION MARK count: 3125, lines: 57, 65, 67, 69, 86
+GENERAL_PUNCTUATION characters:
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 35, lines: 5602, 5603, 5604, 5605, 5606
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 35, lines: 5602, 5603, 5604, 5605, 5606
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 1554, lines: 559, 562, 1239, 1562, 1563
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 1415, lines: 559, 562, 1239, 1562, 1563
+SPACE characters:
+      U+0020 SPACE count: 764590, lines: 1, 2, 3, 4, 5
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 2, examples: 80 (l.26170), 120 (l.26170)
+    1 U+0031 DIGIT ONE count: 1, example: 120 (l.26170)
+    2 U+0032 DIGIT TWO count: 1, example: 120 (l.26170)
+    4 U+0034 DIGIT FOUR count: 1, example: 46 (l.26184)
+    6 U+0036 DIGIT SIX count: 4, examples: 46 (l.26184), 666 (l.30995)
+    8 U+0038 DIGIT EIGHT count: 1, example: 80 (l.26170)
+BASIC_LATIN characters:
+    l U+006C LATIN SMALL LETTER L count: 143, examples: l (l.466, 3621, 5896, 7132), ਦੇl (l.1989)
+DEVANAGARI characters:
+    । U+0964 DEVANAGARI DANDA count: 27354, lines: 1, 2, 3, 4, 5
+    ॥ U+0965 DEVANAGARI DOUBLE DANDA count: 6, lines: 22840, 22846, 22850
+GURMUKHI characters:
+     ਂ U+0A02 GURMUKHI SIGN BINDI count: 122152, examples: ਪਾਣੀਆਂ (l.2, 6), ਮੰਡਲਾਉਂਦਾ (l.2), ਤੋਂ (l.4), ਤਰ੍ਹਾਂ (l.5)
+    ਅ U+0A05 GURMUKHI LETTER A count: 51955, examples: ਅਕਾਸ਼ (l.1), ਅਤੇ (l.1, 2, 5), ਅੰਬਰ (l.6)
+    ਆ U+0A06 GURMUKHI LETTER AA count: 74844, examples: ਆਦ (l.1), ਸਿਰਜਿਆ (l.1), ਡੁੰਘਿਆਈ (l.2), ਆਤਮਾ (l.2), ਪਾਣੀਆਂ (l.2)
+    ਇ U+0A07 GURMUKHI LETTER I count: 25666, examples: ਇਸ (l.5, 8), ਇਹ (l.5), ਹੋਇਆ (l.5), ਬਣਾਇਆ (l.7)
+    ਈ U+0A08 GURMUKHI LETTER II count: 17147, examples: ਡੁੰਘਿਆਈ (l.2), ਹੋਈ (l.5, 8, 13), ਬਣਾਈਆਂ (l.16)
+    ਉ U+0A09 GURMUKHI LETTER U count: 66447, examples: ਉੱਤੇ (l.2), ਮੰਡਲਾਉਂਦਾ (l.2), ਉਹ (l.6), ਉੱਪਰਲੇ (l.7), ਉਗਾਵੇ (l.11)
+    ਊ U+0A0A GURMUKHI LETTER UU count: 2207, examples: ਊਸ (l.258), ਊਜ਼ਾਲ (l.262), ਰਊ (l.285, 286, 287)
+    ਏ U+0A0F GURMUKHI LETTER EE count: 10373, examples: ਬਣਾਏ (l.16), ਗਏ (l.21), ਬਣਾਈਏ (l.26), ਹੋਏ (l.35), ਉਗਾਏ (l.40)
+    ਐ U+0A10 GURMUKHI LETTER AI count: 273, examples: ਐਨੀ (l.366, 574, 748), ਐਨਾ (l.392), ਐਉਂ (l.607)
+    ਓ U+0A13 GURMUKHI LETTER OO count: 3624, examples: ਓਹ (l.15, 26, 35), ਦਿਓ (l.22, 28)
+    ਔ U+0A14 GURMUKHI LETTER AU count: 438, examples: ਔਲਾਦ (l.363), ਔਖੀ (l.438, 1547), ਔਰਤਾਂ (l.1552), ਔਰਤ (l.1557)
+    ਕ U+0A15 GURMUKHI LETTER KA count: 88541, examples: ਅਕਾਸ਼ (l.1), ਕਿ (l.4), ਕੀਤਾ (l.4), ਵਿਚਕਾਰ (l.6), ਕਰੇ (l.6)
+    ਖ U+0A16 GURMUKHI LETTER KHA count: 25633, examples: ਆਖਿਆ (l.3, 5, 6), ਵੇਖਿਆ (l.4), ਵੱਖਰਾ (l.4)
+    ਗ U+0A17 GURMUKHI LETTER GA count: 41008, examples: ਗਿਆ (l.3, 7, 9), ਚੰਗਾ (l.4, 10)
+    ਘ U+0A18 GURMUKHI LETTER GHA count: 4286, examples: ਡੁੰਘਿਆਈ (l.2), ਘਾਹ (l.11, 12), ਘਿੱਸਰਨ (l.24, 25)
+    ਙ U+0A19 GURMUKHI LETTER NGA count: 28, example: ਸਿੰਙ (l.2109, 2110, 2385, 2386, 2630)
+    ਚ U+0A1A GURMUKHI LETTER CA count: 31144, examples: ਵਿੱਚ (l.1), ਚਾਨਣ (l.3, 4, 5), ਚੰਗਾ (l.4)
+    ਛ U+0A1B GURMUKHI LETTER CHA count: 4750, examples: ਛੋਟੀ (l.16), ਪੰਛੀ (l.20, 22), ਪੰਛੀਆਂ (l.21), ਮੱਛੀਆਂ (l.26)
+    ਜ U+0A1C GURMUKHI LETTER JA count: 57797, examples: ਸਿਰਜਿਆ (l.1), ਅਜਿਹਾ (l.7), ਦੂਜਾ (l.8), ਜਾਣ (l.9), ਜੋ (l.9)
+    ਝ U+0A1D GURMUKHI LETTER JHA count: 3256, examples: ਬੇਝਿਜਕ (l.47), ਕੁਝ (l.50, 83), ਸਮਝ (l.61, 78)
+    ਟ U+0A1F GURMUKHI LETTER TTA count: 9231, examples: ਛੋਟੀ (l.16), ਸ੍ਰਿਸ਼ਟੀ (l.27), ਮਿੱਟੀ (l.38, 50), ਪੇਟ (l.70)
+    ਠ U+0A20 GURMUKHI LETTER TTHA count: 5163, examples: ਹੇਠਲੇ (l.7, 9), ਇਕੱਠੇ (l.9), ਇਕੱਠ (l.10), ਠਹਿਰਾਉਣ (l.14)
+    ਡ U+0A21 GURMUKHI LETTER DDA count: 12170, examples: ਬੇਡੌਲ (l.2), ਡੁੰਘਿਆਈ (l.2), ਮੰਡਲਾਉਂਦਾ (l.2), ਵੱਡੀਆਂ (l.16), ਵੱਡੀ (l.16)
+    ਢ U+0A22 GURMUKHI LETTER DDHA count: 2593, examples: ਕੱਢ (l.52, 79), ਕੱਢੀ (l.53, 54), ਕੱਢਿਆ (l.75)
+    ਣ U+0A23 GURMUKHI LETTER NNA count: 33895, examples: ਪਾਣੀਆਂ (l.2, 6), ਚਾਨਣ (l.3, 4, 5)
+    ਤ U+0A24 GURMUKHI LETTER TA count: 124784, examples: ਅਤੇ (l.1, 2), ਧਰਤੀ (l.1, 2), ਉੱਤੇ (l.2)
+    ਥ U+0A25 GURMUKHI LETTER THA count: 11128, examples: ਥਾਂ (l.9), ਚੌਥਾ (l.19), ਅਰਥਾਤ (l.35), ਉੱਥੇ (l.39), ਉੱਥੋਂ (l.41)
+    ਦ U+0A26 GURMUKHI LETTER DA count: 123040, examples: ਆਦ (l.1), ਦਾ (l.2), ਦੇ (l.2), ਮੰਡਲਾਉਂਦਾ (l.2), ਤਦ (l.3)
+    ਧ U+0A27 GURMUKHI LETTER DHA count: 10784, example: ਧਰਤੀ (l.1, 2, 10, 11, 12)
+    ਨ U+0A28 GURMUKHI LETTER NA count: 128380, examples: ਨੇ (l.1, 3), ਨੂੰ (l.1), ਵਿਰਾਨ (l.2), ਹਨ੍ਹੇਰਾ (l.2)
+    ਪ U+0A2A GURMUKHI LETTER PA count: 54632, examples: ਪਰਮੇਸ਼ੁਰ (l.1, 2, 3, 4), ਪਾਣੀਆਂ (l.2)
+    ਫ U+0A2B GURMUKHI LETTER PHA count: 8597, examples: ਫੇਰ (l.6, 9, 11), ਫਲਦਾਰ (l.11), ਫਲ (l.11)
+    ਬ U+0A2C GURMUKHI LETTER BA count: 31119, examples: ਬੇਡੌਲ (l.2), ਅੰਬਰ (l.6, 7, 8), ਬਣਾਇਆ (l.7)
+    ਭ U+0A2D GURMUKHI LETTER BHA count: 13285, examples: ਭਰ (l.20, 21, 22, 28), ਭੋਜਨ (l.29)
+    ਮ U+0A2E GURMUKHI LETTER MA count: 64994, examples: ਪਰਮੇਸ਼ੁਰ (l.1, 2, 3), ਆਤਮਾ (l.2), ਮੰਡਲਾਉਂਦਾ (l.2)
+    ਯ U+0A2F GURMUKHI LETTER YA count: 18370, example: ਯਹੋਵਾਹ (l.35, 36, 38, 39, 40)
+    ਰ U+0A30 GURMUKHI LETTER RA count: 134803, examples: ਪਰਮੇਸ਼ੁਰ (l.1), ਧਰਤੀ (l.1, 2), ਸਿਰਜਿਆ (l.1), ਵਿਰਾਨ (l.2)
+    ਲ U+0A32 GURMUKHI LETTER LA count: 74206, examples: ਬੇਡੌਲ (l.2), ਮੰਡਲਾਉਂਦਾ (l.2), ਪਹਿਲਾ (l.5), ਹੇਠਲੇ (l.7), ਉੱਪਰਲੇ (l.7)
+    ਵ U+0A35 GURMUKHI LETTER VA count: 71148, examples: ਵਿੱਚ (l.1), ਵਿਰਾਨ (l.2), ਹੋਵੇ (l.3), ਵੇਖਿਆ (l.4), ਵੱਖਰਾ (l.4)
+    ਸ U+0A38 GURMUKHI LETTER SA count: 116314, examples: ਪਰਮੇਸ਼ੁਰ (l.1, 2), ਅਕਾਸ਼ (l.1), ਸਿਰਜਿਆ (l.1), ਸੀ (l.2)
+    ਹ U+0A39 GURMUKHI LETTER HA count: 159953, examples: ਹਨ੍ਹੇਰਾ (l.2), ਹੋਵੇ (l.3), ਹੋ (l.3), ਹੈ (l.4), ਹਨ੍ਹੇਰੇ (l.4)
+     ਼ U+0A3C GURMUKHI SIGN NUKTA count: 31235, examples: ਪਰਮੇਸ਼ੁਰ (l.1, 2, 3, 4), ਅਕਾਸ਼ (l.1)
+     ਾ U+0A3E GURMUKHI VOWEL SIGN AA count: 249391, examples: ਅਕਾਸ਼ (l.1), ਵਿਰਾਨ (l.2), ਹਨ੍ਹੇਰਾ (l.2), ਦਾ (l.2), ਆਤਮਾ (l.2)
+     ਿ U+0A3F GURMUKHI VOWEL SIGN I count: 111656, examples: ਵਿੱਚ (l.1), ਸਿਰਜਿਆ (l.1), ਵਿਰਾਨ (l.2), ਡੁੰਘਿਆਈ (l.2), ਆਖਿਆ (l.3)
+     ੀ U+0A40 GURMUKHI VOWEL SIGN II count: 105130, examples: ਧਰਤੀ (l.1, 2), ਸੀ (l.2), ਪਾਣੀਆਂ (l.2), ਕੀਤਾ (l.4)
+     ੁ U+0A41 GURMUKHI VOWEL SIGN U count: 51381, examples: ਪਰਮੇਸ਼ੁਰ (l.1, 2, 3, 4), ਡੁੰਘਿਆਈ (l.2)
+     ੂ U+0A42 GURMUKHI VOWEL SIGN UU count: 53198, example: ਨੂੰ (l.1, 4, 5, 6, 7)
+     ੇ U+0A47 GURMUKHI VOWEL SIGN EE count: 210797, examples: ਪਰਮੇਸ਼ੁਰ (l.1), ਨੇ (l.1), ਅਤੇ (l.1, 2), ਬੇਡੌਲ (l.2)
+     ੈ U+0A48 GURMUKHI VOWEL SIGN AI count: 34275, examples: ਹੈ (l.4, 10, 12, 18), ਪੈਦਾ (l.11)
+     ੋ U+0A4B GURMUKHI VOWEL SIGN OO count: 72315, examples: ਹੋਵੇ (l.3), ਹੋ (l.3), ਤੋਂ (l.4), ਹੋਈ (l.5), ਹੋਇਆ (l.5)
+     ੌ U+0A4C GURMUKHI VOWEL SIGN AU count: 4107, examples: ਬੇਡੌਲ (l.2), ਰੌਸ਼ਨੀਆਂ (l.14, 15, 16), ਚੌਥਾ (l.19)
+     ੍ U+0A4D GURMUKHI SIGN VIRAMA count: 18625, examples: ਹਨ੍ਹੇਰਾ (l.2), ਹਨ੍ਹੇਰੇ (l.4, 5), ਤਰ੍ਹਾਂ (l.5, 8)
+    ੜ U+0A5C GURMUKHI LETTER RRA count: 16581, examples: ਜਿਹੜੇ (l.11), ਜਿਹੜੀਆਂ (l.14), ਜਿਹੜੀ (l.16), ਜਿਹੜਾ (l.29, 34)
+     ੰ U+0A70 GURMUKHI TIPPI count: 56792, examples: ਨੂੰ (l.1, 4), ਡੁੰਘਿਆਈ (l.2), ਮੰਡਲਾਉਂਦਾ (l.2), ਚੰਗਾ (l.4)
+     ੱ U+0A71 GURMUKHI ADDAK count: 87480, examples: ਵਿੱਚ (l.1), ਉੱਤੇ (l.2), ਵੱਖਰਾ (l.4, 6), ਉੱਪਰਲੇ (l.7)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 2768, examples: ਪ੍ਰਭੂ! (l.428), ਅਬਰਾਹਾਮ! (l.549), ਯਾਕੂਬ! (l.885, 1389), ਨਹੀਂ! (l.971)
+    Word!” count: 124, examples: ਅਬਰਾਹਾਮ!” (l.559), ਮੂਸਾ!” (l.1584), ਅਸ਼ੁੱਧ!” (l.3098), ਘਬਰਾਓ!” (l.4915), ਹੈ!” (l.4922)
+    Word!। count: 100, examples: ਸੀ!। (l.6448), ਹੈ!। (l.6496), ਸੁਣਾਂਗੇ!। (l.6502), ਫੰਡਾਂਗਾ!। (l.9165), ਜਾਣ!। (l.10956)
+    “Word! count: 13, examples: “ਅਬਰਾਹਾਮ! (l.559), “ਅਸ਼ੁੱਧ! (l.3098), “ਉੱਠ! (l.6615), “ਮਹਾਰਾਜ! (l.12802, 12820)
+    “Word!” count: 5, examples: “ਜਾ!” (l.6869), “ਸਲਾਮ!” (l.12132), “ਆਮੀਨ!” (l.12400, 15766), “ਮਹਿਮਾ!” (l.14334)
+    Word!।” count: 3, examples: ਤਲਵਾਰ!।” (l.6714), ਰਹੇ!।” (l.9845), ਹੋਵੇ!।” (l.18181)
+    Word!’ count: 2, examples: ਬਣ!’ (l.6770), ਦੇਵੇ!’ (l.6771)
+    Word-Word! count: 1, example: ਸਥਰ-ਬੋਜ਼ਨਈ! (l.12162)
+    Word,! count: 1, example: ਵਰ੍ਹਾਓ,! (l.18639)
+    Word?! count: 1, example: ਹਨ?! (l.23441)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 37937, examples: ਸੀ, (l.2), ਆਖਿਆ, (l.3), ਹੋਵੇ, (l.3), ਹੈ, (l.4), ਹੋਈ, (l.5)
+    “Word, count: 117, examples: “ਵੇਖੋ, (l.2997), “ਆਮੀਨ, (l.3815), “ਵੇਖ, (l.4971, 5744), “ਭਲਾ, (l.5722)
+    Word,” count: 53, examples: ਟੇਕੋ,” (l.1239), ਪਾਏ,” (l.5486), ਸੀ,” (l.5704), ਹਾਂ,” (l.5950), ਬੁਲਾਓ,” (l.6714)
+    Word-Word, count: 49, examples: ਗਾਈਆਂ-ਬਲ਼ਦ, (l.315, 627), ਗਧੇ-ਗਧੀਆਂ, (l.315), ਸੋਨਾ-ਚਾਂਦੀ, (l.627), ਦਾਸ-ਦਾਸੀਆਂ, (l.627)
+    Word,। count: 6, examples: ਗਿਆ,। (l.14960), ਸੀ,। (l.27076), ਹੋਏ,। (l.27117), ਹੁੰਦੇ,। (l.27680), ਵੱਲੋਂ,। (l.28934)
+    Word”, count: 5, examples: ਰੱਖ”, (l.1608), ਤੁਰ”, (l.23457), ਕਰ”, (l.25272), ਨੂੰ”, (l.29185)
+    ‘Word, count: 5, examples: ‘ਭਲਾ, (l.6765, 6767, 6769), ‘ਆ, (l.6766), ‘ਵੇਖ, (l.6893)
+    Word,? count: 1, example: ਗਿਆ,? (l.748)
+    Word,! count: 1, example: ਵਰ੍ਹਾਓ,! (l.18639)
+    “Word,।” count: 1, example: “ਨਹੀਂ,।” (l.26134)
+    Word), count: 1, example: ਨਹੀਂ), (l.26759)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 2901, examples: ਆਪੋ-ਆਪਣੀ (l.11, 12), ਵੱਡੇ-ਵੱਡੇ (l.21), ਜੀਵ-ਜੰਤੂਆਂ (l.26, 28)
+    - count: 349, lines: 16, 103, 236, 755, 767
+    Word-Word, count: 49, examples: ਗਾਈਆਂ-ਬਲ਼ਦ, (l.315, 627), ਗਧੇ-ਗਧੀਆਂ, (l.315), ਸੋਨਾ-ਚਾਂਦੀ, (l.627), ਦਾਸ-ਦਾਸੀਆਂ, (l.627)
+    “Word-Word count: 11, examples: “ਆਪਣੇ-ਆਪਣੇ (l.5085), “ਕੌਣ-ਕੌਣ (l.5437), “ਸੱਤ-ਸੱਤ (l.5740), “ਸੁੱਖ-ਸਾਂਦ (l.7001), “ਸੱਚ-ਮੁੱਚ (l.7139)
+    Word-Word। count: 6, examples: ਬੁੜ-ਬੁੜਾਏ। (l.4138), ਏਨ-ਗਦੀ। (l.6266), ਬਨ-ਜ਼ੋਹੇਥ। (l.10409), ਯਾਸ਼ੂਬੀ-ਲਹਮ। (l.10411), ਥਰ-ਥਰਾਉਣ। (l.14646)
+    Word-Word-Word count: 5, examples: ਬਏਰ-ਲਹਈ-ਰੋਈ (l.396, 654, 670), ਏਲੋਨ-ਬੈਤ-ਹਨਾਨ (l.8856), ਅਟਰੋਥ-ਬੈਤ-ਯੋਆਬ (l.10364)
+    “Word-Word” count: 2, examples: “ਲੋ-ਰੁਹਾਮਾਹ” (l.22169), “ਲੋ-ਅੰਮੀ” (l.22172)
+    Word-Word! count: 1, example: ਸਥਰ-ਬੋਜ਼ਨਈ! (l.12162)
+    “Word-Word-Word-Word count: 1, example: “ਮਹੇਰ-ਸ਼ਲਾਲ-ਹਾਸ਼-ਬਜ਼ (l.17878)
+    Word-Word-Word-Word count: 1, example: ਮਹੇਰ-ਸ਼ਲਾਲ-ਹਾਸ਼-ਬਜ਼ (l.17880)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 144, example: ਪੁੱਤਰ: (l.237, 238, 241, 257, 258)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 64, examples: ਨਿੱਕਲਿਆ; (l.298), ਰੱਖ; (l.594), ਸੀ; (l.1481), ਹੋਵੇਗਾ; (l.1482), ਬਣਾਇਆ; (l.1527)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 2833, examples: ਖਾਓ? (l.57), ਹੈਂ? (l.65, 67), ਹੈ? (l.67), ਕੀਤਾ? (l.69)
+    Word?” count: 250, examples: ਕਰੇ?” (l.1562), ਲਿਆਵਾਂ?” (l.1591), ਹੈ?” (l.1604), ਹੁੰਦਾ?” (l.2997), ਹਾਂ?” (l.5130)
+    Word?। count: 34, examples: ਹੈ?। (l.317), ਕੀਤਾ?। (l.1647), ਸਕਦਾ?। (l.7649), ਹੋ?। (l.8524), ਵਿਹਾਰ?। (l.9170)
+    Word?’ count: 5, examples: ਹੈ?’ (l.5747), ਫਿਰਾਂ?’ (l.6765, 6767, 6769), ਕਰਾ?’ (l.26746)
+    Word,? count: 1, example: ਗਿਆ,? (l.748)
+    Word?! count: 1, example: ਹਨ?! (l.23441)
+    Word”? count: 1, example: ਕਰੀਏ”? (l.25108)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 27, examples: ‘ਤਦ (l.5602, 5603, 5604, 5606), ‘ਸਰਾਪੀ (l.5605)
+    ‘Word, count: 5, examples: ‘ਭਲਾ, (l.6765, 6767, 6769), ‘ਆ, (l.6766), ‘ਵੇਖ, (l.6893)
+    ‘Word’ count: 3, examples: ‘ਮਾਰਾ’ (l.7149), ‘ਰੱਬੀ’ (l.26151), ‘ਗੁਰੂ’ (l.26151)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word।’ count: 19, examples: ਆਮੀਨ।’ (l.5602, 5603, 5604, 5606), ਦੇਵੇ।’ (l.5605)
+    Word?’ count: 5, examples: ਹੈ?’ (l.5747), ਫਿਰਾਂ?’ (l.6765, 6767, 6769), ਕਰਾ?’ (l.26746)
+    Word।’” count: 3, examples: ਹੋਵੇਗਾ।’” (l.6893), ਹਾਂ।’” (l.26368, 26915)
+    ‘Word’ count: 3, examples: ‘ਮਾਰਾ’ (l.7149), ‘ਰੱਬੀ’ (l.26151), ‘ਗੁਰੂ’ (l.26151)
+    Word!’ count: 2, examples: ਬਣ!’ (l.6770), ਦੇਵੇ!’ (l.6771)
+    Word’ count: 2, examples: ਹੈ’ (l.12310), ਹਾਂ’ (l.25903)
+    Word’। count: 1, example: ਹੋ’। (l.26584)

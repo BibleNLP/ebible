@@ -1,0 +1,276 @@
+OVERVIEW:
+File size: 41899 lines, 1132318 characters
+Letter scripts: 2
+    LATIN (689777 instances)
+    IPA_EXTENSIONS (71688 instances): ɑ
+Number scripts: 1
+    ASCII_DIGIT (164 instances): 01234567
+Other character groups: 4
+    SPACE (193520 instances)
+    COMBINING_DIACRITICAL_MARKS (107159 instances):  ̀ ́ ̃
+    ASCII_PUNCTUATION (27959 instances): !"()*,-.:?[]
+    GENERAL_PUNCTUATION (68 instances): –“”
+Non-canonical character combinations: 19
+Words with characters from multiple scripts: 1 category, 3216 unique types, 53252 instances
+
+DETAILS:
+Non-canonical character combinations: 19
+    Non-canonical: Á (NFD, A + ́, count: 707)  Canonical: Á (NFC, Á, count: 0)
+    Non-canonical: Í (NFD, I + ́, count: 102)  Canonical: Í (NFC, Í, count: 0)
+    Non-canonical: Ḿ (NFD, M + ́, count: 198)  Canonical: Ḿ (NFC, Ḿ, count: 0)
+    Non-canonical: Ń (NFD, N + ́, count: 58)  Canonical: Ń (NFC, Ń, count: 0)
+    Non-canonical: Ú (NFD, U + ́, count: 300)  Canonical: Ú (NFC, Ú, count: 0)
+    Non-canonical: é (NFD, e + ́, count: 11141)  Canonical: é (NFC, é, count: 7)
+    Non-canonical: ẽ (NFD, e + ̃, count: 936)  Canonical: ẽ (NFC, ẽ, count: 0)
+    Non-canonical: ẽ́ (NFD, e + ̃ + ́, count: 226)  Canonical: ẽ́ (NFC, ẽ + ́, count: 0)
+    Non-canonical: í (NFD, i + ́, count: 14112)  Canonical: í (NFC, í, count: 0)
+    Non-canonical: ĩ (NFD, i + ̃, count: 265)  Canonical: ĩ (NFC, ĩ, count: 0)
+    Non-canonical: ĩ́ (NFD, i + ̃ + ́, count: 166)  Canonical: ĩ́ (NFC, ĩ + ́, count: 0)
+    Non-canonical: ḿ (NFD, m + ́, count: 1376)  Canonical: ḿ (NFC, ḿ, count: 0)
+    Non-canonical: ń (NFD, n + ́, count: 2175)  Canonical: ń (NFC, ń, count: 0)
+    Non-canonical: ó (NFD, o + ́, count: 3692)  Canonical: ó (NFC, ó, count: 0)
+    Non-canonical: õ (NFD, o + ̃, count: 316)  Canonical: õ (NFC, õ, count: 0)
+    Non-canonical: ṍ (NFD, o + ̃ + ́, count: 252)  Canonical: ṍ (NFC, ṍ, count: 0)
+    Non-canonical: ú (NFD, u + ́, count: 6149)  Canonical: ú (NFC, ú, count: 0)
+    Non-canonical: ũ (NFD, u + ̃, count: 502)  Canonical: ũ (NFC, ũ, count: 0)
+    Non-canonical: ṹ (NFD, u + ̃ + ́, count: 150)  Canonical: ṹ (NFC, ṹ, count: 0)
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (IPA_EXTENSIONS, LATIN):
+    Akilɑsi count: 6, lines: 27628, 27644, 27652, 28407, 28863
+    Akiripɑ count: 16, lines: 27877, 27878, 27886, 27887, 27888
+    Akónɛpɑrɛpi count: 1, line: 31044
+    Akpɑnii count: 3, lines: 27413, 27920, 29725
+    Akúipɑrɛ count: 1, line: 31136
+    Akɑpuusi count: 2, lines: 27404, 27742
+    Akɑyii count: 10, lines: 27638, 27653, 27675, 28397, 28859
+    Akɑyikuusi count: 1, line: 28861
+    Akɑɑ count: 4, lines: 29220, 29221, 29222, 29223
+    Akɑɑsi count: 2, line: 23222
+    Alelúyɑ count: 4, lines: 31087, 31089, 31090, 31092
+    Alɛkisɑntiri count: 11, lines: 24916, 27097, 27179, 27650, 27687
+    Aminɑtɑpi count: 4, lines: 23217, 25127
+    Ampiliyɑtuusi count: 1, line: 28412
+    Amɑ́ count: 857, lines: 23238, 23260, 23270, 23272, 23275
+    Antipɑtiriisi count: 1, line: 27833
+    Antipɑɑsi count: 1, line: 30798
+    Anyɑ̃́ count: 6, lines: 23945, 23949, 24140, 26411, 26434
+    Anɑ count: 4, lines: 26867, 26878, 27097
+    Anɑniyɑsi count: 12, lines: 27129, 27131, 27133, 27295, 27297
+    Anɔ́ɔpɑhɑɑ count: 1, line: 27932
+    Anɛ́nɑ́ɑlɑ count: 1, line: 23945
+    Apirɑhɑm count: 96, lines: 23214, 23215, 23230, 23270, 23425
+    Apiyɑ count: 4, lines: 23220, 24967, 30007
+    Apiyɑtɑɑ count: 1, line: 24355
+    Apɑ count: 1, line: 28199
+    Apɑpi count: 2, lines: 23370, 23371
+    Apɑrɛ count: 2, lines: 31140, 31141
+    Apɑtɔɔ count: 1, line: 30919
+    Apɑ́ɑ́ni count: 4, lines: 23265, 24290, 30911, 30915
+    Aretɑsi count: 1, line: 29089
+    Areyopɑɑsi count: 2, lines: 27611, 27626
+    Aricelɑyuusi count: 1, line: 23260
+    Arimɑtee count: 4, lines: 24255, 24937, 26054, 26932
+    Aripɑkisɑɑti count: 2, line: 25130
+    Arisitɑriki count: 5, lines: 27683, 27698, 27925, 29619, 30029
+    Aritemɑsi count: 1, line: 30002
+    Arɑm count: 2, lines: 23216, 23217
+    Arɑpii count: 3, lines: 27029, 29141, 29223
+    Asɑɑ count: 2, lines: 23220, 23221
+    Asɑ́ŋɑ́ɑ́ count: 4, lines: 27566, 31021, 31094
+    Atirɑmiiti count: 1, line: 27925
+    Atɑlii count: 1, line: 27508
+    Atɑm count: 12, lines: 25132, 28127, 28129, 28808, 28831
+    Awɑ́rɛpi count: 3, lines: 24811, 30785
+    Ayómɛyɑ́hɑɑlee count: 2, lines: 24781, 25894
+    Aɑ count: 5, lines: 23446, 23873, 24452, 29831, 30832
+    Aɑi count: 7, lines: 23463, 25022, 25210, 28086, 28550
+    Aɑí count: 5, lines: 24348, 25728, 26871, 26879, 26894
+    Aɑkiŋ count: 1, line: 30917
+    Aɑm count: 1, line: 28655
+    Aɑni count: 3, lines: 25078, 25095, 29389
+    Aɑpi count: 1, line: 27757
+    Aɑsele count: 1, line: 30918
+    Ániwɑlɛ́ count: 1, line: 27964
+    Ánɑ count: 1, line: 27340
+    Ásɑ́lɑ́ú count: 1, line: 30926
+    Áɑ count: 36, lines: 23670, 24097, 24099, 24102, 24176
+    Áɑi count: 1, line: 29526
+    Cusɑ count: 1, line: 25317
+    Efirɑyim count: 1, line: 26646
+    Efirɑɑti count: 2, lines: 30922, 31035
+    Efɑɑtɑ count: 1, line: 24566
+    Eleyɑsɑɑ count: 2, line: 23228
+    Elimɑtɑm count: 2, line: 25122
+    Elimɑɑsi count: 3, lines: 27439, 27440, 27442
+    Elisɑpɛti count: 12, lines: 24967, 24969, 24975, 24986, 24998
+    Eliyɑkim count: 4, lines: 23226, 25124, 25125
+    Elɑm count: 1, line: 27027
+    Emɑnuyɛɛli count: 1, line: 23236
+    Emɑyusi count: 1, line: 26073
+    Epɑfirɑɑsi count: 3, lines: 29539, 29621, 30028
+    Epɑfurotiti count: 2, lines: 29483, 29527
+    Epɑyinɛɛti count: 1, line: 28409
+    Erootiyɑti count: 8, lines: 23669, 23672, 23674, 24493, 24495
+    Erɑkilɔɔ count: 1, line: 27937
+    Erɑsiti count: 3, lines: 27676, 28427, 29957
+    Esekiyɑsi count: 2, lines: 23222, 23223
+    Esipɑɑnyi count: 2, lines: 28395, 28399
+    Esɑu count: 3, lines: 28234, 30259, 30295
+    Esɑyi count: 26, lines: 23235, 23264, 23292, 23431, 23575
+    Filɑtɛlifii count: 2, lines: 30776, 30821
+    Fɑlɛki count: 2, line: 25129
+    Fɑnuwɛɛli count: 1, line: 25078
+    Fɑrɛsi count: 2, line: 25127
+    Fɑɑlɑɑ count: 1, line: 23494
+    Fɔrutunɑtuusi count: 1, line: 28861
+    Hɑi count: 1, line: 26181
+    Hɑkɛlitɑmɑ count: 1, line: 27011
+    Hɑmɔɔ count: 1, line: 27201
+    Hɑrimɑketɔɔ count: 1, line: 31039
+    Hɑrɑɑni count: 2, lines: 27187, 27189
+    Hɑ́i count: 31, lines: 23240, 24242, 24628, 25341, 25705
+    Hɛrimɑɑsi count: 1, line: 28418
+    Icélɑɑ count: 4, lines: 23305, 24311, 26413, 26771
+    Icɑrɛsɛɛ count: 1, line: 24297
+    Icɑ́pinɛ count: 1, line: 27474
+    Icɑ̃́ count: 4, lines: 24198, 24895, 25994
+    Ikpɑ́ɑtuŋɛ count: 1, line: 31010
+    Insɑ́ count: 35, lines: 23328, 23352, 23391, 23464, 23465
+    ...
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 429, lines: 23244, 23263, 23268, 23340, 23353
+    " U+0022 QUOTATION MARK count: 20, lines: 23340, 24779, 28234, 28887, 28888
+    ( U+0028 LEFT PARENTHESIS count: 36, lines: 23687, 23740, 24446, 24520, 24578
+    ) U+0029 RIGHT PARENTHESIS count: 36, lines: 23687, 23740, 24446, 24520, 24578
+    * U+002A ASTERISK count: 12, lines: 23797, 23806, 23813, 23819, 24533
+    , U+002C COMMA count: 8207, lines: 23214, 23215, 23216, 23217, 23218
+    - U+002D HYPHEN-MINUS count: 3614, lines: 23219, 23224, 23230, 23233, 23239
+    . U+002E FULL STOP count: 12289, lines: 23214, 23216, 23218, 23219, 23221
+    : U+003A COLON count: 2273, lines: 23214, 23231, 23233, 23235, 23240
+    ? U+003F QUESTION MARK count: 971, lines: 23240, 23268, 23316, 23349, 23350
+    [ U+005B LEFT SQUARE BRACKET count: 36, lines: 23605, 23743, 23790, 23806, 23939
+    ] U+005D RIGHT SQUARE BRACKET count: 36, lines: 23605, 23744, 23790, 23807, 23939
+GENERAL_PUNCTUATION characters:
+    – U+2013 EN DASH count: 2, lines: 26132, 27223
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 33, lines: 25155, 25344, 25579, 25582, 25583
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 33, lines: 25155, 25344, 25579, 25582, 25583
+SPACE characters:
+      U+0020 SPACE count: 193520, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 102, example: 000 (l.23687, 23740, 24446, 24520, 24578)
+    1 U+0031 DIGIT ONE count: 18, examples: 10 (l.25653), 144 (l.30882), 12 (l.30883, 30884, 30885)
+    2 U+0032 DIGIT TWO count: 19, examples: 2 (l.24446), 20 (l.25653), 276 (l.27960), 23 (l.28643), 12 (l.30883)
+    3 U+0033 DIGIT THREE count: 2, examples: 23 (l.28643), 300 (l.31015)
+    4 U+0034 DIGIT FOUR count: 9, examples: 4 (l.23740, 24578, 24589), 144 (l.30882, 30996)
+    5 U+0035 DIGIT FIVE count: 6, lines: 23687, 24520, 24588, 25384, 26336
+    6 U+0036 DIGIT SIX count: 6, examples: 276 (l.27960), 260 (l.30943, 30965), 666 (l.30995)
+    7 U+0037 DIGIT SEVEN count: 2, examples: 276 (l.27960), 7 (l.30953)
+COMBINING_DIACRITICAL_MARKS characters:
+     ̀ U+0300 COMBINING GRAVE ACCENT count: 197, examples: yɛ̀ɛ̀ (l.23370, 23591, 23627), yɛ̀ (l.23375, 23500)
+     ́ U+0301 COMBINING ACUTE ACCENT count: 93864, examples: pɔ́ɔn (l.23214), nnyɛ́ (l.23214), pɔ́ɔ (l.23215, 23216), mɑ́rɛi (l.23215)
+     ̃ U+0303 COMBINING TILDE count: 13098, examples: Uyɛ̃ (l.23218), sĩ (l.23224, 23225, 23230), Lɛ̃ (l.23230)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 3688, examples: Apirɑhɑm (l.23214, 23215), Arɑm (l.23216, 23217), Aminɑtɑpi (l.23217)
+    C U+0043 LATIN CAPITAL LETTER C count: 5, examples: Cusɑ (l.25317), Cirɛníŋɛ (l.26205, 26207, 30765), Ciyoo (l.27709)
+    E U+0045 LATIN CAPITAL LETTER E count: 290, examples: Esekiyɑsi (l.23222, 23223), Eliyɑkim (l.23226), Eliwuuti (l.23227, 23228)
+    F U+0046 LATIN CAPITAL LETTER F count: 98, examples: Filipu (l.23489, 23669, 23754, 24375), Fɑɑlɑɑ (l.23494)
+    H U+0048 LATIN CAPITAL LETTER H count: 47, examples: Hɛsirɔɔ (l.23216), Hɑ́i (l.23240, 24242, 24628, 25341)
+    I U+0049 LATIN CAPITAL LETTER I count: 730, examples: Isɑɑki (l.23215), Isirɑyɛɛli (l.23224, 23225, 23230, 23244)
+    K U+004B LATIN CAPITAL LETTER K count: 2883, examples: Kirisi (l.23214, 23229, 23230), Kɑpi (l.23225), Kɑi (l.23230)
+    L U+004C LATIN CAPITAL LETTER L count: 1804, examples: Likumúŋɛ́ (l.23224), Lɛ̃ (l.23230, 23231, 23235), Lɛlɛɛ (l.23235)
+    M U+004D LATIN CAPITAL LETTER M count: 840, examples: Mɑnɑsee (l.23223), Mɑtɑni (l.23228), Mɑɑri (l.23229, 23231, 23233)
+    N U+004E LATIN CAPITAL LETTER N count: 2392, examples: Nɑsɔɔ (l.23217), Nfɑ́ɑsɔnɛ (l.23231, 23233), Nɔn (l.23246), Nɛ (l.23253)
+    O U+004F LATIN CAPITAL LETTER O count: 37, examples: Opɛti (l.23218), Osiyɑsi (l.23221, 23222), Olifiyee (l.23896), Osɑnnɑ (l.23904)
+    P U+0050 LATIN CAPITAL LETTER P count: 2562, examples: Perɛsi (l.23216), Piuni (l.23216), Poosi (l.23218), Pi (l.23218), Pɑpilɔɔni (l.23224)
+    R U+0052 LATIN CAPITAL LETTER R count: 112, examples: Rɑhɑpi (l.23218), Ruuti (l.23218), Ropowɑm (l.23220), Rɑmɑ (l.23256), Rɑsɛɛli (l.23256)
+    S U+0053 LATIN CAPITAL LETTER S count: 723, examples: Serɑ (l.23216), Sɑlimɑni (l.23217, 23218), Sɑlomɔɔ (l.23219, 23220)
+    T U+0054 LATIN CAPITAL LETTER T count: 678, examples: Tɑfiti (l.23214, 23219, 23230, 23233), Tɑmɑɑ (l.23216)
+    U U+0055 LATIN CAPITAL LETTER U count: 6125, examples: Upikpurɛ (l.23214), Uyɛ̃ (l.23218), Urii (l.23219), Uuni (l.23231), Uulɑ (l.23232)
+    W U+0057 LATIN CAPITAL LETTER W count: 58, examples: Wóo (l.23268, 23606, 23797, 24071), Wurɑ (l.24004)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 2704, examples: Yeesu (l.23214), Yɑkupu (l.23215), Yutɑ (l.23215, 23216), Yesee (l.23218)
+    c U+0063 LATIN SMALL LETTER C count: 11499, examples: upimɑrɛcɔ (l.23215, 23224), cɔ́pii (l.23224, 23225), ncɔpuri (l.23230)
+    e U+0065 LATIN SMALL LETTER E count: 28562, examples: Yeesu (l.23214), Perɛsi (l.23216), Serɑ (l.23216), sée (l.23218), Yesee (l.23218)
+    f U+0066 LATIN SMALL LETTER F count: 4126, examples: Tɑfiti (l.23214, 23219, 23230), Yosɑfɑti (l.23221), Yosɛfi (l.23229)
+    h U+0068 LATIN SMALL LETTER H count: 3998, examples: Apirɑhɑm (l.23214, 23215, 23230), Rɑhɑpi (l.23218), Apihuuti (l.23226)
+    i U+0069 LATIN SMALL LETTER I count: 92891, examples: Kirisi (l.23214), Tɑfiti (l.23214), Apirɑhɑm (l.23214), Upikpurɛ (l.23214), ɑnyiri (l.23214)
+    k U+006B LATIN SMALL LETTER K count: 44998, examples: kɛyɑsɛ (l.23214), kɔ (l.23214), Upikpurɛ (l.23214), Isɑɑki (l.23215), Yɑkupu (l.23215)
+    l U+006C LATIN SMALL LETTER L count: 24494, examples: lɛ (l.23214), Sɑlimɑni (l.23217, 23218), Sɑlomɔɔ (l.23219), sɔ́ɔnlɛnlɛ (l.23219)
+    m U+006D LATIN SMALL LETTER M count: 28449, examples: Apirɑhɑm (l.23214, 23215), mɑri (l.23215), mɑru (l.23215), upimɑrɛcɔ (l.23215)
+    n U+006E LATIN SMALL LETTER N count: 65840, examples: pɔ́ɔn (l.23214), ɑnyiri (l.23214), nnyɛ́ (l.23214), nɛ (l.23215, 23216)
+    o U+006F LATIN SMALL LETTER O count: 10280, examples: Poosi (l.23218), Sɑlomɔɔ (l.23219, 23220), Ropowɑm (l.23220), Yosɑfɑti (l.23221)
+    p U+0070 LATIN SMALL LETTER P count: 43710, examples: pɔ́ɔn (l.23214), Apirɑhɑm (l.23214, 23215), Upikpurɛ (l.23214), pɔ́ɔ (l.23215)
+    r U+0072 LATIN SMALL LETTER R count: 22950, examples: Kirisi (l.23214), Apirɑhɑm (l.23214, 23215), Upikpurɛ (l.23214), ɑnyiri (l.23214)
+    s U+0073 LATIN SMALL LETTER S count: 27241, examples: Yeesu (l.23214), Kirisi (l.23214), kɛyɑsɛ (l.23214), Isɑɑki (l.23215), Perɛsi (l.23216)
+    t U+0074 LATIN SMALL LETTER T count: 14740, examples: Tɑfiti (l.23214), Yutɑ (l.23215, 23216), Aminɑtɑpi (l.23217), Opɛti (l.23218)
+    u U+0075 LATIN SMALL LETTER U count: 45409, examples: Yeesu (l.23214), Upikpurɛ (l.23214), Yɑkupu (l.23215), mɑru (l.23215), Yutɑ (l.23215)
+    w U+0077 LATIN SMALL LETTER W count: 9563, examples: Ropowɑm (l.23220), Eliwuuti (l.23227, 23228), wɑlɛ (l.23230), we (l.23233)
+    y U+0079 LATIN SMALL LETTER Y count: 26559, examples: yɛ (l.23214), kɛyɑsɛ (l.23214), ɑnyiri (l.23214), nnyɛ́ (l.23214), yɛɛ (l.23215)
+LATIN_EXTENDED_LETTER characters:
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 7, examples: iseé (l.23977), rikúuésɑɑ (l.24444), yɔsíé (l.25244), nnɛ́íé (l.25351, 28528)
+LATIN_EXTENDED_A characters:
+    ŋ U+014B LATIN SMALL LETTER ENG count: 3744, examples: Likumúŋɛ́ (l.23224), kumúŋɛ́ (l.23230, 23239), imɑrɛtuŋɛ (l.23230), cɔ́ŋlɛ̃ (l.23233)
+LATIN_EXTENDED_B characters:
+    Ɛ U+0190 LATIN CAPITAL LETTER OPEN E count: 18, example: Ɛɛɛ (l.23476, 23659, 23883, 23911, 23925)
+LATIN characters:
+    ɔ U+0254 LATIN SMALL LETTER OPEN O count: 31630, examples: pɔ́ɔn (l.23214), kɔ (l.23214), pɔ́ɔ (l.23215, 23216), upimɑrɛcɔ (l.23215)
+    ɛ U+025B LATIN SMALL LETTER OPEN E count: 123293, examples: yɛ (l.23214), kɛyɑsɛ (l.23214), lɛ (l.23214), Upikpurɛ (l.23214), nnyɛ́ (l.23214)
+IPA_EXTENSIONS characters:
+    ɑ U+0251 LATIN SMALL LETTER ALPHA count: 71688, examples: Tɑfiti (l.23214), kɛyɑsɛ (l.23214), Apirɑhɑm (l.23214, 23215), ɑnyiri (l.23214)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 420, examples: kuyu! (l.23244), nyɑhɑimɛlɛ! (l.23263), nnyɛ́! (l.23268), lɛ̃! (l.23353), kpíniilɛ! (l.23377)
+    Word-Word! count: 5, examples: kɛ́tɔ-pɔ! (l.24019), ritimɛ-pɔ! (l.27360), píyei-pɔ! (l.29129, 29955, 30860)
+    "Word"! count: 2, examples: "ɛɛɛ"! (l.23340), "eehei"! (l.23340)
+    Word!] count: 1, example: kõ!] (l.23744)
+    “Word”! count: 1, example: “Sɑ́ɑ”! (l.28199)
+TOKENS WITH * (U+002A ASTERISK):
+    *Word count: 11, examples: *Uléécɑɑ (l.23797, 23819), *pipileecɑɑtumɛ (l.23806), *ulɑmpooyɔɔ́ (l.23813), *Pifɑrisi (l.24533)
+    *Word. count: 1, example: *Usuifi. (l.24558)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 8062, examples: lɛ, (l.23214), mɑri, (l.23215), mɑru, (l.23215, 23216), mɑ́rɛi, (l.23215)
+    Word-Word, count: 122, examples: kɛteni-i, (l.23243), kunyinɛ-i, (l.23262), tɔrɔɔ-pɔ, (l.23329), kɛ́tɔ-pɔ, (l.23508), rinwɛ́í-wɛ́í, (l.23513)
+    “Word”, count: 8, examples: “kulúi”, (l.25344), “ɑɑí”, (l.25579, 25590, 25592), “Apɑ”, (l.28199)
+    Word”, count: 4, examples: lɛ”, (l.28663), Upíimɑ”, (l.28705), kpísi”, (l.29582), lɑlɛ”, (l.30690)
+    "Word", count: 2, examples: "ɛɛɛ", (l.23340), "eehei", (l.23340)
+    Word-Word-Word, count: 2, examples: ukulukɛ-lukɛ-mɛ̃, (l.24922), kulukɛ-lukɛ-mɛ̃, (l.31135)
+    , count: 2, lines: 25310, 30637
+    Word], count: 2, examples: cɑɑi], (l.25357), nnyí], (l.26109)
+    (Number.Number), count: 1, example: (4.000), (l.23740)
+    Word), count: 1, example: yɑ́ɑ́si), (l.24819)
+    “Word, count: 1, example: “Upɔisɛ, (l.25155)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 3225, examples: mɛkɛɛ-mɛ (l.23219), kpɛ-i (l.23224, 23230), Apirɑhɑm-i (l.23230), Tɑfiti-i (l.23230)
+    Word-Word. count: 162, examples: kɛtẽ-pɔ. (l.23291), kɛyómɛcɑɑ-pɔ. (l.23361), píyei-pɔ. (l.23364), mɔ́kú-mɔ́kúlɛnlɛ. (l.23399), wɛ́kɛ́-wɛ́kɛ́. (l.23399)
+    Word-Word, count: 122, examples: kɛteni-i, (l.23243), kunyinɛ-i, (l.23262), tɔrɔɔ-pɔ, (l.23329), kɛ́tɔ-pɔ, (l.23508), rinwɛ́í-wɛ́í, (l.23513)
+    Word-Word-Word count: 43, examples: kulukɛ-lukɛ-mɛ̃ (l.23342, 24187), kunɛ́lukɛ-lukɛ-mɛ̃ (l.23985), ukulukɛ-lukɛ-mɛ̃ (l.24110, 24111)
+    Word-Word? count: 8, examples: ń-ye? (l.23443, 24440), nkpéni-mɛ? (l.23750), nkɛ́-i? (l.24573), mɛyo-mɛ? (l.27349)
+    Word-Word! count: 5, examples: kɛ́tɔ-pɔ! (l.24019), ritimɛ-pɔ! (l.27360), píyei-pɔ! (l.29129, 29955, 30860)
+    Word-Word-Word, count: 2, examples: ukulukɛ-lukɛ-mɛ̃, (l.24922), kulukɛ-lukɛ-mɛ̃, (l.31135)
+    Word-Word-Word. count: 1, example: Áninɔi-Kɛnyɛrɛ-Sɔnɛ. (l.27931)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 12024, examples: kɛyɑsɛ. (l.23214), mɑru. (l.23216, 23218), Tɑmɑɑ. (l.23216), Rɑhɑpi. (l.23218)
+    Word-Word. count: 162, examples: kɛtẽ-pɔ. (l.23291), kɛyómɛcɑɑ-pɔ. (l.23361), píyei-pɔ. (l.23364), mɔ́kú-mɔ́kúlɛnlɛ. (l.23399), wɛ́kɛ́-wɛ́kɛ́. (l.23399)
+    Word.] count: 22, examples: mɑɑ.] (l.23605), pɛsɛ.] (l.23790), lɔ.] (l.23807), wɑinɛ.] (l.24001), kṍ.] (l.24548)
+    (Number.Number). count: 17, examples: (5.000). (l.23687, 24520, 26336), (2.000). (l.24446), (4.000). (l.24578)
+    (Number.Number) count: 13, examples: (5.000) (l.24588, 25384), (4.000) (l.24589), (10.000) (l.25653), (20.000) (l.25653)
+    Word]. count: 6, examples: nɑ̃]. (l.23939), lɔ]. (l.25425), mɑ́]. (l.26066), peilɛ]. (l.26283), li]. (l.27647)
+    Word”. count: 5, examples: cuuninɛ”. (l.25582), wɑinɛ”. (l.25583), wɛ́ɛ”. (l.25903), rité”. (l.28705), ricɑ”. (l.29582)
+    Word.” count: 5, examples: piwɑi.” (l.25958), lihí.” (l.26520), rimúlú.” (l.26788), rikpɔu.” (l.28255), peikɛɛ.” (l.30346)
+    (Number). count: 3, examples: (276). (l.27960), (666). (l.30995), (300). (l.31015)
+    "Word". count: 2, examples: "Upíimɑ". (l.24779), "ɛɛɛ". (l.28887)
+    “Word”. count: 2, examples: “Nɛni”. (l.30088), “eehei”. (l.30433)
+    (Number.Number), count: 1, example: (4.000), (l.23740)
+    [...] count: 1, line: 24233
+    *Word. count: 1, example: *Usuifi. (l.24558)
+    . count: 1, line: 27272
+    Word-Word-Word. count: 1, example: Áninɔi-Kɛnyɛrɛ-Sɔnɛ. (l.27931)
+    Word." count: 1, example: yúlu." (l.28234)
+    (Number.Number.Number). count: 1, example: (200.000.000). (l.30924)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 2272, examples: nnyɛ́: (l.23214), nní: (l.23231), rɛ: (l.23233, 23235, 23240)
+    Word:] count: 1, example: rɛ:] (l.27290)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 962, examples: tonɛ? (l.23240), kɑɑsɛ? (l.23268), pɛsɛ? (l.23316), pɑ? (l.23349), lisɑ́ŋɑ? (l.23350)
+    Word-Word? count: 8, examples: ń-ye? (l.23443, 24440), nkpéni-mɛ? (l.23750), nkɛ́-i? (l.24573), mɛyo-mɛ? (l.27349)
+    Word?” count: 1, example: yo?” (l.26814)
+TOKENS WITH – (U+2013 EN DASH):
+    Word–Word count: 2, examples: Yerusɑlɛm–i (l.26132), kɛcɑ́ɑ́–pɔ (l.27223)

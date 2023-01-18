@@ -1,0 +1,261 @@
+OVERVIEW:
+File size: 41899 lines, 910381 characters
+Letter scripts: 2
+    GURMUKHI (432478 instances)
+    LATIN (3 instances): lŸ
+Number scripts: 1
+    GURMUKHI (1 instance): ੧
+Other character groups: 8
+    GURMUKHI_MODIFIERS (319647 instances):  ਂ ਃ ਼ ਾ ਿ ੀ ੁ ੂ ੇ ੈ ੋ ੌ ੍ ੰ ੱ
+    SPACE (96079 instances)
+    ASCII_PUNCTUATION (15926 instances): !"(),-:;?[]|
+    SPACING_MODIFIER_LETTERS (4213 instances): ʼ
+    DEVANAGARI_MODIFIERS (127 instances):  ा ि ी ु ू ृ े ै ौ ्
+    GENERAL_PUNCTUATION (6 instances): ‘’
+    DEVANAGARI_PUNCTUATION (1 instance): ॰
+    ZERO_WIDTH (1 instance)
+Non-canonical character combinations: 75
+Words with characters from multiple scripts: 1 category, 3 unique types, 3 instances
+
+DETAILS:
+Non-canonical character combinations: 75
+    Non-canonical: ਯੈ਼ (ਯ + ੈ + ਼, count: 1)  Canonical: ਯ਼ੈ (REORDERED, ਯ + ਼ + ੈ, count: 0)
+    Non-canonical: ਸ਼ (ਸ਼, count: 25244)  Canonical: ਸ਼ (NFC, ਸ + ਼, count: 14)
+    Non-canonical: ਸ਼ਃ (ਸ਼ + ਃ, count: 66)  Canonical: ਸ਼ਃ (NFC, ਸ + ਼ + ਃ, count: 0)
+    Non-canonical: ਸ਼਼ (ਸ਼ + ਼, count: 1356)  Canonical: ਸ਼਼ (NFC, ਸ + ਼ + ਼, count: 13)
+    Non-canonical: ਸ਼਼ਃ (ਸ਼ + ਼ + ਃ, count: 51)  Canonical: ਸ਼਼ਃ (NFC, ਸ + ਼ + ਼ + ਃ, count: 0)
+    Non-canonical: ਸ਼਼ਾ (ਸ਼ + ਼ + ਾ, count: 929)  Canonical: ਸ਼਼ਾ (NFC, ਸ + ਼ + ਼ + ਾ, count: 8)
+    Non-canonical: ਸ਼਼ਾा (ਸ਼ + ਼ + ਾ + ा, count: 1)  Canonical: ਸ਼਼ਾा (NFC, ਸ + ਼ + ਼ + ਾ + ा, count: 0)
+    Non-canonical: ਸ਼਼ਾਂ (ਸ਼ + ਼ + ਾ + ਂ, count: 678)  Canonical: ਸ਼਼ਾਂ (NFC, ਸ + ਼ + ਼ + ਾ + ਂ, count: 3)
+    Non-canonical: ਸ਼਼ਾਃ (ਸ਼ + ਼ + ਾ + ਃ, count: 18)  Canonical: ਸ਼਼ਾਃ (NFC, ਸ + ਼ + ਼ + ਾ + ਃ, count: 0)
+    Non-canonical: ਸ਼਼ਾੰ (ਸ਼ + ਼ + ਾ + ੰ, count: 3)  Canonical: ਸ਼਼ਾੰ (NFC, ਸ + ਼ + ਼ + ਾ + ੰ, count: 0)
+    Non-canonical: ਸ਼਼ਾੱ (ਸ਼ + ਼ + ਾ + ੱ, count: 4)  Canonical: ਸ਼਼ਾੱ (NFC, ਸ + ਼ + ਼ + ਾ + ੱ, count: 0)
+    Non-canonical: ਸ਼਼ਿ (ਸ਼ + ਼ + ਿ, count: 745)  Canonical: ਸ਼਼ਿ (NFC, ਸ + ਼ + ਼ + ਿ, count: 4)
+    Non-canonical: ਸ਼਼ਿੰ (ਸ਼ + ਼ + ਿ + ੰ, count: 1)  Canonical: ਸ਼਼ਿੰ (NFC, ਸ + ਼ + ਼ + ਿ + ੰ, count: 0)
+    Non-canonical: ਸ਼਼ਿੱ (ਸ਼ + ਼ + ਿ + ੱ, count: 15)  Canonical: ਸ਼਼ਿੱ (NFC, ਸ + ਼ + ਼ + ਿ + ੱ, count: 0)
+    Non-canonical: ਸ਼਼ੀ (ਸ਼ + ਼ + ੀ, count: 110)  Canonical: ਸ਼਼ੀ (NFC, ਸ + ਼ + ਼ + ੀ, count: 0)
+    Non-canonical: ਸ਼਼ੀਃ (ਸ਼ + ਼ + ੀ + ਃ, count: 20)  Canonical: ਸ਼਼ੀਃ (NFC, ਸ + ਼ + ਼ + ੀ + ਃ, count: 0)
+    Non-canonical: ਸ਼਼ੁ (ਸ਼ + ਼ + ੁ, count: 674)  Canonical: ਸ਼਼ੁ (NFC, ਸ + ਼ + ਼ + ੁ, count: 2)
+    Non-canonical: ਸ਼਼ੁु (ਸ਼ + ਼ + ੁ + ु, count: 1)  Canonical: ਸ਼਼ੁु (NFC, ਸ + ਼ + ਼ + ੁ + ु, count: 0)
+    Non-canonical: ਸ਼਼ੁਃ (ਸ਼ + ਼ + ੁ + ਃ, count: 21)  Canonical: ਸ਼਼ੁਃ (NFC, ਸ + ਼ + ਼ + ੁ + ਃ, count: 0)
+    Non-canonical: ਸ਼਼ੁੰ (ਸ਼ + ਼ + ੁ + ੰ, count: 1)  Canonical: ਸ਼਼ੁੰ (NFC, ਸ + ਼ + ਼ + ੁ + ੰ, count: 0)
+    Non-canonical: ਸ਼਼ੂ (ਸ਼ + ਼ + ੂ, count: 11)  Canonical: ਸ਼਼ੂ (NFC, ਸ + ਼ + ਼ + ੂ, count: 0)
+    Non-canonical: ਸ਼਼ੂੰ (ਸ਼ + ਼ + ੂ + ੰ, count: 3)  Canonical: ਸ਼਼ੂੰ (NFC, ਸ + ਼ + ਼ + ੂ + ੰ, count: 0)
+    Non-canonical: ਸ਼਼ੂੱ (ਸ਼ + ਼ + ੂ + ੱ, count: 1)  Canonical: ਸ਼਼ੂੱ (NFC, ਸ + ਼ + ਼ + ੂ + ੱ, count: 0)
+    Non-canonical: ਸ਼਼ੇ (ਸ਼ + ਼ + ੇ, count: 321)  Canonical: ਸ਼਼ੇ (NFC, ਸ + ਼ + ਼ + ੇ, count: 3)
+    Non-canonical: ਸ਼਼ੇੱ (ਸ਼ + ਼ + ੇ + ੱ, count: 1)  Canonical: ਸ਼਼ੇੱ (NFC, ਸ + ਼ + ਼ + ੇ + ੱ, count: 0)
+    Non-canonical: ਸ਼਼ੈ (ਸ਼ + ਼ + ੈ, count: 7)  Canonical: ਸ਼਼ੈ (NFC, ਸ + ਼ + ਼ + ੈ, count: 0)
+    Non-canonical: ਸ਼਼ੈਃ (ਸ਼ + ਼ + ੈ + ਃ, count: 6)  Canonical: ਸ਼਼ੈਃ (NFC, ਸ + ਼ + ਼ + ੈ + ਃ, count: 0)
+    Non-canonical: ਸ਼਼ੋ (ਸ਼ + ਼ + ੋ, count: 88)  Canonical: ਸ਼਼ੋ (NFC, ਸ + ਼ + ਼ + ੋ, count: 1)
+    Non-canonical: ਸ਼਼ੋੱ (ਸ਼ + ਼ + ੋ + ੱ, count: 1)  Canonical: ਸ਼਼ੋੱ (NFC, ਸ + ਼ + ਼ + ੋ + ੱ, count: 0)
+    Non-canonical: ਸ਼਼ੌ (ਸ਼ + ਼ + ੌ, count: 7)  Canonical: ਸ਼਼ੌ (NFC, ਸ + ਼ + ਼ + ੌ, count: 0)
+    Non-canonical: ਸ਼਼ੌਃ (ਸ਼ + ਼ + ੌ + ਃ, count: 1)  Canonical: ਸ਼਼ੌਃ (NFC, ਸ + ਼ + ਼ + ੌ + ਃ, count: 0)
+    Non-canonical: ਸ਼਼੍ (ਸ਼ + ਼ + ੍, count: 7057)  Canonical: ਸ਼਼੍ (NFC, ਸ + ਼ + ਼ + ੍, count: 24)
+    Non-canonical: ਸ਼਼ੰ (ਸ਼ + ਼ + ੰ, count: 146)  Canonical: ਸ਼਼ੰ (NFC, ਸ + ਼ + ਼ + ੰ, count: 1)
+    Non-canonical: ਸ਼਼ੱ (ਸ਼ + ਼ + ੱ, count: 1)  Canonical: ਸ਼਼ੱ (NFC, ਸ + ਼ + ਼ + ੱ, count: 0)
+    Non-canonical: ਸ਼ਾ (ਸ਼ + ਾ, count: 952)  Canonical: ਸ਼ਾ (NFC, ਸ + ਼ + ਾ, count: 7)
+    Non-canonical: ਸ਼ਾा (ਸ਼ + ਾ + ा, count: 1)  Canonical: ਸ਼ਾा (NFC, ਸ + ਼ + ਾ + ा, count: 0)
+    Non-canonical: ਸ਼ਾी (ਸ਼ + ਾ + ी, count: 1)  Canonical: ਸ਼ਾी (NFC, ਸ + ਼ + ਾ + ी, count: 0)
+    Non-canonical: ਸ਼ਾਂ (ਸ਼ + ਾ + ਂ, count: 21)  Canonical: ਸ਼ਾਂ (NFC, ਸ + ਼ + ਾ + ਂ, count: 0)
+    Non-canonical: ਸ਼ਾਃ (ਸ਼ + ਾ + ਃ, count: 20)  Canonical: ਸ਼ਾਃ (NFC, ਸ + ਼ + ਾ + ਃ, count: 0)
+    Non-canonical: ਸ਼ਾੰ (ਸ਼ + ਾ + ੰ, count: 1)  Canonical: ਸ਼ਾੰ (NFC, ਸ + ਼ + ਾ + ੰ, count: 0)
+    Non-canonical: ਸ਼ਾੱ (ਸ਼ + ਾ + ੱ, count: 1)  Canonical: ਸ਼ਾੱ (NFC, ਸ + ਼ + ਾ + ੱ, count: 1)
+    Non-canonical: ਸ਼ਿ (ਸ਼ + ਿ, count: 993)  Canonical: ਸ਼ਿ (NFC, ਸ + ਼ + ਿ, count: 7)
+    Non-canonical: ਸ਼ਿਃ (ਸ਼ + ਿ + ਃ, count: 2)  Canonical: ਸ਼ਿਃ (NFC, ਸ + ਼ + ਿ + ਃ, count: 0)
+    Non-canonical: ਸ਼ਿੱ (ਸ਼ + ਿ + ੱ, count: 1)  Canonical: ਸ਼ਿੱ (NFC, ਸ + ਼ + ਿ + ੱ, count: 0)
+    Non-canonical: ਸ਼ੀ (ਸ਼ + ੀ, count: 304)  Canonical: ਸ਼ੀ (NFC, ਸ + ਼ + ੀ, count: 3)
+    Non-canonical: ਸ਼ੀਂ (ਸ਼ + ੀ + ਂ, count: 21)  Canonical: ਸ਼ੀਂ (NFC, ਸ + ਼ + ੀ + ਂ, count: 0)
+    Non-canonical: ਸ਼ੀਃ (ਸ਼ + ੀ + ਃ, count: 2)  Canonical: ਸ਼ੀਃ (NFC, ਸ + ਼ + ੀ + ਃ, count: 0)
+    Non-canonical: ਸ਼ੀੱ (ਸ਼ + ੀ + ੱ, count: 1)  Canonical: ਸ਼ੀੱ (NFC, ਸ + ਼ + ੀ + ੱ, count: 0)
+    Non-canonical: ਸ਼ੁ (ਸ਼ + ੁ, count: 775)  Canonical: ਸ਼ੁ (NFC, ਸ + ਼ + ੁ, count: 8)
+    Non-canonical: ਸ਼ੁृਂ (ਸ਼ + ੁ + ृ + ਂ, count: 1)  Canonical: ਸ਼ੁृਂ (NFC, ਸ + ਼ + ੁ + ृ + ਂ, count: 0)
+    Non-canonical: ਸ਼ੁਃ (ਸ਼ + ੁ + ਃ, count: 201)  Canonical: ਸ਼ੁਃ (NFC, ਸ + ਼ + ੁ + ਃ, count: 0)
+    Non-canonical: ਸ਼ੁੰ (ਸ਼ + ੁ + ੰ, count: 99)  Canonical: ਸ਼ੁੰ (NFC, ਸ + ਼ + ੁ + ੰ, count: 0)
+    Non-canonical: ਸ਼ੁੱ (ਸ਼ + ੁ + ੱ, count: 9)  Canonical: ਸ਼ੁੱ (NFC, ਸ + ਼ + ੁ + ੱ, count: 0)
+    Non-canonical: ਸ਼ੂ (ਸ਼ + ੂ, count: 46)  Canonical: ਸ਼ੂ (NFC, ਸ + ਼ + ੂ, count: 0)
+    Non-canonical: ਸ਼ੇ (ਸ਼ + ੇ, count: 409)  Canonical: ਸ਼ੇ (NFC, ਸ + ਼ + ੇ, count: 5)
+    Non-canonical: ਸ਼ੇा (ਸ਼ + ੇ + ा, count: 2)  Canonical: ਸ਼ੇा (NFC, ਸ + ਼ + ੇ + ा, count: 0)
+    Non-canonical: ਸ਼ੇਃ (ਸ਼ + ੇ + ਃ, count: 1)  Canonical: ਸ਼ੇਃ (NFC, ਸ + ਼ + ੇ + ਃ, count: 0)
+    Non-canonical: ਸ਼ੈ (ਸ਼ + ੈ, count: 55)  Canonical: ਸ਼ੈ (NFC, ਸ + ਼ + ੈ, count: 0)
+    Non-canonical: ਸ਼ੈਃ (ਸ਼ + ੈ + ਃ, count: 3)  Canonical: ਸ਼ੈਃ (NFC, ਸ + ਼ + ੈ + ਃ, count: 0)
+    Non-canonical: ਸ਼ੋ (ਸ਼ + ੋ, count: 356)  Canonical: ਸ਼ੋ (NFC, ਸ + ਼ + ੋ, count: 1)
+    Non-canonical: ਸ਼ੋे (ਸ਼ + ੋ + े, count: 2)  Canonical: ਸ਼ੋे (NFC, ਸ + ਼ + ੋ + े, count: 0)
+    Non-canonical: ਸ਼ੋਃ (ਸ਼ + ੋ + ਃ, count: 85)  Canonical: ਸ਼ੋਃ (NFC, ਸ + ਼ + ੋ + ਃ, count: 0)
+    Non-canonical: ਸ਼ੌ (ਸ਼ + ੌ, count: 80)  Canonical: ਸ਼ੌ (NFC, ਸ + ਼ + ੌ, count: 0)
+    Non-canonical: ਸ਼੍ (ਸ਼ + ੍, count: 5845)  Canonical: ਸ਼੍ (NFC, ਸ + ਼ + ੍, count: 50)
+    Non-canonical: ਸ਼ੰ (ਸ਼ + ੰ, count: 341)  Canonical: ਸ਼ੰ (NFC, ਸ + ਼ + ੰ, count: 0)
+    Non-canonical: ਸ਼ੱ (ਸ਼ + ੱ, count: 29)  Canonical: ਸ਼ੱ (NFC, ਸ + ਼ + ੱ, count: 0)
+    Non-canonical: ਸ਼਼ (ਸ + ਼ + ਼, count: 13)  Canonical: ਸ਼ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼, count: 14)
+    Non-canonical: ਸ਼਼ਾ (ਸ + ਼ + ਼ + ਾ, count: 8)  Canonical: ਸ਼ਾ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ਾ, count: 7)
+    Non-canonical: ਸ਼਼ਾਂ (ਸ + ਼ + ਼ + ਾ + ਂ, count: 3)  Canonical: ਸ਼ਾਂ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ਾ + ਂ, count: 0)
+    Non-canonical: ਸ਼਼ਿ (ਸ + ਼ + ਼ + ਿ, count: 4)  Canonical: ਸ਼ਿ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ਿ, count: 7)
+    Non-canonical: ਸ਼਼ੁ (ਸ + ਼ + ਼ + ੁ, count: 2)  Canonical: ਸ਼ੁ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ੁ, count: 8)
+    Non-canonical: ਸ਼਼ੇ (ਸ + ਼ + ਼ + ੇ, count: 3)  Canonical: ਸ਼ੇ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ੇ, count: 5)
+    Non-canonical: ਸ਼਼ੋ (ਸ + ਼ + ਼ + ੋ, count: 1)  Canonical: ਸ਼ੋ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ੋ, count: 1)
+    Non-canonical: ਸ਼਼੍ (ਸ + ਼ + ਼ + ੍, count: 24)  Canonical: ਸ਼੍ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ੍, count: 50)
+    Non-canonical: ਸ਼਼ੰ (ਸ + ਼ + ਼ + ੰ, count: 1)  Canonical: ਸ਼ੰ (REMOVED-DUPLICATE-DIACRITIC, ਸ + ਼ + ੰ, count: 0)
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (GURMUKHI, LATIN):
+    ਈਸ਼੍ਵਰੇਣਾਦŸाਂ count: 1, line: 26904
+    ਦਾਸ੍ਯਤਿl count: 1, line: 23357
+    ਪਤਤਿl count: 1, line: 23410
+ZERO_WIDTH characters:
+    ‌ U+200C ZERO WIDTH NON-JOINER count: 1, line: 27407
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 2, lines: 24945, 24954
+    " U+0022 QUOTATION MARK count: 128, lines: 23282, 23285, 23288, 23908, 23973
+    ( U+0028 LEFT PARENTHESIS count: 1493, lines: 23216, 23217, 23220, 23226, 23229
+    ) U+0029 RIGHT PARENTHESIS count: 1493, lines: 23216, 23217, 23220, 23226, 23229
+    , U+002C COMMA count: 3900, lines: 23216, 23218, 23220, 23223, 23225
+    - U+002D HYPHEN-MINUS count: 37, lines: 23303, 23663, 23754, 23906, 24365
+    : U+003A COLON count: 9, lines: 23220, 23255, 23291, 23669, 23973
+    ; U+003B SEMICOLON count: 620, lines: 23229, 23230, 23254, 23265, 23276
+    ? U+003F QUESTION MARK count: 1022, lines: 23240, 23242, 23268, 23275, 23316
+    [ U+005B LEFT SQUARE BRACKET count: 1, line: 30977
+    ] U+005D RIGHT SQUARE BRACKET count: 1, line: 30977
+    | U+007C VERTICAL LINE count: 7220, lines: 23214, 23215, 23216, 23217, 23218
+GENERAL_PUNCTUATION characters:
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+SPACE characters:
+      U+0020 SPACE count: 96077, lines: 23214, 23215, 23216, 23217, 23218
+      U+00A0 NO-BREAK SPACE count: 2, lines: 23231, 23233
+BASIC_LATIN characters:
+    l U+006C LATIN SMALL LETTER L count: 2, examples: ਦਾਸ੍ਯਤਿl (l.23357), ਪਤਤਿl (l.23410)
+LATIN_EXTENDED_A characters:
+    Ÿ U+0178 LATIN CAPITAL LETTER Y WITH DIAERESIS count: 1, example: ਈਸ਼੍ਵਰੇਣਾਦŸाਂ (l.26904)
+SPACING_MODIFIER_LETTERS characters:
+    ʼ U+02BC MODIFIER LETTER APOSTROPHE count: 4213, examples: ਮ੍ਰੁʼਤੋਰਿਯਸ੍ਯ (l.23219), ਭ੍ਰਾਤ੍ਰੁਂʼਸ਼੍ਚ (l.23224), ਨੀਵ੍ਰੁʼਤਃ (l.23244), ਤਾਦ੍ਰੁʼਗੇਕੋ (l.23244), ਦ੍ਰੁʼਸ਼਼੍ਟਾਭਵਤ੍ (l.23245)
+DEVANAGARI characters:
+     ा U+093E DEVANAGARI VOWEL SIGN AA count: 38, examples: ਅाਗਮਾਮ (l.23240), ਰ੍ਵਿਰੋਧਯਿਤੁਞ੍ਚਾਗਤੇाਸ੍ਮਿ (l.23520), ਸੇाਪਿ (l.23523, 23524), ਯੀਸ਼ੇाਰਨ੍ਤਿਕੰ (l.23695)
+     ि U+093F DEVANAGARI VOWEL SIGN I count: 3, examples: ਕ੍ਸ਼਼ੁਦ੍ਰਪ੍ਰਾਏिਨਾਮ੍ (l.23810), ਚਰ੍ਤੁिਦਸ਼ੋ (l.24362), ਰ੍ਪਾिਥਵਪੁਰੁਸ਼਼ਸ੍ਯਾਙ੍ਗਾਨਿ (l.29589)
+     ी U+0940 DEVANAGARI VOWEL SIGN II count: 4, examples: ਉਦ੍ਯੋਗਾी (l.27005), ਰ੍ਭਾीਤ੍ਯਾ (l.29606), ਤ੍ਰਾीਨ੍ (l.30262), ਸਰ੍ੱਵਵੰਸ਼ਾीਯਾਸ਼੍ਚਤੁਸ਼੍ਚਤ੍ਵਾਰਿੰਸ਼ਤ੍ਸਹਸ੍ਰਾਧਿਕਲਕ੍ਸ਼਼ਲੋਕਾ (l.30882)
+     ु U+0941 DEVANAGARI VOWEL SIGN U count: 15, examples: ਕੁਰਿु (l.23353), ਪੁुਤ੍ਰੇਣ (l.23926), ਕਰ੍ੱਤਾुਮ੍ (l.24478), ਬੈਥਨਿਯਾਪੁुਰੇ (l.24826), ਸ੍ਵਚਕ੍ਸ਼਼ੁुਸ਼਼ਿ (l.25256)
+     ू U+0942 DEVANAGARI VOWEL SIGN UU count: 1, example: ਸਮੂूਹਲੋਕਾ (l.31079)
+     ृ U+0943 DEVANAGARI VOWEL SIGN VOCALIC R count: 10, examples: ਰੁʼृਤੀਯਨ੍ਤੇ (l.23347), ਰੁʼृਤੀਯਿਸ਼਼੍ਯਨ੍ਤੇ (l.23508), ਰੁʼृਤੀਯਾਂ (l.24036), ਦ੍ਰੁʼृਸ਼਼੍ਟ੍ਵਾ (l.24448), ਯੀਸ਼ੁृਂ (l.24896)
+     े U+0947 DEVANAGARI VOWEL SIGN E count: 44, examples: ਸ੍ਵਸ੍ਵਪਿਤ੍ਰੋे (l.23507), ਸ੍ਵਸ੍ਥਾਨੇे (l.24175), ਤਥੋेਪਾਯੰ (l.24727), ਕੁेੱਕੁਟੋ (l.24891), ਯੋेਹਨ੍ (l.24975)
+     ै U+0948 DEVANAGARI VOWEL SIGN AI count: 9, examples: ਏैੱਛਤ੍ (l.27078), ਪੌैਲਬਰ੍ਣੱਬਾਵਕ੍ਸ਼਼ੋਭੌ (l.27477), ਭੂਮੌै (l.27779), ਪੌैेਲੋਕ੍ਤਵਾਕ੍ਯਤੋਪਿ (l.27934), ਏैਕ੍ਯੰ (l.29342)
+     ौ U+094C DEVANAGARI VOWEL SIGN AU count: 1, example: ਸ਼੍ਸ਼਼੍ਯਿौ (l.23901)
+     ् U+094D DEVANAGARI SIGN VIRAMA count: 2, examples: ਹਿ्ਨ (l.23792), ਕਿਞਿ्ਚਦਾਸ਼੍ਚਰ੍ੱਯਕਰ੍ੰਮ (l.26012)
+    ॰ U+0970 DEVANAGARI ABBREVIATION SIGN count: 1, line: 26904
+GURMUKHI characters:
+     ਂ U+0A02 GURMUKHI SIGN BINDI count: 4666, examples: ਜਾਯਾਯਾਂ (l.23219), ਭ੍ਰਾਤ੍ਰੁਂʼਸ਼੍ਚ (l.23224), ਤਾਂ (l.23232), ਤਦਾਨੀਂ (l.23233), ਨਿਜਾਂ (l.23233)
+     ਃ U+0A03 GURMUKHI SIGN VISARGA count: 8326, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਪੇਰਸਃ (l.23216), ਪੁਤ੍ਰਃ (l.23217), ਯਿਸ਼ਯਃ (l.23218)
+    ਅ U+0A05 GURMUKHI LETTER A count: 5747, examples: ਅ (l.23216, 23217, 23220, 23226), ਅਸੋਰਃ (l.23227)
+    ਆ U+0A06 GURMUKHI LETTER AA count: 1805, examples: ਆਸਾ (l.23220), ਆਹਮ੍ (l.23222), ਆਮੋਨ੍ (l.23223), ਆਖੀਮ੍ (l.23227), ਆ (l.23230)
+    ਇ U+0A07 GURMUKHI LETTER I count: 1444, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਇਸ੍ਹਾਕ੍ (l.23215), ਇਲੀਯਾਕੀਮ੍ (l.23226), ਇਲੀਹੂਦ੍ (l.23227)
+    ਈ U+0A08 GURMUKHI LETTER II count: 1025, examples: ਈਸ਼੍ਵਰਃ (l.23236), ਈਸ਼੍ਵਰੇਣ (l.23250, 23253), ਈਸ਼੍ਵਰਾਤ੍ (l.23260), ਈਸ਼੍ਵਰ (l.23270)
+    ਉ U+0A09 GURMUKHI LETTER U count: 1116, examples: ਉਸ਼਼ਿਯਃ (l.23221), ਉੱਧਰਿਸ਼਼੍ਯਤਿ (l.23234), ਉੱਥਾਯ (l.23237), ਉਦ੍ਵਿਜ੍ਯ (l.23241), ਉਦ੍ਭਵਿਸ਼਼੍ਯਤੀ (l.23244)
+    ਊ U+0A0A GURMUKHI LETTER UU count: 39, examples: ਊਚੁਃ (l.23735, 23736, 24085), ਊਰ੍ਦ੍ੱਵੇ (l.24235), ਊਰ੍ਦ੍ੱਵਾਦਧੋ (l.24249)
+    ਏ U+0A0F GURMUKHI LETTER EE count: 1790, examples: ਏਤਾਦ੍ਰੁʼਸ਼ੀਮ੍ (l.23247), ਏਤਦ੍ਵਚਨੰ (l.23265), ਏਤੇਭ੍ਯਃ (l.23270), ਏਸ਼਼ (l.23278), ਏਤਸ੍ਮਿੰਨੇਵ (l.23278)
+    ਐ U+0A10 GURMUKHI LETTER AI count: 31, examples: ਐਸ਼੍ਵਰ੍ੱਯਵਾਨਪਿ (l.23380), ਐੱਛੰ (l.24024, 25621), ਐੱਛਤ੍ (l.24495, 25379)
+    ਓ U+0A13 GURMUKHI LETTER OO count: 6, examples: ਓਬੇਦ੍ (l.23218, 25126), ਓਬੇਦਃ (l.25126), ਓਨੀਸ਼਼ਿਮਨਾਮਾਨਞ੍ਚ (l.29618), ਓਨੀਸ਼਼ਿਮਮ੍ (l.30015)
+    ਕ U+0A15 GURMUKHI LETTER KA count: 22083, examples: ਇਸ੍ਹਾਕ੍ (l.23215), ਯਾਕੂਬ੍ (l.23215), ਹਿਸ਼਼੍ਕਿਯਃ (l.23222), ਪ੍ਰਵਸਨਕਾਲੇ (l.23225), ਇਲੀਯਾਕੀਮ੍ (l.23226)
+    ਖ U+0A16 GURMUKHI LETTER KHA count: 1525, examples: ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਯਿਖਨਿਯੰ (l.23224), ਯਿਖਨਿਯਃ (l.23225), ਆਖੀਮ੍ (l.23227), ਖ੍ਰੀਸ਼਼੍ਟਮ੍ (l.23229)
+    ਗ U+0A17 GURMUKHI LETTER GA count: 6010, examples: ਗਰ੍ਭੇ (l.23216, 23218, 23229), ਬਾਬਿਲ੍ਨਗਰੇ (l.23224), ਵਾਗ੍ਦੱਤਾਸੀਤ੍ (l.23231)
+    ਘ U+0A18 GURMUKHI LETTER GHA count: 543, examples: ਘਨਸਮ੍ਪੱਤਿੰ (l.23249), ਘਾਤਯਾਮਾਸ (l.23254), ਪ੍ਰਸ੍ਤਰਾਘਾਤਸ੍ਤ੍ਵਾਂ (l.23284), ਘਰਿਸ਼਼੍ਯਨ੍ਤਿ (l.23284), ਜਲਘੇਸ੍ਤਟੇ (l.23291)
+    ਙ U+0A19 GURMUKHI LETTER NGA count: 547, examples: ਸਙ੍ਗਮਾਤ੍ (l.23231), ਕਲਙ੍ਗੰ (l.23232), ਸਙ੍ਗੀਸ਼੍ਵਰਇਤ੍ਯਰ੍ਥਃ (l.23235), ਸ਼ਙ੍ਕਿਤਵਾਨ੍ (l.23260), ਮਹਾਙ੍ਗਰੋਮਜੰ (l.23265)
+    ਚ U+0A1A GURMUKHI LETTER CA count: 7631, examples: ਭ੍ਰਾਤਰਸ਼੍ਚ (l.23215), ਭ੍ਰਾਤ੍ਰੁਂʼਸ਼੍ਚ (l.23224), ਚਤੁਰ੍ਦਸ਼ਪੁਰੁਸ਼਼ਾਃ (l.23230), ਚਤੁਰ੍ਦਸ਼ਪੁਰੁਸ਼਼ਾ (l.23230), ਮਨਸ਼੍ਚਕ੍ਰੇ (l.23232)
+    ਛ U+0A1B GURMUKHI LETTER CHA count: 1032, examples: ਅਨਿੱਛਨ੍ (l.23232), ਨੋਪਾਗੱਛਤ੍ (l.23238), ਪਪ੍ਰੱਛ (l.23242), ਆਗੱਛ੍ਤੋ (l.23268), ਆਗੱਛਤਿ (l.23272)
+    ਜ U+0A1C GURMUKHI LETTER JA count: 5640, examples: ਜਜ੍ਞਾਤੇ (l.23216), ਜਜ੍ਞੇ (l.23218, 23219), ਰਾਜਃ (l.23219), ਜਾਯਾਯਾਂ (l.23219)
+    ਝ U+0A1D GURMUKHI LETTER JHA count: 6, examples: ਝਞ੍ਭ੍ਸ਼ਨਿਲ (l.23438), ਝਞ੍ਭ੍ਸ਼ਦ੍ਯ (l.23744), ਝਟਿਤਿ (l.24314), ਮਹਾਝਞ੍ਭ੍ਸ਼ਗਮਾਤ੍ (l.24429), ਪ੍ਰਬਲਝਞ੍ਭ੍ਸ਼ਗਮਾਦ੍ (l.25338)
+    ਞ U+0A1E GURMUKHI LETTER NYA count: 2349, examples: ਜਜ੍ਞਾਤੇ (l.23216), ਜਜ੍ਞੇ (l.23218, 23219), ਤਦੀਯਞ੍ਚ (l.23235), ਸੰਜ੍ਞਕੇ (l.23239)
+    ਟ U+0A1F GURMUKHI LETTER TTA count: 2256, examples: ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਯਿਹੋਸ਼ਾਫਟ੍ (l.23221), ਖ੍ਰੀਸ਼਼੍ਟਮ੍ (l.23229), ਖ੍ਰੀਸ਼਼੍ਟਸ੍ਯ (l.23230), ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਯ (l.23231)
+    ਠ U+0A20 GURMUKHI LETTER TTHA count: 738, examples: ਤਿਸ਼਼੍ਠਨ੍ਤਸ੍ਤਦੀਯਾਂ (l.23240), ਕੁਠਾਰ (l.23271), ਅਨਾਹਾਰਸ੍ਤਿਸ਼਼੍ਠਨ੍ (l.23280), ਧਰ੍ੰਮਾਨੁਸ਼਼੍ਠਾਨਾਤ੍ (l.23323), ਧਰ੍ੰਮਾਨੁਸ਼਼੍ਠਾਨੇ (l.23323)
+    ਡ U+0A21 GURMUKHI LETTER DDA count: 466, examples: ਦਣ੍ਡਵਦ੍ (l.23249, 23287), ਭਾਣ੍ਡਾਗਾਰੇ (l.23273), ਚੂਡੋਪਰਿ (l.23283), ਸਰ੍ੱਵਪ੍ਰਕਾਰਪੀਡਾਸ਼੍ਚ (l.23301)
+    ਢ U+0A22 GURMUKHI LETTER DDHA count: 140, examples: ਵੋਢੁਮਪਿ (l.23272), ਮੂਢ (l.23325), ਨਾਵਮਾਰੂਢੇ (l.23437), ਦ੍ਰੁʼਢਮਾਜ੍ਞਾਪ੍ਯ (l.23478), ਨਿਗੂਢਾਂ (l.23619)
+    ਣ U+0A23 GURMUKHI LETTER NNA count: 4816, examples: ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਹਿਸ਼਼੍ਰੋਣ੍ (l.23216), ਪਵਿਤ੍ਰੇਣਾਤ੍ਮਨਾ (l.23231), ਨਿਦੇਸ਼ਾਨੁਸਾਰੇਣ (l.23237), ਪ੍ਰਣਨ੍ਤੁਮ੍ (l.23240)
+    ਤ U+0A24 GURMUKHI LETTER TA count: 57712, examples: ਸਨ੍ਤਾਨੋ (l.23214), ਤਸ੍ਯ (l.23214, 23215), ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਪੁਤ੍ਰ (l.23215)
+    ਥ U+0A25 GURMUKHI LETTER THA count: 7213, examples: ਯੋਥਮ੍ (l.23222), ਅਰ੍ਥਾਦ੍ (l.23229), ਇੱਥਮ੍ (l.23230), ਕਥ੍ਥਤੇ (l.23231), ਤਥੈਵ (l.23233)
+    ਦ U+0A26 GURMUKHI LETTER DA count: 16883, examples: ਦਾਯੂਦ੍ (l.23214), ਯਿਹੂਦਾਸ੍ਤਸ੍ਯ (l.23215), ਤਸ੍ਮਾਦ੍ (l.23216), ਯਿਹੂਦਾਤਸ੍ਤਾਮਰੋ (l.23216), ਮੀਨਾਦਬ੍ (l.23217)
+    ਧ U+0A27 GURMUKHI LETTER DHA count: 4860, examples: ਉੱਧਰਿਸ਼਼੍ਯਤਿ (l.23234), ਨਾਮਧੇਯੰ (l.23235), ਸਿੱਧਮਭਵਤ੍ (l.23236), ਸਾਰ੍ੱਧਮ੍ (l.23241), ਪ੍ਰਧਾਨਯਾਜਕਾਨ੍ (l.23242)
+    ਨ U+0A28 GURMUKHI LETTER NA count: 35456, examples: ਸਨ੍ਤਾਨੋ (l.23214), ਮੀਨਾਦਬ੍ (l.23217), ਨਹਸ਼ੋਨ੍ (l.23217), ਸਲ੍ਮੋਨ੍ (l.23217), ਸੁਲੇਮਾਨ੍ (l.23219)
+    ਪ U+0A2A GURMUKHI LETTER PA count: 21559, examples: ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਪੁਤ੍ਰ (l.23215), ਪੁਤ੍ਰੋ (l.23215), ਪੇਰੱਸੇਰਹੌ (l.23216), ਪੇਰਸਃ (l.23216)
+    ਫ U+0A2B GURMUKHI LETTER PHA count: 695, examples: ਯਿਹੋਸ਼ਾਫਟ੍ (l.23221), ਯੂਸ਼਼ਫ੍ (l.23229, 23233), ਯੂਸ਼਼ਫੇ (l.23231), ਰ੍ਯੂਸ਼਼ਫ੍ (l.23232)
+    ਬ U+0A2C GURMUKHI LETTER BA count: 2380, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਯਾਕੂਬ੍ (l.23215), ਮੀਨਾਦਬ੍ (l.23217), ਰਾਹਬੋ (l.23218)
+    ਭ U+0A2D GURMUKHI LETTER BHA count: 8009, examples: ਭ੍ਰਾਤਰਸ਼੍ਚ (l.23215), ਗਰ੍ਭੇ (l.23216, 23218, 23229), ਭ੍ਰਾਤ੍ਰੁਂʼਸ਼੍ਚ (l.23224)
+    ਮ U+0A2E GURMUKHI LETTER MA count: 27205, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਤਸ੍ਮਾਦ੍ (l.23216), ਯਿਹੂਦਾਤਸ੍ਤਾਮਰੋ (l.23216), ਰਾਮ੍ (l.23216)
+    ਯ U+0A2F GURMUKHI LETTER YA count: 41463, examples: ਦਾਯੂਦ੍ (l.23214), ਤਸ੍ਯ (l.23214, 23215), ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਯਾਕੂਬ੍ (l.23215)
+    ਰ U+0A30 GURMUKHI LETTER RA count: 42009, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਪੁਤ੍ਰ (l.23215)
+    ਲ U+0A32 GURMUKHI LETTER LA count: 6306, examples: ਸਲ੍ਮੋਨ੍ (l.23217), ਸੁਲੇਮਾਨ੍ (l.23219), ਬਾਬਿਲ੍ਨਗਰੇ (l.23224), ਬਾਬਿਲਿ (l.23225), ਪ੍ਰਵਸਨਕਾਲੇ (l.23225)
+    ਵ U+0A35 GURMUKHI LETTER VA count: 30132, examples: ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਪ੍ਰਵਸਨਾਤ੍ (l.23224), ਪੂਰ੍ੱਵੰ (l.23224), ਪ੍ਰਵਸਨਕਾਲੇ (l.23225), ਸਿਰੁੱਬਾਵਿਲ੍ (l.23225)
+    ਸ਼ U+0A36 GURMUKHI LETTER SHA count: 25244, examples: ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਭ੍ਰਾਤਰਸ਼੍ਚ (l.23215), ਹਿਸ਼਼੍ਰੋਣ੍ (l.23216), ਨਹਸ਼ੋਨ੍ (l.23217)
+    ਸ U+0A38 GURMUKHI LETTER SA count: 28566, examples: ਸਨ੍ਤਾਨੋ (l.23214), ਤਸ੍ਯ (l.23214, 23215), ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਇਸ੍ਹਾਕ੍ (l.23215)
+    ਹ U+0A39 GURMUKHI LETTER HA count: 8001, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਇਸ੍ਹਾਕ੍ (l.23215), ਯਿਹੂਦਾਸ੍ਤਸ੍ਯ (l.23215), ਯਿਹੂਦਾਤਸ੍ਤਾਮਰੋ (l.23216)
+     ਼ U+0A3C GURMUKHI SIGN NUKTA count: 12494, examples: ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਹਿਸ਼਼੍ਰੋਣ੍ (l.23216), ਉਸ਼਼ਿਯਃ (l.23221), ਹਿਸ਼਼੍ਕਿਯਃ (l.23222)
+     ਾ U+0A3E GURMUKHI VOWEL SIGN AA count: 59742, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਸਨ੍ਤਾਨੋ (l.23214), ਦਾਯੂਦ੍ (l.23214), ਇਸ੍ਹਾਕ੍ (l.23215)
+     ਿ U+0A3F GURMUKHI VOWEL SIGN I count: 38940, examples: ਯਿਹੂਦਾਸ੍ਤਸ੍ਯ (l.23215), ਯਿਹੂਦਾਤਸ੍ਤਾਮਰੋ (l.23216), ਹਿਸ਼਼੍ਰੋਣ੍ (l.23216), ਯਿਸ਼ਯਃ (l.23218), ਮ੍ਰੁʼਤੋਰਿਯਸ੍ਯ (l.23219)
+     ੀ U+0A40 GURMUKHI VOWEL SIGN II count: 9142, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214, 23215), ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਮੀਨਾਦਬ੍ (l.23217)
+     ੁ U+0A41 GURMUKHI VOWEL SIGN U count: 19889, examples: ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214), ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਪੁਤ੍ਰ (l.23215), ਪੁਤ੍ਰੋ (l.23215, 23216)
+     ੂ U+0A42 GURMUKHI VOWEL SIGN UU count: 4682, examples: ਦਾਯੂਦ੍ (l.23214), ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਯਾਕੂਬ੍ (l.23215), ਯਿਹੂਦਾਸ੍ਤਸ੍ਯ (l.23215), ਯਿਹੂਦਾਤਸ੍ਤਾਮਰੋ (l.23216)
+     ੇ U+0A47 GURMUKHI VOWEL SIGN EE count: 19390, examples: ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਗਰ੍ਭੇ (l.23216), ਪੇਰੱਸੇਰਹੌ (l.23216), ਜਜ੍ਞਾਤੇ (l.23216), ਪੇਰਸਃ (l.23216)
+     ੈ U+0A48 GURMUKHI VOWEL SIGN AI count: 2094, examples: ਤਥੈਵ (l.23233), ਭੈਸ਼਼ੀਃ (l.23233), ਬੈਤ੍ਲੇਹਮਿ (l.23239), ਯਿਰੂਸ਼ਾਲਮ੍ਨਗਰਸ੍ਥਿਤੈਃ (l.23241), ਸਰ੍ੱਵਮਾਨਵੈਃ (l.23241)
+     ੋ U+0A4B GURMUKHI VOWEL SIGN OO count: 12179, examples: ਸਨ੍ਤਾਨੋ (l.23214), ਪੁਤ੍ਰੋ (l.23215, 23216), ਯਿਹੂਦਾਤਸ੍ਤਾਮਰੋ (l.23216), ਹਿਸ਼਼੍ਰੋਣ੍ (l.23216)
+     ੌ U+0A4C GURMUKHI VOWEL SIGN AU count: 1254, examples: ਪੇਰੱਸੇਰਹੌ (l.23216), ਸੌਜਨ੍ਯਾਤ੍ (l.23232), ਯੀਸ਼ੌ (l.23239), ਤਸ੍ਯੌ (l.23247), ਕਟੌ (l.23265)
+     ੍ U+0A4D GURMUKHI SIGN VIRAMA count: 100309, examples: ਇਬ੍ਰਾਹੀਮਃ (l.23214), ਸਨ੍ਤਾਨੋ (l.23214), ਦਾਯੂਦ੍ (l.23214), ਤਸ੍ਯ (l.23214), ਯੀਸ਼ੁਖ੍ਰੀਸ਼਼੍ਟਸ੍ਤਸ੍ਯ (l.23214)
+    ੧ U+0A67 GURMUKHI DIGIT ONE count: 1, line: 26904
+     ੰ U+0A70 GURMUKHI TIPPI count: 19127, examples: ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ੰਮੀਨਾਦਬ੍ (l.23217), ਪੂਰ੍ੱਵੰ (l.23224), ਯਿਖਨਿਯੰ (l.23224), ਸ਼ਲ੍ਤੀਯੇਲੰ (l.23225)
+     ੱ U+0A71 GURMUKHI ADDAK count: 7413, examples: ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ (l.23214), ਪੇਰੱਸੇਰਹੌ (l.23216), ਪੂਰ੍ੱਵੰ (l.23224), ਸਿਰੁੱਬਾਵਿਲ੍ (l.23225), ਮੱਤਨ੍ (l.23228)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 2, examples: ਗਦਨ੍ਤਿ! (l.24945), ਦਦੌ! (l.24954)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 3827, examples: ਜਜ੍ਞਾਤੇ, (l.23216), ਜਜ੍ਞੇ, (l.23218), ਰਿਹਬਿਯਾਮ੍, (l.23220), ਮਿਨਸ਼ਿਃ, (l.23223), ਜਨਯਾਮਾਸ, (l.23225)
+    Word(Word)Word, count: 38, examples: ਪੁਤ੍ਰੋ(ਅ)ਬਿਯਃ, (l.23220), ਪਵਿਤ੍ਰਾਦਾਤ੍ਮਨੋ(ਅ)ਭਵਤ੍, (l.23234), ਸੋ(ਅ)ਪ੍ਰੁʼੱਛ੍ਯਤ, (l.23618), ਤਤੋ(ਅ)ਧਿਪਤਿਰਵਾਦੀਤ੍, (l.24221), ਨਿਰ੍ਦੋਸ਼਼ੋ(ਅ)ਹੰ, (l.24222)
+    Word,Word count: 11, examples: ਮਾਨ੍ਯਤੇ,ਤਰ੍ਹਿ (l.23813), ਮਿਤ੍ਰ,ਤ੍ਵੰ (l.23953), ਮਨੁਜਃ,ਸਏਵ (l.24171), ਪ੍ਰਤ੍ਯੁਵਾਚ,ਅਰੋਗਿਲੋਕਾਨਾਂ (l.24346), ਪਾਸ੍ਯਾਮਿ,ਤਾਵਦਹੰ (l.24848)
+    , count: 6, lines: 23245, 23822, 24619, 24620, 26324
+    Word," count: 6, examples: ਪਾਪਾਨ੍ਯਮੋਚਯਿਸ਼਼੍ਯਨ੍ਤ," (l.24404), ਪ੍ਰੀਯਧ੍ਵੰ," (l.24772), ਕੁਰੁਧ੍ਵੰ," (l.24773), ਭਵਿਸ਼਼੍ਯਤਿ," (l.24923), ਸਮਰ੍ਪ੍ਯਤਾਂ," (l.25065)
+    (Word)Word, count: 5, examples: (ਅ)ਕਥਯਨ੍, (l.27811, 30981), (ਅ)ਭਵਃ, (l.29867), (ਅ)ਭਵਤ, (l.30234), (ਅ)ਸ੍ਥਾਸ੍ਯਨ੍, (l.30636)
+    Word", count: 3, examples: ਵਿਖ੍ਯਾਸ੍ਯਤਿ", (l.23908), ਸ਼ਿਵਕ੍ਤਨੀ", (l.24244), ਭਵਿਸ਼਼੍ਯਨ੍ਤਿ", (l.27090)
+    Word:, count: 1, example: ਈਸ਼੍ਵਰ:, (l.23973)
+    Word,| count: 1, example: ਜਗਾਦ,| (l.24570)
+    Word(Word)Word(Word)Word, count: 1, example: ਸੋ(ਅ)ਪਵਾਦਿਤੋ(ਅ)ਭਵਤ੍, (l.27831)
+    Word,’ count: 1, example: ਬਭੂਵ,’ (l.28828)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 8, examples: ਕੈਸਰਿਯਾ-ਫਿਲਿਪਿਪ੍ਰਦੇਸ਼ਮਾਗਤ੍ਯ (l.23754), ਯਿਹੂਦਿਮਤਗ੍ਰਾਹੀ-ਆਨ੍ਤਿਯਖਿਯਾਨਗਰੀਯੋ (l.27175), ਕੁਰੀਣੀਯਸਿਕਨ੍ਦਰੀਯ-ਕਿਲਿਕੀਯਾਸ਼ੀਯਾਦੇਸ਼ੀਯਾਃ (l.27179), ਅਰਾਮ੍-ਨਹਰਯਿਮਦੇਸ਼ੇ (l.27187), ਮਿਸਰ-ਕਿਨਾਨਦੇਸ਼ਯੋ (l.27196)
+    Word-Word-Word-Word count: 4, examples: ਗਾਲੀਲ੍-ਦਿਕਾਪਨਿ-ਯਿਰੂਸ਼ਾਲਮ੍-ਯਿਹੂਦੀਯਦੇਸ਼ੇਭ੍ਯੋ (l.23303), ਯਾਕੁਬ੍-ਯੂਸ਼਼ਫ੍-ਸ਼ਿਮੋਨ੍-ਯਿਹੂਦਾਸ਼੍ਚ (l.23663), ਗਾਲੀਲ੍ਯਿਹੂਦਾ-ਯਿਰੂਸ਼ਾਲਮ੍-ਇਦੋਮ੍-ਯਰ੍ਦੰਨਦੀਪਾਰਸ੍ਥਾਨੇਭ੍ਯੋ (l.24365), ਯਾਕੂਬ੍-ਯੋਸਿ-ਯਿਹੁਦਾ-ਸ਼ਿਮੋਨਾਂ (l.24479)
+    Word-Word-Word count: 4, examples: ਗਾਲੀਲ੍ਪ੍ਰਦੇਸ਼ੀਯ-ਨਾਸਰਤੀਯ-ਭਵਿਸ਼਼੍ਯਦ੍ਵਾਦੀ (l.23906), ਪਾਰ੍ਥੀ-ਮਾਦੀ-ਅਰਾਮ੍ਨਹਰਯਿਮ੍ਦੇਸ਼ਨਿਵਾਸਿਮਨੋ (l.27027), ਫ੍ਰੁਗਿਯਾ-ਪਮ੍ਫੁਲਿਯਾ-ਮਿਸਰਨਿਵਾਸਿਨਃ (l.27028), ਆਨ੍ਤਿਯਖਿਯਾ-ਸੁਰਿਯਾ-ਕਿਲਿਕਿਯਾਦੇਸ਼ਸ੍ਥਭਿੰਨਦੇਸ਼ੀਯਭ੍ਰਾਤ੍ਰੁʼਗਣਾਯ (l.27534)
+    Word-Word-Word-Word- count: 1, example: ਯਿਹੂਦਾ-ਕੱਪਦਕਿਯਾ-ਪਨ੍ਤ-ਆਸ਼ਿਯਾ- (l.27027)
+    Word(Word)Word-Word count: 1, example: ਤਤੋ(ਅ)ਸ਼ੁਚਿ-ਭ੍ਰੁʼਤਗ੍ਰਸ੍ਤਲੋਕੇਭ੍ਯੋ (l.27251)
+    Word-Word-Word-Word-Word count: 1, example: ਪਨ੍ਤ-ਗਾਲਾਤਿਯਾ-ਕੱਪਦਕਿਯਾ-ਆਸ਼ਿਯਾ-ਬਿਥੁਨਿਯਾਦੇਸ਼ੇਸ਼਼ੁ (l.30442)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 7, examples: ਨਿਨਾਦ: (l.23255), ਯ: (l.23291), ਨਿਜਭ੍ਰਾਤੁ: (l.23669), ਲੋਕਾ: (l.24620), ਪਿਤ: (l.26677)
+    Word:| count: 1, example: ਆਸਾ:| (l.23220)
+    Word:, count: 1, example: ਈਸ਼੍ਵਰ:, (l.23973)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 602, examples: ਮਰਿਯਮ੍; (l.23229), ਚਤੁਰ੍ਦਸ਼ਪੁਰੁਸ਼਼ਾਃ; (l.23230), ਚੁਕੋਪ; (l.23254), ਚਰ੍ੰਮਕਟਿਬਨ੍ਧਨੰ; (l.23265), ਪ੍ਰਤ੍ਯਵੋਚਤ੍; (l.23276)
+    Word(Word)Word; count: 10, examples: ਸਞ੍ਚੀਯਤੇ(ਅ)ਪਿ; (l.23377), ਵਿਸ੍ਮਯਾਪੰਨੋ(ਅ)ਭੂਤ੍; (l.23424), ਭੂਕਮ੍ਪੋ(ਅ)ਭਵਤ੍; (l.24266), ਯੁਸ਼਼੍ਮਾਕਮਧਿਕਾਰੋ(ਅ)ਸ੍ਤਿ; (l.24403), ਪੁਤ੍ਰੋ(ਅ)ਭਿਸ਼਼ਿਕ੍ਤਤ੍ਰਾਤਾ; (l.25173)
+    ; count: 4, lines: 26248, 26299, 26310, 26659
+    (Word)Word; count: 2, examples: (ਅ)ਭਵਾਮ; (l.23858), (ਅ)ਦੀਯਤ; (l.31111)
+    Word;Word count: 1, example: ਦ੍ਰਕ੍ਸ਼਼੍ਯਥ;ਅਹੰ (l.26756)
+    Word;" count: 1, example: ਸਮਾਗਮੰ;" (l.30209)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 1002, examples: ਕੁਤ੍ਰਾਸ੍ਤੇ? (l.23240), ਜਨਿਸ਼਼੍ਯਤੇ? (l.23242), ਕਸ਼੍ਚੇਤਿਤਵਾਨ੍? (l.23268), ਆਗੱਛਸਿ? (l.23275), ਭਵਿਸ਼਼੍ਯਤਿ? (l.23316)
+    Word(Word)Word? count: 10, examples: ਕਰਿਸ਼਼੍ਯੇ(ਅ)ਹੰ? (l.25692), ਪਾਪੇਨਾਨ੍ਧੋ(ਅ)ਜਾਯਤ? (l.26511), ਵਿਪਕ੍ਸ਼਼ੋ(ਅ)ਸ੍ਮਾਕੰ? (l.28215), ਕੋ(ਅ)ਭਵਤ੍? (l.28311), ਕੋ(ਅ)ਧਿਕਾਰਃ? (l.28534)
+    ? count: 6, lines: 23719, 23984, 24361, 26254, 26904
+    (Word)Word? count: 3, examples: (ਅ)ਭਿਸ਼਼ਿਕ੍ਤਸ੍ਤ੍ਰਤਾ? (l.24884), (ਅ)ਕਰੋਤ੍? (l.26535), (ਅ)ਸ੍ਤਿ? (l.30435)
+    Word?" count: 1, example: ਮਾਂ?" (l.24929)
+TOKENS WITH ORPHAN MODIFIER:
+    ModifierWord count: 11, examples: ੱਤਕ੍ਸ਼਼ੇਤ੍ਰੰ (l.23652), ੰਨਾਜ੍ਞਾ (l.24539), ੱਕ (l.26800), ੱਕਾਰ੍ੱਤਨਾਮਕਸ਼੍ਚੈਕੋ (l.28427), ੱਕਾਪਿ (l.28471)
+    Word(Word)ModifierWord count: 3, examples: ਪਿਤਰੇ(ਅ)ੱਟਾਲਿਕਾਧਃਕੋਸ਼਼੍ਠੇ (l.24889), ਸੈਨ੍ਯਗਣੋ(ਅ)ੱਟਾਲਿਕਾਮ੍ (l.24911), ਪਵਿਤ੍ਰਸ੍ਯਾਤ੍ਮਨੋ(ਅ)ਂਸ਼ਿਨੋ (l.30115)
+    (Word)ModifierWord count: 1, example: (ਅ)ੰਮੀਨਾਦਬ੍ (l.23217)
+TOKENS WITH | (U+007C VERTICAL LINE):
+    Word| count: 6923, examples: ਪੂਰ੍ੱਵਪੁਰੁਸ਼਼ਵੰਸ਼ਸ਼੍ਰੇਣੀ| (l.23214), ਭ੍ਰਾਤਰਸ਼੍ਚ| (l.23215), ਸਲ੍ਮੋਨ੍| (l.23217), ਯਿਸ਼ਯਃ| (l.23218), ਜਜ੍ਞੇ| (l.23219)
+    Word(Word)Word| count: 111, examples: ਸੁਤੋ(ਅ)ਸੋਰ੍| (l.23226), ਸੋ(ਅ)ਨ੍ਵਮਨ੍ਯਤ| (l.23276), ਯਰ੍ੱਦਨ੍ਪਾਰੇ(ਅ)ਬ੍ਧਿਰੋਧਸਿ| (l.23292), ਕਿਯਨ੍ਤੋ(ਅ)ਲ੍ਪਾਃ| (l.23399), ਮਹਾਵ੍ਰਜੋ(ਅ)ਚਰਤ੍| (l.23444)
+    Word|| count: 72, examples: ਭਵਿਸ਼਼੍ਯਤਿ|| (l.23235), ਉਦ੍ਭਵਿਸ਼਼੍ਯਤੀ|| (l.23244), ਹਿ|| (l.23255), ਰਵਃ|| (l.23264), ਕਰੈਃ|| (l.23284)
+    (Word)Word| count: 30, examples: (ਅ)ਰਾਮ੍| (l.23216), (ਅ)ਧਃਕ੍ਸ਼਼ੇਪ੍ਸ੍ਯਨ੍ਤੇ| (l.24788), (ਅ)ਰਾਵੀਤ੍| (l.24895), (ਅ)ਵਰੋਹਯਾਮਾਸੁਃ| (l.25195), (ਅ)ਕਰੋਤ੍| (l.27072)
+    Word(Word)Word(Word)Word| count: 2, examples: ਭਾਰੋ(ਅ)ਰ੍ਪਿਤੋ(ਅ)ਸ੍ਤਿ| (l.28625), ਤੇ(ਅ)ਨਾਜ੍ਞਾਗ੍ਰਾਹਿਣੋ(ਅ)ਭਵਨ੍| (l.30511)
+    (Word)Word|| count: 2, examples: (ਅ)ਲਸਾਸ਼੍ਚੋਦਰਭਾਰਤਃ|| (l.29971), (ਅ)ਭਵਤ੍ਂ|| (l.30969)
+    Word:| count: 1, example: ਆਸਾ:| (l.23220)
+    Word"|| count: 1, example: ਭਵਿਸ਼਼੍ਯਤਿ"|| (l.24154)
+    Word,| count: 1, example: ਜਗਾਦ,| (l.24570)
+    Word"| count: 1, example: ਜੀਵਿਸ਼਼੍ਯਤਿ"| (l.28015)
+    | count: 1, line: 31139
+TOKENS WITH ‌ (U+200C ZERO WIDTH NON-JOINER):
+    Word<U+200C>Word count: 1, example: ਹੇਰੋਦ੍‌ਰਾਜੋ (l.27407)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 2, examples: ‘ਤਸ੍ਯ (l.27620), ‘ਆਦਿਪੁਰੁਸ਼਼ (l.28828)
+    ‘Word’ count: 1, example: ‘ਅਵਿਜ੍ਞਾਤੇਸ਼੍ਵਰਾਯ’ (l.27615)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    ‘Word’ count: 1, example: ‘ਅਵਿਜ੍ਞਾਤੇਸ਼੍ਵਰਾਯ’ (l.27615)
+    Word’ count: 1, example: ਹਿ’ (l.27620)
+    Word,’ count: 1, example: ਬਭੂਵ,’ (l.28828)

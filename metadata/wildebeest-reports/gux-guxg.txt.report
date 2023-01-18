@@ -1,0 +1,316 @@
+OVERVIEW:
+File size: 41899 lines, 946709 characters
+Letter scripts: 1
+    LATIN (683005 instances)
+Number scripts: 1
+    ASCII_DIGIT (153 instances): 0123456789
+Other character groups: 4
+    SPACE (191661 instances)
+    ASCII_PUNCTUATION (25292 instances): !'(),-./:;?[]
+    COMBINING_DIACRITICAL_MARKS (2649 instances):  ̀ ́ ̃ ̄ ̇ ̵
+    GENERAL_PUNCTUATION (1987 instances): «»“”
+Non-canonical character combinations: 17
+
+DETAILS:
+Non-canonical character combinations: 17
+    Non-canonical: Ṁ (NFD, M + ̇, count: 1)  Canonical: Ṁ (NFC, Ṁ, count: 0)
+    Non-canonical: Ñ (NFD, N + ̃, count: 5)  Canonical: Ñ (NFC, Ñ, count: 0)
+    Non-canonical: à (NFD, a + ̀, count: 88)  Canonical: à (NFC, à, count: 0)
+    Non-canonical: á (NFD, a + ́, count: 753)  Canonical: á (NFC, á, count: 0)
+    Non-canonical: á́ (NFD, a + ́ + ́, count: 4)  Canonical: á́ (NFC, á + ́, count: 0)
+    Non-canonical: ċ (NFD, c + ̇, count: 1)  Canonical: ċ (NFC, ċ, count: 0)
+    Non-canonical: ḋ (NFD, d + ̇, count: 1)  Canonical: ḋ (NFC, ḋ, count: 0)
+    Non-canonical: é (NFD, e + ́, count: 12)  Canonical: é (NFC, é, count: 1)
+    Non-canonical: ġ (NFD, g + ̇, count: 1)  Canonical: ġ (NFC, ġ, count: 0)
+    Non-canonical: ṁ (NFD, m + ̇, count: 1)  Canonical: ṁ (NFC, ṁ, count: 0)
+    Non-canonical: ǹ (NFD, n + ̀, count: 6)  Canonical: ǹ (NFC, ǹ, count: 0)
+    Non-canonical: ń (NFD, n + ́, count: 948)  Canonical: ń (NFC, ń, count: 0)
+    Non-canonical: ń́ (NFD, n + ́ + ́, count: 8)  Canonical: ń́ (NFC, ń + ́, count: 0)
+    Non-canonical: ñ (NFD, n + ̃, count: 775)  Canonical: ñ (NFC, ñ, count: 1077)
+    Non-canonical: ñ̃ (NFD, n + ̃ + ̃, count: 5)  Canonical: ñ̃ (NFC, ñ + ̃, count: 0)
+    Non-canonical: ó (NFD, o + ́, count: 2)  Canonical: ó (NFC, ó, count: 0)
+    Non-canonical: ũ (NFD, u + ̃, count: 1)  Canonical: ũ (NFC, ũ, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 207, lines: 23270, 23275, 23288, 23360, 23364
+    ' U+0027 APOSTROPHE count: 1004, lines: 23439, 23443, 23445, 23446, 23487
+    ( U+0028 LEFT PARENTHESIS count: 154, lines: 23231, 23236, 23459, 23478, 23545
+    ) U+0029 RIGHT PARENTHESIS count: 151, lines: 23231, 23236, 23459, 23478, 23545
+    , U+002C COMMA count: 11767, lines: 23214, 23216, 23218, 23219, 23224
+    - U+002D HYPHEN-MINUS count: 111, lines: 23491, 23504, 23703, 23714, 23834
+    . U+002E FULL STOP count: 9137, lines: 23224, 23227, 23229, 23230, 23231
+    / U+002F SOLIDUS count: 2, lines: 27722, 29090
+    : U+003A COLON count: 1401, lines: 23214, 23233, 23235, 23240, 23243
+    ; U+003B SEMICOLON count: 473, lines: 23215, 23216, 23217, 23218, 23219
+    ? U+003F QUESTION MARK count: 882, lines: 23240, 23316, 23349, 23350, 23376
+    [ U+005B LEFT SQUARE BRACKET count: 2, lines: 26021, 30585
+    ] U+005D RIGHT SQUARE BRACKET count: 1, line: 26021
+GENERAL_PUNCTUATION characters:
+    « U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK count: 453, lines: 23264, 23276, 23278, 23376, 23491
+    » U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK count: 326, lines: 23900, 23908, 24088, 24097, 24098
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 707, lines: 23246, 23251, 23253, 23258, 23261
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 501, lines: 23253, 23261, 23264, 23270, 23406
+SPACE characters:
+      U+0020 SPACE count: 191661, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 73, examples: 70 (l.25433), 100 (l.25695, 25696), 50 (l.25695), 80 (l.25696)
+    1 U+0031 DIGIT ONE count: 15, examples: 100 (l.25695, 25696), 120 (l.27007), 12 (l.27193), 144 (l.30882)
+    2 U+0032 DIGIT TWO count: 21, examples: 120 (l.27007), 24 (l.27016), 12 (l.27193), 200 (l.27825), 276 (l.27960)
+    3 U+0033 DIGIT THREE count: 7, examples: 35 (l.24391), 3000 (l.27059), 3 (l.27205), 30 (l.27951, 30896)
+    4 U+0034 DIGIT FOUR count: 17, examples: 24 (l.27016, 30840), 4 (l.27191), 40 (l.27815, 27951)
+    5 U+0035 DIGIT FIVE count: 4, examples: 35 (l.24391), 50 (l.25695, 27673), 5000 (l.27095)
+    6 U+0036 DIGIT SIX count: 9, examples: 276 (l.27960), 260 (l.30943, 30965), 666 (l.30995), 1600 (l.31015)
+    7 U+0037 DIGIT SEVEN count: 5, examples: 7 (l.23966, 30953), 70 (l.25433, 27825), 276 (l.27960)
+    8 U+0038 DIGIT EIGHT count: 1, example: 80 (l.25696)
+    9 U+0039 DIGIT NINE count: 1, line: 26940
+COMBINING_DIACRITICAL_MARKS characters:
+     ̀ U+0300 COMBINING GRAVE ACCENT count: 97, examples: baà (l.23300), ǹ (l.23754), bàà (l.23847, 23852, 23858)
+     ́ U+0301 COMBINING ACUTE ACCENT count: 1749, example: ń (l.23215, 23216, 23217, 23218, 23219)
+     ̃ U+0303 COMBINING TILDE count: 791, examples: ñani (l.23233, 23239), ñidi (l.23244), ña (l.23244), ñigdi (l.23245)
+     ̄ U+0304 COMBINING MACRON count: 3, examples: n̄ɔnianu (l.25034), N̄agni (l.25563), n̄ɔniagu (l.29875)
+     ̇ U+0307 COMBINING DOT ABOVE count: 8, examples: ŋ̇ɔdikaaba (l.23618), ċɔdili (l.25043), ̇tɔ (l.25846), ̇ (l.26886), maaṁɔma (l.29671)
+     ̵ U+0335 COMBINING SHORT STROKE OVERLAY count: 1, example: ̵kokolo (l.26737)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 1295, examples: Abalahama (l.23214, 23215), Aram (l.23216, 23217), Aminadab (l.23217)
+    B U+0042 LATIN CAPITAL LETTER B count: 1409, examples: Bɔas (l.23218), Babilɔni (l.23224), Babiloni (l.23225, 23230), Betelema (l.23239)
+    C U+0043 LATIN CAPITAL LETTER C count: 99, examples: Cuo (l.23503, 23693), Cua (l.23556), Canba (l.23637), Cedi (l.23716)
+    D U+0044 LATIN CAPITAL LETTER D count: 580, examples: Dafid (l.23219), Dafiid (l.23230, 23233), Diedo (l.23233, 23235)
+    E U+0045 LATIN CAPITAL LETTER E count: 221, examples: JESU (l.23214), Esrom (l.23216), Esekihas (l.23222, 23223), Eliakim (l.23226)
+    F U+0046 LATIN CAPITAL LETTER F count: 329, examples: Fares (l.23216), Foŋanma (l.23231, 23233), Fini (l.23244), Fii (l.23251)
+    G U+0047 LATIN CAPITAL LETTER G count: 158, examples: Gedi (l.23246), Galile (l.23260, 23274, 23290), Galiile (l.23293)
+    H U+0048 LATIN CAPITAL LETTER H count: 73, example: Herodi (l.23239, 23241, 23245, 23250, 23251)
+    I U+0049 LATIN CAPITAL LETTER I count: 444, examples: Isaka (l.23215), Isayi (l.23219), I (l.23236, 23246), Isirayeli (l.23244)
+    J U+004A LATIN CAPITAL LETTER J count: 1640, examples: JESU (l.23214), Jakobo (l.23215), Juda (l.23215, 23216), Josafat (l.23221)
+    K U+004B LATIN CAPITAL LETTER K count: 1826, examples: Kelima (l.23240, 23270), Kiristu (l.23242), Ki (l.23246), Ku (l.23271)
+    L U+004C LATIN CAPITAL LETTER L count: 1457, examples: Lan (l.23230), Lanyapo (l.23245), Li (l.23253), Lanyogu (l.23262), Lebdi (l.23263)
+    M U+004D LATIN CAPITAL LETTER M count: 668, examples: Manase (l.23223), Matan (l.23228), Maari (l.23229, 23231, 23233)
+    N U+004E LATIN CAPITAL LETTER N count: 1143, examples: Naasɔn (l.23217), Ne (l.23235), N (l.23253), Nasareti (l.23261), Nasaeti (l.23261)
+    O U+004F LATIN CAPITAL LETTER O count: 1015, examples: Obed (l.23218, 23219), O (l.23219), Osiyas (l.23221, 23222)
+    P U+0050 LATIN CAPITAL LETTER P count: 522, examples: Puoli (l.23251), Piar (l.23296), Pamanli (l.23307, 23308, 23309)
+    R U+0052 LATIN CAPITAL LETTER R count: 46, examples: Rahab (l.23218), Rut (l.23218), Robuam (l.23220), Roma (l.23256), Raciheli (l.23256)
+    S U+0053 LATIN CAPITAL LETTER S count: 536, examples: JESU (l.23214), Saara (l.23216), Salmɔn (l.23217, 23218), Salomɔn (l.23219)
+    T U+0054 LATIN CAPITAL LETTER T count: 2361, examples: Tamaar (l.23216), Tienu (l.23231, 23233, 23236, 23262)
+    U U+0055 LATIN CAPITAL LETTER U count: 1437, examples: JESU (l.23214), Uri (l.23219), U (l.23231, 23233, 23236)
+    V U+0056 LATIN CAPITAL LETTER V count: 1, example: Va (l.29600)
+    W U+0057 LATIN CAPITAL LETTER W count: 246, examples: Wan (l.23233, 23304, 23442), Waalaba (l.23268), Wani (l.23272)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 1248, examples: Yin (l.23269, 23270), Yabulɔn (l.23293), Ya (l.23315), Yinbi (l.23317)
+    Z U+005A LATIN CAPITAL LETTER Z count: 9, examples: Zebede (l.24254, 24303, 24304, 24374), Zeloti (l.24375)
+    a U+0061 LATIN SMALL LETTER A count: 114114, examples: Abalahama (l.23214), biga (l.23214), jakobo (l.23214), yajanba (l.23214), yela (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 33159, examples: Abalahama (l.23214, 23215), biga (l.23214), jakobo (l.23214), yajanba (l.23214)
+    c U+0063 LATIN SMALL LETTER C count: 5224, examples: badciamo (l.23219), cuo (l.23224), calo (l.23229), cili (l.23230), cikpenga (l.23231)
+    d U+0064 LATIN SMALL LETTER D count: 27546, examples: Juda (l.23215, 23216), Aminadab (l.23217), Obed (l.23218, 23219)
+    e U+0065 LATIN SMALL LETTER E count: 39396, examples: yela (l.23214), ne (l.23214), yeni (l.23215, 23216), Fares (l.23216)
+    f U+0066 LATIN SMALL LETTER F count: 3729, examples: Dafid (l.23219), Josafat (l.23221), Josef (l.23229), Dafiid (l.23230), nifiima (l.23230)
+    g U+0067 LATIN SMALL LETTER G count: 15088, examples: biga (l.23214), yogu (l.23224), gede (l.23224), piiga (l.23230), cikpenga (l.23231)
+    h U+0068 LATIN SMALL LETTER H count: 536, examples: Abalahama (l.23214, 23215), Rahab (l.23218), Ahas (l.23222), Esekihas (l.23222)
+    i U+0069 LATIN SMALL LETTER I count: 121135, examples: biga (l.23214), kiristu (l.23214), mali (l.23215), yeni (l.23215), ninjaba (l.23215)
+    j U+006A LATIN SMALL LETTER J count: 4804, examples: jakobo (l.23214), yajanba (l.23214), ninjaba (l.23215, 23224), jagi (l.23232)
+    k U+006B LATIN SMALL LETTER K count: 30765, examples: jakobo (l.23214), kiristu (l.23214), Isaka (l.23215), Jakobo (l.23215), ki (l.23216)
+    l U+006C LATIN SMALL LETTER L count: 28829, examples: Abalahama (l.23214, 23215), yela (l.23214), mali (l.23215, 23216)
+    m U+006D LATIN SMALL LETTER M count: 21365, examples: Abalahama (l.23214, 23215), mali (l.23215, 23216), Tamaar (l.23216)
+    n U+006E LATIN SMALL LETTER N count: 77872, examples: yajanba (l.23214), n (l.23214), ne (l.23214), ń (l.23215), yeni (l.23215)
+    o U+006F LATIN SMALL LETTER O count: 28589, examples: jakobo (l.23214), Jakobo (l.23215), o (l.23215), bo (l.23216), Esrom (l.23216)
+    p U+0070 LATIN SMALL LETTER P count: 12756, examples: denpua (l.23219), pendi (l.23225), piiga (l.23230), cikpenga (l.23231), punbi (l.23231)
+    q U+0071 LATIN SMALL LETTER Q count: 9, examples: paqalu (l.24383), ŋaqnduna (l.26842), qamaq (l.28184), qui (l.29333), kpaŋaqnma (l.30435)
+    r U+0072 LATIN SMALL LETTER R count: 1450, examples: kiristu (l.23214), Tamaar (l.23216), Fares (l.23216), Saara (l.23216), Esrom (l.23216)
+    s U+0073 LATIN SMALL LETTER S count: 7573, examples: kiristu (l.23214), Isaka (l.23215), Fares (l.23216), Esrom (l.23216), Naasɔn (l.23217)
+    t U+0074 LATIN SMALL LETTER T count: 16833, examples: kiristu (l.23214), taa (l.23216, 23218, 23219), Rut (l.23218)
+    u U+0075 LATIN SMALL LETTER U count: 34578, examples: kiristu (l.23214), Juda (l.23215, 23216), Rut (l.23218), denpua (l.23219)
+    v U+0076 LATIN SMALL LETTER V count: 42, examples: Daviid (l.23443), David (l.23475, 23724), duven (l.24152), Levi (l.24343)
+    w U+0077 LATIN SMALL LETTER W count: 3207, examples: wani (l.23230, 23234), wan (l.23232, 23233), wuoni (l.23232)
+    y U+0079 LATIN SMALL LETTER Y count: 25239, examples: yajanba (l.23214), yela (l.23214), yeni (l.23215, 23216), Isayi (l.23219)
+    z U+007A LATIN SMALL LETTER Z count: 21, examples: chuza (l.25317), Suzann (l.25317), Azi (l.27179), naazareti (l.27184), Gaza (l.27271)
+LATIN_EXTENDED_LETTER characters:
+    ã U+00E3 LATIN SMALL LETTER A WITH TILDE count: 1, example: yaã (l.25591)
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 1, example: Iéna (l.28946)
+    ï U+00EF LATIN SMALL LETTER I WITH DIAERESIS count: 1, example: caïn (l.30751)
+    ñ U+00F1 LATIN SMALL LETTER N WITH TILDE count: 1077, examples: ñɔbu (l.23280), ñiadi (l.23280), ña (l.23282), ñɔbi (l.23282), duliña (l.23286)
+LATIN_EXTENDED_A characters:
+    ă U+0103 LATIN SMALL LETTER A WITH BREVE count: 1, example: bă (l.25116)
+    Ŋ U+014A LATIN CAPITAL LETTER ENG count: 8, examples: Ŋanbi (l.28604), Ŋan (l.28606), Ŋmei (l.29128), Ŋme (l.29129), Ŋɔdimani (l.29709)
+    ŋ U+014B LATIN SMALL LETTER ENG count: 4017, examples: Foŋanma (l.23231, 23233), ŋasiili (l.23232), ŋan (l.23233, 23234)
+LATIN_EXTENDED_B characters:
+    ƙ U+0199 LATIN SMALL LETTER K WITH HOOK count: 1, example: ƙñinguona (l.30753)
+LATIN characters:
+    ɔ U+0254 LATIN SMALL LETTER OPEN O count: 5164, examples: Naasɔn (l.23217), Salmɔn (l.23217, 23218), Bɔas (l.23218), Salomɔn (l.23219)
+    ɛ U+025B LATIN SMALL LETTER OPEN E count: 35, examples: Boanɛr (l.24374), mɛlikisedɛki (l.30103), mɛkisedɛki (l.30107, 30132), Mɛkisedɛki (l.30131)
+    ɲ U+0272 LATIN SMALL LETTER N WITH LEFT HOOK count: 2, examples: ɲandunli (l.28682), ɲan (l.28685)
+    ʔ U+0294 LATIN LETTER GLOTTAL STOP count: 2, examples: yeniʔ (l.29162), biiʔ (l.29165)
+LATIN_EXTENDED_ADDITIONAL characters:
+    ṅ U+1E45 LATIN SMALL LETTER N WITH DOT ABOVE count: 72, lines: 23499, 24967, 24974, 24975, 24979
+    ṇ U+1E47 LATIN SMALL LETTER N WITH DOT BELOW count: 1, example: ṇɔpola (l.29182)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 145, examples: báa! (l.23270), kani! (l.23275), sitaani! (l.23288), tanpoli! (l.23360), i! (l.23374)
+    Word!” count: 23, examples: kuni!” (l.23454), nii!” (l.25582), tieni!” (l.25583), liiga!” (l.25632), Tondo!” (l.25903)
+    ! count: 14, lines: 23364, 23439, 25202, 25296, 25825
+    Word!» count: 9, examples: boncianla!» (l.24681), ninñima!» (l.24704), tanpolijama!» (l.24719), maama!» (l.24787), o!» (l.24930)
+    “Word! count: 7, examples: “Ami! (l.30890), “Aleluyaa! (l.31089, 31092), “Diidi! (l.31125, 31127)
+    Word”! count: 2, examples: Yonbidaano”! (l.25261), tinkpiiba”! (l.25430)
+    Word!”, count: 1, example: Bijua!”, (l.23910)
+    «Word! count: 1, example: «Hosana! (l.24718)
+    «Word!» count: 1, example: «bundi!» (l.24888)
+    Word?! count: 1, example: yesu?! (l.29170)
+    “Word!” count: 1, example: “Ami!” (l.30861)
+    Word!”. count: 1, example: na!”. (l.30862)
+    (“Word! count: 1, example: (“Diidi! (l.31038)
+TOKENS WITH ' (U+0027 APOSTROPHE):
+    Word'Word count: 600, examples: dii'ti (l.23439), waan'ti (l.23443), bel'b (l.23445), kuan'b (l.23445), beli'b (l.23446)
+    Word'Word. count: 137, examples: yen'm. (l.23499), kpab'i. (l.23507), ban'o. (l.23518, 23519), paagi'ba. (l.23573)
+    Word'Word: count: 79, examples: ŋmian'ba: (l.23569), guan'ba: (l.23637), yedi'o: (l.23645, 23683), yedi'ba: (l.23693)
+    Word'Word, count: 66, examples: faabi'ti, (l.23439), bian'o, (l.23573), bua'o, (l.23576), buu'yi, (l.23595), yen'o, (l.23601)
+    'Word count: 54, examples: 'o (l.24027, 24255), 'i (l.24035), 'ba (l.24306), 'ti (l.24308)
+    Word' count: 12, examples: wul' (l.24292), ŋmiam' (l.24390), japaadi' (l.25013), Bijua' (l.25536, 25538)
+    'Word. count: 11, examples: 'o. (l.23579, 24201, 24262, 24364), 'ba. (l.24481)
+    'Word: count: 7, examples: 'o: (l.23735, 23838, 23849, 23851), 'ba: (l.24348)
+    Word'Word; count: 5, examples: tuog'o; (l.25732), cuo'o; (l.25985), yed'o; (l.26742), buali'ba; (l.26883), yedi'o; (l.30378)
+    Word.' count: 5, examples: canbaa.' (l.26788), i.' (l.26793), tugtɔli.' (l.30809), yeni.' (l.30812), buama.' (l.30831)
+    Word'Word:... count: 3, examples: bual'o:... (l.25519, 26007), jalg'o:... (l.26006)
+    Word'Word.” count: 3, examples: cuo'o.” (l.26884), tug'o.” (l.26951), ñu'g.” (l.28693)
+    Word'Word? count: 3, examples: kɔnd'o? (l.28573), po'i? (l.28682), laafiaa'i? (l.30435)
+    Word'Word?” count: 2, examples: yen'o?” (l.26880), kub'o?” (l.26883)
+    Word;'Word count: 1, example: yedi;'tanpoli (l.23632)
+    Word:'Word count: 1, example: bonli:'fin (l.23794)
+    Word'Word» count: 1, example: ŋua'n» (l.24343)
+    Word'Word.» count: 1, example: paag'o.» (l.24362)
+    Word'Word” count: 1, example: yen'o” (l.25989)
+    Word'?” count: 1, example: likani'?” (l.26433)
+    Word,' count: 1, example: nua,' (l.26550)
+    'Word, count: 1, example: 'n, (l.26579)
+    Word'Word”. count: 1, example: tie'o”. (l.26871)
+    “Word'Word count: 1, example: “ta'o (l.26885)
+    Word'.” count: 1, example: nni'.” (l.27743)
+    'Word» count: 1, example: 'a» (l.30038)
+    ' count: 1, line: 30569
+    Word.'” count: 1, example: nni.'” (l.30792)
+    Word'”Word count: 1, example: yedi'”Ti (l.30957)
+    Word'. count: 1, example: mo'. (l.31069)
+    Word', count: 1, example: tiadi', (l.31094)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 11578, examples: biga, (l.23214), Tamaar, (l.23216), Rahab, (l.23218), denpua, (l.23219), ninjaba, (l.23224)
+    Word'Word, count: 66, examples: faabi'ti, (l.23439), bian'o, (l.23573), bua'o, (l.23576), buu'yi, (l.23595), yen'o, (l.23601)
+    “Word, count: 37, examples: “Fii, (l.23251, 23258), “iin, (l.23476), “nn, (l.23794), “Canbaa, (l.23822)
+    «Word, count: 23, example: «canba, (l.24088, 24099, 24101, 24677, 24692)
+    Word”, count: 8, examples: Diedo”, (l.23407), a”, (l.23470), ne”, (l.25272), guani”, (l.25378), niba”, (l.25854)
+    Word), count: 8, examples: yelmu), (l.23545), ciagi), (l.23545), ñɔbu), (l.23546), daani), (l.26409), kpe), (l.28594)
+    (Word), count: 8, examples: (Tangu), (l.23759), (nuabi), (l.23992), (walga), (l.25025), (Canbáa), (l.26191), (naataani), (l.27198)
+    Word,” count: 7, examples: Galile,” (l.26449), mɔlane,” (l.26534), pundi,” (l.27035), o,” (l.28392), maadi,” (l.28663)
+    Word-Word, count: 4, examples: Fii-mani, (l.24865), moan-moani, (l.24927), San-batiir, (l.25389), yigban-onbuoli, (l.29589)
+    “Word”, count: 4, examples: “Gedi”, (l.25272), “Cua”, (l.25272), “yukpabgu”, (l.26037), “Hakeldama”, (l.27011)
+    (Number), count: 3, examples: (70), (l.25433, 27825), (1600), (l.31015)
+    Word,» count: 3, examples: pañoe,» (l.26984), nni,» (l.26986), goga,» (l.30306)
+    Word,”Word count: 2, examples: maadi,”Eli (l.23781), nni,”ŋaa (l.27012)
+    Word», count: 2, examples: yombidano», (l.24779), fagdi», (l.25573)
+    Modifier, count: 1, example: ́, (l.23553)
+    Word!”, count: 1, example: Bijua!”, (l.23910)
+    Word,' count: 1, example: nua,' (l.26550)
+    'Word, count: 1, example: 'n, (l.26579)
+    Word?, count: 1, example: i?, (l.26626)
+    Number, count: 1, example: 120, (l.27007)
+    WordNumber, count: 1, example: p0, (l.27215)
+    «Word», count: 1, example: «merikiri», (l.27495)
+    , count: 1, line: 29383
+    -Word, count: 1, example: -nba, (l.30031)
+    Word(Word), count: 1, example: legdi(dɔgd), (l.30648)
+    Number.Number, count: 1, example: 144.000, (l.30996)
+    “Word,” count: 1, example: “Nn,” (l.31008)
+    Word', count: 1, example: tiadi', (l.31094)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    -Word count: 47, example: -nba (l.23491, 23504, 23703, 23714, 23834)
+    Word-Word count: 31, examples: jufi-nba (l.24209), Jufi-nba (l.24235), soje-nba (l.24264), maleki-ba (l.24297), juffi-nba (l.24455)
+    - count: 20, lines: 23491, 24054, 24062, 24497, 26151
+    Word- count: 5, examples: sogni- (l.24037), Jufi- (l.24227), tuonsɔn- (l.29848), bangi- (l.30578), die- (l.31104)
+    Word-Word, count: 4, examples: Fii-mani, (l.24865), moan-moani, (l.24927), San-batiir, (l.25389), yigban-onbuoli, (l.29589)
+    «Word-Word count: 1, example: «ŋa-pia (l.24883)
+    Word-Word. count: 1, example: ñin-gbanu. (l.25336)
+    -Word, count: 1, example: -nba, (l.30031)
+    -Word. count: 1, example: -nba. (l.30034)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 8174, examples: yonbidi. (l.23224), Eliyud. (l.23227), kiristu. (l.23229), na. (l.23230), ne. (l.23231)
+    Word.” count: 235, examples: nni.” (l.23253), yua.” (l.23261), sanbulmu.” (l.23264), puolŋuani.” (l.23270), fii.” (l.23420)
+    Word.» count: 159, examples: biga.» (l.23900), suudjongu.» (l.23908), tinkua.» (l.24088), pugini.» (l.24097), deni.» (l.24098)
+    Word'Word. count: 137, examples: yen'm. (l.23499), kpab'i. (l.23507), ban'o. (l.23518, 23519), paagi'ba. (l.23573)
+    ... count: 77, lines: 25106, 25107, 25108, 25110, 25116
+    Word”. count: 24, examples: nni”. (l.23416), paagi”. (l.23418), tieni”. (l.23423), o”. (l.23450), i”. (l.23451)
+    Word». count: 16, examples: nnni». (l.24360), tuonbiidi». (l.24386), o». (l.25196), ti». (l.27069), taladi». (l.27103)
+    Word:... count: 13, examples: ba:... (l.25336), ŋɔdikaaba:... (l.25339), maadi:... (l.25489), buali:... (l.25775), paalu:... (l.25795)
+    Word). count: 12, examples: bubuuli). (l.23545), ninjaba). (l.23663), kpiemo). (l.26056), Tienu). (l.26246), belbɔndi). (l.26409)
+    'Word. count: 11, examples: 'o. (l.23579, 24201, 24262, 24364), 'ba. (l.24481)
+    (Number.Number) count: 7, examples: (50.000) (l.27673), (144.000) (l.30882), (12.000) (l.30883), (1.260) (l.30943), (7.000) (l.30953)
+    Word.' count: 5, examples: canbaa.' (l.26788), i.' (l.26793), tugtɔli.' (l.30809), yeni.' (l.30812), buama.' (l.30831)
+    (Word). count: 3, examples: (gbandi). (l.23478), (ŋaniali). (l.30787), (niiyanli). (l.30831)
+    Word'Word:... count: 3, examples: bual'o:... (l.25519, 26007), jalg'o:... (l.26006)
+    “. count: 3, lines: 26745, 26876, 28617
+    Word'Word.” count: 3, examples: cuo'o.” (l.26884), tug'o.” (l.26951), ñu'g.” (l.28693)
+    (Number). count: 3, examples: (3000). (l.27059), (40). (l.27815), (200). (l.27825)
+    Word.) count: 2, examples: mua.) (l.24891), i.) (l.31094)
+    :... count: 2, lines: 25403, 25405
+    Word:.. count: 2, examples: maadi:.. (l.26041), o:.. (l.26044)
+    «Word.» count: 2, examples: «Ananias.» (l.27295), «Koneya.» (l.27331)
+    (Number.Number.Number) count: 2, example: (200.000.000) (l.30858, 30924)
+    Number.Number count: 2, examples: 1.260 (l.30965), 144.000 (l.30998)
+    “Word. count: 2, examples: “Aleluyaa. (l.31087), “Ami. (l.31090)
+    Word......... count: 1, example: paa......... (l.24010)
+    Word'Word.» count: 1, example: paag'o.» (l.24362)
+    Word.... count: 1, example: sedi.... (l.25278)
+    Word-Word. count: 1, example: ñin-gbanu. (l.25336)
+    ;... count: 1, line: 25379
+    Word... count: 1, example: bualiba... (l.25388)
+    (Number).” count: 1, example: (100).” (l.25695)
+    “Word”. count: 1, example: “ŋanbtieba”. (l.25958)
+    Word.] count: 1, example: dansalyenga.] (l.26021)
+    . count: 1, line: 26399
+    Word?). count: 1, example: kaa?). (l.26759)
+    Word'Word”. count: 1, example: tie'o”. (l.26871)
+    Word(Number). count: 1, example: tudamuu(5000). (l.27095)
+    Word'.” count: 1, example: nni'.” (l.27743)
+    Word”...... count: 1, example: panl”...... (l.30024)
+    -Word. count: 1, example: -nba. (l.30034)
+    “Word.” count: 1, example: “niŋanma.” (l.30432)
+    Word.'” count: 1, example: nni.'” (l.30792)
+    Word!”. count: 1, example: na!”. (l.30862)
+    Number). count: 1, example: 42). (l.30982)
+    Number. count: 1, example: 666. (l.30995)
+    Number.Number, count: 1, example: 144.000, (l.30996)
+    Word.”) count: 1, example: fee.”) (l.31038)
+    Word'. count: 1, example: mo'. (l.31069)
+TOKENS WITH / (U+002F SOLIDUS):
+    Word/ count: 1, example: yankpaaba/ (l.27722)
+    / count: 1, line: 29090
+TOKENS WITH : (U+003A COLON):
+    Word: count: 1293, examples: ne: (l.23214), o: (l.23233, 23243), dudi: (l.23235), yedi: (l.23240)
+    Word'Word: count: 79, examples: ŋmian'ba: (l.23569), guan'ba: (l.23637), yedi'o: (l.23645, 23683), yedi'ba: (l.23693)
+    Word:... count: 13, examples: ba:... (l.25336), ŋɔdikaaba:... (l.25339), maadi:... (l.25489), buali:... (l.25775), paalu:... (l.25795)
+    'Word: count: 7, examples: 'o: (l.23735, 23838, 23849, 23851), 'ba: (l.24348)
+    Word'Word:... count: 3, examples: bual'o:... (l.25519, 26007), jalg'o:... (l.26006)
+    :... count: 2, lines: 25403, 25405
+    Word:.. count: 2, examples: maadi:.. (l.26041), o:.. (l.26044)
+    Word:'Word count: 1, example: bonli:'fin (l.23794)
+    Word?”: count: 1, example: ee?”: (l.23911)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 461, examples: Isaka; (l.23215), Jakobo; (l.23215), ninjaba; (l.23215), Saara; (l.23216), Esrom; (l.23216)
+    Word'Word; count: 5, examples: tuog'o; (l.25732), cuo'o; (l.25985), yed'o; (l.26742), buali'ba; (l.26883), yedi'o; (l.30378)
+    Word;”Word count: 1, example: nni;”n (l.23565)
+    Word;'Word count: 1, example: yedi;'tanpoli (l.23632)
+    ;... count: 1, line: 25379
+    ; count: 1, line: 26578
+    Word); count: 1, example: niba); (l.27145)
+    Number); count: 1, example: 40); (l.27951)
+    Word”; count: 1, example: buama”; (l.28723)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 762, examples: le? (l.23240), o? (l.23316), i? (l.23349), kaa? (l.23349), liebi? (l.23350)
+    Word?” count: 71, examples: aa?” (l.23407), nii?” (l.23459), i?” (l.23462), nunñumaa?” (l.23475), nni?” (l.23476)
+    Word?» count: 35, examples: ledi?» (l.24442), ba?» (l.24592), pua?» (l.24659), po?» (l.24660), gbeni?» (l.24674)
+    Word'Word? count: 3, examples: kɔnd'o? (l.28573), po'i? (l.28682), laafiaa'i? (l.30435)
+    Word”? count: 2, examples: po”? (l.25853), ne”? (l.29582)
+    Word'Word?” count: 2, examples: yen'o?” (l.26880), kub'o?” (l.26883)
+    Word?”: count: 1, example: ee?”: (l.23911)
+    Word»? count: 1, example: cuoni»? (l.25199)
+    Word'?” count: 1, example: likani'?” (l.26433)
+    Word?, count: 1, example: i?, (l.26626)
+    Word?). count: 1, example: kaa?). (l.26759)
+    Word?”Word count: 1, example: yeni?”wani (l.27220)
+    Word?! count: 1, example: yesu?! (l.29170)
+TOKENS WITH ORPHAN MODIFIER:
+    Modifier count: 8, example: ́ (l.24008, 25449, 25568, 25584, 26173)
+    ModifierWord count: 5, examples: ́pendi (l.25021), ́yi (l.25021), ̇tɔ (l.25846), ̵kokolo (l.26737), ́yedi (l.27218)
+    Modifier, count: 1, example: ́, (l.23553)

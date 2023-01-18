@@ -1,0 +1,236 @@
+OVERVIEW:
+File size: 41899 lines, 782637 characters
+Letter scripts: 2
+    CYRILLIC (582289 instances)
+    LATIN (9 instances): IXcy
+Number scripts: 1
+    ASCII_DIGIT (20 instances): 01358
+Other character groups: 3
+    SPACE (124507 instances)
+    ASCII_PUNCTUATION (33782 instances): !'(),-./:;?[]
+    GENERAL_PUNCTUATION (131 instances): “”
+Words with characters from multiple scripts: 1 category, 4 unique types, 4 instances
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (CYRILLIC, LATIN):
+    Iродиянами count: 1, line: 24363
+    cьвіта count: 1, line: 26890
+    Благословенyyy count: 1, line: 24026
+    синуyyy count: 1, line: 23904
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 151, lines: 23288, 23360, 23374, 23406, 23441
+    ' U+0027 APOSTROPHE count: 76, lines: 23381, 23630, 23778, 23845, 23928
+    ( U+0028 LEFT PARENTHESIS count: 488, lines: 23328, 23641, 23707, 24041, 24159
+    ) U+0029 RIGHT PARENTHESIS count: 494, lines: 23328, 23454, 23641, 23707, 24041
+    , U+002C COMMA count: 20011, lines: 23214, 23223, 23224, 23225, 23229
+    - U+002D HYPHEN-MINUS count: 228, lines: 23316, 23446, 23563, 23566, 23627
+    . U+002E FULL STOP count: 6592, lines: 23214, 23229, 23230, 23231, 23232
+    / U+002F SOLIDUS count: 1, line: 23602
+    : U+003A COLON count: 2647, lines: 23233, 23235, 23236, 23240, 23243
+    ; U+003B SEMICOLON count: 2082, lines: 23215, 23216, 23217, 23218, 23219
+    ? U+003F QUESTION MARK count: 994, lines: 23240, 23268, 23275, 23316, 23349
+    [ U+005B LEFT SQUARE BRACKET count: 9, lines: 23325, 26179, 26335, 26367, 26857
+    ] U+005D RIGHT SQUARE BRACKET count: 9, lines: 23325, 26179, 26335, 26367, 26857
+GENERAL_PUNCTUATION characters:
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 64, lines: 24778, 28886, 28887, 28888, 29691
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 67, lines: 24778, 28886, 28887, 28888, 29691
+SPACE characters:
+      U+0020 SPACE count: 124507, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 2, examples: 0 (l.23555), 80 (l.30458)
+    1 U+0031 DIGIT ONE count: 3, lines: 25845, 27021, 30376
+    3 U+0033 DIGIT THREE count: 11, lines: 23236, 23295, 23920, 24628, 24740
+    5 U+0035 DIGIT FIVE count: 1, line: 30307
+    8 U+0038 DIGIT EIGHT count: 3, examples: 8 (l.27124, 27271), 80 (l.30458)
+BASIC_LATIN characters:
+    I U+0049 LATIN CAPITAL LETTER I count: 1, example: Iродиянами (l.24363)
+    X U+0058 LATIN CAPITAL LETTER X count: 1, line: 30996
+    c U+0063 LATIN SMALL LETTER C count: 1, example: cьвіта (l.26890)
+    y U+0079 LATIN SMALL LETTER Y count: 6, examples: синуyyy (l.23904), Благословенyyy (l.24026)
+CYRILLIC characters:
+    Є U+0404 CYRILLIC CAPITAL LETTER UKRAINIAN IE count: 304, examples: Єсрома (l.23216), Єсром (l.23216), Єссея (l.23218), Єссей (l.23219), Єзекію (l.23222)
+    І U+0406 CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I count: 2914, examples: Ісуса (l.23214, 23231), Ісаака (l.23215), Ісаак (l.23215), Ісус (l.23229)
+    Ї U+0407 CYRILLIC CAPITAL LETTER YI count: 28, examples: Їм (l.23636), Їх (l.23796, 24304), Ї (l.24474), Їли (l.24577)
+    А U+0410 CYRILLIC CAPITAL LETTER A count: 712, examples: Авраамового (l.23214), Авраам (l.23215), Арама (l.23216), Арам (l.23217), Аминадава (l.23217)
+    Б U+0411 CYRILLIC CAPITAL LETTER BE count: 1846, examples: Бог (l.23236, 23270), Бачивши (l.23254), Божого (l.23277), Божий (l.23281)
+    В U+0412 CYRILLIC CAPITAL LETTER VE count: 1121, examples: Вооза (l.23218), Вооз (l.23218), Вавилон (l.23224, 23230), Вавидон (l.23225)
+    Г U+0413 CYRILLIC CAPITAL LETTER GHE count: 932, examples: Господень (l.23233, 23237, 23251), Господь (l.23235, 23253)
+    Д U+0414 CYRILLIC CAPITAL LETTER DE count: 543, examples: Давидового (l.23214), Давида (l.23219, 23230), Давид (l.23219), Духа (l.23231)
+    Е U+0415 CYRILLIC CAPITAL LETTER IE count: 11, examples: Емануіл (l.23236), Елоі (l.24929), Емаус (l.26073), Епикуреїв (l.27610), Епенета (l.28409)
+    Ж U+0416 CYRILLIC CAPITAL LETTER ZHE count: 237, examples: Жидівський (l.23240, 24209), Жнива (l.23485), Жінко (l.23730), Жаль (l.23734)
+    З U+0417 CYRILLIC CAPITAL LETTER ZE count: 312, examples: Зару (l.23216), Зоровавеля (l.23225), Заровавель (l.23226), Закликавши (l.23245), Знов (l.23286)
+    И U+0418 CYRILLIC CAPITAL LETTER I count: 43, examples: Иосифові (l.23231), Иоан (l.23488), Инше (l.23613, 23616), Иншу (l.23639)
+    Й U+0419 CYRILLIC CAPITAL LETTER SHORT I count: 1322, examples: Йосафата (l.23221), Йосафат (l.23221), Йорама (l.23221), Йорам (l.23221), Йоатама (l.23222)
+    К U+041A CYRILLIC CAPITAL LETTER KA count: 668, examples: Книга (l.23214), Кодло (l.23268), Коли (l.23281, 23284), Капернауміу (l.23291)
+    Л U+041B CYRILLIC CAPITAL LETTER EL count: 134, examples: Люби (l.23346), Любіть (l.23347), Лицеміре (l.23390), Лисицї (l.23434), Люде (l.23441)
+    М U+041C CYRILLIC CAPITAL LETTER EM count: 411, examples: Манассію (l.23223), Манассія (l.23223), Маттана (l.23228), Маттан (l.23228), Мариїного (l.23229)
+    Н U+041D CYRILLIC CAPITAL LETTER EN count: 1105, examples: Насона (l.23217), Насон (l.23217), Назарет (l.23261), Назореєм (l.23261), Него (l.23273)
+    О U+041E CYRILLIC CAPITAL LETTER O count: 673, examples: Овида (l.23218), Овид (l.23218), Озію (l.23221), Озія (l.23222), Ось (l.23236)
+    П U+041F CYRILLIC CAPITAL LETTER PE count: 1046, examples: Прокинувшись (l.23237), Почувши (l.23241), Побачивши (l.23248), Покайтесь (l.23263), Приготовте (l.23264)
+    Р U+0420 CYRILLIC CAPITAL LETTER ER count: 253, examples: Рахави (l.23218), Рути (l.23218), Ровоама (l.23220), Ровоам (l.23220), Різдво (l.23231)
+    С U+0421 CYRILLIC CAPITAL LETTER ES count: 1101, examples: Салмона (l.23217), Салмон (l.23218), Соломона (l.23219), Соломон (l.23220), Салатиїла (l.23225)
+    Т U+0422 CYRILLIC CAPITAL LETTER TE count: 1146, examples: Тамари (l.23216), То (l.23230), Та (l.23233, 23260), Тоді (l.23255)
+    У U+0423 CYRILLIC CAPITAL LETTER U count: 221, examples: Урієвої (l.23219), Усе (l.23235), Устань (l.23258), У (l.23273), Увіходьте (l.23398)
+    Ф U+0424 CYRILLIC CAPITAL LETTER EF count: 212, examples: Фареса (l.23216), Фарес (l.23216), ЙосиФа (l.23229), Фарисеїв (l.23268, 23323)
+    Х U+0425 CYRILLIC CAPITAL LETTER HA count: 925, examples: Христа (l.23214, 23230, 23231), Христос (l.23229), Христу (l.23242)
+    Ц U+0426 CYRILLIC CAPITAL LETTER TSE count: 26, examples: Царство (l.23493, 23639, 23641), Цар (l.23948, 23952)
+    Ч U+0427 CYRILLIC CAPITAL LETTER CHE count: 215, examples: Чути (l.23256), Чували (l.23324, 23330, 23341, 23346)
+    Ш U+0428 CYRILLIC CAPITAL LETTER SHA count: 12, examples: Шо (l.24336, 25659), Шукаєте (l.26352), Шукали (l.26427), Шукати (l.26431)
+    Щ U+0429 CYRILLIC CAPITAL LETTER SHCHA count: 313, example: Що (l.23261, 23284, 23323, 23334, 23335)
+    Ю U+042E CYRILLIC CAPITAL LETTER YU count: 97, examples: Юду (l.23215), Юда (l.23216), Юдейському (l.23239, 23243), Юдина (l.23244)
+    Я U+042F CYRILLIC CAPITAL LETTER YA count: 532, examples: Якова (l.23215, 23228), Яков (l.23215, 23229), Як (l.23239)
+    а U+0430 CYRILLIC SMALL LETTER A count: 41244, examples: Книга (l.23214), Ісуса (l.23214), Христа (l.23214), сина (l.23214), Давидового (l.23214)
+    б U+0431 CYRILLIC SMALL LETTER BE count: 11985, examples: братів (l.23215, 23224), бліяким (l.23226), утробі (l.23231), будучи (l.23232)
+    в U+0432 CYRILLIC SMALL LETTER VE count: 34658, examples: родоводу (l.23214), Давидового (l.23214), Авраамового (l.23214), Авраам (l.23215), породив (l.23215)
+    г U+0433 CYRILLIC SMALL LETTER GHE count: 12176, examples: Книга (l.23214), Давидового (l.23214), Авраамового (l.23214), його (l.23215), погодив (l.23217)
+    д U+0434 CYRILLIC SMALL LETTER DE count: 19197, examples: родоводу (l.23214), Давидового (l.23214), породив (l.23215), Юду (l.23215), Юда (l.23216)
+    е U+0435 CYRILLIC SMALL LETTER IE count: 30460, examples: Фареса (l.23216), Фарес (l.23216), Єссея (l.23218), Єссей (l.23219), Єзекію (l.23222)
+    ж U+0436 CYRILLIC SMALL LETTER ZHE count: 8037, examples: ж (l.23231), ніж (l.23231), постережено (l.23231), же (l.23232), аж (l.23233)
+    з U+0437 CYRILLIC SMALL LETTER ZE count: 10135, examples: Вооза (l.23218), Вооз (l.23218), Озію (l.23221), Озія (l.23222), Ахаза (l.23222)
+    и U+0438 CYRILLIC SMALL LETTER I count: 41423, examples: Книга (l.23214), Христа (l.23214), сина (l.23214), Давидового (l.23214), породив (l.23215)
+    й U+0439 CYRILLIC SMALL LETTER SHORT I count: 9661, examples: його (l.23215, 23224), Єссей (l.23219), чотирнайцять (l.23230), зійшли (l.23231)
+    к U+043A CYRILLIC SMALL LETTER KA count: 14206, examples: Ісаака (l.23215), Ісаак (l.23215), Якова (l.23215), Яков (l.23215), Єзекію (l.23222)
+    л U+043B CYRILLIC SMALL LETTER EL count: 19993, examples: Салмона (l.23217), Салмон (l.23218), Соломона (l.23219), Соломон (l.23220), переселення (l.23224)
+    м U+043C CYRILLIC SMALL LETTER EM count: 17684, examples: Авраамового (l.23214), Авраам (l.23215), Тамари (l.23216), Єсрома (l.23216), Єсром (l.23216)
+    н U+043D CYRILLIC SMALL LETTER EN count: 29685, examples: Книга (l.23214), сина (l.23214), Аминадава (l.23217), Амннадав (l.23217), Насона (l.23217)
+    о U+043E CYRILLIC SMALL LETTER O count: 62688, examples: родоводу (l.23214), Давидового (l.23214), Авраамового (l.23214), породив (l.23215), Якова (l.23215)
+    п U+043F CYRILLIC SMALL LETTER PE count: 14247, examples: породив (l.23215, 23216, 23217, 23218), погодив (l.23217)
+    р U+0440 CYRILLIC SMALL LETTER ER count: 21929, examples: родоводу (l.23214), Христа (l.23214), Авраамового (l.23214), Авраам (l.23215), породив (l.23215)
+    с U+0441 CYRILLIC SMALL LETTER ES count: 27605, examples: Ісуса (l.23214), Христа (l.23214), сина (l.23214), Ісаака (l.23215), Ісаак (l.23215)
+    т U+0442 CYRILLIC SMALL LETTER TE count: 27063, examples: Христа (l.23214), та (l.23215, 23216), братів (l.23215), Рути (l.23218)
+    у U+0443 CYRILLIC SMALL LETTER U count: 18676, examples: родоводу (l.23214), Ісуса (l.23214), Юду (l.23215), Зару (l.23216), Рути (l.23218)
+    ф U+0444 CYRILLIC SMALL LETTER EF count: 130, examples: Йосафата (l.23221), Йосафат (l.23221), Иосифові (l.23231), Йосиф (l.23232), Йосифе (l.23233)
+    х U+0445 CYRILLIC SMALL LETTER HA count: 7233, examples: Рахави (l.23218), Ахаза (l.23222), Ахаз (l.23222), Єхонїю (l.23224), їх (l.23225)
+    ц U+0446 CYRILLIC SMALL LETTER TSE count: 2495, examples: царя (l.23219, 23239), цар (l.23219), чотирнайцять (l.23230), мудрцї (l.23239)
+    ч U+0447 CYRILLIC SMALL LETTER CHE count: 7822, examples: час (l.23224), чоловіка (l.23229), чотирнайцять (l.23230), заручено (l.23231), чоловік (l.23232)
+    ш U+0448 CYRILLIC SMALL LETTER SHA count: 5933, examples: перш (l.23231), зійшли (l.23231), Прокинувшись (l.23237), прийшли (l.23239, 23240)
+    щ U+0449 CYRILLIC SMALL LETTER SHCHA count: 4830, examples: що (l.23229, 23231, 23233), прізвище (l.23229), щоб (l.23235)
+    ь U+044C CYRILLIC SMALL LETTER SOFT SIGN count: 10712, examples: Заровавель (l.23226), родивсь (l.23229), чотирнайцять (l.23230), сьвятого (l.23231), ось (l.23233)
+    э U+044D CYRILLIC SMALL LETTER E count: 1, line: 28360
+    ю U+044E CYRILLIC SMALL LETTER YU count: 5175, examples: Авію (l.23220), Озію (l.23221), Єзекію (l.23222), Манассію (l.23223), Йосію (l.23223)
+    я U+044F CYRILLIC SMALL LETTER YA count: 10737, examples: Єссея (l.23218), царя (l.23219), Авія (l.23220), Озія (l.23222), Єзекія (l.23223)
+    є U+0454 CYRILLIC SMALL LETTER UKRAINIAN IE count: 3682, examples: Урієвої (l.23219), є (l.23236), архиєреїв (l.23242), єси (l.23244), Витлеєм (l.23246)
+    і U+0456 CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I count: 23036, examples: братів (l.23215), від (l.23216, 23218, 23219), Урієвої (l.23219)
+    ї U+0457 CYRILLIC SMALL LETTER YI count: 8335, examples: Урієвої (l.23219), Єхонїю (l.23224), їх (l.23225), Єхонїя (l.23225), Салатиїла (l.23225)
+    ґ U+0491 CYRILLIC SMALL LETTER GHE WITH UPTURN count: 1, example: фиґи (l.23401)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 150, examples: сатано! (l.23288), небі! (l.23360), темрява! (l.23374), Господи! (l.23406), Його! (l.23441)
+    (Word)! count: 1, example: (відомщенне)! (l.28995)
+TOKENS WITH ' (U+0027 APOSTROPHE):
+    Word'Word count: 49, examples: з'одягав (l.23381), з'одягати (l.23381), з'упиняйте (l.23845), з'умів (l.23987), з'одягли (l.24113)
+    Word'Word, count: 13, examples: із'яву, (l.23778), від'їжджаючи, (l.24091), від'їжджає, (l.24820), з'пинились, (l.25338), в'оружившись, (l.25495)
+    Word'Word. count: 8, examples: без'овочним. (l.23630), від'їхав. (l.23928, 24743), з'їсти. (l.24377), з'упинились. (l.25278)
+    Word'Word? count: 2, examples: з'одягли? (l.24115), з'ясує? (l.27278)
+    'Word count: 1, example: 'д (l.24521)
+    Word'Word; count: 1, example: з'одягає; (l.25556)
+    Word'. count: 1, example: землі'. (l.26456)
+    ' count: 1, line: 29387
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 19793, examples: Христа, (l.23214), Давидового, (l.23214), Манассію, (l.23223), його, (l.23224), того, (l.23225)
+    Word), count: 59, examples: розуміє), (l.24041, 24800), Його), (l.24490), Дар), (l.24543), школою), (l.25355)
+    (Word), count: 50, examples: (слузї), (l.23328), (муки), (l.23641), (Божий), (l.23707), (вгору), (l.25421), (ті), (l.27542)
+    Word,) count: 17, examples: дві,) (l.24446), своїх,) (l.25032), меч,) (l.25077), їх,) (l.26055), писаннях,) (l.28000)
+    Word-Word, count: 16, examples: Воанер-гес, (l.24374), о-кови, (l.25343), Вар-Ісуса, (l.27437), Тим-же, (l.28336), Ісус-Христовому, (l.28429)
+    Word'Word, count: 13, examples: із'яву, (l.23778), від'їжджаючи, (l.24091), від'їжджає, (l.24820), з'пинились, (l.25338), в'оружившись, (l.25495)
+    Word”, count: 10, examples: безпечність”, (l.29691), бо”, (l.30164), днів”, (l.30216), випростайте”, (l.30291), вашими”, (l.30292)
+    “Word, count: 7, examples: “Сьогоднї, (l.30077, 30088), “Ось, (l.30209, 30472), “так, (l.30433)
+    Word,Word count: 6, examples: і,як (l.23304), він,і (l.24625), тїло,там (l.25757), многі,так (l.28134), щоб,по (l.28196)
+    Word,” count: 5, examples: мій,” (l.30084), єси,” (l.30208), буде,” (l.30238), насіннє,” (l.30257), перелюбу,” (l.30371)
+    [Word], count: 3, examples: [Безчесний], (l.23325), [смолоскипами], (l.26857), [значить], (l.29348)
+    Word,, count: 3, examples: так,, (l.26084), тим,, (l.27160), очей,, (l.30853)
+    Word,- count: 3, examples: віруєте,- (l.26201), Коринтяне,- (l.28977), більш,- (l.29492)
+    (Word, count: 3, examples: (не, (l.26419), (тих, (l.28275), (ви, (l.30418)
+    , count: 3, lines: 27436, 28980, 29218
+    “Word”, count: 3, examples: “нї”, (l.28887), “амінь”, (l.28888), “новий”, (l.30172)
+    (Word,) count: 3, examples: (ви,) (l.29217, 29233), (тобі,) (l.31072)
+    ?, count: 1, line: 23377
+    Word.Word, count: 1, example: покинувши.Його, (l.24179)
+    Word:, count: 1, example: вподобав:, (l.24295)
+    Word;, count: 1, example: Ньому;, (l.25082)
+    Word,Word, count: 1, example: Аминадавів,Арамів, (l.25127)
+    [Word, count: 1, example: [скрутля, (l.26179)
+    :, count: 1, line: 27470
+    Word,. count: 1, example: Самотракию,. (l.27563)
+    -Word, count: 1, example: -дознались, (l.27753)
+    Word,Word-Word count: 1, example: страсть,по-хоть (l.29589)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    - count: 131, lines: 23446, 23566, 23627, 23835, 23840
+    Word-Word count: 56, examples: лам-лють (l.23563), Ви-то (l.24696), Хоч-би (l.24854), Дух-то (l.24861), Що-дня (l.24872)
+    Word-Word, count: 16, examples: Воанер-гес, (l.24374), о-кови, (l.25343), Вар-Ісуса, (l.27437), Тим-же, (l.28336), Ісус-Христовому, (l.28429)
+    Word-Word. count: 8, examples: що-дня. (l.27065, 27557), що-суботи. (l.27532), Ісус-Христовім. (l.28933), Ісус-Христовій. (l.29436)
+    Word,- count: 3, examples: віруєте,- (l.26201), Коринтяне,- (l.28977), більш,- (l.29492)
+    Word-Word-Word count: 2, examples: Нї-на-що (l.23316), раз-у-раз (l.28340)
+    Word-Word: count: 2, examples: все-денну: (l.25921), Ісус-Христової: (l.30443)
+    Word- count: 1, example: їм- (l.24643)
+    -Word, count: 1, example: -дознались, (l.27753)
+    Word-Word;) count: 1, example: Ісус-Христові;) (l.28004)
+    Word-Word? count: 1, example: необрізан-ню? (l.28100)
+    Word-Word; count: 1, example: ко-ристнє; (l.28547)
+    Word,Word-Word count: 1, example: страсть,по-хоть (l.29589)
+    Word-NumberWord count: 1, example: тре-5а (l.30307)
+    “Word-Word count: 1, example: “Хто-бо (l.30501)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 6458, examples: Авраамового. (l.23214), Христос. (l.23229), родів. (l.23230), так. (l.23231), Духа. (l.23231)
+    Word.” count: 30, examples: твоїх.” (l.24778), своїх.” (l.30085), мій.” (l.30086), ваших.” (l.30088), Тебе.” (l.30102)
+    (Word). count: 27, examples: (крижку). (l.26102), (корчі). (l.27220), (упиратись). (l.27290), (гарбаря). (l.27328), (там). (l.27425)
+    Word). count: 18, examples: столів). (l.24536), Христос). (l.26154, 26250), Петр). (l.26155), глаголи). (l.26414)
+    Word.) count: 13, examples: чоловіка.) (l.24441), одного.) (l.26021), жінок.) (l.27142), Ісуса.) (l.27261), опрісноків.) (l.27409)
+    Word'Word. count: 8, examples: без'овочним. (l.23630), від'їхав. (l.23928, 24743), з'їсти. (l.24377), з'упинились. (l.25278)
+    Word-Word. count: 8, examples: що-дня. (l.27065, 27557), що-суботи. (l.27532), Ісус-Христовім. (l.28933), Ісус-Христовій. (l.29436)
+    .Word count: 5, examples: .не (l.28179, 30489), .що (l.29232), .Що (l.29616), .один (l.29688)
+    Word.Word count: 4, examples: й.пославший (l.26466), Тодї.архиєреи (l.26873), побиваймось.за (l.28367), Солунських.у (l.29628)
+    Word”. count: 4, examples: прогнїванню”. (l.30077), Богу”. (l.30244), свого”. (l.30260), сцїлились”. (l.30490)
+    .Word. count: 2, examples: .Ісус. (l.25353), .Божому. (l.25949)
+    “Word”. count: 2, examples: “нї”. (l.28886), “так”. (l.28887)
+    Word.. count: 1, example: самого.. (l.23850)
+    Word.Word, count: 1, example: покинувши.Його, (l.24179)
+    Word?. count: 1, example: мене?. (l.24871)
+    Word'. count: 1, example: землі'. (l.26456)
+    Word.Word: count: 1, example: каже.Йому: (l.26951)
+    Word,. count: 1, example: Самотракию,. (l.27563)
+    (Word?). count: 1, example: (листів?). (l.28910)
+    Word.”) count: 1, example: трепеті.”) (l.30300)
+    .Word; count: 1, example: .Божого; (l.30530)
+    Word.: count: 1, example: менї.: (l.30940)
+TOKENS WITH / (U+002F SOLIDUS):
+    Word/Word count: 1, example: прийшовши/знаходить (l.23602)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 2626, examples: глаголючи: (l.23233, 23235), є: (l.23236), говорячи: (l.23240), йому: (l.23243)
+    : count: 8, lines: 24162, 24193, 24909, 25831, 26042
+    Word:) count: 3, examples: розслабленого:) (l.23454, 24339), розслабленому:) (l.25200)
+    Word-Word: count: 2, examples: все-денну: (l.25921), Ісус-Христової: (l.30443)
+    Word): count: 2, examples: двайцяти): (l.27007), сьвятий): (l.30069)
+    Word:, count: 1, example: вподобав:, (l.24295)
+    Word.Word: count: 1, example: каже.Йому: (l.26951)
+    :, count: 1, line: 27470
+    (Word): count: 1, example: (знов): (l.30040)
+    Word”: count: 1, example: Бог”: (l.30244)
+    Word.: count: 1, example: менї.: (l.30940)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 2043, examples: Ісаака; (l.23215), Якова; (l.23215), його; (l.23215), Тамари; (l.23216), Єсрома; (l.23216)
+    Word); count: 9, examples: батьків); (l.26419), усіх); (l.27364), оправдують); (l.28045), луччі); (l.28068), пани); (l.28600)
+    ; count: 8, lines: 23430, 23577, 23840, 25013, 27035
+    (Word); count: 7, examples: (воїни); (l.24874), (високо); (l.25557), (добрі); (l.27948), (се); (l.28233), (знести); (l.28648)
+    Word;) count: 6, examples: вранці;) (l.24821), Його;) (l.26227), додолу;) (l.28262), поганами;) (l.29156), душу;) (l.30575)
+    Word”; count: 2, examples: Господь”; (l.30230), поблазнї”; (l.30473)
+    NumberWord; count: 1, example: 0тець; (l.23555)
+    Word;, count: 1, example: Ньому;, (l.25082)
+    Word'Word; count: 1, example: з'одягає; (l.25556)
+    [Word]; count: 1, example: [намітку]; (l.26917)
+    Word-Word;) count: 1, example: Ісус-Христові;) (l.28004)
+    Word-Word; count: 1, example: ко-ристнє; (l.28547)
+    .Word; count: 1, example: .Божого; (l.30530)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 944, examples: Жидівський? (l.23240), гнїва? (l.23268), мене? (l.23275), солити? (l.23316), нагорода? (l.23349)
+    ? count: 35, lines: 23378, 23563, 23664, 23767, 23882
+    (Word)? count: 4, examples: (робити)? (l.27754, 28761), (писанне)? (l.28264), (вас)? (l.28534)
+    Word?” count: 3, examples: чоловік?” (l.30314), нас?” (l.30409), ся?” (l.30531)
+    Word'Word? count: 2, examples: з'одягли? (l.24115), з'ясує? (l.27278)
+    ?, count: 1, line: 23377
+    Word?. count: 1, example: мене?. (l.24871)
+    Word-Word? count: 1, example: необрізан-ню? (l.28100)
+    Word)? count: 1, example: Бога)? (l.28508)
+    (Word?). count: 1, example: (листів?). (l.28910)
+    Word?) count: 1, example: дбати?) (l.29803)
