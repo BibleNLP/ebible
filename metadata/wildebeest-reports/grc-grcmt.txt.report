@@ -1,0 +1,78 @@
+OVERVIEW:
+File size: 41899 lines, 864839 characters
+Letter scripts: 2
+    GREEK (690175 instances)
+    LATIN (99 instances): ADFGIMNOPSTV
+Number scripts: 1
+    ASCII_DIGIT (376 instances): 0123456789
+Other character groups: 2
+    SPACE (132247 instances)
+    ASCII_PUNCTUATION (43 instances): ()-:
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ( U+0028 LEFT PARENTHESIS count: 3, lines: 24000, 24001, 31051
+    ) U+0029 RIGHT PARENTHESIS count: 3, lines: 24000, 24001, 31051
+    - U+002D HYPHEN-MINUS count: 34, lines: 23375, 23514, 24168, 24207, 24864
+    : U+003A COLON count: 3, lines: 24000, 24001, 31051
+SPACE characters:
+      U+0020 SPACE count: 132247, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 36, examples: 5680 (l.23514), 5720 (l.24168), 3308 (l.25553), 3309 (l.25553), 2064 (l.26122)
+    1 U+0031 DIGIT ONE count: 32, examples: 3126 (l.23375), 14 (l.24000), 13 (l.24001), 2518 (l.24168), 5719 (l.24168)
+    2 U+0032 DIGIT TWO count: 58, examples: 3126 (l.23375), 2 (l.23514), 23 (l.24000, 24001), 2518 (l.24168)
+    3 U+0033 DIGIT THREE count: 55, examples: 3126 (l.23375), 5399 (l.23514), 23 (l.24000, 24001), 13 (l.24001)
+    4 U+0034 DIGIT FOUR count: 19, examples: 14 (l.24000), 2064 (l.26122), 5740 (l.26122), 2045 (l.26318), 2334 (l.26668)
+    5 U+0035 DIGIT FIVE count: 54, examples: 5399 (l.23514), 5680 (l.23514), 5676 (l.23514), 2518 (l.24168), 5719 (l.24168)
+    6 U+0036 DIGIT SIX count: 15, examples: 3126 (l.23375), 5680 (l.23514), 5676 (l.23514), 5627 (l.24207), 2064 (l.26122)
+    7 U+0037 DIGIT SEVEN count: 55, examples: 5676 (l.23514), 5719 (l.24168), 5720 (l.24168), 373 (l.24168), 5731 (l.24168)
+    8 U+0038 DIGIT EIGHT count: 18, examples: 5680 (l.23514), 2518 (l.24168), 2983 (l.24207), 3308 (l.25553), 846 (l.28406)
+    9 U+0039 DIGIT NINE count: 34, examples: 5399 (l.23514), 5719 (l.24168, 26318), 2983 (l.24207), 3309 (l.25553)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 12, examples: AOS (l.23514), PAI (l.24168, 26318), AAI (l.24207), ASM (l.26122)
+    D U+0044 LATIN CAPITAL LETTER D count: 2, examples: DSN (l.23375), DSM (l.27100)
+    F U+0046 LATIN CAPITAL LETTER F count: 5, examples: GPF (l.25553), NSF (l.28406, 30418, 31068), FAI (l.30312)
+    G U+0047 LATIN CAPITAL LETTER G count: 1, example: GPF (l.25553)
+    I U+0049 LATIN CAPITAL LETTER I count: 11, examples: PAI (l.24168, 26318), PMI (l.24168, 24864), AAI (l.24207)
+    M U+004D LATIN CAPITAL LETTER M count: 5, examples: PMI (l.24168, 24864), ASM (l.26122), DSM (l.27100), PAM (l.30331)
+    N U+004E LATIN CAPITAL LETTER N count: 12, examples: N (l.23375, 25553), DSN (l.23375), PNP (l.26122), NSF (l.28406)
+    O U+004F LATIN CAPITAL LETTER O count: 1, example: AOS (l.23514)
+    P U+0050 LATIN CAPITAL LETTER P count: 25, examples: P (l.23514, 24168, 24207), PAI (l.24168), PMI (l.24168)
+    S U+0053 LATIN CAPITAL LETTER S count: 10, examples: DSN (l.23375), AOS (l.23514), ASM (l.26122), DSM (l.27100), NSF (l.28406)
+    T U+0054 LATIN CAPITAL LETTER T count: 2, lines: 30409, 30418
+    V U+0056 LATIN CAPITAL LETTER V count: 13, lines: 23514, 24168, 24207, 24864, 26122
+GREEK characters:
+    α U+03B1 GREEK SMALL LETTER ALPHA count: 76855, examples: δαυιδ (l.23214), αβρααμ (l.23214, 23215), ισαακ (l.23215), ιακωβ (l.23215)
+    β U+03B2 GREEK SMALL LETTER BETA count: 3583, examples: βιβλος (l.23214), αβρααμ (l.23214, 23215), ιακωβ (l.23215), αμιναδαβ (l.23217)
+    γ U+03B3 GREEK SMALL LETTER GAMMA count: 11263, examples: γενεσεως (l.23214), εγεννησεν (l.23215, 23216, 23217, 23218)
+    δ U+03B4 GREEK SMALL LETTER DELTA count: 12913, examples: δαυιδ (l.23214), δε (l.23215), ιουδαν (l.23215), αδελφους (l.23215), ιουδας (l.23216)
+    ε U+03B5 GREEK SMALL LETTER EPSILON count: 68159, examples: γενεσεως (l.23214), εγεννησεν (l.23215), δε (l.23215, 23216), αδελφους (l.23215)
+    ζ U+03B6 GREEK SMALL LETTER ZETA count: 1583, examples: ζαρα (l.23216), βοοζ (l.23218), οζιαν (l.23221), οζιας (l.23222), αχαζ (l.23222)
+    η U+03B7 GREEK SMALL LETTER ETA count: 27320, examples: ιησου (l.23214), εγεννησεν (l.23215, 23216, 23217), της (l.23216)
+    θ U+03B8 GREEK SMALL LETTER THETA count: 10870, examples: θαμαρ (l.23216), ρουθ (l.23218), ιωαθαμ (l.23222), σαλαθιηλ (l.23225), ματθαν (l.23228)
+    ι U+03B9 GREEK SMALL LETTER IOTA count: 65736, examples: βιβλος (l.23214), ιησου (l.23214), χριστου (l.23214), υιου (l.23214), δαυιδ (l.23214)
+    κ U+03BA GREEK SMALL LETTER KAPPA count: 24293, examples: ισαακ (l.23215), ιακωβ (l.23215), και (l.23215, 23216), εκ (l.23216)
+    λ U+03BB GREEK SMALL LETTER LAMDA count: 18530, examples: βιβλος (l.23214), αδελφους (l.23215), σαλμων (l.23217, 23218), βασιλεα (l.23219)
+    μ U+03BC GREEK SMALL LETTER MU count: 19930, examples: αβρααμ (l.23214, 23215), θαμαρ (l.23216), εσρωμ (l.23216), αραμ (l.23216)
+    ν U+03BD GREEK SMALL LETTER NU count: 57257, examples: γενεσεως (l.23214), εγεννησεν (l.23215, 23216), τον (l.23215), ιουδαν (l.23215)
+    ξ U+03BE GREEK SMALL LETTER XI count: 2247, examples: εξ (l.23229), τεξεται (l.23234, 23236), εξει (l.23236), προσεταξεν (l.23237)
+    ο U+03BF GREEK SMALL LETTER OMICRON count: 67636, examples: βιβλος (l.23214), ιησου (l.23214), χριστου (l.23214), υιου (l.23214), τον (l.23215)
+    π U+03C0 GREEK SMALL LETTER PI count: 21845, examples: επι (l.23224), πασαι (l.23230), απο (l.23230), πριν (l.23231), πνευματος (l.23231)
+    ρ U+03C1 GREEK SMALL LETTER RHO count: 23442, examples: χριστου (l.23214), αβρααμ (l.23214, 23215), φαρες (l.23216), ζαρα (l.23216)
+    ς U+03C2 GREEK SMALL LETTER FINAL SIGMA count: 27421, examples: βιβλος (l.23214), γενεσεως (l.23214), τους (l.23215), αδελφους (l.23215), ιουδας (l.23216)
+    σ U+03C3 GREEK SMALL LETTER SIGMA count: 24902, examples: γενεσεως (l.23214), ιησου (l.23214), χριστου (l.23214), εγεννησεν (l.23215), ισαακ (l.23215)
+    τ U+03C4 GREEK SMALL LETTER TAU count: 51982, examples: χριστου (l.23214), τον (l.23215, 23216), τους (l.23215), αυτου (l.23215)
+    υ U+03C5 GREEK SMALL LETTER UPSILON count: 40319, examples: ιησου (l.23214), χριστου (l.23214), υιου (l.23214), δαυιδ (l.23214), ιουδαν (l.23215)
+    φ U+03C6 GREEK SMALL LETTER PHI count: 4031, examples: αδελφους (l.23215, 23224), φαρες (l.23216), ιωσαφατ (l.23221), ιωσηφ (l.23229)
+    χ U+03C7 GREEK SMALL LETTER CHI count: 5302, examples: χριστου (l.23214), ραχαβ (l.23218), αχαζ (l.23222), ιεχονιαν (l.23224), ιεχονιας (l.23225)
+    ψ U+03C8 GREEK SMALL LETTER PSI count: 956, examples: πεμψας (l.23246), ανακαμψαι (l.23250), ψυχην (l.23258), προσκοψης (l.23284), υψηλον (l.23286)
+    ω U+03C9 GREEK SMALL LETTER OMEGA count: 21800, examples: γενεσεως (l.23214), ιακωβ (l.23215), εσρωμ (l.23216), ναασσων (l.23217), σαλμων (l.23217)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word-NumberWord count: 11, examples: V-AOS-2P (l.23514), V-PAI-2P (l.24168, 26318), V-PMI-2P (l.24168, 24864)
+    Word-Word count: 8, examples: N-DSN (l.23375), N-GPF (l.25553), I-DSM (l.27100), P-NSF (l.28406), T-NSN (l.30409)
+    Word-NumberWord-NumberWord count: 1, example: V-2AAI-3P (l.24207)
+    Word-Word-Word count: 1, example: V-PNP-ASM (l.26122)
+TOKENS WITH : (U+003A COLON):
+    (Number:Number) count: 3, examples: (23:14) (l.24000), (23:13) (l.24001), (17:8) (l.31051)

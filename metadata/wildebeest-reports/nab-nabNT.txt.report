@@ -1,0 +1,246 @@
+OVERVIEW:
+File size: 41899 lines, 2504976 characters
+Letter scripts: 1
+    LATIN (1586261 instances)
+Number scripts: 2
+    SUPERSCRIPT_DIGIT (642257 instances): ²³¹
+    ASCII_DIGIT (9730 instances): 0123456789
+Other character groups: 4
+    SPACE (142425 instances)
+    ASCII_PUNCTUATION (38653 instances): ,.:?
+    COMBINING_DIACRITICAL_MARKS (36862 instances):  ̱
+    GENERAL_PUNCTUATION (4502 instances): —‘’“”
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    , U+002C COMMA count: 6599, lines: 23232, 23250, 23268, 23270, 23297
+    . U+002E FULL STOP count: 28043, lines: 23214, 23215, 23216, 23217, 23218
+    : U+003A COLON count: 3427, lines: 23232, 23233, 23235, 23239, 23242
+    ? U+003F QUESTION MARK count: 584, lines: 23240, 23242, 23382, 23394, 23395
+GENERAL_PUNCTUATION characters:
+    — U+2014 EM DASH count: 2830, lines: 23232, 23233, 23236, 23240, 23241
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 51, lines: 23334, 23336, 23638, 23707, 23945
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 51, lines: 23334, 23336, 23638, 23707, 23945
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 785, lines: 23233, 23244, 23264, 23268, 23270
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 785, lines: 23233, 23244, 23264, 23268, 23270
+SPACE characters:
+      U+0020 SPACE count: 139595, lines: 23214, 23215, 23216, 23217, 23218
+      U+00A0 NO-BREAK SPACE count: 2830, lines: 23232, 23233, 23236, 23240, 23241
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 161, examples: 40 (l.23280), 000 (l.23687, 23740, 23750, 23751)
+    1 U+0031 DIGIT ONE count: 2585, examples: 14 (l.23230), 1 (l.23232, 23233, 23234, 23235)
+    2 U+0032 DIGIT TWO count: 4276, lines: 23233, 23240, 23244, 23251, 23268
+    3 U+0033 DIGIT THREE count: 2598, lines: 23214, 23230, 23231, 23233, 23242
+    4 U+0034 DIGIT FOUR count: 46, examples: 14 (l.23230), 40 (l.23280, 24296), 4 (l.23740, 23751)
+    5 U+0035 DIGIT FIVE count: 22, examples: 5 (l.23687, 23750, 24520, 24588), 15 (l.25095)
+    6 U+0036 DIGIT SIX count: 9, examples: 36 (l.27951), 276 (l.27959), 60 (l.29839), 260 (l.30943, 30965)
+    7 U+0037 DIGIT SEVEN count: 23, examples: 70 (l.25433, 25448, 27825), 75 (l.27199), 27 (l.27951)
+    8 U+0038 DIGIT EIGHT count: 7, examples: 84 (l.25078), 18 (l.25591, 25598, 25603), 80 (l.25696)
+    9 U+0039 DIGIT NINE count: 3, examples: 99 (l.25664), 39 (l.29081)
+SUPERSCRIPT_DIGIT characters:
+    ² U+00B2 SUPERSCRIPT TWO count: 230747, lines: 23214, 23215, 23216, 23217, 23218
+    ³ U+00B3 SUPERSCRIPT THREE count: 273861, lines: 23214, 23215, 23216, 23217, 23218
+    ¹ U+00B9 SUPERSCRIPT ONE count: 137649, lines: 23214, 23215, 23216, 23217, 23218
+COMBINING_DIACRITICAL_MARKS characters:
+     ̱ U+0331 COMBINING MACRON BELOW count: 36862, examples: sũ̱ (l.23214), tu̱ (l.23214, 23215, 23216), sĩ̱ (l.23216)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 4308, lines: 23214, 23215, 23216, 23217, 23219
+    B U+0042 LATIN CAPITAL LETTER B count: 312, examples: Bo (l.23218), Ba (l.23224, 23225, 23230), Be (l.23239)
+    E U+0045 LATIN CAPITAL LETTER E count: 372, examples: Es (l.23216), E (l.23222, 23223, 23226, 23227)
+    F U+0046 LATIN CAPITAL LETTER F count: 145, examples: Fa (l.23462, 23482, 23568, 23582), Fi (l.23489)
+    H U+0048 LATIN CAPITAL LETTER H count: 1327, examples: Hã (l.23225), Hai (l.23231, 23232), Hxi (l.23242), Ha (l.23244)
+    I U+0049 LATIN CAPITAL LETTER I count: 317, lines: 23215, 23219, 23244, 23258, 23259
+    J U+004A LATIN CAPITAL LETTER J count: 6310, examples: Je (l.23214), Jah (l.23214), Ja (l.23215), Ju (l.23215, 23216)
+    K U+004B LATIN CAPITAL LETTER K count: 2095, examples: Kris (l.23229, 23230, 23231, 23242), Kxã (l.23250)
+    L U+004C LATIN CAPITAL LETTER L count: 103, examples: Le (l.23489, 24343, 24344), Lã (l.24085), Lu (l.24966)
+    M U+004D LATIN CAPITAL LETTER M count: 473, example: Ma (l.23223, 23228, 23229, 23231, 23232)
+    N U+004E LATIN CAPITAL LETTER N count: 11233, examples: Nxe (l.23214, 23216, 23229), Nxa (l.23215), Na (l.23217)
+    O U+004F LATIN CAPITAL LETTER O count: 220, examples: O (l.23218, 23221, 23222), Oh (l.23234), Ou (l.23249)
+    P U+0050 LATIN CAPITAL LETTER P count: 732, examples: Pe (l.23216, 23296, 23428, 23488), Pra (l.23674)
+    R U+0052 LATIN CAPITAL LETTER R count: 95, examples: Ra (l.23218, 23254, 23256), Ru (l.23218), Ro (l.23220)
+    S U+0053 LATIN CAPITAL LETTER S count: 3085, examples: Si (l.23214), Sa (l.23216, 23219), Sal (l.23217, 23218)
+    T U+0054 LATIN CAPITAL LETTER T count: 7923, examples: Txa (l.23214, 23229), Ta (l.23214, 23219, 23230)
+    U U+0055 LATIN CAPITAL LETTER U count: 29, lines: 23219, 23401, 24053, 24920, 25259
+    V U+0056 LATIN CAPITAL LETTER V count: 5, examples: Vẽn (l.27981), Vĩn (l.29389), Vi (l.31017, 31084)
+    W U+0057 LATIN CAPITAL LETTER W count: 1658, examples: Wain (l.23232), Wxã (l.23233), Wẽ (l.23233, 23238), Wẽh (l.23236)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 3142, examples: Yãu (l.23231), Yxãn (l.23233), Yah (l.23251), Ya (l.23257, 23260)
+    a U+0061 LATIN SMALL LETTER A count: 297331, examples: jah (l.23214), lai (l.23214), na (l.23214), txa (l.23214), jau (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 408, examples: bra (l.23214, 23215), bah (l.23217), ba (l.23218), be (l.23218)
+    e U+0065 LATIN SMALL LETTER E count: 58521, examples: Je (l.23214), wxe (l.23214), nxe (l.23214), Nxe (l.23214), te (l.23215)
+    f U+0066 LATIN SMALL LETTER F count: 259, examples: fa (l.23221, 23268), far (l.23291), Naf (l.23291, 23293)
+    h U+0068 LATIN SMALL LETTER H count: 95448, examples: jah (l.23214), hxi (l.23214), hxai (l.23214), hẽ (l.23214), Jah (l.23214)
+    i U+0069 LATIN SMALL LETTER I count: 151758, examples: lai (l.23214), si (l.23214), xai (l.23214), li (l.23214), hxi (l.23214)
+    j U+006A LATIN SMALL LETTER J count: 24558, examples: jah (l.23214, 23218, 23219, 23226), jau (l.23214)
+    k U+006B LATIN SMALL LETTER K count: 67153, examples: kan (l.23214), kxai (l.23215), ki (l.23215), kah (l.23215), ko (l.23215)
+    l U+006C LATIN SMALL LETTER L count: 74550, examples: lai (l.23214), la (l.23214), li (l.23214), lot (l.23214), lo (l.23214)
+    m U+006D LATIN SMALL LETTER M count: 487, examples: mah (l.23216, 23217), mi (l.23217), mõ (l.23217, 23218)
+    n U+006E LATIN SMALL LETTER N count: 148257, examples: na (l.23214), wãn (l.23214), nxe (l.23214), kan (l.23214), nãu (l.23214)
+    o U+006F LATIN SMALL LETTER O count: 26189, examples: lot (l.23214), lo (l.23214, 23215), ko (l.23215), lon (l.23215)
+    p U+0070 LATIN SMALL LETTER P count: 290, examples: po (l.23265, 23303, 23328), pi (l.23318, 23319)
+    r U+0072 LATIN SMALL LETTER R count: 2176, examples: bra (l.23214, 23215), re (l.23216), ra (l.23216), ro (l.23216)
+    s U+0073 LATIN SMALL LETTER S count: 54350, examples: su (l.23214), si (l.23214), sũ̱ (l.23214), sxã (l.23214), sa (l.23215)
+    t U+0074 LATIN SMALL LETTER T count: 100377, examples: txa (l.23214), ta (l.23214), tãu (l.23214), lot (l.23214), tai (l.23214)
+    u U+0075 LATIN SMALL LETTER U count: 65020, examples: su (l.23214), jau (l.23214), yxau (l.23214), tãu (l.23214), nãu (l.23214)
+    v U+0076 LATIN SMALL LETTER V count: 400, examples: vi (l.23214, 23219, 23230, 23233), ve (l.23400)
+    w U+0077 LATIN SMALL LETTER W count: 37095, examples: wãn (l.23214), wxe (l.23214), wa (l.23214), wã (l.23214), wĩ (l.23214)
+    x U+0078 LATIN SMALL LETTER X count: 169679, examples: txa (l.23214), wxe (l.23214), xai (l.23214), nxe (l.23214), Txa (l.23214)
+    y U+0079 LATIN SMALL LETTER Y count: 33437, examples: yxau (l.23214), yau (l.23214), yah (l.23214, 23215), ya (l.23216)
+LATIN_EXTENDED_LETTER characters:
+    Ã U+00C3 LATIN CAPITAL LETTER A WITH TILDE count: 540, examples: Ãu (l.23233), Ã (l.23233, 23239, 23246, 23247)
+    ã U+00E3 LATIN SMALL LETTER A WITH TILDE count: 60476, examples: wãn (l.23214), ã (l.23214), wã (l.23214), tãu (l.23214), sxã (l.23214)
+    õ U+00F5 LATIN SMALL LETTER O WITH TILDE count: 42, examples: sõ (l.23217), mõ (l.23217, 23218, 23223), tõ (l.23549)
+LATIN_EXTENDED_A characters:
+    Ĩ U+0128 LATIN CAPITAL LETTER I WITH TILDE count: 1017, examples: Ĩ (l.23237, 23246, 23247, 23249), Ĩh (l.23240)
+    ĩ U+0129 LATIN SMALL LETTER I WITH TILDE count: 23478, examples: wĩ (l.23214), ĩ (l.23214, 23216), sĩ̱ (l.23216), lhĩ (l.23219)
+    Ũ U+0168 LATIN CAPITAL LETTER U WITH TILDE count: 112, examples: Ũ (l.23275, 23677), Ũh (l.23284, 23445, 23612)
+    ũ U+0169 LATIN SMALL LETTER U WITH TILDE count: 29206, examples: sũ̱ (l.23214), ũ (l.23214), nũ̱ (l.23219, 23224), nũ (l.23225)
+LATIN_EXTENDED_ADDITIONAL characters:
+    Ẽ U+1EBC LATIN CAPITAL LETTER E WITH TILDE count: 1, line: 27236
+    ẽ U+1EBD LATIN SMALL LETTER E WITH TILDE count: 19762, example: hẽ (l.23214, 23215, 23216, 23217, 23218)
+TOKENS WITH , (U+002C COMMA):
+    WordNumberWordNumberWordNumber, count: 1503, examples: nxe³kxan²ti³, (l.23347), ain³kxain¹tãu³, (l.23460), Nxe³jau³su², (l.23505), kãi²nxa³wi¹, (l.23515), Yha²jau³su², (l.24074)
+    WordNumberWordNumberWordNumberWordNumber, count: 1380, examples: ĩ²li³te²na², (l.23409), Wxã³na¹tu¹wi¹, (l.23421), wãn³txi³kxai³lu¹, (l.23445, 23547), Nxe³jau³xa²sa¹, (l.23641)
+    WordNumberWordNumber, count: 1048, examples: Ta̱³nxa², (l.23340, 24049, 24052), na³li¹, (l.23456), ta̱³nxa², (l.24006)
+    WordNumberWordNumberWordNumberWordNumberWordNumber, count: 935, examples: ã³ne³wxe³nũ²la², (l.23232), nxe³te²ju²hẽ³li¹, (l.23484), ã³nhe¹kxi²ha²kxai³, (l.23521), Kãi³ain¹ju³ta²sa¹, (l.23672), sa²hau³kot3sẽ¹li¹, (l.23784)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 685, examples: wi¹lhin¹yex1sain¹tũ¹xã¹, (l.23268), hxi²ka¹nhĩ̱³nx2na³li¹, (l.23270), sa²khot3je²nxa³nũ²nhai¹, (l.23410), Sa²nai¹hxa³je²nũ²nhai¹, (l.23412), ĩ³ye³kxain¹te³nah¹lxi¹, (l.23472)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 451, examples: ĩ³yau¹ũ³nx2ta¹tu¹wi¹, (l.23297), hxi²nũ¹tain¹jah¹lxi³hẽ¹li¹, (l.23354), A³bra³ãu²ah³lu¹tai²na², (l.23425), sa²yxo²ã³ain¹ti²tu³wi¹, (l.23560), ĩ³sa²si¹hã³txai¹nhẽ³li¹, (l.23681)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 288, examples: Hxi²sxã³nhon³yah³lxi³te³nah¹lxi¹, (l.23250), khãuh³lxa³tain¹nũn³ta¹hxai²hẽ¹li¹, (l.23315), wi¹lhau³ko³tũ¹nx2ti³tu¹wi¹, (l.23381), wxa²kxi²so¹jah³lxi³nũ³nhẽ¹li¹, (l.23638), ã³yã³ni²lã³ain¹sãn²tu¹wi¹, (l.24048)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 139, examples: ã³ye³yxo²nũ¹nxai¹nhĩ̱³nx2na³li¹, (l.23812), a²wẽ³sãi¹lxo³khai³lxa³te³ji¹wi¹, (l.23969), ĩ³ye³kxi²sai³nain¹ta¹hxai²hẽ¹la², (l.24580), sa²yxo²we¹ti³ten³nxa²lxa³nha²kxai³, (l.24662), ĩ³xi²ye²nx2tain¹kxa²ya̱n³ti³su², (l.24822)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 59, examples: ne³wã²na³ũ¹nxa²ha¹tai¹ti²tu³wi¹, (l.23828), wa³to²hi²nũh¹nx2ti³te²ju²hẽ³li¹, (l.25535), ĩ³ye³kxi²yah³lxi³to³hin¹tai¹ti²ti¹, (l.26245), ĩ³sa²si¹ka³ti²nũ¹nx2ti³ha²kxai³, (l.26359), a³la³kxi²ta³lun²yah³lxan³kxai²nãn²tu̱³, (l.26421)
+    WordNumber, count: 49, examples: yxau², (l.24347, 26115, 26148), yũ², (l.24390, 24686)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 23, examples: ĩ³wi¹we¹je²ta¹hxai²ti³ai¹ti²tu³wi¹, (l.23381), wi¹ko̱³nyah¹lxi³ti³ten³nxa²lxin¹kxai²nãn²tu̱³, (l.24401), sa²yu̱³ta²la³kxi²te²nũ³nhũ̱³te²txã³wi¹, (l.26139), wxa²wa²yat1sa²tã³si³ka³la²kã¹kxai¹ni², (l.26179), ũ³wha²li¹la³kxi¹nx2ti³jau³xu¹tai²na², (l.26318)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 12, examples: ũ³whĩ̱¹tũ̱³ka̱³txi³hũ̱³tũ̱³ka̱³txi³sai¹nha²kxai³, (l.26262), ĩ³sa²yxau³xi²ti³hi¹khaix3jah¹lo²sa¹ha²kxai³, (l.26617), yuh³xan¹ta³ko³xan¹tũ̱³ka̱³txi³sin²nxa³ha²kxai³, (l.26842), yuh³xan¹ta³ko³xan¹tũ̱³ka̱³txi³sai¹nxa³ha²kxai³, (l.26842), Ũ³sa³si³tũ³ko¹kxã¹nx2ti³xa³ka̱³lhũ̱³nxe², (l.28055)
+    “WordNumberWordNumberWordNumber, count: 5, examples: “Su²lhã³i², (l.24676), “Nũ¹ka³na¹, (l.24807), “A²nũ²a², (l.26502, 26758), “Jah¹lai²na², (l.26907)
+    “WordNumberWordNumberWordNumberWordNumber, count: 5, examples: “Txah³lxa³kxa³txa², (l.24752), “Txa²ki³lha³lxa², (l.26223), “Tũ̱¹ka̱³txai²na², (l.26792), “Txai²na¹xai²na², (l.26793), “Txa²ye³nai²na², (l.30503)
+    “WordNumberWordNumberWordNumberWordNumberWordNumber, count: 5, examples: “Je³su²jah³lai²na², (l.26478, 26531, 26853), “Txa²sũ̱³nu²yah³lãi³, (l.26712), “Txa²ko̱³nxa¹ju³ta², (l.28276)
+    “WordNumberWordNumber, count: 3, examples: “Hã³xã¹, (l.26144), “Hã³xa¹, (l.26787), “Txai²na², (l.26901)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 3, examples: ũh³nũ̱n³sa²tã̱³ha³lo²sai¹nẽ³lain¹kxa²ya̱n³ti³su², (l.26691), ĩ³sa²si¹hã³ũ¹nhẽ³ta¹hxai²ti³ai¹ti²tu³wa², (l.29369), ĩ³ye³ĩ³yi²lhon¹ta³kxi²nyhu¹ah³lxi³txa³hẽ¹li¹, (l.29908)
+    Number.Number, count: 2, examples: 3.000, (l.27059), 5.000, (l.27095)
+    ‘WordNumberWordNumber, count: 1, example: ‘Wĩ³na², (l.24543)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 1, example: “Ãn³ten³sah¹lxin¹kxa²ha³ta̱³nxãn²txi³, (l.26432)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 1, example: sa²yxo²we¹jah³lxin¹jah¹lo²lo³jah³lxi³to³hin¹tai¹ti²tu³wa², (l.28704)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber, count: 1, example: ĩ³sa²yxau³xi²ti³hi¹tũ¹nhẽ³ta¹hxai²ti³ai¹ti²tu³wa², (l.28960)
+TOKENS WITH . (U+002E FULL STOP):
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 5232, examples: nxe³ya³ta¹hxai²hẽ¹la². (l.23216), nxe³ki̱³te²ju²hẽ³la². (l.23230), nxe²ki̱³te²ju²hẽ³la². (l.23230), wẽh³ni³ta¹hxai²hẽ¹la². (l.23231), wet1sa²jah¹lo²sxa³xã¹. (l.23232)
+    WordNumberWordNumberWordNumberWordNumberWordNumber. count: 5082, examples: nxe³ta¹hxai²hẽ¹la². (l.23215), Kris²tu³jah¹lo²su¹. (l.23229), Nxe³ta¹hxai²hẽ¹la². (l.23229), so¹jah¹lai²la¹wi¹. (l.23229), kãi³jah¹lo²sa¹xã¹. (l.23232)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 4778, examples: ã³si³wxe³jau³xai²la¹wa². (l.23214), ĩ³yau¹ũ³jau³xai²la¹wa². (l.23214), sa³wxe³nyhain¹ta¹hxai²hẽ¹la². (l.23224), a³li³lah¹ta¹hxai²hẽ¹la². (l.23229), ĩ³yĩ¹li²hain¹jau³xa²sa¹. (l.23229)
+    WordNumberWordNumberWordNumberWordNumber. count: 4035, example: ta¹hxai²hẽ¹la². (l.23214, 23215, 23216, 23217, 23218)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 3074, examples: a³li³lah¹kxi²ta¹hxai²hẽ¹la². (l.23216), ne³kxe³kxi²nha²ta¹hxai²hẽ¹la². (l.23232), Ã³nhxi²sxã³nho³kxi²te³nah¹lxi¹. (l.23233), ã³wa²sut1ti³hit1tain¹tu¹wi¹. (l.23234), ĩ³yĩ¹li²yha³ta¹hxai²hẽ¹la². (l.23238)
+    WordNumberWordNumberWordNumber. count: 1690, examples: so¹sẽ¹li¹. (l.23233), nxe²nxa³i¹. (l.23233), Nxex3sa²lxi¹. (l.23258), wxã³tu¹wi¹. (l.23264), ki̱³tã³li¹. (l.23270)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 1588, examples: ã³nhxi²sxã³nho³kxi²ta¹hxai²hẽ¹la². (l.23233), o²la³kxi²nyha¹ta¹hxai²nxa³hẽ¹la². (l.23238), ũ³whĩn¹ti³nyha¹ta¹hxai²nxa³hẽ¹la². (l.23238), sa²tã³ni²lã³kxi²sa²te³na³na¹. (l.23241), ĩ³sa²si¹hã³ain¹ta¹hxai²hẽ¹la². (l.23246)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 655, examples: e³hau³kon³ta³lu²nain¹ta¹hxai²hẽ¹la². (l.23231), Na³sa³re²thĩ³nãn¹jah¹lo²sin¹tu¹wi¹. (l.23261), ũ³hũ¹kxi²sa²sai¹nyhu¹ta¹hxai²hẽ¹la². (l.23267), a²ki³lha³lxa²nãu³lot3nx2ti³tu¹wi¹. (l.23348), wi¹lo²la³kxi²nha²ki̱³te²ju²hẽ³li¹. (l.23373)
+    WordNumberWordNumber. count: 475, examples: Nxi¹lxi¹. (l.23233), na³li¹. (l.23383), Nxe³txi¹. (l.23420), Nxex3txi¹. (l.23450), nxa³wi¹. (l.23451)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 336, examples: ã³yã³nũ²kxi²xi²si¹hain¹ta¹hxai²hẽ¹la². (l.23242), Be³lẽ²thĩ³nãn¹tũ̱³ka̱³txi³si²yah³lxi¹lxi¹. (l.23244), ãn³ka³la³kxi³we̱³kxi²yain¹ta¹hxai²hẽ¹la². (l.23277), ĩ³sa²wa²lho¹xi²nha¹jah³lxi³sã²nhẽ³li¹. (l.23326), ũ³hũ²sa²sĩ¹nĩ¹nhĩn¹txai³sa²sĩ¹nhẽ³li¹. (l.23362)
+    WordNumberWordNumberWordNumberWordNumberWordNumber.” count: 167, examples: a²yxo²ha³kxa²su¹.” (l.23268), yxau³hĩ̱³nx2na³li¹.” (l.23334), wain³te²ju²hẽ³li¹.” (l.23341), hi̱t3jah¹lxi³hẽ¹li¹.” (l.23346), e³kxi²na¹tũ¹xã¹.” (l.23360)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 132, examples: yau²xai³jah¹lxi³hẽ¹li¹.” (l.23288), ũ³hũ¹ai¹na¹tũ¹xã¹.” (l.23326), ĩ³ye³kxai¹na¹tũ¹xã¹.” (l.23343), ã³si³tẽ³kxi¹sẽ¹li¹.” (l.23344), e³kxi²to³ha¹tũ¹xã¹.” (l.23357)
+    WordNumberWordNumberWordNumberWordNumber.” count: 100, examples: so¹nha¹tũ¹xã¹.” (l.23233), ĩ²nẽ³tu¹wi¹.” (l.23270), nxe³nxa²ha¹wi¹.” (l.23284), yũ³nxãn²nxa³i¹.” (l.23325), nxe³txa³hẽ¹li¹.” (l.23336)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 98, examples: a²wa³kxẽn³no³nĩn¹tu¹wi¹.” (l.23244), wxã³ti³wa³ki³lxon³na³li¹.” (l.23264), wet1yxau²xai³jah¹lxi³hẽ¹li¹.” (l.23282), o²la³kxi²sain³txa³hẽ¹li¹.” (l.23285), hxi²nũn¹sa²jah¹lai²la¹wi¹.” (l.23306)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 89, examples: ũ³hũ¹kxi²sa²sai¹nyhu¹ah³lxi³ta¹hxai²hẽ¹la². (l.23267), a³li³sa²sai¹xi²ta¹hxai²ti³ai¹ti²tu³wi¹. (l.23598), ĩ³tih³nxe³nẽ³lain¹ta¹hxai²ti³ai¹ti²tu³wi¹. (l.23704), kwa²wa³ka³li³yut3ta³lot3san¹jah¹lo²si¹lxi¹. (l.23828), Ye³ka³lxa¹txi³nx2ti³to³ha¹tai¹ti²tu³wi¹. (l.24024)
+    WordNumberWordNumberWordNumber.” count: 70, examples: sĩ¹na¹wi¹.” (l.23407), yũ²nxa³nha¹.” (l.23461), yũ²na³li¹.” (l.23541), nxai¹nxa³wi¹.” (l.23623), wain³na³li¹.” (l.23708)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 66, examples: Ĩ³lxi³thi¹nxa³jah¹lo²si¹lxi¹.” (l.23325), Ne³wã²na³ũ¹hain¹nxa³lho³na¹.” (l.23366), a²ta³nũ̱³ka̱³txi³sain¹na³li¹.” (l.23511), ã³ya̱³lxi²nyhain¹jah¹lai²la¹wi¹.” (l.23547), wi¹kãi³ũh¹xai³jah¹lxi³hẽ¹li¹.” (l.23706)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 50, examples: Ju³te²a²ko³xan¹thĩ³nãn¹tũ̱³ka̱³txi³syah¹lxi¹lxi¹. (l.23244), a²ha²tet1jut3sũ̱³yah³lxi³tũ̱³ka̱³txi³syah¹lxi¹lxi¹. (l.23317), ĩ³yau¹ũ³nhẽ³jah¹lo²yãx1jah¹lo²nãu³syah¹lxi¹lxi¹. (l.23709), ĩ³ãin²ta³kxi²nha²khaix1nxe³nxa²ha¹tai¹ti²tu³wi¹. (l.23828), ã³ya̱u³son³kxi²nx2ta¹kxa²yã¹nxe³hĩ̱³nx2na³li¹. (l.24059)
+    “WordNumberWordNumberWordNumberWordNumber. count: 31, examples: “Ĩ³ton³jah¹lãi³. (l.23453), “Wi¹lhin¹sa³nha¹. (l.23461), “Ãu³la³na³xãi³. (l.23635), “Wã³la³ka³txãi³. (l.23789), “Ten³sa²nxa³nhai¹. (l.23925)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 30, examples: sa²ye³sai¹kxi¹nxa²sĩ¹na¹tu¹wi¹.” (l.23389), nã̱n³kxi²ya³sai¹nxãn³tai¹ti²tu³wi¹.” (l.23545), a²nũ²ka³na³ka³na³ton³tu¹wi¹.” (l.23836), ĩ³ye³kxi²sah¹lxin¹thĩ³nai²la¹wi¹.” (l.23908), Si³yxau³tãu³lot3sa²jah¹lo²sa¹wi¹.” (l.24050)
+    Number.Number count: 30, examples: 5.000 (l.23687, 23750), 4.000 (l.23740, 23751), 10.000 (l.23820)
+    “WordNumberWordNumberWordNumber. count: 25, examples: “Nxe³sa¹lxi¹. (l.23406), “Nxe²nxa³wi¹. (l.23637), “Nxex3sa²lxi¹. (l.23953), “Kwa²nhi¹nxi¹. (l.24086), “Nxe³sa²nxi¹. (l.24089)
+    “WordNumberWordNumberWordNumberWordNumberWordNumber. count: 24, examples: “Txa²hxi²kan¹jah¹lãi³. (l.23822, 24121, 25612), “Nxe³jah³lxi³si¹nxi¹. (l.24085), “Wxã³jah³lxi³hẽ¹li¹. (l.24111)
+    WordNumberWordNumber.” count: 22, examples: na³xã¹.” (l.23320), A²mẽ³.” (l.23364), Nxa¹nha¹.” (l.23505), na³li¹.” (l.25622), wxã³nai¹.” (l.25741)
+    “WordNumberWordNumberWordNumberWordNumberWordNumber.” count: 21, examples: “Hxi²kan¹sa²nxa³nha¹.” (l.23789), “Hxi²kan¹te²sa¹i¹.” (l.23887, 24700), “Txa²hxi²kan¹jah¹lãi³.” (l.23995), “Hãi¹nxã¹txai¹nhẽ³li¹.” (l.24645)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 16, examples: “Ra²ka²jah¹lo²si¹lxi¹. (l.23325), “Txa²wã¹hxi²kan¹jah¹lãi³. (l.23407), “Ne³ka²a³sah¹lxi³wxi¹. (l.23538), “Ha³lo³kxit1sã²nhẽ³li¹. (l.23825), “Ko̱³nxe³thin¹khai¹nxi¹lxi¹. (l.24103)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 12, examples: ya²la³lyau³xai²la¹wi¹.’ (l.23336), Ya²la³lyau³xai²la¹i¹.’ (l.23336), ũ³wha¹a¹thĩ³na²su¹.’ (l.23638), ã³wxã³jah¹lxi³hẽ¹li¹.’ (l.23945), ah³si¹hai¹na¹tu¹wi¹.’ (l.23985)
+    “WordNumberWordNumber. count: 11, examples: “Nxe³txi¹. (l.23874), “Wẽ³sãi³. (l.23923), “Ha³yo¹. (l.23924), “Nxex3txi¹. (l.25694), “Ta¹wi¹. (l.26260)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 9, examples: ũ³whĩn¹ta³kxi²nyhu¹ah³lxi³txa³hẽ¹li¹.” (l.23330), ĩ³yau¹ũ³nẽ³lain¹te²jai¹ti²tu³wi¹.” (l.24814), ã³nxũ²kwa̱i³wi¹ti³hi¹txa²lxi³tu¹wi¹.” (l.26144), ũ³sa³si³tũ³ko¹kxã¹jah¹lxi³hẽ¹li¹.” (l.26419), ĩ³ye¹nxi²to³ki̱³ju³ta³la²na³na¹.” (l.26419)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 9, examples: “Hxi²kan¹jah¹lai²la¹wi¹.” (l.23511), “Wi¹lĩ²jah¹lxi³hẽ¹li¹.” (l.24823), “Sa³ka³ri²ah³lo²su².” (l.25021), “Nũ¹ka³nai²lxã²na³li¹.” (l.25743), “Ko̱³nxe³thin¹te²si¹lxi¹.” (l.26207)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 9, examples: ã³ye³yxo²nũ¹sa²na³li¹.’ (l.24003), a³hi²si¹hai¹na¹tu¹wi¹.’ (l.24778), he³la³kxi³sye¹txi³na³li¹.’ (l.25970), wi¹lhin¹ti³hi¹tain¹tu¹wi¹.’ (l.27039), Txa²nũ̱³ka̱³txi³syah¹lxa³lxi¹.’ (l.28249)
+    WordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 8, examples: ã³na¹a¹tũ¹xã¹.’ (l.23334, 24661), txa²yen³kxai²na²su¹.’ (l.23707), ũ³hũ³na¹tũ¹xã¹.’ (l.24543), we¹jah¹lo²sa¹wi¹.’ (l.27235)
+    “WordNumberWordNumberWordNumberWordNumber.” count: 8, examples: “Hxi²ka¹na¹xã¹.” (l.26216), “Ya̱³lxu²sa³nhã¹.” (l.26434), “Wxã³na¹tũ¹xã¹.” (l.26492), “Ĩ²te²txã³i¹.” (l.26505), “Hãu²no³ta¹xã¹.” (l.26764)
+    WordNumberWordNumberWordNumberWordNumber.’ count: 7, examples: Ya³nx2ta¹i¹.’ (l.26584), ĩ³na¹tu¹wi¹.’ (l.26953), ĩ³na¹tũ¹xĩ¹.’ (l.26954), Nxe³nxa²tu¹wi¹.’ (l.27053), yxau²xai³txu¹li¹.’ (l.30821)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 6, examples: ko̱³nxe³thin¹khai¹nxe³thĩn³sain¹ta¹hxai²ti³ai¹ti²tu³wi¹. (l.23501), ĩ³kaix1so¹nxa²lxi³kxe³nũ̱³ka̱³txi³yah³lxi³nũ³ni¹lxa². (l.28004), yxau²xai³ye²yah³lxi³to³hin¹ta¹hxain¹ti³ai¹ti²tu³wa². (l.29297), yxau²xai³ye²ain¹yah³lxi³to³hin¹ta¹ti³ai¹ti²tu³wa². (l.29574), sa²yxo²wet1sa²tẽ³sain¹ta¹hxai²nxa³ti³ai¹ti²tu³wi¹. (l.30168)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 6, examples: ĩ³ki³ha¹kxi²ye²nxa³kxi³sã¹.’ (l.24005), wxa²sa³wi³su¹xi²na¹tu¹wi¹.’ (l.25676), sa²yxo²ã³sah³lxi¹nha²kxai³lu¹.’ (l.27228), ain³kxah¹lxin¹jau³nũ³ai²la¹wi¹.’ (l.27390), ã³si³tẽ³kxi²sah¹lxi³hẽ¹li¹.’ (l.30805)
+    “WordNumberWordNumberWordNumber.” count: 5, examples: “Nxẽn²na³li¹.” (l.23340), “Nxe²nxa³wi¹.” (l.23340), “Heh³sa³nhã¹.” (l.26361), “Yũ²nxa³i¹.” (l.26739), “Wi¹na³na¹.” (l.28008)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 4, examples: Si³yxau³tãu³lot3ju³ta³nũ³a²wxã³ti³wa̱³kxi³lxon³na³li¹. (l.23295), hxi²ki³sa²wa²yat1sa²tã³ha³lo²sai¹ain¹ta¹hxai²hẽ¹la². (l.25161), ĩ³yĩ¹li²nxa²lxi³ju³ta³nũ³lo³nyhah¹lxi³hĩ̱³nx2nxã³lxa². (l.28699), so¹nx2ti³tũ̱³ka̱³txi³syah¹lxi³ta¹hxain¹ti³ai¹ti²tu³wa². (l.30442)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 4, examples: “Ĩ³tih³nxe³jah¹lai²la¹wi¹.” (l.23511), “Txa²hxi²kan¹jah¹lo²si¹lxi¹.” (l.25261), “A³lan²khaix1tu¹nhẽ³tu¹wi¹.” (l.25583), “Ã³yũ³xi²sa²te³ji¹xã¹.” (l.25709)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 4, examples: “Sa²yxo²than²kxi²sa²sĩ¹nhẽ³li¹.” (l.24088), “Wa²su¹wa²sun¹yah³lxin¹tu¹wi¹.” (l.26483), “Wi¹ten³sa²tã³te²hũ̱³na¹xã¹.” (l.26550), “Wi¹ten³sa²tã³te²hũ̱³nha¹nhai¹.” (l.26550)
+    WordNumberWordNumberWordNumber.’ count: 4, examples: na¹tũ¹xã¹.’ (l.25547), yxau²na³ni¹.’ (l.26083), wain³na³li¹.’ (l.30799), yũ²nxa³wi¹.’ (l.30831)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 3, examples: “A³lxi²waun¹nhat1jah³lxi³hẽ¹li¹. (l.26780), “Wã³nxĩn¹khaix1nxe³ju³tai²la¹wi¹. (l.27217), “Wi¹kãi³tũ̱³ka̱³txi³sain¹na³na¹. (l.28283)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 3, examples: “Yuh³xan¹ta³ko³xan¹tũ̱³ka̱³txi³sa¹xã¹.” (l.26787), “Ko̱³nxe³thin¹tũ̱³ka̱³txi³khaix1syah¹lxi¹lxi¹.” (l.26792), “Sa²than²kxi²sa²tã³txain¹yah³lxi³hẽ¹li¹.” (l.26907)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumber. count: 2, examples: ‘Txa²hxi²kan¹jah¹lãi³. (l.27052), ‘Yen³kxih³khai¹nxa¹wi¹. (l.30831)
+    Number.Number, count: 2, examples: 3.000, (l.27059), 5.000, (l.27095)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 2, example: “Khãuh³lxa³thin¹khai¹nx2na³li¹. (l.31078, 31081)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 1, example: ‘Txa²wã¹sũ̱³nu²sa²na³li¹. (l.23336)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 1, example: “Ĩ³lxi³thin¹ti³hex1yah³lxi¹hxai²nxãn³tai¹ti²ti¹. (l.26689)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 1, example: a²sa³wi³ha³lxi³khai³nũ̱³ka̱³txai²la¹i¹.” (l.26734)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.” count: 1, example: “Kwa²wa³ka³li³lo³kxi²sah²lxin¹te²nãu³xa².” (l.26783)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumber.’” count: 1, example: ‘Wxa²sũ̱³nu²sa¹wi¹.’” (l.27217)
+    ‘WordNumberWordNumberWordNumber. count: 1, example: ‘Nxex3sa²lxi¹. (l.27389)
+    ‘WordNumberWordNumberWordNumber.’ count: 1, example: ‘Wi¹na³li¹.’ (l.27792)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’” count: 1, example: ã³ye³wxe³ah³lxan³tho³li¹.’” (l.27993)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 1, example: ã³nxai³yah³lxin¹tĩh³na²lot3txa²lxi³sa²ki³lxo³jah³lxi³to³hin¹tai¹ti²tu³wa². (l.28704)
+TOKENS WITH : (U+003A COLON):
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber: count: 1038, examples: ĩ³ye³kxi²te³nah¹lxi¹: (l.23242), Ĩ³ye³kxain¹te³nah¹lxi¹: (l.23250), Ĩ³ye³kxi²te³nah¹lxi¹: (l.23251, 23264), a²ẽ¹nãn¹jau³kxai³lu¹: (l.23254)
+    WordNumberWordNumberWordNumberWordNumber: count: 734, examples: nxe³te³nah¹lxi¹: (l.23243), E³te³nah¹lxi¹: (l.23253), Nxe³te³nah¹lxi¹: (l.23255, 23264, 23265)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber: count: 494, examples: Ne³kxe³kxi²nha²te³nah¹lxi¹: (l.23232), ĩ³wa²lũ³xain¹te³nah¹lxi¹: (l.23243), kwa³na³te²an¹jau³kxai³lu¹: (l.23254), Ĩ³ye³kxi²nha²te³nah¹lxi¹: (l.23257), Ĩ³hen³txin³tain¹te³nah¹lxi¹: (l.23262)
+    WordNumberWordNumberWordNumberWordNumberWordNumber: count: 475, examples: e³kxi²te³nah¹lxi¹: (l.23233), e³kxain¹te³nah¹lxi¹: (l.23239), E³kxain¹te³nah¹lxi¹: (l.23261), Sah²lxan³te³nah¹lxi¹: (l.23270), Ain³kxain¹te³nah¹lxi¹: (l.23278)
+    WordNumberWordNumberWordNumber: count: 240, examples: te³nah¹lxi¹: (l.23235, 23366), sa²kxai³lu²: (l.23357, 23358), Nxe³yãn¹ta¹: (l.23360)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber: count: 190, examples: Ĩ³sa²si¹hã³ain¹te³nah¹lxi¹: (l.23246), nxe²e³kxi²yah³lxin¹te³nah¹lxi¹: (l.23325), ĩ³yau¹ũ¹nx2ta¹jau³xa²sa¹: (l.23335), ĩ³wa²lũ³xi²ya³te³nah¹lxi¹: (l.23476), ĩ³hen³txi³yah³lxin¹te³nah¹lxi¹: (l.23518)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber: count: 122, examples: Ĩ³hen³txi²nyhain¹te³ãn¹jau³kxai³lu¹: (l.23260), ĩ³wa²lũ³xi²te²an¹jau³kxai³lu¹: (l.23285, 23421), ĩ³wa²lũ³xi²ti³an¹jau³kxai³lu¹: (l.23718, 23736)
+    WordNumberWordNumber: count: 108, examples: wxãi²na²: (l.23368), Yxãn¹ta¹: (l.23525, 23766, 23921, 24003)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber: count: 21, examples: ĩ³wa²lũ³xi²nẽ³lai¹nhĩ̱³te³nah¹lxi¹: (l.23920, 24740), ĩ³wã²lũ³xi²ya³te²an¹jau³kxai³lu¹: (l.24694), ĩ³sa²si¹hã³yhain¹te²an¹jau³kxai³lu¹: (l.24711), ĩ³wa²lũ³xi²ya³ti³an¹jau³kxai³lu¹: (l.24715)
+    WordNumber: count: 3, examples: Ta¹: (l.26167, 26983), Nxe²: (l.28343)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber: count: 2, examples: ĩ³wa²lũ³xain¹ya³hin¹ti³ãn¹jau³kxai³lu¹: (l.25831), ũ³wha²li¹la³kxi²nẽ³jau³xu¹tai²na²sa¹: (l.26683)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    WordNumberWordNumberWordNumberWordNumberWordNumber? count: 112, examples: a³li³la¹ji¹wi¹? (l.23242), ĩ³na²hĩ̱³ki̱³ji¹? (l.23382), yu̱h³lxah³lxin¹ji¹wi¹? (l.23440), ai³lyah³lxin¹thai¹li¹? (l.23535, 23536)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 96, examples: e³kxi²nyhah¹lxin¹ji¹wi¹? (l.23452), sa²yxo²ã³ain¹ji¹wi¹? (l.23704), ĩ³ye³lain¹te²la¹xã³? (l.23754), nxe²e³kxain¹tax1ji¹wi¹? (l.23779), hxi²kan¹sĩ¹nxãn³thĩ²li¹? (l.23788)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 95, examples: Ĩh¹jah¹lo²ta̱n³te²la¹xã³? (l.23441), wa³sut3jau³la³te²la¹xã³? (l.23453), yxo²ĩ²sya¹te³sin¹ji¹wi¹? (l.23476), ĩ³wã̱³wã̱³txi³san¹ji¹wi¹? (l.23697), ĩ³ye³ye³yah³lxin¹ji¹wi¹? (l.23749)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 78, examples: Ĩh¹nxe³sa²sĩn¹te³lin¹ji¹wi¹? (l.23443), wah³nxe³sa²sĩn¹te³lin¹ji¹wi¹? (l.23531), ĩh¹nxe³txe²hũ̱³nhĩ̱³te²la¹xã³? (l.23544), sa²sai²lho¹xi²hĩ̱³nxãn¹ji¹wi¹? (l.23569), ĩ̱h¹te²la³ta̱³nain¹te²la¹xã³? (l.23606)
+    WordNumberWordNumberWordNumberWordNumber? count: 63, examples: yai³nhĩ̱³ki̱³ji¹? (l.23382), wxãn³nhĩn¹ji¹wi¹? (l.23443), nxe²hĩ̱³ji¹wi¹? (l.23453), wai³nhĩ̱³ji¹wi¹? (l.23568), hĩ̱³te²la¹xã³? (l.23797)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 43, examples: ũ³hũ¹yah³lxi³hĩ̱³nhãn¹te²la¹xã³? (l.23394, 23395), ĩ³yain³ya³hain¹sĩn¹te²sin²ta²ku²? (l.23459), ũ³yho³hi²sah¹lxi³hĩ̱³nxãn¹ji¹wi¹? (l.24138), than²kxi²sa²tã³ũ¹te³la¹ji¹wi¹? (l.24215)
+    WordNumberWordNumberWordNumber? count: 35, examples: he¹ji¹wi¹? (l.23240), nĩn¹ji¹wi¹? (l.23531), te²la¹xã³? (l.23585), wain³ji¹wi¹? (l.23834), kãi³lhai¹li¹? (l.24221)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 18, examples: ã³ne³wxe²sa²sai¹yah³lxin¹ta¹ji¹wi¹? (l.23659), Si³yxau³tãu³lot3txa²jah¹lo²sin¹ji¹wi¹? (l.24186), ã³ne³wxe³yah³lxi³hĩ̱³nxãn¹te²la¹xã³? (l.24405), ĩ³yã̱³lã̱³ja³hain¹sĩn¹ki̱³te³ji¹wi¹? (l.24573), ĩ³ye³kxi¹nx2tain¹ta¹hxai²hẽ²lhai¹li¹? (l.24660)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?” count: 9, examples: yxo²ĩ²yah²lxan³thai¹li¹?” (l.23920, 24740), so¹kxi¹nxain¹te³ji¹wi¹?” (l.25548), ĩ³ye³kxin¹te²la¹xã¹?” (l.26723), si³yxau³ka̱³khai³sin¹tai¹?” (l.26891)
+    WordNumberWordNumberWordNumberWordNumberWordNumber?” count: 8, examples: wen¹sĩn¹te²la¹xã³?” (l.23635), wa³kon³yah²lxan³tai¹?” (l.23867), ã³wi¹hin¹thi²li¹?” (l.23953), wxa²to³sain¹ji¹wi¹?” (l.24464), Ĩh¹nxe³tain¹si²lxi¹?” (l.25683)
+    WordNumberWordNumber? count: 7, examples: ji¹wi¹? (l.23961, 25872), nain¹ji¹? (l.26432), nhĩn¹ji¹? (l.26503), Nhĩn¹ji¹? (l.26503)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?” count: 4, examples: wxa²nũ²kxi²sĩn¹te³la¹ji¹wi¹?” (l.23636), nxe²kãi³ũh¹nxa²sĩn¹na¹lhai¹li¹?” (l.24116), wi¹kãi³ũh¹nxa²sĩn¹nxa³lhai¹li¹?” (l.24121), sa²ta²la³kxi²ya³hin¹ji¹wi¹?” (l.24712)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 4, examples: yxau²xai³tũ̱³ka̱³txi³sa²nũn³sĩn¹te³ji¹wi¹? (l.26549), ĩ³hxi²kĩ¹la³kxi²nũ¹nx2tain¹te²la¹xã³? (l.28444), ũ³hũ¹kxi²sa²sai¹xi²nũh¹hĩ̱³te²la¹xã³? (l.28815), khãuh³lxa³ti³sa²nhĩn¹tãu³la³sĩn¹te²la¹xã³? (l.28841)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?” count: 2, examples: ũ³whi²kxi²nha²hĩ̱³ki̱³ji¹?” (l.23382), sa²ta²la³kxah³hin¹ji¹wi¹?” (l.25831)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?” count: 2, example: “Ĩh¹jah¹lo²ta̱³nhĩn¹ji¹wi¹?” (l.27780, 27906)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 1, example: ĩ³sa²si¹hã³jah¹lo²ta̱³te²la³hĩ̱³te²la¹xã³? (l.23920)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber? count: 1, example: wxi²kin³ti³ton³sa³wa³to²hi²hĩ̱³te²la¹xã³? (l.24006)
+    “WordNumberWordNumberWordNumberWordNumberWordNumber?” count: 1, example: “Hxi²kan¹nhĩ̱³nxãn¹ji¹?” (l.24630)
+    WordNumberWordNumberWordNumberWordNumber?’ count: 1, example: sĩn¹te²la¹xã³?’ (l.24837)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?” count: 1, example: wah³nxe³sa²si¹sĩn¹te³lin¹ji¹wi¹?” (l.25283)
+    “WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?” count: 1, example: “Ĩh¹nhu¹nãn¹te²ta̱n³yah³lxin¹ji¹wi¹?” (l.25612)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?’ count: 1, example: yai³na¹thĩ³nu³la³sĩn¹te²la¹xã³?’ (l.25944)
+    WordNumberWordNumberWordNumberWordNumber?” count: 1, example: ĩ³te³lin¹ji¹?” (l.26800)
+TOKENS WITH — (U+2014 EM DASH):
+    — count: 2830, lines: 23232, 23233, 23236, 23240, 23241
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘WordNumberWordNumberWordNumber count: 16, examples: ‘Ka³yxuh³xa² (l.23945), ‘Wãn³txi³su² (l.24003), ‘Ha³lo²a² (l.24141), ‘Ĩh¹thĩn¹ta̱³ (l.24837, 25944)
+    ‘WordNumberWordNumber count: 8, examples: ‘Wĩ³na² (l.23707, 25675), ‘Sũ̱³na² (l.24005), ‘Txai²li² (l.25547), ‘Hĩ¹na² (l.27993)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumber count: 6, examples: ‘Txa²wi¹nẽ³tãu³a¹ (l.23985, 24778), ‘Txa²sxe³xa³ka³lxa² (l.24661), ‘Txa²wi¹nẽ³tãu³a² (l.25890), ‘Oh³xan¹ko³xai²na² (l.27234)
+    ‘WordNumberWordNumberWordNumberWordNumber count: 5, examples: ‘Txa²wã¹sũ̱³na² (l.23336), ‘Ko̱³nxe³tẽ³kxa² (l.23638), ‘Je³su²jah³la² (l.26083), ‘Wxa²nũ̱³ka̱³txi³ (l.26584), ‘I³la³kxai²na² (l.29577)
+    “‘WordNumberWordNumberWordNumber count: 4, examples: “‘Wãn³txi³su² (l.24003, 24005), “‘Ka³te̱³na² (l.26318), “‘Hã²wxãn³txa³ (l.27527)
+    “‘WordNumberWordNumber count: 2, examples: “‘Txai²na² (l.26915), “‘Te²li² (l.29577)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumber. count: 2, examples: ‘Txa²hxi²kan¹jah¹lãi³. (l.27052), ‘Yen³kxih³khai¹nxa¹wi¹. (l.30831)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber count: 1, example: ‘Txu¹sa²khai³ta¹ka³lxa² (l.23334)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber. count: 1, example: ‘Txa²wã¹sũ̱³nu²sa²na³li¹. (l.23336)
+    ‘WordNumberWordNumber, count: 1, example: ‘Wĩ³na², (l.24543)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber count: 1, example: ‘Je³su²jah³lo²na¹xai²na² (l.26953)
+    “‘WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber count: 1, example: “‘Je³su²jah³lo²na¹xai²na² (l.26954)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumber.’” count: 1, example: ‘Wxa²sũ̱³nu²sa¹wi¹.’” (l.27217)
+    ‘WordNumberWordNumberWordNumber. count: 1, example: ‘Nxex3sa²lxi¹. (l.27389)
+    ‘WordNumberWordNumberWordNumber.’ count: 1, example: ‘Wi¹na³li¹.’ (l.27792)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 12, examples: ya²la³lyau³xai²la¹wi¹.’ (l.23336), Ya²la³lyau³xai²la¹i¹.’ (l.23336), ũ³wha¹a¹thĩ³na²su¹.’ (l.23638), ã³wxã³jah¹lxi³hẽ¹li¹.’ (l.23945), ah³si¹hai¹na¹tu¹wi¹.’ (l.23985)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 9, examples: ã³ye³yxo²nũ¹sa²na³li¹.’ (l.24003), a³hi²si¹hai¹na¹tu¹wi¹.’ (l.24778), he³la³kxi³sye¹txi³na³li¹.’ (l.25970), wi¹lhin¹ti³hi¹tain¹tu¹wi¹.’ (l.27039), Txa²nũ̱³ka̱³txi³syah¹lxa³lxi¹.’ (l.28249)
+    WordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 8, examples: ã³na¹a¹tũ¹xã¹.’ (l.23334, 24661), txa²yen³kxai²na²su¹.’ (l.23707), ũ³hũ³na¹tũ¹xã¹.’ (l.24543), we¹jah¹lo²sa¹wi¹.’ (l.27235)
+    WordNumberWordNumberWordNumberWordNumber.’ count: 7, examples: Ya³nx2ta¹i¹.’ (l.26584), ĩ³na¹tu¹wi¹.’ (l.26953), ĩ³na¹tũ¹xĩ¹.’ (l.26954), Nxe³nxa²tu¹wi¹.’ (l.27053), yxau²xai³txu¹li¹.’ (l.30821)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’ count: 6, examples: ĩ³ki³ha¹kxi²ye²nxa³kxi³sã¹.’ (l.24005), wxa²sa³wi³su¹xi²na¹tu¹wi¹.’ (l.25676), sa²yxo²ã³sah³lxi¹nha²kxai³lu¹.’ (l.27228), ain³kxah¹lxin¹jau³nũ³ai²la¹wi¹.’ (l.27390), ã³si³tẽ³kxi²sah¹lxi³hẽ¹li¹.’ (l.30805)
+    WordNumberWordNumberWordNumber.’ count: 4, examples: na¹tũ¹xã¹.’ (l.25547), yxau²na³ni¹.’ (l.26083), wain³na³li¹.’ (l.30799), yũ²nxa³wi¹.’ (l.30831)
+    WordNumberWordNumberWordNumberWordNumber?’ count: 1, example: sĩn¹te²la¹xã³?’ (l.24837)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber?’ count: 1, example: yai³na¹thĩ³nu³la³sĩn¹te²la¹xã³?’ (l.25944)
+    ‘WordNumberWordNumberWordNumberWordNumberWordNumber.’” count: 1, example: ‘Wxa²sũ̱³nu²sa¹wi¹.’” (l.27217)
+    ‘WordNumberWordNumberWordNumber.’ count: 1, example: ‘Wi¹na³li¹.’ (l.27792)
+    WordNumberWordNumberWordNumberWordNumberWordNumberWordNumberWordNumber.’” count: 1, example: ã³ye³wxe³ah³lxan³tho³li¹.’” (l.27993)

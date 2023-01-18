@@ -1,0 +1,410 @@
+OVERVIEW:
+File size: 41899 lines, 1279270 characters
+Letter scripts: 2
+    CYRILLIC (977055 instances)
+    LATIN (1348 instances): Ii
+Number scripts: 1
+    ASCII_DIGIT (1 instance): 2
+Other character groups: 3
+    SPACE (197936 instances)
+    ASCII_PUNCTUATION (53520 instances): !'()*,-.:;?[]
+    GENERAL_PUNCTUATION (7511 instances): «»–—‘’“”
+Words with characters from multiple scripts: 1 category, 183 unique types, 299 instances
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (CYRILLIC, LATIN):
+    Iзраіля count: 1, line: 17397
+    iдзе count: 2, lines: 17449, 17566
+    iм count: 4, lines: 17398, 17413, 17440, 17559
+    iмi count: 2, lines: 17474, 17572
+    iмя count: 3, lines: 17491, 17497, 17500
+    iсьцi count: 1, line: 17501
+    iх count: 4, lines: 17408, 17550, 17578, 17591
+    iхняя count: 1, line: 17551
+    iхнія count: 1, line: 17546
+    Ідзi count: 1, line: 17552
+    Глядзi count: 1, line: 17395
+    Давiда count: 1, line: 17386
+    Ерусалiме count: 3, lines: 17386, 17401, 17412
+    Калi count: 9, lines: 17418, 17470, 17474, 17490, 17544
+    Салодкi count: 1, line: 17478
+    Шчасьлiвая count: 1, line: 17580
+    Эклезiяст count: 6, lines: 17387, 17397, 17526, 17601, 17602
+    Эклезiяста count: 1, line: 17386
+    Якi count: 1, line: 17588
+    адзiн count: 3, lines: 17461, 17462, 17563
+    адыходзiць count: 1, line: 17389
+    анi count: 6, lines: 17459, 17555
+    ахвярнiк count: 5, lines: 204, 306, 307, 323, 337
+    ахвярнiку count: 1, line: 204
+    баiцца count: 2, lines: 17517, 17547
+    бачылi count: 1, line: 229
+    блiжняга count: 1, line: 17455
+    былi count: 3, lines: 17410, 17412, 17509
+    вiнаграднiкi count: 1, line: 17407
+    вiно count: 3, lines: 17406, 17552, 17582
+    вартаўнiкi count: 1, line: 17596
+    васьмi count: 1, line: 17585
+    вулiцу count: 1, line: 17597
+    вулiцы count: 1, line: 17598
+    выклiкае count: 1, line: 17455
+    выносiцца count: 1, line: 17539
+    вялiкi count: 1, line: 17559
+    вялiкiм count: 1, line: 17483
+    вялiкае count: 1, line: 17424
+    вялiкай count: 1, line: 17403
+    вялiкшым count: 1, line: 17412
+    гiне count: 1, line: 17514
+    галасiць count: 1, line: 17433
+    глядзiць count: 1, line: 17587
+    голасьцi count: 1, line: 229
+    грэшнiк count: 3, lines: 17525, 17540, 17563
+    грэшнiку count: 1, line: 17429
+    дайсьцi count: 1, line: 17578
+    днi count: 4, lines: 17426, 17483, 17554, 17591
+    другi count: 1, line: 17461
+    другiм count: 2, lines: 17466, 17526
+    есьцi count: 3, lines: 17427, 17484, 17543
+    жадалi count: 1, line: 17413
+    жывымi count: 2, lines: 17495, 17549
+    жылi count: 1, line: 17396
+    жыцьцi count: 2, lines: 17499, 17554
+    забiваць count: 1, line: 17432
+    забывалiся count: 1, line: 17538
+    займалiся count: 1, line: 17439
+    знайсьцi count: 1, line: 17526
+    зоркi count: 1, line: 17595
+    зрабiлi count: 1, line: 17414
+    зрабiць count: 2, lines: 17415, 17555
+    зрабiў count: 2, lines: 17409, 17440
+    зрабiўся count: 1, line: 17412
+    зробiць count: 1, line: 17531
+    зыходзiць count: 2, lines: 17450, 17531
+    зьбiраць count: 1, line: 17434
+    зьбiраў count: 1, line: 17429
+    зямлi count: 5, lines: 17468, 17519, 17542, 17544, 17585
+    кiдаць count: 1, line: 17434
+    кiравалася count: 1, line: 17406
+    калi count: 8, lines: 17461, 17462, 17463, 17517, 17566
+    камянi count: 2, lines: 17434, 17572
+    карысьцi count: 1, line: 17414
+    кнiгаў count: 1, line: 17605
+    князi count: 2, lines: 17579, 17580
+    косткi count: 1, line: 17588
+    крынiцы count: 1, line: 17599
+    лiхi count: 2, lines: 17513, 17557
+    лiхiх count: 1, line: 17539
+    лiхiя count: 1, line: 17454
+    лiхая count: 1, line: 17479
+    лiхоце count: 1, line: 17514
+    лiхоцьце count: 1, line: 17593
+    ломiць count: 1, line: 17571
+    любiць count: 3, lines: 17437, 17476
+    мiгдалёвае count: 1, line: 17598
+    мiж count: 1, line: 17549
+    мiру count: 1, line: 17437
+    маiм count: 5, lines: 17401, 17404, 17406, 17446, 17447
+    маладосьцi count: 1, line: 17592
+    марнасьцi count: 1, line: 17554
+    мацi count: 1, line: 17481
+    мудрасьцi count: 3, lines: 17401, 17403
+    нi count: 1, line: 17489
+    нiводзін count: 1, line: 17560
+    нiзка count: 1, line: 17569
+    нiчога count: 8, lines: 17394, 17427, 17441, 17451, 17480
+    нiшчыць count: 1, line: 217
+    ...
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 1275, lines: 60, 70, 103, 231, 232
+    ' U+0027 APOSTROPHE count: 7, lines: 23638, 23707, 24141, 30656
+    ( U+0028 LEFT PARENTHESIS count: 76, lines: 13965, 13967, 13970, 13974, 13976
+    ) U+0029 RIGHT PARENTHESIS count: 76, lines: 13965, 13967, 13970, 13974, 13976
+    * U+002A ASTERISK count: 2, lines: 14028, 16300
+    , U+002C COMMA count: 32412, lines: 2, 4, 5, 7, 8
+    - U+002D HYPHEN-MINUS count: 301, lines: 70, 73, 102, 205, 206
+    . U+002E FULL STOP count: 11132, lines: 1, 2, 3, 4, 5
+    : U+003A COLON count: 3267, lines: 3, 6, 9, 11, 14
+    ; U+003B SEMICOLON count: 1562, lines: 45, 49, 72, 152, 154
+    ? U+003F QUESTION MARK count: 1352, lines: 57, 65, 67, 69, 86
+    [ U+005B LEFT SQUARE BRACKET count: 1029, lines: 10, 12, 18, 21, 25
+    ] U+005D RIGHT SQUARE BRACKET count: 1029, lines: 10, 12, 18, 21, 25
+GENERAL_PUNCTUATION characters:
+    « U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK count: 1784, lines: 57, 879, 1128, 1298, 1472
+    » U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK count: 1784, lines: 57, 887, 1128, 1298, 1472
+    – U+2013 EN DASH count: 25, lines: 362, 368, 614, 13956, 13966
+    — U+2014 EM DASH count: 1501, lines: 5, 8, 13, 19, 23
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 31, lines: 1267, 1275, 1294, 1296, 1298
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 231, lines: 9, 10, 94, 95, 182
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 1093, lines: 3, 6, 9, 11, 14
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 1062, lines: 3, 6, 9, 11, 15
+SPACE characters:
+      U+0020 SPACE count: 197936, lines: 1, 2, 3, 4, 5
+ASCII_DIGIT characters:
+    2 U+0032 DIGIT TWO count: 1, line: 23776
+BASIC_LATIN characters:
+    I U+0049 LATIN CAPITAL LETTER I count: 851, lines: 497, 498, 499, 501, 502
+    i U+0069 LATIN SMALL LETTER I count: 497, examples: i (l.201, 211), ахвярнiк (l.204), ахвярнiку (l.204), нiшчыць (l.217)
+CYRILLIC characters:
+    Ё U+0401 CYRILLIC CAPITAL LETTER IO count: 1230, examples: Ён (l.52, 135, 243, 244), Ёктан (l.260)
+    І U+0406 CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I count: 4418, lines: 2, 3, 4, 5, 6
+    Ў U+040E CYRILLIC CAPITAL LETTER SHORT U count: 27, example: ГОСПАДАЎ (l.389, 391, 392, 393, 444)
+    А U+0410 CYRILLIC CAPITAL LETTER A count: 4154, example: ГОСПАД (l.35, 36, 38, 39, 40)
+    Б U+0411 CYRILLIC CAPITAL LETTER BE count: 3408, examples: Бог (l.1, 3, 4, 5), Божы (l.2)
+    В U+0412 CYRILLIC CAPITAL LETTER VE count: 918, examples: Вось (l.29, 54, 78, 94), Выгнанцам (l.92)
+    Г U+0413 CYRILLIC CAPITAL LETTER GHE count: 2414, example: ГОСПАД (l.35, 36, 38, 39, 40)
+    Д U+0414 CYRILLIC CAPITAL LETTER DE count: 2327, examples: Дух (l.2), ГОСПАД (l.35, 36, 38, 39)
+    Е U+0415 CYRILLIC CAPITAL LETTER IE count: 446, examples: Ева (l.76), Еву (l.81), Евусея (l.251), ГОСПАДЗЕ (l.363, 369)
+    Ж U+0416 CYRILLIC CAPITAL LETTER ZHE count: 53, examples: Жанчына (l.68), Жонкі (l.103), Жыві (l.696, 815), Жыве (l.14178)
+    З U+0417 CYRILLIC CAPITAL LETTER ZE count: 818, examples: Зробім (l.26), З (l.47), Зьмей (l.69), За (l.70, 73)
+    К U+041A CYRILLIC CAPITAL LETTER KA count: 976, examples: Куш (l.44), Каіна (l.81, 85), Каін (l.82, 83)
+    Л U+041B CYRILLIC CAPITAL LETTER EL count: 343, examples: Лямэха (l.98, 103, 104), Лямэх (l.99, 103)
+    М U+041C CYRILLIC CAPITAL LETTER EM count: 1562, examples: Мяне (l.90), Мэхіяэля (l.98), Мэхіяэль (l.98), Мэтушаэля (l.98), Мэтушаэль (l.98)
+    Н U+041D CYRILLIC CAPITAL LETTER EN count: 1330, examples: На (l.1), Няхай (l.3, 6, 9, 11)
+    О U+041E CYRILLIC CAPITAL LETTER O count: 1024, example: ГОСПАД (l.35, 36, 38, 39, 40)
+    П U+041F CYRILLIC CAPITAL LETTER PE count: 2433, examples: Пладзіцеся (l.22, 28), ГОСПАД (l.35, 36, 38)
+    Р U+0420 CYRILLIC CAPITAL LETTER ER count: 255, examples: Рыфат (l.238), Раама (l.242), Раамы (l.242), Рэхавот (l.246), Рэсэн (l.247)
+    С U+0421 CYRILLIC CAPITAL LETTER ES count: 3066, examples: Свой (l.27), Сваю (l.33), Сваёй (l.33, 34), ГОСПАД (l.35)
+    Т U+0422 CYRILLIC CAPITAL LETTER TE count: 2568, examples: Такі (l.35), Таму (l.55), Твой (l.66), Ты (l.68, 94)
+    У U+0423 CYRILLIC CAPITAL LETTER U count: 590, examples: У (l.73, 75, 106), ГОСПАДУ (l.83, 93)
+    Ф U+0424 CYRILLIC CAPITAL LETTER EF count: 104, examples: Філістынцы (l.249), Філістынскую (l.546), Філістынскай (l.548), Філістынскага (l.694), Філістынскі (l.701)
+    Х U+0425 CYRILLIC CAPITAL LETTER HA count: 1167, examples: Хавіля (l.42), Хідэкель (l.45), Хто (l.67), Ханок (l.98), Хама (l.138)
+    Ц U+0426 CYRILLIC CAPITAL LETTER TSE count: 730, examples: Ці (l.57, 67, 87, 89), Церні (l.74)
+    Ч U+0427 CYRILLIC CAPITAL LETTER CHE count: 275, examples: Чаму (l.86, 317, 318, 438), Чым (l.505)
+    Ш U+0428 CYRILLIC CAPITAL LETTER SHA count: 324, examples: Што (l.69, 90), Шэва (l.242), Шынаар (l.245), Шэляха (l.259)
+    Ы U+042B CYRILLIC CAPITAL LETTER YERU count: 13, examples: ГОСПАДАВЫ (l.559, 563, 14153, 14192), ГОСПАДАВЫМ (l.15587)
+    Э U+042D CYRILLIC CAPITAL LETTER E count: 497, examples: Эдэне (l.39), Эдэну (l.41), Эўфрат (l.45), Эдэн (l.46, 79)
+    Ю U+042E CYRILLIC CAPITAL LETTER YU count: 323, examples: Юваль (l.101), Юдыту (l.727), Юда (l.831, 1035, 1110)
+    Я U+042F CYRILLIC CAPITAL LETTER YA count: 4264, examples: Я (l.29, 30, 67), Яна (l.54), Які (l.64)
+    а U+0430 CYRILLIC SMALL LETTER A count: 143359, examples: На (l.1), пачатку (l.1), стварыў (l.1), неба (l.1), была (l.2)
+    б U+0431 CYRILLIC SMALL LETTER BE count: 20373, examples: неба (l.1), была (l.2), бязладная (l.2), бяздоньнямі (l.2), бачыў (l.4)
+    в U+0432 CYRILLIC SMALL LETTER VE count: 31660, examples: стварыў (l.1), водамі (l.2), сьвятло (l.3, 4), назваў (l.5)
+    г U+0433 CYRILLIC SMALL LETTER GHE count: 19395, example: Бог (l.1, 3, 4, 5, 6)
+    д U+0434 CYRILLIC SMALL LETTER DE count: 33470, examples: бязладная (l.2), над (l.2), бяздоньнямі (l.2), водамі (l.2), добрае (l.4)
+    е U+0435 CYRILLIC SMALL LETTER IE count: 40067, examples: неба (l.1), цемра (l.2), станецца (l.3), добрае (l.4), цемру (l.4)
+    ж U+0436 CYRILLIC SMALL LETTER ZHE count: 8673, examples: Божы (l.2), жывой (l.20), жывую (l.21), кажучы (l.22), множцеся (l.22)
+    з U+0437 CYRILLIC SMALL LETTER ZE count: 27129, examples: зямлю (l.1), зямля (l.2), бязладная (l.2), бяздоньнямі (l.2), ўзносіўся (l.2)
+    и U+0438 CYRILLIC SMALL LETTER I count: 1, example: тваим (l.16197)
+    й U+0439 CYRILLIC SMALL LETTER SHORT I count: 10525, examples: Няхай (l.3, 6, 9), няхай (l.6, 9)
+    к U+043A CYRILLIC SMALL LETTER KA count: 28434, examples: пачатку (l.1), сказаў (l.3, 6), якія (l.7), так (l.7)
+    л U+043B CYRILLIC SMALL LETTER EL count: 33381, examples: зямлю (l.1), зямля (l.2), была (l.2), бязладная (l.2), сьвятло (l.3)
+    м U+043C CYRILLIC SMALL LETTER EM count: 29045, examples: зямлю (l.1), зямля (l.2), цемра (l.2), бяздоньнямі (l.2), водамі (l.2)
+    н U+043D CYRILLIC SMALL LETTER EN count: 52344, examples: неба (l.1), бязладная (l.2), над (l.2), бяздоньнямі (l.2), ўзносіўся (l.2)
+    о U+043E CYRILLIC SMALL LETTER O count: 39032, examples: Бог (l.1), бяздоньнямі (l.2), Божы (l.2), ўзносіўся (l.2), водамі (l.2)
+    п U+043F CYRILLIC SMALL LETTER PE count: 22619, examples: пачатку (l.1), пустая (l.2), прасьцяг (l.6, 7), пад (l.7)
+    р U+0440 CYRILLIC SMALL LETTER ER count: 32753, examples: стварыў (l.1), цемра (l.2), добрае (l.4), разьдзяліў (l.4), цемру (l.4)
+    с U+0441 CYRILLIC SMALL LETTER ES count: 40360, examples: стварыў (l.1), пустая (l.2), ўзносіўся (l.2), сказаў (l.3), станецца (l.3)
+    т U+0442 CYRILLIC SMALL LETTER TE count: 24813, examples: пачатку (l.1), стварыў (l.1), пустая (l.2), станецца (l.3), сьвятло (l.3)
+    у U+0443 CYRILLIC SMALL LETTER U count: 30331, examples: пачатку (l.1), пустая (l.2), Дух (l.2), цемру (l.4, 5)
+    ф U+0444 CYRILLIC SMALL LETTER EF count: 511, examples: Эўфрат (l.45), фігавыя (l.63), Яфэта (l.138, 148), нэфілімы (l.142)
+    х U+0445 CYRILLIC SMALL LETTER HA count: 12603, examples: Дух (l.2), Няхай (l.3, 6, 9), няхай (l.6)
+    ц U+0446 CYRILLIC SMALL LETTER TSE count: 25516, examples: цемра (l.2), станецца (l.3), цемру (l.4, 5), раніца (l.5)
+    ч U+0447 CYRILLIC SMALL LETTER CHE count: 12216, examples: пачатку (l.1), бачыў (l.4), ноччу (l.5), вечар (l.5, 8)
+    ш U+0448 CYRILLIC SMALL LETTER SHA count: 13052, examples: што (l.4, 10, 12), большае (l.16), меншае (l.16)
+    ы U+044B CYRILLIC SMALL LETTER YERU count: 39428, examples: стварыў (l.1), была (l.2), Божы (l.2), бачыў (l.4), быў (l.5)
+    ь U+044C CYRILLIC SMALL LETTER SOFT SIGN count: 24427, examples: бяздоньнямі (l.2), сьвятло (l.3, 4, 5), разьдзяліў (l.4)
+    э U+044D CYRILLIC SMALL LETTER E count: 7271, examples: гэта (l.10, 12), дрэвамі (l.11), дрэвы (l.12), трэці (l.13)
+    ю U+044E CYRILLIC SMALL LETTER YU count: 6967, examples: зямлю (l.1), зямлёю (l.10), даюць (l.11, 12), маюць (l.11)
+    я U+044F CYRILLIC SMALL LETTER YA count: 40611, examples: зямлю (l.1), зямля (l.2), бязладная (l.2), пустая (l.2), бяздоньнямі (l.2)
+    ё U+0451 CYRILLIC SMALL LETTER IO count: 5409, examples: днём (l.5, 16, 18), зямлёю (l.10), дзён (l.14)
+    і U+0456 CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I count: 54706, examples: і (l.1, 2), бяздоньнямі (l.2), ўзносіўся (l.2), водамі (l.2)
+    ў U+045E CYRILLIC SMALL LETTER SHORT U count: 24517, examples: стварыў (l.1), ўзносіўся (l.2), сказаў (l.3), бачыў (l.4), разьдзяліў (l.4)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 908, examples: сьмерцю! (l.60), палявых! (l.70), мой! (l.103), маёй! (l.103), Ханаан! (l.231)
+    Word!» count: 123, examples: народу!» (l.16601), плошчы!» (l.17224), усіх!» (l.17383), гінем!» (l.23439), Давідаў!» (l.23475)
+    «Word! count: 104, example: «Госпадзе! (l.23416, 23420, 23422, 23435, 23439)
+    Word!” count: 78, examples: ідзі!” (l.318), Тваім!” (l.416), сьмяялася!” (l.440), загінуў!” (l.475), я!” (l.549)
+    “Word! count: 23, examples: “Госпадзе! (l.500), “Абрагаме! (l.559), “Досыць! (l.1387), “Якубе! (l.1389), “Ага! (l.14455)
+    «Word!» count: 10, examples: «Радуйцеся!» (l.24273), «Праракуй!» (l.24888), «Даволі!» (l.25971), «Смагну!» (l.26922), «Марыя!» (l.26952)
+    “Word!” count: 5, examples: “Абрагаме!” (l.549), “Кажы!” (l.625), “Пайду!” (l.650), “Якубе!” (l.885), “Кланяйцеся!” (l.1239)
+    Word!», count: 4, examples: Давіда!», (l.23910), Раббі!», (l.24172, 24868), Юдэйскі!», (l.26897)
+    Word!”, count: 3, examples: твой!”, (l.1169), мая!”, (l.15515), Госпадзе!”, (l.23406)
+    Word]! count: 3, examples: мяне]! (l.14944), Цябе]! (l.15327), гэтага]! (l.31096)
+    [Word]! count: 2, examples: [адплату]! (l.14578), [трывае]! (l.14749)
+    Word!”. count: 2, examples: загубляй!”. (l.15128), Табе!”. (l.15371)
+    ‘Word! count: 2, examples: ‘Душа! (l.25547), ‘Ойча! (l.25675)
+    «Word!», count: 2, examples: «Зьдзейсьнілася!», (l.26924), «Раббуні!», (l.26952)
+    Word]!” count: 1, example: хацела]!” (l.14455)
+    Word!”— count: 1, example: яны!”— (l.15090)
+    Word!”; count: 1, example: дазваньня!”; (l.15111)
+    “Word!”, count: 1, example: “Шаленства!”, (l.17405)
+    Word!Number count: 1, example: бойцеся!2 (l.23776)
+    «Word»! count: 1, example: «Не»! (l.28886)
+TOKENS WITH ' (U+0027 APOSTROPHE):
+    'Word count: 3, examples: 'Зьбярыце (l.23638), 'Дар (l.23707), 'Час (l.24141)
+    Word'”». count: 2, examples: мой'”». (l.23638), Маімі'”». (l.24141)
+    Word', count: 1, example: карыстаўся', (l.23707)
+    Word'Word count: 1, example: д'яблавы (l.30656)
+TOKENS WITH * (U+002A ASTERISK):
+    Word*, count: 1, example: анёламі*, (l.14028)
+    Word* count: 1, example: анёлаў* (l.16300)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 31412, examples: пустая, (l.2), бяздоньнямі, (l.2), сьвятло, (l.4), добрае, (l.4), днём, (l.5)
+    «Word, count: 292, examples: «Пытаючыся, (l.1298), «Вось, (l.1473), «Зьбярыцеся, (l.1475), «Дакуль, (l.16492), «Прыходзьце, (l.16713)
+    “Word, count: 185, examples: “Вось, (l.29, 54, 78), “Жанчына, (l.68), “Памнажаючы, (l.72)
+    [Word], count: 134, examples: [аблічча], (l.87), [Абрама], (l.319), [ямы], (l.347), [ёсьць], (l.402), [жыцьцём], (l.667)
+    Word”, count: 94, examples: яго”, (l.73, 311), мая”, (l.318), Абрама”, (l.360), сыноў”, (l.521)
+    Word», count: 73, examples: табе», (l.16553), мая», (l.16649), сюды», (l.16712, 16724), дрэннае», (l.17038)
+    Word’Word, count: 61, examples: сухазем’і, (l.182), Бэн’яміна, (l.1257, 1306, 1307, 1320)
+    Word], count: 46, examples: год], (l.435, 439), жалобы], (l.1132), спаленьне], (l.1145), свабоду], (l.1495)
+    Word-Word, count: 44, examples: Туваль-Каіна, (l.102), Рэхавот-Ір, (l.246), Аштэрот-Карнаіме, (l.342), Шавэ-Кірыятаіме, (l.342), Эль-Парану, (l.343)
+    “Word”, count: 14, examples: “Рака”, (l.23325), “Дурань”, (l.23325), “Ідзі”, (l.23423), “Прыйдзі”, (l.23423), “раббі”, (l.23995)
+    [Word, count: 11, examples: [Той, (l.916), [Таго, (l.927), [нікога, (l.1220), [месца, (l.1321), [тых, (l.14045)
+    Word?», count: 6, examples: гэтага?», (l.17161), ГОСПАД?», (l.17330), сабахтані?», (l.24244), Ты?», (l.26979), Мною?», (l.26984)
+    Word?”, count: 5, examples: цяперашнiя?”, (l.17509), есьці?”, (l.23382), піць?”, (l.23382), робіце?”, (l.24712), адвязваеце?”, (l.25831)
+    Word!», count: 4, examples: Давіда!», (l.23910), Раббі!», (l.24172, 24868), Юдэйскі!», (l.26897)
+    «Word», count: 4, examples: «Эффата», (l.24566), «Легіён», (l.25344), «Не», (l.28887), «Амэн», (l.28888)
+    Word!”, count: 3, examples: твой!”, (l.1169), мая!”, (l.15515), Госпадзе!”, (l.23406)
+    Word), count: 3, examples: навекі), (l.14689), чалавека), (l.29154), Хрыстовай), (l.29322)
+    Word-Word-Word, count: 2, examples: Бээр-Ляхай-Рой, (l.654), Эль-Бэт-Эль, (l.1019)
+    ‘Word, count: 2, examples: ‘Вярніцеся, (l.1350), ‘Напэўна, (l.1353)
+    Word?Word, count: 2, example: паручы?цца, (l.16779, 16915)
+    «Word!», count: 2, examples: «Зьдзейсьнілася!», (l.26924), «Раббуні!», (l.26952)
+    Word,” count: 1, example: сьмяялася,” (l.440)
+    , count: 1, line: 467
+    Word’Word”, count: 1, example: нап’юся”, (l.606)
+    Word’, count: 1, example: хлопца’, (l.1275)
+    Word]’, count: 1, example: зьверам]’, (l.1353)
+    Word*, count: 1, example: анёламі*, (l.14028)
+    Word,— count: 1, example: я,— (l.16023)
+    Word?, count: 1, example: ўгары?, (l.16700)
+    “Word!”, count: 1, example: “Шаленства!”, (l.17405)
+    Word', count: 1, example: карыстаўся', (l.23707)
+    ‘Word’, count: 1, example: ‘Карбан’, (l.24543)
+    Word,] count: 1, example: змагаемся,] (l.29044)
+    —Word, count: 1, example: —пабожнасьць, (l.30552)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 232, examples: ў-ва (l.70), з-за (l.73, 205), у-ва (l.73), Туваль-Каіна (l.102)
+    Word-Word, count: 44, examples: Туваль-Каіна, (l.102), Рэхавот-Ір, (l.246), Аштэрот-Карнаіме, (l.342), Шавэ-Кірыятаіме, (l.342), Эль-Парану, (l.343)
+    Word-Word. count: 12, examples: Хацацон-Тамары. (l.344), Бэн-Аммі. (l.496), Бээр-Шэва. (l.528), Бээр-Шэве. (l.546), Бээр-Шэвы. (l.567)
+    Word-Word-Word. count: 2, examples: Бээр-Ляхай-Рой. (l.396), Бэер-Ляхай-Рой. (l.670)
+    Word-Word-Word, count: 2, examples: Бээр-Ляхай-Рой, (l.654), Эль-Бэт-Эль, (l.1019)
+    Word-Word: count: 2, examples: таварышам-вучням: (l.26608), па-лікаонску: (l.27494)
+    Word-Word; count: 1, example: Бэер-Шэвы; (l.1392)
+    [Word-Word] count: 1, example: [па-рознаму] (l.28353)
+    Word-Word?» count: 1, example: па-юдэйску?» (l.29162)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 9158, examples: зямлю. (l.1), водамі. (l.2), сьвятло. (l.3), цемру. (l.4), ноччу. (l.5)
+    Word». count: 1113, examples: свайму». (l.1128), маім». (l.1474), прыбытак». (l.1501), Хета». (l.1506), усіх». (l.16484)
+    Word”. count: 609, examples: сьвятло”. (l.3), водаў”. (l.6), зямлі”. (l.11), зямлю”. (l.15), неба”. (l.20)
+    [Word]. count: 59, examples: [ракі]. (l.41), [каўчэг]. (l.176), [сыноў]. (l.256), [іх]. (l.805), [намерам]. (l.926)
+    Word”». count: 48, examples: твайго”». (l.887, 1524), Манасе”». (l.1472), Ізраіль”». (l.23244), Божых”». (l.23282)
+    «Word». count: 26, examples: «давай». (l.17336), «Досыць». (l.17337), «Ідзіце». (l.23446), «Ідзі». (l.23695), «Так». (l.23794)
+    Word’. count: 17, examples: шпегі’. (l.1267), вамі’. (l.1294), яго’. (l.1345, 1346), памрэ’. (l.1347)
+    Word]. count: 17, examples: яе]. (l.1478), бязбожніка]. (l.14016), іх]. (l.14122), намі]. (l.14613), мяне]. (l.14839)
+    Word’Word. count: 15, examples: Бэн’ямін. (l.1030, 1036), Бэн’яміна. (l.1305, 1337), Ар’элі. (l.1403)
+    Word-Word. count: 12, examples: Хацацон-Тамары. (l.344), Бэн-Аммі. (l.496), Бээр-Шэва. (l.528), Бээр-Шэве. (l.546), Бээр-Шэвы. (l.567)
+    “Word”. count: 7, examples: “Прысягаю”. (l.538), “Я”. (l.752), “Ведаем”. (l.801), “Якуб”. (l.956), “Лілеі”. (l.14626)
+    . count: 5, lines: 562, 15244, 15370, 23623, 30066
+    (Word). count: 5, example: (Сэлях). (l.13965, 13967, 13970, 14694, 14696)
+    [Word]”. count: 4, examples: [дзіця]”. (l.384), [сына]”. (l.829), [яго]”. (l.941, 1137)
+    —Word. count: 3, examples: —паўміралі. (l.182), —сем. (l.1412), —Рымляне. (l.27590)
+    (Word.) count: 3, example: (Сэлях.) (l.13974, 14210, 14792)
+    Word’.” count: 3, examples: весяліся’.” (l.25547), тваіх’.” (l.25676), іх’.” (l.27994)
+    Word’Word”. count: 2, examples: сухазем’е”. (l.9), нап’юцца”. (l.611)
+    Word-Word-Word. count: 2, examples: Бээр-Ляхай-Рой. (l.396), Бэер-Ляхай-Рой. (l.670)
+    Word””. count: 2, examples: мой””. (l.509), яе””. (l.702)
+    Word]”. count: 2, examples: ўласнасьць]”. (l.991), мяне]”. (l.14058)
+    Word’”. count: 2, examples: вамі’”. (l.1296), зрабіўшы’”. (l.1330)
+    Word!”. count: 2, examples: загубляй!”. (l.15128), Табе!”. (l.15371)
+    Word'”». count: 2, examples: мой'”». (l.23638), Маімі'”». (l.24141)
+    «Word. count: 2, examples: «Слухайце. (l.24395), «Сталася. (l.31128)
+    Word?». count: 2, examples: мёртвых?». (l.24617), чалавек?». (l.30314)
+    Word’Word». count: 2, examples: д’ябал». (l.26396), звар’яцела». (l.27421)
+    “Word. count: 1, example: “Добра. (l.802)
+    Word”.” count: 1, example: Датан”.” (l.1101)
+    Word?”. count: 1, example: перагароду?”. (l.1149)
+    Word’». count: 1, example: вашага’». (l.1298)
+    (Word. count: 1, example: (Разважаньне. (l.14049)
+    Word’Word”». count: 1, example: пад’ярэмнай”». (l.23900)
+    Word”?». count: 1, example: вольнымі”?». (l.26483)
+    Word]». count: 1, example: ім]». (l.27800)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 3220, example: Бог: (l.3, 6, 9, 11, 14)
+    [Word]: count: 30, examples: [Бог]: (l.67), [ГОСПАД]: (l.90), [казала]: (l.105), [яму]: (l.317), [Госпад]: (l.453)
+    «Word: count: 5, examples: «Напісана: (l.23282, 23908, 25846), «Сказана: (l.25144), «Напішы: (l.31008)
+    Word’Word: count: 3, examples: Бэн’яміна: (l.1408), д’ябал: (l.25135, 25138)
+    Word]: count: 2, examples: іх]: (l.475), сказаў]: (l.25305)
+    Word:] count: 2, examples: скажаш:] (l.17149), ён:] (l.17459)
+    Word-Word: count: 2, examples: таварышам-вучням: (l.26608), па-лікаонску: (l.27494)
+    [Word:] count: 1, example: [казаў:] (l.1247)
+    «Word»: count: 1, example: «Досыць»: (l.17336)
+    “Word: count: 1, example: “Напішы: (l.31095)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 1536, examples: Асірыі; (l.45), аднаму; (l.49), сыноў; (l.72), гафэр; (l.152), яго; (l.154)
+    [Word]; count: 11, examples: [наперадзе]; (l.803), [богам]; (l.14108), [майго]; (l.14109), [маці]; (l.14232), [цябе]; (l.14474)
+    Word]; count: 4, examples: яго]; (l.14444), мяне]; (l.14525, 15103), зямлю]; (l.28262)
+    Word’Word; count: 4, examples: д’ябал; (l.23289), п’е; (l.23547), разаб’ецца; (l.23939), вар’яцее; (l.26570)
+    Word»; count: 3, examples: будзе»; (l.26918, 30238), аддам»; (l.30024)
+    Word”; count: 2, examples: Ханаану”; (l.780), Абрагама”; (l.23270)
+    Word-Word; count: 1, example: Бэер-Шэвы; (l.1392)
+    Word!”; count: 1, example: дазваньня!”; (l.15111)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 813, examples: голы? (l.67), тваё? (l.86), зрабіў? (l.90, 317), твая? (l.317)
+    Word?» count: 325, examples: мяне?» (l.23275), малаверы?» (l.23440), Яго?» (l.23441), нас?» (l.23443), грэшнікамі?» (l.23459)
+    Word?” count: 123, examples: ты?” (l.65), есьці?” (l.67), зрабіла?” (l.69), твой?” (l.89), майго?” (l.89)
+    Word?Word count: 17, examples: сы?нам (l.16563, 16945), кры?віць (l.16735, 16844, 16940)
+    Word”? count: 10, examples: хадзі”? (l.23453, 25199), народаў”? (l.24726), узьляж”? (l.25727), сам”? (l.25728)
+    Word?”» count: 9, examples: хвалу?”» (l.23911), Мяне?”» (l.24464), яму?”» (l.24740), загубіць?”» (l.25224), другога?”» (l.25284)
+    [Word]? count: 7, examples: [нас]? (l.467), [будзе]? (l.1004), [сну]? (l.1181), [Тваёй]? (l.15517), [сваім]? (l.15890)
+    Word»? count: 6, examples: майго»? (l.17033), не»? (l.28885), Цябе»? (l.30035), Сынам»? (l.30035), Тваіх»? (l.30043)
+    Word?», count: 6, examples: гэтага?», (l.17161), ГОСПАД?», (l.17330), сабахтані?», (l.24244), Ты?», (l.26979), Мною?», (l.26984)
+    Word?”, count: 5, examples: цяперашнiя?”, (l.17509), есьці?”, (l.23382), піць?”, (l.23382), робіце?”, (l.24712), адвязваеце?”, (l.25831)
+    Word”?» count: 4, examples: садзе”?» (l.57), неба”?» (l.26368), прыйсьці”?» (l.26472), іду”?» (l.26812)
+    Word?’ count: 3, examples: брат?’ (l.1298, 1344), Маімі?’ (l.25944)
+    «Word?» count: 3, examples: «Якія?» (l.23849), «Што?» (l.26079), «Прарок?» (l.26134)
+    Word’Word? count: 2, examples: заб’еш? (l.500), вар’яцееце? (l.28769)
+    Word]? count: 2, examples: гэта]? (l.14447), ёю]? (l.28551)
+    Word?Word, count: 2, example: паручы?цца, (l.16779, 16915)
+    Word?». count: 2, examples: мёртвых?». (l.24617), чалавек?». (l.30314)
+    Word’Word?» count: 2, examples: п’юць?» (l.25209), пад’елі?» (l.26331)
+    “Word”? count: 2, examples: “добры”? (l.25776), “Крыху”? (l.26813)
+    Word”?” count: 1, example: мая”?” (l.702)
+    Word?”. count: 1, example: перагароду?”. (l.1149)
+    Word]?” count: 1, example: аднаго]?” (l.1254)
+    [Word]”? count: 1, example: [гэтага]”? (l.14065)
+    Word?, count: 1, example: ўгары?, (l.16700)
+    Word?’” count: 1, example: Маімі?’” (l.24837)
+    Word”?». count: 1, example: вольнымі”?». (l.26483)
+    ”? count: 1, line: 26584
+    Word-Word?» count: 1, example: па-юдэйску?» (l.29162)
+TOKENS WITH – (U+2013 EN DASH):
+    – count: 25, lines: 362, 368, 614, 13956, 13966
+TOKENS WITH — (U+2014 EM DASH):
+    — count: 1490, lines: 5, 8, 13, 19, 23
+    —Word. count: 3, examples: —паўміралі. (l.182), —сем. (l.1412), —Рымляне. (l.27590)
+    —Word count: 2, examples: —брат (l.509), —Бог (l.15965)
+    Word!”— count: 1, example: яны!”— (l.15090)
+    Word,— count: 1, example: я,— (l.16023)
+    “Word— count: 1, example: “Ты— (l.16339)
+    Word— count: 1, example: маіх— (l.16347)
+    —] count: 1, line: 29975
+    —Word, count: 1, example: —пабожнасьць, (l.30552)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 26, examples: ‘Вы (l.1267), ‘Не (l.1275), ‘Ня (l.1294, 1296), ‘Ці (l.1298)
+    ‘Word, count: 2, examples: ‘Вярніцеся, (l.1350), ‘Напэўна, (l.1353)
+    ‘Word! count: 2, examples: ‘Душа! (l.25547), ‘Ойча! (l.25675)
+    ‘Word’, count: 1, example: ‘Карбан’, (l.24543)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word’Word count: 107, examples: сухазем’е (l.10), заб’е (l.94, 95), ап’яненьня (l.230), заб’юць (l.311)
+    Word’Word, count: 61, examples: сухазем’і, (l.182), Бэн’яміна, (l.1257, 1306, 1307, 1320)
+    Word’. count: 17, examples: шпегі’. (l.1267), вамі’. (l.1294), яго’. (l.1345, 1346), памрэ’. (l.1347)
+    Word’Word. count: 15, examples: Бэн’ямін. (l.1030, 1036), Бэн’яміна. (l.1305, 1337), Ар’элі. (l.1403)
+    Word’Word; count: 4, examples: д’ябал; (l.23289), п’е; (l.23547), разаб’ецца; (l.23939), вар’яцее; (l.26570)
+    Word?’ count: 3, examples: брат?’ (l.1298, 1344), Маімі?’ (l.25944)
+    Word’Word: count: 3, examples: Бэн’яміна: (l.1408), д’ябал: (l.25135, 25138)
+    Word’.” count: 3, examples: весяліся’.” (l.25547), тваіх’.” (l.25676), іх’.” (l.27994)
+    Word’Word”. count: 2, examples: сухазем’е”. (l.9), нап’юцца”. (l.611)
+    Word’Word? count: 2, examples: заб’еш? (l.500), вар’яцееце? (l.28769)
+    Word’”. count: 2, examples: вамі’”. (l.1296), зрабіўшы’”. (l.1330)
+    Word’Word?» count: 2, examples: п’юць?» (l.25209), пад’елі?» (l.26331)
+    Word’Word». count: 2, examples: д’ябал». (l.26396), звар’яцела». (l.27421)
+    Word’Word”, count: 1, example: нап’юся”, (l.606)
+    Word’, count: 1, example: хлопца’, (l.1275)
+    Word’». count: 1, example: вашага’». (l.1298)
+    Word]’, count: 1, example: зьверам]’, (l.1353)
+    Word’Word”». count: 1, example: пад’ярэмнай”». (l.23900)
+    ‘Word’, count: 1, example: ‘Карбан’, (l.24543)
+    Word?’” count: 1, example: Маімі?’” (l.24837)
+    Word’ count: 1, example: богі’ (l.26584)

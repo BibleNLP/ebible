@@ -1,0 +1,194 @@
+OVERVIEW:
+File size: 41899 lines, 3185265 characters
+Letter scripts: 1
+    ARABIC (2410082 instances)
+Number scripts: 0
+Other character groups: 6
+    SPACE (617517 instances)
+    ASCII_PUNCTUATION (40235 instances): !()*-.:[]
+    ARABIC_PUNCTUATION (37104 instances): ،؛؟
+    ZERO_WIDTH (23848 instances)
+    GENERAL_PUNCTUATION (11135 instances): §«´»“”
+    ARABIC_MODIFIERS (3445 instances):  ً َ ُ ِ ّ
+Character conflict sets: 1
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 1
+‎    ي U+064A (ARABIC LETTER YEH) count: 5439; ی U+06CC (ARABIC LETTER FARSI YEH) count: 194984
+ZERO_WIDTH characters:
+    ‌ U+200C ZERO WIDTH NON-JOINER count: 23848, lines: 11, 26, 28, 30, 31
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 1001, lines: 70, 90, 103, 231, 232
+    ( U+0028 LEFT PARENTHESIS count: 357, lines: 689, 767, 939, 1364, 1577
+    ) U+0029 RIGHT PARENTHESIS count: 357, lines: 689, 767, 939, 1364, 1577
+    * U+002A ASTERISK count: 1, line: 16150
+    - U+002D HYPHEN-MINUS count: 6, lines: 20640, 24800, 29154, 29319
+    . U+002E FULL STOP count: 32393, lines: 1, 2, 3, 4, 5
+    : U+003A COLON count: 6118, lines: 3, 6, 9, 11, 14
+    [ U+005B LEFT SQUARE BRACKET count: 1, line: 16150
+    ] U+005D RIGHT SQUARE BRACKET count: 1, line: 16150
+GENERAL_PUNCTUATION characters:
+    § U+00A7 SECTION SIGN count: 1, line: 23566
+    « U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK count: 5666, lines: 3, 6, 9, 11, 14
+    ´ U+00B4 ACUTE ACCENT count: 1, line: 23915
+    » U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK count: 5188, lines: 3, 6, 9, 11, 15
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 151, lines: 54, 311, 360, 501, 599
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 128, lines: 54, 311, 360, 501, 599
+SPACE characters:
+      U+0020 SPACE count: 617517, lines: 1, 2, 3, 4, 5
+ARABIC characters:
+    ، U+060C ARABIC COMMA count: 33671, lines: 1, 5, 8, 11, 12
+    ؛ U+061B ARABIC SEMICOLON count: 784, lines: 71, 72, 554, 705, 739
+    ؟ U+061F ARABIC QUESTION MARK count: 2649, lines: 57, 65, 67, 69, 86
+‎    ء U+0621 ARABIC LETTER HAMZA count: 37, examples: النساء (l.961), وکلاء (l.8852), سوء (l.9991), عَزَرياء (l.10494), اوانبیاء (l.11701)
+‎    آ U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE count: 26281, examples: آسمانها (l.1), آفرید (l.1), آبها (l.2, 6), آبهارا (l.6)
+‎    أ U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE count: 11, examples: شأَلِتيئيل (l.10382), شَنأَصَّر (l.10383), مأمور (l.10647, 10648, 10651)
+‎    ؤ U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE count: 94, examples: شاؤل (l.10304, 10305, 10413), رؤبين (l.10311), رؤسا (l.10427)
+‎    ئ U+0626 ARABIC LETTER YEH WITH HAMZA ABOVE count: 4006, example: قائن (l.81, 82, 83, 85, 86)
+‎    ا U+0627 ARABIC LETTER ALEF count: 349231, examples: ابتدا (l.1), خدا (l.1), آسمانها (l.1), را (l.1), بایر (l.2)
+‎    ب U+0628 ARABIC LETTER BEH count: 114100, examples: ابتدا (l.1), بایر (l.2), بود (l.2), بر (l.2), آبها (l.2)
+‎    ة U+0629 ARABIC LETTER TEH MARBUTA count: 3, examples: مسمّاة (l.10336), مسماة (l.10554), اِيلَة (l.10627)
+‎    ت U+062A ARABIC LETTER TEH count: 95285, examples: ابتدا (l.1), تهی (l.2), تاریکی (l.2), گرفت (l.2), گفت (l.3)
+‎    ث U+062B ARABIC LETTER THEH count: 2936, examples: کثیر (l.22, 28), مثل (l.78), شیث (l.105, 106)
+‎    ج U+062C ARABIC LETTER JEEM count: 18028, examples: لجه (l.2), جدا (l.4, 6, 7), یکجاجمع (l.9)
+‎    ح U+062D ARABIC LETTER HAH count: 16749, examples: روح (l.2), سطح (l.2), صبح (l.5, 8, 13)
+‎    خ U+062E ARABIC LETTER KHAH count: 54146, examples: خدا (l.1, 2, 3, 4), خداروشنایی (l.4)
+‎    د U+062F ARABIC LETTER DAL count: 203178, examples: در (l.1), ابتدا (l.1), خدا (l.1), آفرید (l.1), بود (l.2)
+‎    ذ U+0630 ARABIC LETTER THAL count: 3957, examples: گذاشت (l.17, 46), آنجاگذاشت (l.39), ذی (l.50), دلپذیر (l.62)
+‎    ر U+0631 ARABIC LETTER REH count: 189128, examples: در (l.1), را (l.1), آفرید (l.1), بایر (l.2), تاریکی (l.2)
+‎    ز U+0632 ARABIC LETTER ZAIN count: 48266, examples: زمین (l.1), وزمین (l.2), از (l.4), روز (l.5), روزی (l.5)
+‎    س U+0633 ARABIC LETTER SEEN count: 68825, examples: آسمانها (l.1), سطح (l.2), نیکوست (l.4), ساخت (l.4), بساخت (l.7)
+‎    ش U+0634 ARABIC LETTER SHEEN count: 67172, examples: روشنایی (l.3, 4), بشود (l.3), شد (l.3), خداروشنایی (l.4)
+‎    ص U+0635 ARABIC LETTER SAD count: 9046, examples: صبح (l.5, 8, 13, 19), اصغر (l.16)
+‎    ض U+0636 ARABIC LETTER DAD count: 4060, examples: حضور (l.64, 96), ضرب (l.103), عوض (l.105), محض (l.143)
+‎    ط U+0637 ARABIC LETTER TAH count: 8459, examples: سطح (l.2), سلطنت (l.16), تاسلطنت (l.18), تسلط (l.28), بطرف (l.39)
+‎    ظ U+0638 ARABIC LETTER ZAH count: 2835, examples: ظاهر (l.9), اعظم (l.16), رامحافظت (l.46), وبنظر (l.62), محافظت (l.80)
+‎    ع U+0639 ARABIC LETTER AIN count: 24051, examples: یکجاجمع (l.9), اجتماع (l.10), علفی (l.11, 12), اعظم (l.16)
+‎    غ U+063A ARABIC LETTER GHAIN count: 4454, examples: اصغر (l.16), فارغ (l.33), باغی (l.39), غرس (l.39), باغ (l.40)
+‎    ف U+0641 ARABIC LETTER FEH count: 29733, examples: آفرید (l.1), فرو (l.2), گرفت (l.2), گفت (l.3, 6)
+‎    ق U+0642 ARABIC LETTER QAF count: 19479, example: موافق (l.11, 12, 21, 24, 26)
+‎    ل U+0644 ARABIC LETTER LAM count: 45360, examples: لجه (l.2), اول (l.5), فلکی (l.6), فلک (l.7), بالای (l.7)
+‎    م U+0645 ARABIC LETTER MEEM count: 136689, examples: آسمانها (l.1), زمین (l.1), وزمین (l.2), نامید (l.5), وشام (l.5)
+‎    ن U+0646 ARABIC LETTER NOON count: 189977, examples: آسمانها (l.1), زمین (l.1), وزمین (l.2), روشنایی (l.3, 4)
+‎    ه U+0647 ARABIC LETTER HEH count: 155782, examples: آسمانها (l.1), تهی (l.2), لجه (l.2), آبها (l.2), که (l.4)
+‎    و U+0648 ARABIC LETTER WAW count: 190416, examples: و (l.1, 2), وزمین (l.2), بود (l.2), روی (l.2)
+‎    ي U+064A ARABIC LETTER YEH count: 5439, examples: شِيث (l.10257), قِينان (l.10258), مهلَلئِيل (l.10258), يارَد (l.10258), يافَث (l.10260)
+‎     ً U+064B ARABIC FATHATAN count: 6, examples: جميعاً (l.10544), دائماً (l.10831, 10865), اولاً (l.10832), مجاناً (l.10963)
+‎     َ U+064E ARABIC FATHA count: 1869, examples: اَنوش (l.10257), مهلَلئِيل (l.10258), يارَد (l.10258), خَنُوخ (l.10259), مَتُوشالَح (l.10259)
+‎     ُ U+064F ARABIC DAMMA count: 737, examples: خَنُوخ (l.10259), مَتُوشالَح (l.10259), نُوح (l.10260), جُومَر (l.10261), ماجُوج (l.10261)
+‎     ِ U+0650 ARABIC KASRA count: 593, examples: شِيث (l.10257), قِينان (l.10258), مهلَلئِيل (l.10258), اَلِيشَه (l.10263), تَرشِيش (l.10263)
+‎     ّ U+0651 ARABIC SHADDA count: 240, examples: حِتّ (l.10269), حِوّي (l.10271), آشُّور (l.10273), مَسّا (l.10286), شَمَّه (l.10293)
+‎    پ U+067E ARABIC LETTER PEH count: 18416, examples: پر (l.20, 21), پرندگان (l.20), پروازکنند (l.20), پس (l.21)
+‎    چ U+0686 ARABIC LETTER TCHEH count: 12851, examples: چنین (l.7, 9, 11, 15), چهارم (l.19)
+‎    ژ U+0698 ARABIC LETTER JEH count: 133, examples: واژگون (l.479, 487), راواژگون (l.483), پژمرده (l.1202, 1219)
+‎    ک U+06A9 ARABIC LETTER KEHEH count: 65189, examples: تاریکی (l.2, 4, 5), که (l.4), نیکوست (l.4)
+‎    گ U+06AF ARABIC LETTER GAF count: 31292, examples: گرفت (l.2), گفت (l.3, 6, 9), گردد (l.9)
+‎    ۀ U+06C0 ARABIC LETTER HEH WITH YEH ABOVE count: 4, examples: گلۀگراز (l.23444), گلۀ (l.23445, 23446), همۀ (l.23446)
+‎    ی U+06CC ARABIC LETTER FARSI YEH count: 194984, examples: زمین (l.1), آفرید (l.1), وزمین (l.2), تهی (l.2), بایر (l.2)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+‎    Word! count: 689, examples: هستی! (l.70), آورد! (l.90), مرابشنوید! (l.103), گیرید! (l.103), باد! (l.231)
+‎    Word!» count: 172, examples: شو!» (l.318), ابراهیم!» (l.549, 559), من!» (l.555), ماست!» (l.713)
+‎    Word<U+200C>Word! count: 73, examples: می‌دانم! (l.1471), بنی‌اسرائیل! (l.1848), می‌گذشت! (l.4043), می‌یافتیم! (l.4111), شده‌ایم! (l.4257)
+‎    Word<U+200C>Word!» count: 23, examples: می‌نمود!» (l.4054), می‌نمایید!» (l.4202), می‌گیرید!» (l.12394), می‌ماند!» (l.13393), می‌شویم!» (l.23439)
+‎    «Word!» count: 19, example: «آمین!» (l.5602, 5603, 5604, 5605, 5606)
+‎    «Word! count: 12, examples: «برخیزید! (l.1848), «وای! (l.4470), «حاشا! (l.6944, 7734), «مترسید! (l.7482)
+    )!» count: 4, lines: 30862, 30864, 30866, 30868
+‎    Word!” count: 3, examples: شوید!” (l.23408), کن!” (l.23824), شدیم!” (l.24017)
+    ! count: 1, line: 8312
+    )! count: 1, line: 12533
+‎    (Word)! count: 1, example: (هستید)! (l.20504)
+‎    Word!»، count: 1, example: بایستید!»، (l.22776)
+‎    “Word!” count: 1, example: “بروید!” (l.23446)
+    !» count: 1, line: 24464
+TOKENS WITH * (U+002A ASTERISK):
+‎    [*Word count: 1, example: [*ترجمه (l.16150)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    - count: 4, lines: 20640, 24800, 29154
+‎    -Word count: 1, example: -هرچه (l.29154)
+‎    Word- count: 1, example: ها- (l.29319)
+TOKENS WITH . (U+002E FULL STOP):
+‎    Word. count: 24493, examples: آفرید. (l.1), لجه. (l.2), گرفت. (l.2), شد. (l.3), ساخت. (l.4)
+‎    Word<U+200C>Word. count: 3647, examples: می‌کرد. (l.37), می‌کند. (l.42, 44), می‌گرفتند. (l.140), می‌رفت. (l.147)
+‎    Word.» count: 3621, examples: بشود.» (l.3), کند.» (l.6), گردد.» (l.9), زمین.» (l.11), دهند.» (l.15)
+‎    Word<U+200C>Word.» count: 409, examples: می‌بخشم.» (l.306), گریخته‌ام.» (l.390), آمده‌اند.» (l.466), می‌کند.» (l.472), می‌باشد.» (l.499)
+‎    Word.” count: 79, examples: اوست.” (l.311), داد.” (l.599), بگیری.” (l.630), بود.” (l.633), بنوشان.” (l.637)
+‎    «Word.» count: 36, examples: «لبیک.» (l.549, 559, 729, 885), «بگو.» (l.625)
+‎    Word). count: 22, examples: بود). (l.5197, 10434, 10444), نمود). (l.9073), ساختند). (l.9127)
+‎    Word». count: 9, examples: بگو». (l.4411), داشت». (l.14083), بود». (l.28551), مبند». (l.28617), یابد». (l.28622)
+    ). count: 9, lines: 4468, 9235, 11266, 12194, 18039
+‎    «Word<U+200C>Word.» count: 8, examples: «می‌روم.» (l.650), «می‌شناسیم.» (l.801), «می‌شنوم.» (l.8574), «می‌آیم.» (l.9681), «می‌توانیم.» (l.23883)
+‎    Word<U+200C>Word.” count: 7, examples: می‌دهم.” (l.638, 23865), می‌دارد.” (l.1345), آورده‌اند.” (l.1419), می‌روم.” (l.23925)
+‎    Word<U+200C>Word). count: 6, examples: می‌شود). (l.5910, 13754), می‌نمود). (l.8585), می‌نواختند). (l.11285), می‌رساند). (l.13732)
+‎    Word.”» count: 5, examples: آرید.”» (l.1298), است.”» (l.23547), کنید.”» (l.23638), نمایم.”» (l.24184), باشی.”» (l.27478)
+‎    «Word. count: 5, examples: «مترسید. (l.1903), «انجیر. (l.19596), «شنیدم. (l.20048), «ازطفولیت. (l.24628), «مترس. (l.25186)
+‎    Word<U+200C>Word». count: 4, examples: می‌دهیم». (l.6746), نزده‌اند». (l.28281), می‌ماند». (l.29033), ورب‌الارباب». (l.31102)
+    . count: 4, lines: 10293, 10302, 10873, 11056
+    ).» count: 3, lines: 13280, 26155, 26952
+‎    Word<U+200C>Word<U+200C>Word. count: 3, examples: باقی‌مانده‌اند. (l.18171), در‌رسیده‌اند. (l.20382), تخت‌نشیننده‌ای. (l.30838)
+‎    Word”. count: 2, examples: ساختم”. (l.360), مکن”. (l.18581)
+‎    Word(Word). count: 2, examples: بودند(کشتند). (l.10251), مصر(فرستاد). (l.19663)
+‎    (Word). count: 2, examples: (پیمود). (l.21637), (خواهندآمد). (l.23142)
+‎    Word...» count: 2, example: هست...» (l.23454, 24339)
+‎    «Word<U+200C>Word. count: 2, example: «می‌خواهم. (l.24325, 25189)
+‎    Word،.» count: 1, example: بده،.» (l.5583)
+‎    «Word». count: 1, example: «برو». (l.6869)
+‎    (Word).» count: 1, example: (بزند).» (l.8143)
+‎    Word<U+200C>Word).» count: 1, example: خواهند‌آورد).» (l.12376)
+‎    “Word.” count: 1, example: “زنامکن.” (l.23330)
+‎    Word.”Word count: 1, example: است.”چشمی (l.23341)
+‎    Word§Word.» count: 1, example: ا§ست.» (l.23566)
+‎    Word<U+200C>Word.”» count: 1, example: می‌نمایم.”» (l.24141)
+‎    )Word.» count: 1, example: )یافتیم.» (l.26155)
+TOKENS WITH : (U+003A COLON):
+‎    Word: count: 5219, examples: گفت: (l.3, 6, 9, 14), خداگفت: (l.11)
+‎    Word<U+200C>Word: count: 849, examples: می‌گویند: (l.244), می‌شود: (l.562), می‌گوید: (l.564, 787), می‌گفت: (l.734)
+‎    Word:« count: 24, examples: گفت:« (l.10398, 10399, 10683, 10694), گفتند:« (l.10682)
+‎    Word): count: 9, examples: زد): (l.6653), گفت): (l.10743, 10987, 11167), گویند): (l.18363)
+    ): count: 7, lines: 6501, 9445, 14310, 18367, 19763
+‎    Word<U+200C>Word): count: 4, examples: می‌گویند): (l.14228, 20416), می‌گوید): (l.17670), می‌گفتند): (l.19175)
+‎    (Word): count: 2, examples: (وبگو): (l.20421), (بگو): (l.20648)
+‎    Word:Word count: 1, example: عِيسُو:اَليفاز (l.10291)
+‎    Word،Word: count: 1, example: شده،گفت: (l.10871)
+    : count: 1, line: 10976
+‎    «Word: count: 1, example: «بنویس: (l.31095)
+TOKENS WITH § (U+00A7 SECTION SIGN):
+‎    Word§Word.» count: 1, example: ا§ست.» (l.23566)
+TOKENS WITH ‌ (U+200C ZERO WIDTH NON-JOINER):
+‎    Word<U+200C>Word count: 14517, examples: میوه‌ای (l.11), هر‌چه (l.31), نهر‌چهارم (l.45), بی‌ممانعت (l.47), می‌داند (l.61)
+‎    Word<U+200C>Word. count: 3647, examples: می‌کرد. (l.37), می‌کند. (l.42, 44), می‌گرفتند. (l.140), می‌رفت. (l.147)
+‎    Word<U+200C>Word، count: 2834, examples: می‌خزند، (l.26, 28), حیات‌است، (l.30), می‌خوریم، (l.58), می‌خرامید، (l.64)
+‎    Word<U+200C>Word: count: 849, examples: می‌گویند: (l.244), می‌شود: (l.562), می‌گوید: (l.564, 787), می‌گفت: (l.734)
+‎    <U+200C>Word count: 532, example: ‌ای (l.1476, 1480, 1492, 5092, 5457)
+‎    Word<U+200C>Word.» count: 409, examples: می‌بخشم.» (l.306), گریخته‌ام.» (l.390), آمده‌اند.» (l.466), می‌کند.» (l.472), می‌باشد.» (l.499)
+‎    Word<U+200C>Word؟ count: 335, examples: کرده‌ای؟ (l.90), ایستاده‌ای؟ (l.623), دیده‌ای؟ (l.1094), می‌زند؟ (l.1330), می‌گوید؟ (l.1332)
+‎    «Word<U+200C>Word count: 217, examples: «اگر‌چهل (l.453), «به‌خاطر (l.454, 456, 457), «جرعه‌ای (l.609)
+‎    Word<U+200C>Word؟» count: 140, examples: می‌روی؟» (l.390), می‌آید؟» (l.657), می‌شناسید؟» (l.801), می‌پرسی؟» (l.958), می‌طلبی؟» (l.1099)
+‎    Word<U+200C>Word؛ count: 103, examples: می‌گذارم؛ (l.71), می‌میرند؛ (l.974), می‌باشی؛ (l.1159), می‌میرم؛ (l.1512), نجس‌اند؛ (l.5311)
+‎    Word<U+200C>Word! count: 73, examples: می‌دانم! (l.1471), بنی‌اسرائیل! (l.1848), می‌گذشت! (l.4043), می‌یافتیم! (l.4111), شده‌ایم! (l.4257)
+‎    Word<U+200C>Word<U+200C>Word count: 46, examples: در‌پیری‌اش (l.521), نجات‌دهنده‌ای (l.5642, 6579), باقی‌مانده‌اند (l.6466, 6469)
+‎    Word<U+200C>Word!» count: 23, examples: می‌نمود!» (l.4054), می‌نمایید!» (l.4202), می‌گیرید!» (l.12394), می‌ماند!» (l.13393), می‌شویم!» (l.23439)
+‎    «Word<U+200C>Word.» count: 8, examples: «می‌روم.» (l.650), «می‌شناسیم.» (l.801), «می‌شنوم.» (l.8574), «می‌آیم.» (l.9681), «می‌توانیم.» (l.23883)
+‎    Word<U+200C>Word.” count: 7, examples: می‌دهم.” (l.638, 23865), می‌دارد.” (l.1345), آورده‌اند.” (l.1419), می‌روم.” (l.23925)
+‎    Word<U+200C>Word) count: 7, examples: می‌چید) (l.8385), می‌باشند) (l.9724), می‌نشستند) (l.12720), می‌رساند) (l.13732), می‌گویند) (l.18835)
+‎    Word<U+200C>Word). count: 6, examples: می‌شود). (l.5910, 13754), می‌نمود). (l.8585), می‌نواختند). (l.11285), می‌رساند). (l.13732)
+‎    “Word<U+200C>Word count: 4, examples: “جرعه‌ای (l.637), “هیچ‌کس (l.23868), “دعوت‌شدگان (l.23945), “هر‌که (l.24003)
+‎    Word<U+200C>Word». count: 4, examples: می‌دهیم». (l.6746), نزده‌اند». (l.28281), می‌ماند». (l.29033), ورب‌الارباب». (l.31102)
+‎    (Word<U+200C>Word count: 4, examples: (به‌دست (l.11335), (دانسته‌ای (l.20485), (یعنی‌ای (l.26152, 26952)
+‎    Word<U+200C>Word): count: 4, examples: می‌گویند): (l.14228, 20416), می‌گوید): (l.17670), می‌گفتند): (l.19175)
+‎    Word<U+200C>Word؟” count: 4, examples: ایستاده‌اید؟” (l.23867), ساخته‌ای؟” (l.23873), می‌کنید؟” (l.27211), می‌کنی؟” (l.27779)
+‎    Word<U+200C>Word<U+200C>Word. count: 3, examples: باقی‌مانده‌اند. (l.18171), در‌رسیده‌اند. (l.20382), تخت‌نشیننده‌ای. (l.30838)
+‎    «Word<U+200C>Word<U+200C>Word count: 2, examples: «می‌دانم‌ای (l.1471), «هیچ‌کس‌ای (l.26461)
+‎    Word<U+200C>Word» count: 2, examples: می‌باشد» (l.18655), می‌شنوم» (l.25379)
+‎    Word<U+200C>Word(Word count: 2, examples: می‌گوید(و (l.18711), می‌بود(نمی (l.23038)
+‎    Word<U+200C>Word»، count: 2, examples: می‌خوریم»، (l.22564), می‌کند»، (l.30346)
+‎    Word<U+200C>Word)Word count: 2, examples: می‌زنند)که (l.22776), می‌شود)برحسب (l.29583)
+‎    «Word<U+200C>Word. count: 2, example: «می‌خواهم. (l.24325, 25189)
+‎    Word<U+200C>Word<U+200C>Word، count: 1, example: در‌پیری‌اش، (l.516)
+‎    Word<U+200C>Word).» count: 1, example: خواهند‌آورد).» (l.12376)
+‎    (Word<U+200C>Word)؟ count: 1, example: (نخواهند‌آورد)؟ (l.22823)
+‎    «Word<U+200C>Word؛ count: 1, example: «می‌خواهم؛ (l.23417)
+‎    Word<U+200C>Word.”» count: 1, example: می‌نمایم.”» (l.24141)
+‎    Word<U+200C>Word»؟ count: 1, example: می‌باشند»؟ (l.28280)
+‎    Word<U+200C>Word؟»، count: 1, example: می‌آیند؟»، (l.28821)
+‎    Word<U+200C>Word)، count: 1, example: می‌خوانند)، (l.29307)

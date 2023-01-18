@@ -1,0 +1,296 @@
+OVERVIEW:
+File size: 41899 lines, 1157389 characters
+Letter scripts: 3
+    LATIN (925638 instances)
+    LATIN_SUPERSCRIPT_LETTER (124 instances): ⁱ
+    LATIN_SUBSCRIPT_LETTER (6 instances): ᵤ
+Number scripts: 1
+    ASCII_DIGIT (321 instances): 012345678
+Other character groups: 4
+    SPACE (124649 instances)
+    COMBINING_DIACRITICAL_MARKS (30190 instances):  ̱
+    ASCII_PUNCTUATION (26228 instances): !(),-.:;?
+    GENERAL_PUNCTUATION (7326 instances): ¡¿‘’“”
+Non-canonical character combinations: 1
+Words with characters from multiple scripts: 2 categories, 106 unique types, 130 instances
+
+DETAILS:
+Non-canonical character combinations: 1
+    Non-canonical: ṉ (NFD, n + ̱, count: 8759)  Canonical: ṉ (NFC, ṉ, count: 0)
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (LATIN, LATIN_SUBSCRIPT_LETTER):
+    awajeakᵤ count: 1, line: 30608
+    matsaakᵤ count: 1, line: 23808
+    najaneakᵤ count: 1, line: 29187
+    nékakᵤ count: 1, line: 29160
+    pujakᵤ count: 1, line: 30270
+    wéakᵤ count: 1, line: 24091
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (LATIN, LATIN_SUPERSCRIPT_LETTER):
+    Túrarⁱ count: 1, line: 30687
+    Wakaní̱ṉkⁱ count: 1, line: 28706
+    Wariji̱a̱i̱ṉkⁱ count: 1, line: 24422
+    ai̱ṉkⁱ count: 1, line: 26815
+    akaṉketramkattajⁱ count: 1, line: 24945
+    amasmajⁱ count: 2, lines: 24114, 24115
+    asarikⁱ count: 1, line: 27077
+    asarⁱ count: 5, lines: 29197, 29229, 29645, 30660, 30684
+    ashampramkachatⁱ count: 1, line: 31019
+    atsumajⁱ count: 2, lines: 24188, 24886
+    awajtamsachatⁱ count: 1, line: 31019
+    aya̱shímkiajⁱ count: 1, line: 28729
+    ayuramajⁱ count: 1, line: 24114
+    ayurtamattajⁱ count: 1, line: 26378
+    chichameṉkⁱ count: 1, line: 29059
+    chichamja̱i̱ṉkⁱ count: 1, line: 28452
+    enentaikⁱ count: 1, line: 27992
+    enentáimprachmashiajⁱ count: 1, line: 28345
+    enentáimtikramprachmakajⁱ count: 1, line: 26092
+    enentáimtumarminkaitiajⁱ count: 1, line: 28086
+    enentái̱ji̱a̱i̱ṉkⁱ count: 1, line: 29029
+    entsartajⁱ count: 1, line: 25550
+    entsartatajⁱ count: 1, line: 23382
+    etserkachmakajⁱ count: 1, line: 23407
+    ewekamsamajⁱ count: 1, line: 27077
+    ijiarmajⁱ count: 1, line: 23462
+    iniaktustinkiaitiajⁱ count: 1, line: 28910
+    itiaratⁱ count: 1, line: 28262
+    iwiaintiurtamkachmakajⁱ count: 1, line: 27368
+    jeachmakajⁱ count: 1, line: 29053
+    jeatⁱ count: 1, line: 25040
+    jániṉkiaruitiajⁱ count: 1, line: 28816
+    jé̱e̱ni̱i̱ṉkⁱ count: 1, line: 28702
+    kakarmari̱ji̱a̱i̱ṉkikⁱ count: 1, line: 27077
+    kukujⁱ count: 1, line: 28906
+    kusurukaitiajⁱ count: 1, line: 26549
+    mantamatajⁱ count: 1, line: 28841
+    mashⁱ count: 1, line: 29238
+    máawaintiajⁱ count: 2, lines: 23572, 25935
+    nayaimpⁱ count: 1, line: 23277
+    nekaattajⁱ count: 3, lines: 24029, 25902, 26742
+    nuikⁱ count: 2, lines: 25867, 27509
+    numpe̱ja̱i̱ṉkⁱ count: 2, lines: 30184, 30198
+    nupetkamniashitiajⁱ count: 1, line: 28657
+    nupettamkattajⁱ count: 1, line: 28215
+    nákastatajⁱ count: 3, lines: 23531, 25283, 25284
+    núja̱i̱ṉkⁱ count: 1, line: 25817
+    patai̱ṉkⁱ count: 1, line: 25879
+    pujai̱ṉkⁱ count: 1, line: 25993
+    pujustajⁱ count: 1, line: 25550
+    pusarⁱ count: 1, line: 28838
+    péṉkerkaitiajⁱ count: 1, line: 28068
+    púurarⁱ count: 1, line: 28651
+    seatniukaitiajⁱ count: 1, line: 28910
+    seattajⁱ count: 1, line: 28210
+    sumaktajⁱ count: 2, lines: 23735, 26331
+    sumarmakaratⁱ count: 1, line: 24512
+    suramsatⁱ count: 1, line: 25701
+    takaschamkajⁱ count: 1, line: 29108
+    takastiniaitiajⁱ count: 1, line: 28614
+    tsuarmajⁱ count: 1, line: 27077
+    tujinkiamajⁱ count: 2, lines: 23788, 24635
+    tujinkiattajⁱ count: 1, line: 28538
+    turamchamkajⁱ count: 1, line: 24241
+    tusarⁱ count: 2, lines: 28538, 29157
+    tíchamkajⁱ count: 2, lines: 28437, 29755
+    títiatajⁱ count: 1, line: 26135
+    túratniuitiajⁱ count: 1, line: 26354
+    túrunachatⁱ count: 1, line: 26035
+    túrunatⁱ count: 2, lines: 24029, 25902
+    umartajⁱ count: 1, line: 25557
+    umartatajⁱ count: 1, line: 23382
+    umirkatniukaitiajⁱ count: 1, line: 27110
+    urutmaja̱i̱ṉkⁱ count: 1, line: 25650
+    uwemtikrampramiajⁱ count: 1, line: 29995
+    waraschatniukaitiajⁱ count: 1, line: 25689
+    wariji̱a̱i̱ṉkⁱ count: 1, line: 24422
+    waya̱jⁱ count: 1, line: 27151
+    wetajⁱ count: 1, line: 26394
+    wáiniajⁱ count: 1, line: 25514
+    wáinkiashtatajⁱ count: 1, line: 26432
+    wáinkiattajⁱ count: 2, lines: 23858, 24573
+    wétatajⁱ count: 1, line: 24835
+    wétinkiaitiajⁱ count: 1, line: 24513
+    yajauchⁱ count: 1, line: 30708
+    yuarⁱ count: 2, lines: 28651, 28652
+    yuatajⁱ count: 1, line: 25557
+    yuattajⁱ count: 1, line: 23382
+    yáiṉchamajⁱ count: 1, line: 24121
+    Ásumpⁱ count: 1, line: 23490
+    áintsarⁱ count: 3, lines: 28641, 28714, 29226
+    áishri̱ja̱i̱ṉkⁱ count: 1, line: 29059
+    átajⁱ count: 1, line: 30648
+    átinkⁱ count: 2, lines: 24657, 25492
+    átiṉkⁱ count: 2, lines: 24779, 25892
+    áujkurⁱ count: 1, line: 27898
+    áujmatkatⁱ count: 1, line: 27278
+    íichukaitiajⁱ count: 1, line: 27689
+    íimiajⁱ count: 1, line: 24116
+    íischatniukaitiajⁱ count: 1, line: 27689
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 11, lines: 24626, 25257, 25506, 25514, 25518
+    ( U+0028 LEFT PARENTHESIS count: 129, lines: 23230, 23280, 23468, 23487, 23488
+    ) U+0029 RIGHT PARENTHESIS count: 129, lines: 23230, 23280, 23468, 23487, 23488
+    , U+002C COMMA count: 5900, lines: 23216, 23233, 23243, 23244, 23245
+    - U+002D HYPHEN-MINUS count: 1848, lines: 23242, 23265, 23282, 23284, 23285
+    . U+002E FULL STOP count: 16783, lines: 23214, 23215, 23216, 23217, 23218
+    : U+003A COLON count: 409, lines: 23235, 23243, 23253, 23255, 23264
+    ; U+003B SEMICOLON count: 264, lines: 24215, 24287, 24322, 24323, 24331
+    ? U+003F QUESTION MARK count: 755, lines: 23240, 23268, 23275, 23316, 23349
+GENERAL_PUNCTUATION characters:
+    ¡ U+00A1 INVERTED EXCLAMATION MARK count: 10, lines: 25257, 25506, 25514, 25518, 25584
+    ¿ U+00BF INVERTED QUESTION MARK count: 752, lines: 23240, 23268, 23275, 23316, 23349
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 309, lines: 23316, 23317, 23320, 23324, 23326
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 324, lines: 23315, 23316, 23319, 23323, 23325
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 2974, lines: 23233, 23236, 23240, 23243, 23244
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 2957, lines: 23234, 23236, 23240, 23244, 23246
+SPACE characters:
+      U+0020 SPACE count: 124649, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 146, examples: 40 (l.23280), 100 (l.23616, 23631), 60 (l.23616), 30 (l.23616)
+    1 U+0031 DIGIT ONE count: 43, examples: 14 (l.23230), 12 (l.23468, 23487, 23488, 23490)
+    2 U+0032 DIGIT TWO count: 37, example: 12 (l.23468, 23487, 23488, 23490, 23491)
+    3 U+0033 DIGIT THREE count: 11, examples: 30 (l.23616, 23631, 24138, 25117), 38 (l.26284)
+    4 U+0034 DIGIT FOUR count: 32, examples: 14 (l.23230), 40 (l.23280), 4000 (l.23740, 23751), 4 (l.24578)
+    5 U+0035 DIGIT FIVE count: 21, examples: 5 (l.23683, 23685, 24092), 5000 (l.23687, 23750)
+    6 U+0036 DIGIT SIX count: 16, examples: 60 (l.23616, 23631), 6 (l.23770, 26170), 46 (l.26184)
+    7 U+0037 DIGIT SEVEN count: 12, examples: 7 (l.23603, 23736, 23966, 25690), 75 (l.27199)
+    8 U+0038 DIGIT EIGHT count: 3, examples: 80 (l.26170), 38 (l.26284), 8 (l.29493)
+COMBINING_DIACRITICAL_MARKS characters:
+     ̱ U+0331 COMBINING MACRON BELOW count: 30190, examples: we̱a̱trí̱ (l.23214), ju̱ (l.23214), naṉkaamas (l.23214), we̱a̱t (l.23214), uchirí̱ (l.23215)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 2972, examples: Apraámsha (l.23214), Apraáma (l.23215), Aram (l.23216), Aminiatáp (l.23217), Apías (l.23220)
+    C U+0043 LATIN CAPITAL LETTER C count: 628, examples: Chikichik (l.23296, 23337), Chicham (l.23312), Chikichkisha (l.23354), Chikichan (l.23375)
+    E U+0045 LATIN CAPITAL LETTER E count: 424, examples: Esrum (l.23216), Esekías (l.23222), Esekíasa (l.23223), Eriut (l.23227), Eriuta (l.23228)
+    H U+0048 LATIN CAPITAL LETTER H count: 3, examples: SHUARA (l.24921, 26042), NEKAACHMA (l.27615)
+    I U+0049 LATIN CAPITAL LETTER I count: 1527, examples: Isak (l.23215), Isaka (l.23215), Isaí (l.23218), Israer (l.23224), Iriakím (l.23226)
+    J U+004A LATIN CAPITAL LETTER J count: 3776, examples: Jesukrístu (l.23214), Jakup (l.23215), Jakupa (l.23215), Jutá (l.23215, 23216)
+    K U+004B LATIN CAPITAL LETTER K count: 1441, examples: Kristu (l.23229, 23242), Krístunam (l.23230), Kariréa (l.23260, 23274)
+    M U+004D LATIN CAPITAL LETTER M count: 646, examples: Manasés (l.23223), Mataṉ (l.23228), Marí (l.23229, 23231), Marisha (l.23229)
+    N U+004E LATIN CAPITAL LETTER N count: 4526, examples: Nuna (l.23217, 23219, 23220, 23221), Nasuṉ (l.23217)
+    P U+0050 LATIN CAPITAL LETTER P count: 1404, examples: Páresan (l.23216), Páresa (l.23216), Púusan (l.23218), Puusa (l.23218), Patsepa (l.23219)
+    R U+0052 LATIN CAPITAL LETTER R count: 173, examples: Raap (l.23218), Ruut (l.23218), Rupuam (l.23220), Ramá (l.23256), Raker (l.23256)
+    S U+0053 LATIN CAPITAL LETTER S count: 925, examples: Sarancha (l.23216), Sarmuṉ (l.23217), Sarmuṉka (l.23218), Sarumúṉkan (l.23219), Sarumúṉka (l.23220)
+    T U+0054 LATIN CAPITAL LETTER T count: 6323, examples: Tura (l.23214, 23215, 23216), Tawitcha (l.23214), Tamar (l.23216)
+    U U+0055 LATIN CAPITAL LETTER U count: 1232, examples: Uwitian (l.23218), Uwitia (l.23218), Uunt (l.23219), Uríasa (l.23219), Usías (l.23221)
+    W U+0057 LATIN CAPITAL LETTER W count: 1975, examples: Wakaní̱ (l.23231), Wakaní̱niuiti (l.23233), Wíi (l.23244), Wisha (l.23246), Wikia (l.23272)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 5384, examples: Yusa (l.23231, 23233, 23237), Yus (l.23235, 23236)
+    a U+0061 LATIN SMALL LETTER A count: 173215, examples: we̱a̱trí̱ (l.23214), áiniawai (l.23214), Tura (l.23214), ashí (l.23214), naṉkaamas (l.23214)
+    c U+0063 LATIN SMALL LETTER C count: 13367, examples: Tawitcha (l.23214), uchirí̱ (l.23215), uchirí̱sha (l.23215), yachi̱ji̱a̱i̱ (l.23215), uchiri̱n (l.23216)
+    e U+0065 LATIN SMALL LETTER E count: 30163, examples: Jesukrístu (l.23214), we̱a̱trí̱ (l.23214), we̱a̱t (l.23214), Páresan (l.23216), jurermiayi (l.23216)
+    h U+0068 LATIN SMALL LETTER H count: 29278, examples: ashí (l.23214), Tawitcha (l.23214), Apraámsha (l.23214), uchirí̱ (l.23215), uchirí̱sha (l.23215)
+    i U+0069 LATIN SMALL LETTER I count: 118471, examples: áiniawai (l.23214), ti (l.23214), Tawitcha (l.23214), uchirí̱ (l.23215), uchirí̱sha (l.23215)
+    j U+006A LATIN SMALL LETTER J count: 19761, examples: ju̱ (l.23214), yachi̱ji̱a̱i̱ (l.23215), jurermiayi (l.23216, 23218, 23219)
+    k U+006B LATIN SMALL LETTER K count: 44392, examples: Jesukrístu (l.23214), naṉkaamas (l.23214), Isak (l.23215), Isaka (l.23215), Jakup (l.23215)
+    l U+006C LATIN SMALL LETTER L count: 1, example: yapaji̱latniun (l.29131)
+    m U+006D LATIN SMALL LETTER M count: 48425, examples: naṉkaamas (l.23214), Apraámsha (l.23214), Apraáma (l.23215), Tamar (l.23216), jurermiayi (l.23216)
+    n U+006E LATIN SMALL LETTER N count: 83905, examples: áiniawai (l.23214), naṉkaamas (l.23214), uunt (l.23214), ni (l.23215), uchiri̱n (l.23216)
+    p U+0070 LATIN SMALL LETTER P count: 12937, examples: Apraámsha (l.23214), Apraáma (l.23215), Jakup (l.23215), Jakupa (l.23215), Aminiatáp (l.23217)
+    r U+0072 LATIN SMALL LETTER R count: 52815, examples: Jesukrístu (l.23214), we̱a̱trí̱ (l.23214), Tura (l.23214), Apraámsha (l.23214), Apraáma (l.23215)
+    s U+0073 LATIN SMALL LETTER S count: 51363, examples: Jesukrístu (l.23214), ashí (l.23214), naṉkaamas (l.23214), Apraámsha (l.23214), Isak (l.23215)
+    t U+0074 LATIN SMALL LETTER T count: 67792, examples: Jesukrístu (l.23214), we̱a̱trí̱ (l.23214), ti (l.23214), uunt (l.23214), we̱a̱t (l.23214)
+    u U+0075 LATIN SMALL LETTER U count: 81648, examples: Jesukrístu (l.23214), ju̱ (l.23214), Tura (l.23214), uunt (l.23214), uchirí̱ (l.23215)
+    v U+0076 LATIN SMALL LETTER V count: 1, example: áiv (l.31017)
+    w U+0077 LATIN SMALL LETTER W count: 13015, examples: we̱a̱trí̱ (l.23214), áiniawai (l.23214), we̱a̱t (l.23214), Tawitcha (l.23214), Uwitian (l.23218)
+    y U+0079 LATIN SMALL LETTER Y count: 14695, examples: yachi̱ji̱a̱i̱ (l.23215), jurermiayi (l.23216, 23218, 23219), nuwe̱e̱yayi (l.23219)
+LATIN_EXTENDED_LETTER characters:
+    Á U+00C1 LATIN CAPITAL LETTER A WITH ACUTE count: 296, examples: Ántsaṉ (l.23276), Átumka (l.23316, 23317, 23359), Áyatik (l.23337)
+    É U+00C9 LATIN CAPITAL LETTER E WITH ACUTE count: 13, examples: Émkaru (l.23877), Ékemtam (l.23916), Émkaka (l.24951), Émkasha (l.28006), Érmassha (l.28418)
+    Í U+00CD LATIN CAPITAL LETTER I WITH ACUTE count: 31, examples: Íitsuk (l.24191), Íiniayataṉ (l.24404), Írar (l.25049), Íwianchkia (l.25342), Íwianch (l.25342)
+    Ú U+00DA LATIN CAPITAL LETTER U WITH ACUTE count: 62, examples: Úuntrum (l.23285, 23288), Ú̱u̱kam (l.23355), Úuntrinme (l.23553), Úuntri̱ntjai (l.23566)
+    á U+00E1 LATIN SMALL LETTER A WITH ACUTE count: 14718, examples: áiniawai (l.23214), Apraámsha (l.23214), Apraáma (l.23215), Jutá (l.23215, 23216)
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 4351, examples: Manasés (l.23223), Jusé (l.23229, 23232), péṉker (l.23232), nékainiatsa̱i̱ṉ (l.23232)
+    í U+00ED LATIN SMALL LETTER I WITH ACUTE count: 10042, examples: Jesukrístu (l.23214), we̱a̱trí̱ (l.23214), ashí (l.23214), uchirí̱ (l.23215), uchirí̱sha (l.23215)
+    ú U+00FA LATIN SMALL LETTER U WITH ACUTE count: 7522, examples: Púusan (l.23218), Sarumúṉkan (l.23219), Sarumúṉka (l.23220), Papirúnianmaya̱ (l.23224), Papirúnia (l.23224)
+LATIN_SUBSCRIPT_LETTER characters:
+    ᵤ U+1D64 LATIN SUBSCRIPT SMALL LETTER U count: 6, examples: matsaakᵤ (l.23808), wéakᵤ (l.24091), nékakᵤ (l.29160), najaneakᵤ (l.29187), pujakᵤ (l.30270)
+LATIN_SUPERSCRIPT_LETTER characters:
+    ⁱ U+2071 SUPERSCRIPT LATIN SMALL LETTER I count: 124, examples: nayaimpⁱ (l.23277), yuattajⁱ (l.23382), umartatajⁱ (l.23382), entsartatajⁱ (l.23382), etserkachmakajⁱ (l.23407)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 7, examples: katsuntrataj! (l.24626), chichamtinia! (l.25518, 25602), máiniaitrume! (l.25621), yumiṉsatniuitji! (l.29039)
+    ¡Word! count: 2, examples: ¡Ántraitrume! (l.25257), ¡Enentáimcha! (l.25514)
+    Word!’ count: 1, example: sumamtikramattarme!’ (l.25506)
+    Word!” count: 1, example: ántraitrume!” (l.25584)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 5398, examples: Esrum, (l.23216), pujái̱, (l.23233), akiiniatniuiti, (l.23243), nuṉkanam, (l.23244), pepru, (l.23244)
+    “Word, count: 378, examples: “Juséá, (l.23233), “Werumta, (l.23288), “Uuntá, (l.23406, 23407, 23416)
+    Word-Word, count: 45, examples: Yús-shuaran, (l.24057), Israer-shuarsha, (l.24535), Israer-shuarcha, (l.24558), surí-suritiamaitiat, (l.24568), kuítri̱n-juu, (l.25203)
+    Word,” count: 26, examples: wáinkiattawai,” (l.23244), wakerajai,” (l.23461), wáinkiatai,” (l.23742), winitrámtatrume,” (l.23900), winiarti,” (l.23945)
+    ‘Word, count: 23, examples: ‘Ayu, (l.23626), ‘Jerusaréṉnumia̱tirmeá, (l.24024), ‘Atsumatsjai, (l.25240), ‘Iista, (l.25247), ‘Wats, (l.25325)
+    “¿Word, count: 14, examples: “¿Urutia, (l.24121), “¿Warí, (l.24353), “¿Urukamtai, (l.24581, 24630), “¿Uuntá, (l.24674)
+    ¿Word, count: 7, examples: ¿wisha, (l.24837), ¿Warí, (l.25166, 28444), ¿Uwemtikratin, (l.25224), ¿Itiurak, (l.26746)
+    “Word-Word, count: 3, examples: “Israer-shuartiram, (l.27077, 27447), “Israer-aentstirmin, (l.27477)
+    “Word”, count: 2, examples: “Apurusnaitjai”, (l.28499), “péṉkeraiti”, (l.28955)
+    ¡Word, count: 1, example: ¡Maaj, (l.25584)
+    Word”, count: 1, example: timiai”, (l.25596)
+    ‘¡Word, count: 1, example: ‘¡Jerusaréṉnumia̱tiram, (l.25621)
+    ““Word-Word, count: 1, example: ““Israer-aentsu, (l.27227)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 1702, examples: Israer-patri (l.23242), yutai-títikriátsnasha (l.23265), Yus-Papinium (l.23284, 23285, 23288)
+    Word-Word, count: 45, examples: Yús-shuaran, (l.24057), Israer-shuarsha, (l.24535), Israer-shuarcha, (l.24558), surí-suritiamaitiat, (l.24568), kuítri̱n-juu, (l.25203)
+    “Word-Word count: 43, examples: “Yus-Papinium (l.23282, 23908), “Israer-shuarcha (l.23491), “Métek-taku (l.23642), “Yus-Chichamsha (l.23970)
+    Word-Word. count: 22, examples: Yus-shuarnum. (l.23877), métek-takuiti. (l.24423, 25606, 25608), we-wémiayi. (l.25421)
+    “Word-Word” count: 6, examples: “Yus-Chichamaiti” (l.24539), “Yus-shuaraitjai” (l.28533, 29975), “Israer-shuaraitjai” (l.30794, 30823)
+    Word-Word-Word-Word count: 4, examples: namaṉ-maar-Yus-sútain (l.24005), namaṉ-maar-Yús-sutai (l.24022), namaṉ-maa-Yus-sutaisha (l.30941), namaṉ-maa-Yus-sútainmaya̱ (l.31030)
+    Word-Word? count: 4, examples: métek-takuit? (l.24422, 25605, 25607), Israer-shuarkaitiaj? (l.26889)
+    “Word-Word, count: 3, examples: “Israer-shuartiram, (l.27077, 27447), “Israer-aentstirmin, (l.27477)
+    ‘Word-Word count: 2, examples: ‘Yus-shuarja̱i̱ (l.25697), ‘Métek-taku (l.26820)
+    ¿Word-Word count: 2, examples: ¿Israer-shuar (l.28274), ¿Yus-shuar (l.28981)
+    Word-Word” count: 2, examples: Kristu-shuaraitjai” (l.28443), Yus-Chicham” (l.28929)
+    “¿Word-Word count: 1, example: “¿Yús-Papinium (l.25458)
+    Word-Word: count: 1, example: Yus-Chichamnum: (l.26663)
+    ““Word-Word, count: 1, example: ““Israer-aentsu, (l.27227)
+    Word-Word-Word count: 1, example: ántar-yus-sutai (l.30805)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 15848, examples: áiniawai. (l.23214), Isak. (l.23215), Jakup. (l.23215), yachi̱ji̱a̱i̱. (l.23215), jurermiayi. (l.23216)
+    Word.” count: 594, examples: anainiaktatui.” (l.23236), Yus.” (l.23244), untsukmajai.” (l.23253), jákarmatai.” (l.23256), ajastin.” (l.23263)
+    Word.’ count: 180, examples: akupnakminiaiti.’ (l.23325), susata.’ (l.23327), tsanirmayi.’ (l.23331), péṉkeraiti.’ (l.23333), tsanirmaiti.’ (l.23335)
+    “Word. count: 81, examples: “Nemartustarum. (l.23297), “Maṉkartuawairap. (l.23324), “Werumtarum. (l.23408), “Wakerajai. (l.23417), “Etserkairap. (l.23478)
+    Word-Word. count: 22, examples: Yus-shuarnum. (l.23877), métek-takuiti. (l.24423, 25606, 25608), we-wémiayi. (l.25421)
+    (Number.Number) count: 18, examples: (5.000) (l.24092, 24520), (2.000) (l.24092, 24446), (1.000) (l.24092)
+    Word”. count: 8, examples: timiai”. (l.24107), pujusta”. (l.24778), pujai̱”. (l.24855), ártatui”. (l.26371), anturkattame”. (l.27886)
+    Word.”’ count: 7, examples: arakuiti.”’ (l.23636), kanaktiarum.”’ (l.25614), tujinkiamiayi.”’ (l.25652), áchamniaitjai.”’ (l.25678), tujintiainiawai.”’ (l.25715)
+    Word.) count: 7, examples: ármiayi.) (l.24536), tawai.) (l.24543), áujmatiarmiayi.) (l.27613), tajai.) (l.28064), wémiayi.) (l.28916)
+    ‘Word. count: 5, examples: ‘Aneartarum. (l.23400, 23502), ‘Iista. (l.23587), ‘Enentáimpratarum. (l.23808), ‘Páantchakait. (l.27047)
+    “Word.” count: 4, examples: “Tsanirmawaip.” (l.23330), “Iniaisatarum.” (l.25984), “Ananíasa.” (l.27295), “tsanirmawaip.” (l.30371)
+    “¿Word. count: 3, examples: “¿Áimtsumek. (l.24185), “¿Urukamtai. (l.26026), “¿Itiurtámkama. (l.26535)
+    ¿Word. count: 3, examples: ¿waritrume. (l.24598), ¿Warittiajak. (l.26676), ¿Warimpait. (l.28690)
+    (Number.Number.Number) count: 1, example: (200.000.000) (l.30924)
+    (Number). count: 1, example: (666). (l.30995)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 407, examples: áamtikramiayi: (l.23235), áaruiti: (l.23243), tímiayi: (l.23253), áarmiayi: (l.23255, 23264)
+    “Word: count: 1, example: “Jú̱iti: (l.23978)
+    Word-Word: count: 1, example: Yus-Chichamnum: (l.26663)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 259, examples: akupkattaj; (l.24215), iwiarturtarum; (l.24287), etserkatai; (l.24322), wekaimiayi; (l.24323), piakmiayi; (l.24331)
+    “Word; count: 5, examples: “Ashamkaip; (l.24469), “Wáinkiatarum; (l.24584), “Aneartarum; (l.25903), “Atsá; (l.26022), “Nekasaiti; (l.29106)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 374, examples: akiiniait? (l.23240), ujatmakmarum? (l.23268), ati? (l.23316), akirmakat? (l.23349), túram? (l.23350)
+    Word?” count: 327, examples: tarutnium?” (l.23275), enentáimtutskesha?” (l.23440), taum?” (l.23443), yuruma?” (l.23459), ijiarmainiatsu?” (l.23462)
+    ¿Word? count: 20, examples: ¿yátsukaitrum? (l.24089), ¿tujinkiarmek? (l.24163), ¿Yusak? (l.25852), ¿Aentsuk? (l.25852), ¿Akiktinkiait? (l.25870)
+    ¿Word?” count: 13, examples: ¿itiurkatiṉ?” (l.23935), ¿wiáshitiaj?” (l.24145, 24148), ¿anturmammek?” (l.24211), ¿itiúrkáttaja?” (l.24220)
+    Word?’ count: 10, examples: tsakartatmek?’ (l.23378), antukurmek?’ (l.23659), átataj?’ (l.23847), umirkatniuitiaj?’ (l.23849), péṉkerait?’ (l.24770)
+    “¿Word?” count: 5, examples: “¿íimmek?” (l.24592), “¿yáitiam?” (l.25344), “¿Warimpait?” (l.25683), “¿wariṉkit?” (l.25793), “¿Tuya̱mpaitiam?” (l.26903)
+    Word-Word? count: 4, examples: métek-takuit? (l.24422, 25605, 25607), Israer-shuarkaitiaj? (l.26889)
+    Word?”’ count: 2, examples: tsapakuit?”’ (l.23635), wakeramek?”’ (l.23636)
+TOKENS WITH ¡ (U+00A1 INVERTED EXCLAMATION MARK):
+    ¡Word count: 5, examples: ¡Tuma (l.25506), ¡Antar (l.25518), ¡Tura (l.29039), ¡iikia (l.29078), ¡Nu (l.29103)
+    ¡Word! count: 2, examples: ¡Ántraitrume! (l.25257), ¡Enentáimcha! (l.25514)
+    ¡Word, count: 1, example: ¡Maaj, (l.25584)
+    “¡Word count: 1, example: “¡Ántar (l.25602)
+    ‘¡Word, count: 1, example: ‘¡Jerusaréṉnumia̱tiram, (l.25621)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 271, examples: ‘Átumka (l.23316, 23317), ‘Muisais (l.23320), ‘Yaunchu (l.23324), ‘Tuma (l.23326)
+    ‘Word, count: 23, examples: ‘Ayu, (l.23626), ‘Jerusaréṉnumia̱tirmeá, (l.24024), ‘Atsumatsjai, (l.25240), ‘Iista, (l.25247), ‘Wats, (l.25325)
+    ‘¿Word count: 6, examples: ‘¿Túa (l.23926), ‘¿Shuar (l.24413), ‘¿Yusa (l.24422), ‘¿Itiurtsuk (l.25256), ‘¿Shiripkin (l.25330)
+    ‘Word. count: 5, examples: ‘Aneartarum. (l.23400, 23502), ‘Iista. (l.23587), ‘Enentáimpratarum. (l.23808), ‘Páantchakait. (l.27047)
+    ‘Word-Word count: 2, examples: ‘Yus-shuarja̱i̱ (l.25697), ‘Métek-taku (l.26820)
+    ‘¡Word, count: 1, example: ‘¡Jerusaréṉnumia̱tiram, (l.25621)
+    ‘Word” count: 1, example: ‘Iraraitji” (l.30253)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word.’ count: 180, examples: akupnakminiaiti.’ (l.23325), susata.’ (l.23327), tsanirmayi.’ (l.23331), péṉkeraiti.’ (l.23333), tsanirmaiti.’ (l.23335)
+    Word’ count: 122, examples: akinkiattarme’ (l.23315), ajapashtinkiait’ (l.23316), awajsartatui’ (l.23319), wekasatniuitrume’ (l.23323), jíinkishtatme’ (l.23329)
+    Word?’ count: 10, examples: tsakartatmek?’ (l.23378), antukurmek?’ (l.23659), átataj?’ (l.23847), umirkatniuitiaj?’ (l.23849), péṉkerait?’ (l.24770)
+    Word.”’ count: 7, examples: arakuiti.”’ (l.23636), kanaktiarum.”’ (l.25614), tujinkiamiayi.”’ (l.25652), áchamniaitjai.”’ (l.25678), tujintiainiawai.”’ (l.25715)
+    Word?”’ count: 2, examples: tsapakuit?”’ (l.23635), wakeramek?”’ (l.23636)
+    “Word’ count: 2, examples: “jákashtatui’ (l.26990), “jurertatme’ (l.29220)
+    Word!’ count: 1, example: sumamtikramattarme!’ (l.25506)

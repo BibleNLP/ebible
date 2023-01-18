@@ -1,0 +1,203 @@
+OVERVIEW:
+File size: 41899 lines, 545875 characters
+Letter scripts: 1
+    ETHIOPIC (357248 instances)
+Number scripts: 1
+    ASCII_DIGIT (26 instances): 01234679
+Other character groups: 5
+    SPACE (111042 instances)
+    ETHIOPIC_PUNCTUATION (20582 instances): ፡።፤፥
+    PRIVATE_USE_AREA (8585 instances): 
+    GENERAL_PUNCTUATION (5044 instances): «»‹›
+    ASCII_PUNCTUATION (1260 instances): !()-?[]
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 174, lines: 23270, 23288, 23297, 23374, 23376
+    ( U+0028 LEFT PARENTHESIS count: 9, lines: 24041, 24374, 24474, 24800, 26516
+    ) U+0029 RIGHT PARENTHESIS count: 9, lines: 24041, 24374, 24474, 24800, 26516
+    - U+002D HYPHEN-MINUS count: 3, lines: 27437, 27935
+    ? U+003F QUESTION MARK count: 1045, lines: 23240, 23242, 23268, 23275, 23316
+    [ U+005B LEFT SQUARE BRACKET count: 10, lines: 23364, 23790, 23939, 24001, 26202
+    ] U+005D RIGHT SQUARE BRACKET count: 10, lines: 23364, 23790, 23939, 24001, 26202
+GENERAL_PUNCTUATION characters:
+    « U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK count: 2282, lines: 23233, 23236, 23240, 23242, 23243
+    » U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK count: 1932, lines: 23233, 23236, 23240, 23242, 23244
+    ‹ U+2039 SINGLE LEFT-POINTING ANGLE QUOTATION MARK count: 415, lines: 23244, 23264, 23270, 23282, 23284
+    › U+203A SINGLE RIGHT-POINTING ANGLE QUOTATION MARK count: 415, lines: 23244, 23264, 23270, 23282, 23284
+SPACE characters:
+      U+0020 SPACE count: 111042, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 9, examples: 370 (l.25696), 1260 (l.30943, 30965), 000 (l.30996, 30998)
+    1 U+0031 DIGIT ONE count: 4, examples: 1260 (l.30943, 30965), 144 (l.30996, 30998)
+    2 U+0032 DIGIT TWO count: 3, examples: 296 (l.25696), 1260 (l.30943, 30965)
+    3 U+0033 DIGIT THREE count: 1, example: 370 (l.25696)
+    4 U+0034 DIGIT FOUR count: 4, example: 144 (l.30996, 30998)
+    6 U+0036 DIGIT SIX count: 3, examples: 296 (l.25696), 1260 (l.30943, 30965)
+    7 U+0037 DIGIT SEVEN count: 1, example: 370 (l.25696)
+    9 U+0039 DIGIT NINE count: 1, example: 296 (l.25696)
+ETHIOPIC characters:
+    ሁ U+1201 ETHIOPIC SYLLABLE HU count: 902, examples: ዪሁዳኔ (l.23215), ዪሁዲ (l.23216), ዪሁዳ (l.23239, 23243), ኣይሁዴ (l.23240)
+    ሂ U+1202 ETHIOPIC SYLLABLE HI count: 4004, examples: ሂዚቂያሳ (l.23222), ሂዚቂያሲ (l.23223), ሂዛ (l.23230), ካሂኔ (l.23242), ሂጌ (l.23242)
+    ሃ U+1203 ETHIOPIC SYLLABLE HAA count: 4799, examples: ሃይሳፌ (l.23214, 23231), ኣብራሃሜ (l.23214), ኣብራሃሜይ (l.23215), ኣብራሃሜፔ (l.23230)
+    ሄ U+1204 ETHIOPIC SYLLABLE HEE count: 2894, examples: ጋሄቶና (l.23231), ሄ (l.23233), ሄኮ (l.23236), ሄሮዲሳ (l.23239), ሄሮዲሲ (l.23241)
+    ህ U+1205 ETHIOPIC SYLLABLE HE count: 2, examples: ኤፍታህ (l.24566), ህንቴው (l.29679)
+    ሆ U+1206 ETHIOPIC SYLLABLE HO count: 307, examples: ኣሙሆን (l.23233, 23250, 23251, 23257), ዬሆይኔ (l.23255)
+    ሉ U+1209 ETHIOPIC SYLLABLE LU count: 201, examples: ዎጎሉዋ (l.23299), ዎጎሉዋኔ (l.23300), ዎጎሉዋን (l.23437, 23449), ሳሉዋን (l.23518)
+    ሊ U+120A ETHIOPIC SYLLABLE LI count: 1286, examples: ካሊዲ (l.23214), ዬሊስ (l.23215, 23216, 23217, 23218)
+    ላ U+120B ETHIOPIC SYLLABLE LAA count: 6228, examples: ሳላቲያሌ (l.23225), ሳላቲያሌይ (l.23225), ዜሩባቤላ (l.23225), ኣላዛራ (l.23228), ኣላዛሪ (l.23228)
+    ሌ U+120C ETHIOPIC SYLLABLE LEE count: 1238, examples: ዬሌቴ (l.23214), ኢስራዔሌ (l.23224, 23225), ሳላቲያሌ (l.23225), ሳላቲያሌይ (l.23225)
+    ል U+120D ETHIOPIC SYLLABLE LE count: 726, examples: ሳልሞና (l.23217), ሳልሞኔይ (l.23218), ጉልባቲዲ (l.23249), ዜሌልሲ (l.23255), ዎልቃሜስ (l.23272)
+    ሎ U+120E ETHIOPIC SYLLABLE LO count: 1525, examples: ሶሎሞኔ (l.23219), ሶሎሞኔይ (l.23220), ባቢሎኔ (l.23224, 23225, 23230)
+    ሙ U+1219 ETHIOPIC SYLLABLE MU count: 403, example: ኣሙሆን (l.23233, 23250, 23251, 23257, 23260)
+    ሚ U+121A ETHIOPIC SYLLABLE MI count: 2249, examples: ኣሚናዳቤ (l.23217), ኣሚናዳቤይ (l.23217), ሚናሴ (l.23223), ሚናሴይ (l.23223), ማይራሚ (l.23229)
+    ማ U+121B ETHIOPIC SYLLABLE MAA count: 6507, examples: ቲዒማሪፔ (l.23216), ማቼፌ (l.23219), ሮቢዓማ (l.23220), ማታኔ (l.23228), ማታኔይ (l.23228)
+    ሜ U+121C ETHIOPIC SYLLABLE MEE count: 2954, examples: ኣብራሃሜ (l.23214), ኣብራሃሜይ (l.23215), ኣስሮሜ (l.23216), ኣስሮሜይ (l.23216), ራሜ (l.23216)
+    ም U+121D ETHIOPIC SYLLABLE ME count: 811, examples: ጋምዓ (l.23251), ናምዑ (l.23254, 23296, 23299), ፆምፔ (l.23318)
+    ሞ U+121E ETHIOPIC SYLLABLE MO count: 936, examples: ሳልሞና (l.23217), ሳልሞኔይ (l.23218), ሶሎሞኔ (l.23219), ሶሎሞኔይ (l.23220), ኣሞና (l.23223)
+    ሩ U+1229 ETHIOPIC SYLLABLE RU count: 194, examples: ኡሩቲፔ (l.23218), ዜሩባቤላ (l.23225), ዜሩባቤሊ (l.23226), ዬሩሳላሜ (l.23239), ዬሩሳላሜን (l.23241)
+    ሪ U+122A ETHIOPIC SYLLABLE RI count: 2469, examples: ኪሪስቶሳ (l.23214), ቲዒማሪፔ (l.23216), ኦሪዮ (l.23219), ኣዛሪ (l.23227), ኣላዛሪ (l.23228)
+    ራ U+122B ETHIOPIC SYLLABLE RAA count: 4136, examples: ኣብራሃሜ (l.23214), ኣብራሃሜይ (l.23215), ዛራ (l.23216), ራሜ (l.23216), ራሜይ (l.23217)
+    ሬ U+122C ETHIOPIC SYLLABLE REE count: 1683, examples: ፋሬሴኔ (l.23216), ፋሬሲ (l.23216), ኣስታማሬታ (l.23242), ዎታዳሬታ (l.23254), ናዚሬቴ (l.23261)
+    ር U+122D ETHIOPIC SYLLABLE RE count: 2336, examples: ቢርሼ (l.23236), ባርኪዲ (l.23237), ዎርቃ (l.23249), ካርቤ (l.23249), ጋርሳን (l.23254)
+    ሮ U+122E ETHIOPIC SYLLABLE RO count: 1854, examples: ኣስሮሜ (l.23216), ኣስሮሜይ (l.23216), ሮቢዓማ (l.23220), ሮቢዓሜይ (l.23220), ሄሮዲሳ (l.23239)
+    ሱ U+1231 ETHIOPIC SYLLABLE SU count: 2816, examples: ዬሱስ (l.23214, 23231), ዬሱሳ (l.23229), ታሱ (l.23231), ሱን (l.23234)
+    ሲ U+1232 ETHIOPIC SYLLABLE SI count: 8011, examples: ፃፌቲዳይሲ (l.23214), ፋሬሲ (l.23216), ሂዚቂያሲ (l.23223), ኢዮሲያሳ (l.23223), ኢዮሲያሲ (l.23224)
+    ሳ U+1233 ETHIOPIC SYLLABLE SAA count: 14154, examples: ሃይሳፌ (l.23214), ኪሪስቶሳ (l.23214), ዪሳቃ (l.23215), ዪሳቂ (l.23215), ሳልሞና (l.23217)
+    ሴ U+1234 ETHIOPIC SYLLABLE SEE count: 1420, examples: ፋሬሴኔ (l.23216), ኢሴዬ (l.23218), ኢሴዬይ (l.23219), ሚናሴ (l.23223), ሚናሴይ (l.23223)
+    ስ U+1235 ETHIOPIC SYLLABLE SE count: 9794, examples: ዬሱስ (l.23214), ኪሪስቶሳ (l.23214), ዬሊስ (l.23215, 23216), ኣስሮሜ (l.23216)
+    ሶ U+1236 ETHIOPIC SYLLABLE SO count: 3390, examples: ናዓሶና (l.23217), ናዓሶኔይ (l.23217), ሶሎሞኔ (l.23219), ሶሎሞኔይ (l.23220), ሶ (l.23237)
+    ሹ U+1239 ETHIOPIC SYLLABLE SHU count: 354, examples: ሹቻታፔ (l.23270), ሹቻቲ (l.23281), ሹቻን (l.23284), ሃሹ (l.23315), ያርሹዋ (l.23326)
+    ሺ U+123A ETHIOPIC SYLLABLE SHI count: 2765, examples: ዴዒሺን (l.23233), ኣሺያ (l.23234), ሺን (l.23238, 23260), ጌሺዲ (l.23245)
+    ሻ U+123B ETHIOPIC SYLLABLE SHAA count: 1696, examples: ኢሻታ (l.23215, 23224), ጌሻ (l.23231, 23233), ዬሌታንዴሻ (l.23242)
+    ሼ U+123C ETHIOPIC SYLLABLE SHEE count: 1232, examples: ኦይሼታ (l.23231), ዴዓሼ (l.23231), ቢርሼ (l.23236), ዬዲሼ (l.23246), ዪሼ (l.23246)
+    ሽ U+123D ETHIOPIC SYLLABLE SHE count: 29, examples: ኣሽኬቲ (l.23308), ኣሽኬኔ (l.23557), ኣሽኬ (l.23900), ሃይሲሽ (l.24102, 24169)
+    ሾ U+123E ETHIOPIC SYLLABLE SHO count: 1658, example: ጊሾ (l.23232, 23233, 23234, 23251, 23252)
+    ቁ U+1241 ETHIOPIC SYLLABLE QU count: 237, examples: ቁ (l.23264, 23475), ሃንቁዋፌ (l.23268), ኢንቁዋ (l.23391, 23654)
+    ቂ U+1242 ETHIOPIC SYLLABLE QI count: 885, examples: ዪሳቂ (l.23215), ሂዚቂያሳ (l.23222), ሂዚቂያሲ (l.23223), ሃይቂዳ (l.23255), ሃይቂዳፔ (l.23257)
+    ቃ U+1243 ETHIOPIC SYLLABLE QAA count: 2928, examples: ዪሳቃ (l.23215), ቃን (l.23231, 23233, 23236), ሃላቃታኔ (l.23242)
+    ቄ U+1244 ETHIOPIC SYLLABLE QEE count: 532, examples: ኤሊያቄሜ (l.23226), ኤሊያቄሜይ (l.23226), ሳዶቄ (l.23227), ሳዶቄይ (l.23227), ፃማቄቶሶና (l.23267)
+    ቆ U+1246 ETHIOPIC SYLLABLE QO count: 1561, examples: ያይቆባ (l.23215, 23228), ያይቆቢ (l.23215, 23229), ቆሳን (l.23232)
+    ቡ U+1261 ETHIOPIC SYLLABLE BU count: 235, examples: ዳንዳዓቡኩ (l.23255), ቡሮ (l.23299), ቡኪሴስ (l.23348), ቡጮኮና (l.23377), ዳቡሮኮና (l.23379)
+    ቢ U+1262 ETHIOPIC SYLLABLE BI count: 1571, examples: ያይቆቢ (l.23215), ራዓቢፔ (l.23218), ሮቢዓማ (l.23220), ሮቢዓሜይ (l.23220), ኣቢያ (l.23220)
+    ባ U+1263 ETHIOPIC SYLLABLE BAA count: 6983, examples: ያይቆባ (l.23215), ባቢሎኔ (l.23224, 23225), ዜሩባቤላ (l.23225), ዜሩባቤሊ (l.23226)
+    ቤ U+1264 ETHIOPIC SYLLABLE BEE count: 2150, examples: ኣሚናዳቤ (l.23217), ኣሚናዳቤይ (l.23217), ኢዮቤዴ (l.23218), ኢዮቤዲ (l.23218), ዜሩባቤላ (l.23225)
+    ብ U+1265 ETHIOPIC SYLLABLE BE count: 223, examples: ኣብራሃሜ (l.23214), ኣብራሃሜይ (l.23215), ኣብዲዩ (l.23226), ኣብዲዩይ (l.23226), ኣብራሃሜፔ (l.23230)
+    ቦ U+1266 ETHIOPIC SYLLABLE BO count: 1741, examples: ቦዔዛ (l.23218), ቦዔዚ (l.23218), ቦቺቤና (l.23238), ቦሌኔ (l.23265), ቦላ (l.23277)
+    ቱ U+1271 ETHIOPIC SYLLABLE TU count: 711, examples: ፆሊንቱዋ (l.23240, 23245, 23248), ቱና (l.23302), ቱማ (l.23320)
+    ቲ U+1272 ETHIOPIC SYLLABLE TI count: 7162, examples: ፃፌቲዳይሲ (l.23214), ቲዒማሪፔ (l.23216), ኡሩቲፔ (l.23218), ዲዔቲዲ (l.23224, 23225)
+    ታ U+1273 ETHIOPIC SYLLABLE TAA count: 12802, examples: ኢሻታ (l.23215, 23224), ኢዮዓታሜ (l.23222), ኢዮዓታሜይ (l.23222), ቢታ (l.23224)
+    ቴ U+1274 ETHIOPIC SYLLABLE TEE count: 6896, examples: ዳዊቴ (l.23214, 23219), ዬሌቴ (l.23214, 23230), ዳዊቴይ (l.23219)
+    ት U+1275 ETHIOPIC SYLLABLE TE count: 2, examples: ቲንቢት (l.28319), ዲጊት (l.29592)
+    ቶ U+1276 ETHIOPIC SYLLABLE TO count: 2259, examples: ኪሪስቶሳ (l.23214, 23229, 23230, 23231), ጋሄቶና (l.23231)
+    ቹ U+1279 ETHIOPIC SYLLABLE CU count: 120, examples: ቦንቹዋራ (l.23286, 24056), ኦሳንቹዋስ (l.23496), ኪታንቹዋ (l.23538), ቦንቹዋን (l.23768)
+    ቺ U+127A ETHIOPIC SYLLABLE CI count: 532, examples: ቦቺቤና (l.23238), ኦይቺዶሶና (l.23240), ኦይቺስ (l.23242), ማቺው (l.23334), ማቺያ (l.23335)
+    ቻ U+127B ETHIOPIC SYLLABLE CAA count: 366, examples: ሹቻታፔ (l.23270), ሹቻቲ (l.23281), ሹቻን (l.23284), ቦንቻና (l.23319), ኡሻቻ (l.23332)
+    ቼ U+127C ETHIOPIC SYLLABLE CEE count: 141, examples: ማቼፌ (l.23219), ቃቼይሳስ (l.23328), ኣቼ (l.23341), ቦንቼታናው (l.23353), ማቼ (l.23428)
+    ቾ U+127E ETHIOPIC SYLLABLE CO count: 647, examples: ኪታንቾይ (l.23233, 23237, 23251, 23257), ኪታንቾታ (l.23284)
+    ኑ U+1291 ETHIOPIC SYLLABLE NU count: 1796, examples: ኣማኑዔላ (l.23236), ኑራ (l.23236), ኑኒ (l.23240), ኑ (l.23270), ፑኑዋ (l.23273)
+    ኒ U+1292 ETHIOPIC SYLLABLE NI count: 4003, examples: ኣሞኒ (l.23223), ኢኮኒያናኔ (l.23224), ኢኮኒያኒ (l.23225), ያኒያ (l.23232), ሃኒስ (l.23236)
+    ና U+1293 ETHIOPIC SYLLABLE NAA count: 15811, examples: ናዓ (l.23214), ኣሚናዳቤ (l.23217), ኣሚናዳቤይ (l.23217), ናዓሶና (l.23217), ናዓሶኔይ (l.23217)
+    ኔ U+1294 ETHIOPIC SYLLABLE NEE count: 5287, examples: ዪሁዳኔ (l.23215), ፋሬሴኔ (l.23216), ናዓሶኔይ (l.23217), ሳልሞኔይ (l.23218), ሶሎሞኔ (l.23219)
+    ን U+1295 ETHIOPIC SYLLABLE NE count: 18863, examples: ቃን (l.23231), ኣሳን (l.23232), ቆሳን (l.23232), ቆፋን (l.23233), ዴዒሺን (l.23233)
+    ኖ U+1296 ETHIOPIC SYLLABLE NO count: 666, example: ዮርዳኖሴ (l.23266, 23267, 23274, 23293, 23303)
+    ኝ U+129D ETHIOPIC SYLLABLE NYE count: 1, example: ቤሳኝሳ (l.27907)
+    ኡ U+12A1 ETHIOPIC SYLLABLE GLOTTAL U count: 3020, examples: ኡሩቲፔ (l.23218), ኡባይ (l.23236), ኡባይካ (l.23241), ኡፋይሲ (l.23248), ኡፋይቲዶሶና (l.23248)
+    ኢ U+12A2 ETHIOPIC SYLLABLE GLOTTAL I count: 6923, examples: ኢያ (l.23215), ኢሻታ (l.23215), ኢዮቤዴ (l.23218), ኢዮቤዲ (l.23218), ኢሴዬ (l.23218)
+    ኣ U+12A3 ETHIOPIC SYLLABLE GLOTTAL AA count: 10384, examples: ኣብራሃሜ (l.23214), ኣብራሃሜይ (l.23215), ኣስሮሜ (l.23216), ኣስሮሜይ (l.23216), ኣሚናዳቤ (l.23217)
+    ኤ U+12A4 ETHIOPIC SYLLABLE GLOTTAL EE count: 4448, examples: ኤሊያቄሜ (l.23226), ኤሊያቄሜይ (l.23226), ኤሊዩዳ (l.23227), ኤሊዩዲ (l.23228), ኤካናው (l.23233)
+    ኦ U+12A6 ETHIOPIC SYLLABLE GLOTTAL O count: 4500, examples: ኦሪዮ (l.23219), ኦዚያኔ (l.23221), ኦዚያኔይ (l.23222), ኦይዳ (l.23230), ኦይዱ (l.23230)
+    ኩ U+12A9 ETHIOPIC SYLLABLE KU count: 648, examples: ኩሚዳይሳታኔ (l.23254), ዳንዳዓቡኩ (l.23255), ኩሼን (l.23267, 23273, 23274)
+    ኪ U+12AA ETHIOPIC SYLLABLE KI count: 2804, examples: ኪሪስቶሳ (l.23214, 23229, 23230), ኣኪሜ (l.23227), ኣኪሜይ (l.23227)
+    ካ U+12AB ETHIOPIC SYLLABLE KAA count: 5193, examples: ካሊዲ (l.23214), ካዉዋ (l.23219), ኣካዛ (l.23222), ኣካዚ (l.23222), ጋካናው (l.23230)
+    ኬ U+12AC ETHIOPIC SYLLABLE KEE count: 2329, examples: ታሪኬይ (l.23231), ኬሳናው (l.23232), ኬዪዳ (l.23240), ኬያና (l.23244), ኣርኬሊዮሲ (l.23260)
+    ኮ U+12AE ETHIOPIC SYLLABLE KO count: 4259, examples: ኢኮኒያናኔ (l.23224), ኢኮኒያኒ (l.23225), ኮዪቤና (l.23232), ሄኮ (l.23236), ስኮፌ (l.23237)
+    ዉ U+12C9 ETHIOPIC SYLLABLE WU count: 806, examples: ካዉዋ (l.23219, 23239), ኣዉን (l.23240, 23242), ዬካዉሱ (l.23255)
+    ዊ U+12CA ETHIOPIC SYLLABLE WI count: 97, examples: ዳዊቴ (l.23214, 23219, 23230), ዳዊቴይ (l.23219), ዳዊቴፔ (l.23230)
+    ዋ U+12CB ETHIOPIC SYLLABLE WAA count: 2880, examples: ካዉዋ (l.23219, 23239), ዲዑዋ (l.23230), ዲዑዋፔ (l.23230), ፆሊንቱዋ (l.23240)
+    ዌ U+12CC ETHIOPIC SYLLABLE WEE count: 174, examples: ፋሪሳዌቲኔ (l.23268), ሳዱቃዌቲ (l.23268), ፋሪሳዌታ (l.23323), ፋሪሳዌቲ (l.23459, 23462)
+    ው U+12CD ETHIOPIC SYLLABLE WE count: 3930, examples: ጋካናው (l.23230), ኬሳናው (l.23232), ኣጋናው (l.23232), ናዓው (l.23233), ኤካናው (l.23233)
+    ዎ U+12CE ETHIOPIC SYLLABLE WO count: 4499, examples: ዎዴ (l.23224, 23241), ዎዴን (l.23239), ካዎይ (l.23240, 23241)
+    ዑ U+12D1 ETHIOPIC SYLLABLE PHARYNGEAL U count: 370, examples: ዲዑዋ (l.23230), ዲዑዋፔ (l.23230), ናምዑ (l.23254, 23296, 23299)
+    ዒ U+12D2 ETHIOPIC SYLLABLE PHARYNGEAL I count: 2778, examples: ቲዒማሪፔ (l.23216), ዴዒሺን (l.23233), ጌላዒያ (l.23236), ዴዒ (l.23240), ቤዒዲ (l.23240)
+    ዓ U+12D3 ETHIOPIC SYLLABLE PHARYNGEAL AA count: 1655, examples: ናዓ (l.23214), ናዓሶና (l.23217), ናዓሶኔይ (l.23217), ራዓቢፔ (l.23218), ሮቢዓማ (l.23220)
+    ዔ U+12D4 ETHIOPIC SYLLABLE PHARYNGEAL EE count: 1276, examples: ቦዔዛ (l.23218), ቦዔዚ (l.23218), ኢስራዔሌ (l.23224, 23225), ዲዔቲዲ (l.23224)
+    ዖ U+12D6 ETHIOPIC SYLLABLE PHARYNGEAL O count: 1114, examples: ሎዖ (l.23271), ቶዖና (l.23273), ፖዖ (l.23294), ፖዖይ (l.23294), ማልዖቴ (l.23316)
+    ዙ U+12D9 ETHIOPIC SYLLABLE ZU count: 41, examples: ባዙዋ (l.23535), ባዙዋን (l.23735), ዙዙሚዶሶና (l.23872), ዙማይኔ (l.25099), ዙማ (l.25161)
+    ዚ U+12DA ETHIOPIC SYLLABLE ZI count: 258, examples: ቦዔዚ (l.23218), ኦዚያኔ (l.23221), ኦዚያኔይ (l.23222), ኣካዚ (l.23222), ሂዚቂያሳ (l.23222)
+    ዛ U+12DB ETHIOPIC SYLLABLE ZAA count: 1229, examples: ዛራ (l.23216), ቦዔዛ (l.23218), ኣካዛ (l.23222), ኣዛራ (l.23226), ኣዛሪ (l.23227)
+    ዜ U+12DC ETHIOPIC SYLLABLE ZEE count: 238, examples: ዜሩባቤላ (l.23225), ዜሩባቤሊ (l.23226), ዜሌልሲ (l.23255), ዜሮኮና (l.23377), ሙዜስ (l.23377)
+    ዝ U+12DD ETHIOPIC SYLLABLE ZE count: 17, examples: ማዝሙሬ (l.24153, 24849, 26104, 27012), ማዝጋባን (l.25452)
+    ዞ U+12DE ETHIOPIC SYLLABLE ZO count: 167, examples: ባዞ (l.23262, 23264, 23279), ዞሪዳይ (l.23268), ዞሪያ (l.23674)
+    ዣ U+12E3 ETHIOPIC SYLLABLE ZHAA count: 2, example: ጉዣ (l.24081, 30298)
+    ዤ U+12E4 ETHIOPIC SYLLABLE ZHEE count: 6, examples: ጉዤታና (l.23620, 25826), ጉዤታናኔ (l.24106), ጉዤቲዲ (l.25332), ጉዤቲስ (l.27018)
+    ዩ U+12E9 ETHIOPIC SYLLABLE YU count: 103, examples: ኣብዲዩ (l.23226), ኣብዲዩይ (l.23226), ኤሊዩዳ (l.23227), ኤሊዩዲ (l.23228), ዩዪስ (l.23301)
+    ዪ U+12EA ETHIOPIC SYLLABLE YI count: 1269, examples: ዪሳቃ (l.23215), ዪሳቂ (l.23215), ዪሁዳኔ (l.23215), ዪሁዲ (l.23216), ኮዪቤና (l.23232)
+    ያ U+12EB ETHIOPIC SYLLABLE YAA count: 12412, examples: ያይቆባ (l.23215), ያይቆቢ (l.23215), ኢያ (l.23215), ኣቢያ (l.23220), ኦዚያኔ (l.23221)
+    ዬ U+12EC ETHIOPIC SYLLABLE YEE count: 3631, examples: ዬሱስ (l.23214), ዬሌቴ (l.23214), ዬሊስ (l.23215, 23216, 23217)
+    ይ U+12ED ETHIOPIC SYLLABLE YE count: 16743, examples: ሃይሳፌ (l.23214), ፃፌቲዳይሲ (l.23214), ኣብራሃሜይ (l.23215), ያይቆባ (l.23215), ያይቆቢ (l.23215)
+    ዮ U+12EE ETHIOPIC SYLLABLE YO count: 764, examples: ኢዮቤዴ (l.23218), ኢዮቤዲ (l.23218), ኦሪዮ (l.23219), ኢዮሳፌፄ (l.23221), ኢዮሳፊፄይ (l.23221)
+    ...
+PRIVATE_USE_AREA characters:
+     U+E231 _UNDEFINED_ count: 41, lines: 23399, 24196, 24301, 24513, 24514
+     U+E232 _UNDEFINED_ count: 2176, lines: 23230, 23246, 23247, 23254, 23264
+     U+E233 _UNDEFINED_ count: 3786, lines: 23214, 23230, 23231, 23233, 23234
+     U+E234 _UNDEFINED_ count: 458, lines: 23273, 23299, 23307, 23312, 23318
+     U+E236 _UNDEFINED_ count: 381, lines: 23307, 23322, 23348, 23349, 23350
+     U+E2D9 _UNDEFINED_ count: 87, lines: 23598, 23641, 23734, 23773, 23812
+     U+E2DB _UNDEFINED_ count: 46, lines: 23762, 23792, 23816, 23880, 23967
+     U+E2DE _UNDEFINED_ count: 5, lines: 26036, 26037, 26043, 26044, 29772
+     U+E2F9 _UNDEFINED_ count: 113, lines: 23284, 23294, 23374, 23400, 23426
+     U+E2FA _UNDEFINED_ count: 510, lines: 23237, 23254, 23277, 23296, 23299
+     U+E2FB _UNDEFINED_ count: 398, lines: 23251, 23258, 23321, 23332, 23333
+     U+E2FC _UNDEFINED_ count: 289, lines: 23316, 23321, 23375, 23376, 23377
+     U+E2FE _UNDEFINED_ count: 295, lines: 23264, 23318, 23323, 23324, 23475
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 98, examples: ሲዒቴ! (l.23270, 23376, 23380), ሃካ! (l.23288), ካሊቴ! (l.23297)
+    Word!» count: 34, examples: ጋኮፎ!» (l.23763), ሲዒቴ!» (l.23774), ያዮፊቴ!» (l.23776), ጋርኪ!» (l.23882), ጊዶ!» (l.23904)
+    «Word! count: 21, examples: «ሲዒቴ! (l.23712), «ኤ! (l.23780, 24028), «ሆሳና! (l.23904), «ኪሪስቶሳ! (l.24191)
+    Word!› count: 5, examples: ቦንቻና!› (l.23932), ላቶስ!› (l.23933), ኤሪኬ!› (l.24089), ጊዳና!› (l.24749), ሱሪሲቴ!› (l.26136)
+    «Word!» count: 5, examples: «ሃይዛ!» (l.24705), «ሃያ!» (l.30862, 30864, 30866, 30868)
+    Word!) count: 2, example: ኣኬኮ!) (l.24041, 24800)
+    ‹Word! count: 2, example: ‹ዛምቦይ! (l.24098, 24100)
+    <U+E2FB>Word! count: 2, examples: ዪቴ! (l.27472), ይሳ! (l.27794)
+    Word<U+E236>Word! count: 2, example: ኦፋ! (l.31096, 31158)
+    <U+E2F9>Word! count: 1, example: ማንዴሻ! (l.23374)
+    ‹Word!› count: 1, example: ‹ሃያ!› (l.23423)
+    Word<U+E2FA>Word! count: 1, example: ዎያሬ! (l.24024)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 3, examples: ባር-ዬሱሳ (l.27437), ፑዴሃ-ዉሎሃፔኔ (l.27935), ዱጌሃ-ዉሎሃፔ (l.27935)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 609, examples: ዴዒ? (l.23240, 23349), ዞሪዳይ? (l.23268), ዴማኔ? (l.23316), ማኔ? (l.23376)
+    Word?» count: 319, examples: ዬሌታንዴሻ?» (l.23242), ያይ?» (l.23275), ያዬቲ?» (l.23440), ኣሴ?» (l.23441), ያዲ?» (l.23443)
+    Word?› count: 38, examples: ማዓኔ?› (l.23376, 23382), ዪዴ?› (l.23635), ኮያይ?› (l.23636), ጊቤኔ?› (l.23706)
+    Word<U+E232>Word?» count: 10, examples: ኦዴ?» (l.24221, 24909), ዴንዴቲ?» (l.24588, 24589), ኦኖ?» (l.25104)
+    Word<U+E232>Word? count: 8, examples: ኦዴቲ? (l.23350), ባሌዴ? (l.26444), ኦዴ? (l.26535), ኦኖ? (l.26639, 27107)
+    Word<U+E2FC>Word? count: 5, examples: ኣኔ? (l.23376, 23570, 28917), ኣኬቲ? (l.23377), ካቲ? (l.28690)
+    Word<U+E234>Word? count: 5, examples: ጋይ? (l.23443, 24440, 28534), ዎኔዬ? (l.24413), ኦቲ? (l.27498)
+    Word<U+E236>?» count: 5, example: ኦ?» (l.23847, 24674, 24693, 25457, 25775)
+    Word<U+E233>Word? count: 5, examples: ማልዔኔ? (l.24657), ኦዲ? (l.25090), ኦኔ? (l.26356), ዎኔ? (l.26574), ኦኔዬ? (l.28151)
+    Word<U+E2FB>Word? count: 5, examples: ኣይ? (l.26237, 28508), ኣዬ? (l.26503), ካዬ? (l.28034), ካይ? (l.28358)
+    Word<U+E233>Word?» count: 4, examples: ኦኔ?» (l.26354, 30314), ኦኔዬ?» (l.26428), ኦዲ?» (l.26889)
+    Word<U+E2FA>Word? count: 3, examples: ኣዬ? (l.24004, 24006), ዎዴ? (l.30658)
+    Word<U+E2FA>? count: 3, example: ኣ? (l.24004, 24006, 25960)
+    «Word? count: 2, example: «ኣይስ? (l.24221, 24909)
+    <U+E2FB>Word?» count: 2, examples: ዪዴ?» (l.24432), ይሶ?» (l.25224)
+    <U+E2FA>Word? count: 2, examples: ስካዲ? (l.24860), ስኬቲ? (l.25979)
+    Word<U+E234>Word?» count: 2, examples: ኦቲ?» (l.25217), ኢማዬ?» (l.26078)
+    Word<U+E236>?› count: 2, example: ኦ?› (l.25545, 27782)
+    Word<U+E236>? count: 2, example: ኦ? (l.25861, 28550)
+    Word<U+E2FB>Word?» count: 2, examples: ዎኔዬ?» (l.26472), ሜዲ?» (l.28243)
+    Word<U+E232>? count: 2, example: ኦ? (l.28208, 28731)
+    Word<U+E232>Word?› count: 1, example: ኦቦኮ?› (l.23407)
+    Word<U+E236>Word? count: 1, example: ሜንና? (l.23704)
+    Word<U+E236>Word?» count: 1, example: ኦና?» (l.24353)
+    Word<U+E2FE>?» count: 1, example: ዎ?» (l.24361)
+    Word<U+E234>Word?› count: 1, example: ኦቲ?› (l.24712)
+    <U+E2FB>Word? count: 1, example: ይሳናሴዬ? (l.25166)
+    <U+E2F9>Word? count: 1, example: ቢ? (l.26387)
+    Word<U+E233>Word?› count: 1, example: ኦቢኪና?› (l.27235)
+    Word<U+E2FE>Word? count: 1, example: ኣናዬ? (l.28068)
+    Word<U+E234><U+E234>Word? count: 1, example: ዴንኔዬ? (l.28605)

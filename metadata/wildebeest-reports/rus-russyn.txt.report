@@ -1,0 +1,229 @@
+OVERVIEW:
+File size: 41899 lines, 3393563 characters
+Letter scripts: 2
+    CYRILLIC (2681799 instances)
+    LATIN (27 instances): BCEcekoë
+Number scripts: 1
+    ASCII_DIGIT (7 instances): 12345
+Other character groups: 3
+    SPACE (541609 instances)
+    ASCII_PUNCTUATION (126351 instances): !(),-.:;?
+    GENERAL_PUNCTUATION (1871 instances): “”
+Words with characters from multiple scripts: 1 category, 14 unique types, 25 instances
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (CYRILLIC, LATIN):
+    Cтефана count: 1, line: 27247
+    Eто count: 1, line: 29578
+    cтоишь count: 1, line: 27218
+    cубботу count: 1, line: 29577
+    kоторого count: 1, line: 28554
+    вo count: 1, line: 29033
+    всe count: 1, line: 30633
+    кo count: 1, line: 29597
+    лицoм count: 12, lines: 6678, 6842, 6906, 16967, 20420
+    отсечëтся count: 1, line: 16757
+    перемëр count: 1, line: 5942
+    познаeм count: 1, line: 30635
+    преимуществeнной count: 1, line: 28919
+    узнаeм count: 1, line: 30665
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 1968, lines: 103, 363, 369, 390, 416
+    ( U+0028 LEFT PARENTHESIS count: 18, lines: 44, 45, 102, 726, 1594
+    ) U+0029 RIGHT PARENTHESIS count: 18, lines: 44, 45, 102, 726, 1594
+    , U+002C COMMA count: 73481, lines: 2, 4, 5, 6, 7
+    - U+002D HYPHEN-MINUS count: 3258, lines: 29, 183, 205, 246, 342
+    . U+002E FULL STOP count: 23360, lines: 1, 2, 3, 4, 5
+    : U+003A COLON count: 10082, lines: 3, 5, 6, 8, 9
+    ; U+003B SEMICOLON count: 11112, lines: 14, 16, 20, 27, 29
+    ? U+003F QUESTION MARK count: 3054, lines: 57, 65, 67, 69, 86
+GENERAL_PUNCTUATION characters:
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 936, lines: 438, 1659, 2330, 2486, 4460
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 935, lines: 438, 966, 1659, 2057, 2330
+SPACE characters:
+      U+0020 SPACE count: 541609, lines: 1, 2, 3, 4, 5
+ASCII_DIGIT characters:
+    1 U+0031 DIGIT ONE count: 1, example: 153 (l.26978)
+    2 U+0032 DIGIT TWO count: 2, examples: 24 (l.21806), 32 (l.21806)
+    3 U+0033 DIGIT THREE count: 2, examples: 32 (l.21806), 153 (l.26978)
+    4 U+0034 DIGIT FOUR count: 1, example: 24 (l.21806)
+    5 U+0035 DIGIT FIVE count: 1, example: 153 (l.26978)
+BASIC_LATIN characters:
+    B U+0042 LATIN CAPITAL LETTER B count: 1, line: 28697
+    C U+0043 LATIN CAPITAL LETTER C count: 1, example: Cтефана (l.27247)
+    E U+0045 LATIN CAPITAL LETTER E count: 1, example: Eто (l.29578)
+    c U+0063 LATIN SMALL LETTER C count: 3, examples: cтоишь (l.27218), c (l.28522), cубботу (l.29577)
+    e U+0065 LATIN SMALL LETTER E count: 4, examples: преимуществeнной (l.28919), всe (l.30633), познаeм (l.30635), узнаeм (l.30665)
+    k U+006B LATIN SMALL LETTER K count: 1, example: kоторого (l.28554)
+    o U+006F LATIN SMALL LETTER O count: 14, example: лицoм (l.6678, 6842, 6906, 16967, 20420)
+LATIN_EXTENDED_LETTER characters:
+    ë U+00EB LATIN SMALL LETTER E WITH DIAERESIS count: 2, examples: перемëр (l.5942), отсечëтся (l.16757)
+CYRILLIC characters:
+    А U+0410 CYRILLIC CAPITAL LETTER A count: 4823, examples: Ассириею (l.45), Адам (l.56, 64, 65), Адаму (l.65)
+    Б U+0411 CYRILLIC CAPITAL LETTER BE count: 5304, examples: Бог (l.1, 3, 4, 5), Божий (l.2)
+    В U+0412 CYRILLIC CAPITAL LETTER VE count: 3542, examples: В (l.1), Вот (l.35, 107), Всех (l.111, 114)
+    Г U+0413 CYRILLIC CAPITAL LETTER GHE count: 9369, example: Господь (l.35, 36, 38, 39, 40)
+    Д U+0414 CYRILLIC CAPITAL LETTER DE count: 2422, examples: Дух (l.2), Дней (l.110), Духу (l.141), Доданим (l.239), Дедан (l.242)
+    Е U+0415 CYRILLIC CAPITAL LETTER IE count: 5181, examples: Едеме (l.39), Едема (l.41), Евфрат (l.45), Едемском (l.46), Ева (l.76)
+    Ж U+0416 CYRILLIC CAPITAL LETTER ZHE count: 130, examples: Жена (l.69, 484), Жене (l.72), Жители (l.332), Жизни (l.573)
+    З U+0417 CYRILLIC CAPITAL LETTER ZE count: 639, examples: Земля (l.2), Змей (l.57), Зузимов (l.342), Зимрана (l.661), Землю (l.787)
+    И U+0418 CYRILLIC CAPITAL LETTER I count: 19449, lines: 3, 4, 5, 6, 7
+    К U+041A CYRILLIC CAPITAL LETTER KA count: 2250, examples: Куш (l.44), Каина (l.81, 85), Каин (l.82, 83)
+    Л U+041B CYRILLIC CAPITAL LETTER EL count: 606, examples: Ламеха (l.98, 104), Ламех (l.99, 103), Ламеховы (l.103)
+    М U+041C CYRILLIC CAPITAL LETTER EM count: 5666, examples: Мне (l.90), Мехиаеля (l.98), Малелеила (l.98), Мехиаель (l.98), Мафусала (l.98)
+    Н U+041D CYRILLIC CAPITAL LETTER EN count: 3542, examples: Нашему (l.26), Нас (l.78), Нод (l.96), Ноема (l.102), Ной (l.135)
+    О U+041E CYRILLIC CAPITAL LETTER O count: 3498, examples: Он (l.31, 33, 66, 89), Они (l.174)
+    П U+041F CYRILLIC CAPITAL LETTER PE count: 2505, examples: Потому (l.55), По (l.113, 116, 119, 122)
+    Р U+0420 CYRILLIC CAPITAL LETTER ER count: 864, examples: Рифат (l.238), Раама (l.242), Раамы (l.242), Реховоф (l.246), Ресен (l.247)
+    С U+0421 CYRILLIC CAPITAL LETTER ES count: 5812, examples: Своему (l.27), Свои (l.33), Своих (l.33, 34), Спустя (l.83)
+    Т U+0422 CYRILLIC CAPITAL LETTER TE count: 4532, examples: Так (l.32), Тигр (l.45), Твой (l.66), Ты (l.68, 94)
+    У U+0423 CYRILLIC CAPITAL LETTER U count: 556, examples: У (l.98, 106, 260), Уц (l.258), Узала (l.262)
+    Ф U+0424 CYRILLIC CAPITAL LETTER EF count: 886, examples: Фисон (l.42), Фовела (l.102), Фувал (l.237), Фирас (l.237), Фогарма (l.238)
+    Х U+0425 CYRILLIC CAPITAL LETTER HA count: 1782, examples: Хавила (l.42), Хиддекель (l.45), Херувима (l.80), Хама (l.138, 148)
+    Ц U+0426 CYRILLIC CAPITAL LETTER TSE count: 441, examples: Цилла (l.99, 102, 103), Царство (l.245), Цемарей (l.253)
+    Ч U+0427 CYRILLIC CAPITAL LETTER CHE count: 340, examples: Четвертая (l.45), Чрез (l.170), Человек (l.613), Что (l.1593), Чермное (l.1797)
+    Ш U+0428 CYRILLIC CAPITAL LETTER SHA count: 419, examples: Шестьсот (l.197), Шева (l.242), Шалефа (l.261), Шеву (l.263), Шинава (l.339)
+    Щ U+0429 CYRILLIC CAPITAL LETTER SHCHA count: 4, examples: Щит (l.14014, 22771), Щедр (l.15624, 16398)
+    Ь U+042C CYRILLIC CAPITAL LETTER SOFT SIGN count: 2, example: ОТРАСЛЬ (l.22989, 23028)
+    Э U+042D CYRILLIC CAPITAL LETTER E count: 185, examples: Эрех (l.245), Это (l.255, 266), Эмимов (l.342), Эл (l.343)
+    Ю U+042E CYRILLIC CAPITAL LETTER YU count: 15, examples: Юноша (l.1000), Юта (l.6259), Южною (l.6310), Ютту (l.6399), Юношей (l.15234)
+    Я U+042F CYRILLIC CAPITAL LETTER YA count: 2504, lines: 29, 30, 67, 73, 145
+    а U+0430 CYRILLIC SMALL LETTER A count: 195371, examples: начале (l.1), была (l.2), безвидна (l.2), пуста (l.2), тьма (l.2)
+    б U+0431 CYRILLIC SMALL LETTER BE count: 44989, examples: небо (l.1), была (l.2), безвидна (l.2), бездною (l.2), будет (l.3)
+    в U+0432 CYRILLIC SMALL LETTER VE count: 132561, examples: сотворил (l.1), безвидна (l.2), водою (l.2), свет (l.3), увидел (l.4)
+    г U+0433 CYRILLIC SMALL LETTER GHE count: 52182, example: Бог (l.1, 3, 4, 5, 6)
+    д U+0434 CYRILLIC SMALL LETTER DE count: 94993, examples: безвидна (l.2), над (l.2), бездною (l.2), водою (l.2), да (l.3)
+    е U+0435 CYRILLIC SMALL LETTER IE count: 234366, examples: начале (l.1), небо (l.1), землю (l.1), Земля (l.2), же (l.2)
+    ж U+0436 CYRILLIC SMALL LETTER ZHE count: 24572, examples: же (l.2), Божий (l.2), живую (l.20), животных (l.21), размножайтесь (l.22)
+    з U+0437 CYRILLIC SMALL LETTER ZE count: 43324, examples: землю (l.1), безвидна (l.2), бездною (l.2), сказал (l.3), назвал (l.5)
+    и U+0438 CYRILLIC SMALL LETTER I count: 223434, examples: сотворил (l.1), и (l.1, 2), безвидна (l.2), Божий (l.2)
+    й U+0439 CYRILLIC SMALL LETTER SHORT I count: 26153, examples: Божий (l.2), второй (l.8), третий (l.13), небесной (l.14), знамений (l.14)
+    к U+043A CYRILLIC SMALL LETTER KA count: 68354, examples: сказал (l.3, 6), так (l.6, 7), которая (l.7)
+    л U+043B CYRILLIC SMALL LETTER EL count: 118553, examples: начале (l.1), сотворил (l.1), землю (l.1), Земля (l.2), была (l.2)
+    м U+043C CYRILLIC SMALL LETTER EM count: 82522, examples: землю (l.1), Земля (l.2), тьма (l.2), тьмы (l.4), днем (l.5)
+    н U+043D CYRILLIC SMALL LETTER EN count: 143831, examples: начале (l.1), небо (l.1), безвидна (l.2), над (l.2), бездною (l.2)
+    о U+043E CYRILLIC SMALL LETTER O count: 295839, examples: сотворил (l.1), Бог (l.1), небо (l.1), бездною (l.2), Божий (l.2)
+    п U+043F CYRILLIC SMALL LETTER PE count: 67055, examples: пуста (l.2), посреди (l.6), под (l.7, 9), произрастит (l.11)
+    р U+0440 CYRILLIC SMALL LETTER ER count: 107937, examples: сотворил (l.1), хорош (l.4), вечер (l.5), утро (l.5), твердь (l.6)
+    с U+0441 CYRILLIC SMALL LETTER ES count: 145998, examples: сотворил (l.1), пуста (l.2), носился (l.2), сказал (l.3), свет (l.3)
+    т U+0442 CYRILLIC SMALL LETTER TE count: 150060, examples: сотворил (l.1), пуста (l.2), тьма (l.2), будет (l.3), свет (l.3)
+    у U+0443 CYRILLIC SMALL LETTER U count: 71708, examples: пуста (l.2), Дух (l.2), будет (l.3), увидел (l.4), тьму (l.5)
+    ф U+0444 CYRILLIC SMALL LETTER EF count: 4252, examples: Евфрат (l.45), Мафусала (l.98), Мафусал (l.98), Сиф (l.105), Сифа (l.106)
+    х U+0445 CYRILLIC SMALL LETTER HA count: 27941, examples: Дух (l.2), хорош (l.4), хорошо (l.8, 10, 12)
+    ц U+0446 CYRILLIC SMALL LETTER TSE count: 12899, examples: птицы (l.20, 22), птицу (l.21), птицами (l.26, 28)
+    ч U+0447 CYRILLIC SMALL LETTER CHE count: 26919, examples: начале (l.1), что (l.4, 8), ночью (l.5), вечер (l.5)
+    ш U+0448 CYRILLIC SMALL LETTER SHA count: 20401, examples: хорош (l.4), хорошо (l.8, 10), суша (l.9), сушу (l.10)
+    щ U+0449 CYRILLIC SMALL LETTER SHCHA count: 9597, examples: сеющую (l.11, 12), приносящее (l.11, 12), освещения (l.14)
+    ъ U+044A CYRILLIC SMALL LETTER HARD SIGN count: 353, examples: съели (l.361), объявил (l.588), съел (l.889, 1104, 1117)
+    ы U+044B CYRILLIC SMALL LETTER YERU count: 51450, examples: была (l.2), тьмы (l.4), был (l.5), было (l.5), воды (l.6)
+    ь U+044C CYRILLIC SMALL LETTER SOFT SIGN count: 41891, examples: тьма (l.2), тьмы (l.4), тьму (l.5), ночью (l.5), день (l.5)
+    э U+044D CYRILLIC SMALL LETTER E count: 2426, example: это (l.8, 10, 12, 18, 21)
+    ю U+044E CYRILLIC SMALL LETTER YU count: 19716, examples: землю (l.1), бездною (l.2), водою (l.2), ночью (l.5), твердью (l.7)
+    я U+044F CYRILLIC SMALL LETTER YA count: 52883, examples: Земля (l.2), носился (l.2), отделяет (l.6), которая (l.7), соберется (l.9)
+    ё U+0451 CYRILLIC SMALL LETTER IO count: 1, example: всё (l.14028)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 1826, examples: Цилла! (l.103), Ламеховы! (l.103), Господи! (l.363, 369), Сарина! (l.390)
+    Word!” count: 97, examples: утро!” (l.5680), это!” (l.8768), тебя!” (l.13051), Бога!” (l.14056), Израилю!” (l.14099)
+    “Word! count: 17, examples: “Господи! (l.14440), “хорошо! (l.14451, 14455, 14564, 15029)
+    Word!”, count: 12, examples: вечер!”, (l.5680), моя!”, (l.16649), них!”, (l.17594), Господь!”, (l.19129), мир!”, (l.19172)
+    “Word!” count: 8, examples: “воскликните!” (l.5961), “довольно!” (l.17336, 17337), “крепись!” (l.18527), “правда!” (l.18584)
+    Word!”. count: 2, examples: тыл!”. (l.20188), Отче!”. (l.29204)
+    Word!... count: 1, example: горевал!... (l.10399)
+    “Word!”, count: 1, example: “глупость!”, (l.17405)
+    Word!; count: 1, example: духа!; (l.17455)
+    Word!”; count: 1, example: потеряна!”; (l.18845)
+    Word!”- count: 1, example: ваш!”- (l.20969)
+    Word!- count: 1, example: Раввуни!- (l.26952)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 72734, examples: пуста, (l.2), бездною, (l.2), свет, (l.4), хорош, (l.4), днем, (l.5)
+    Word,- count: 237, examples: Всевышнего,- (l.355), землю,- (l.599), напьются,- (l.606), человек,- (l.622), начерпаю,- (l.636)
+    Word-Word, count: 197, examples: Реховоф-ир, (l.246), Аштероф-Карнаиме, (l.342), Шаве-Кириафаиме, (l.342), Эл-Фарана, (l.343), Кириаф-Арбе, (l.574)
+    Word”, count: 141, examples: Всемогущий”, (l.1659), Господня”, (l.2330), сие”, (l.5156), мяса”, (l.5262), твои”, (l.5280)
+    “Word, count: 103, examples: “о, (l.5680), “земля, (l.6198), “вот, (l.6893), “нет, (l.7474), “остановитесь, (l.7519)
+    “Word”, count: 21, examples: “Галгал”, (l.5945), “сибболет”, (l.6877), “хорошо”, (l.7739), “ибо”, (l.14841), “выходите”, (l.18715)
+    Word?”, count: 14, examples: камни?”, (l.5918, 5933), кого?”, (l.6621), встану?”, (l.13016), нынешних?”, (l.17509)
+    Word!”, count: 12, examples: вечер!”, (l.5680), моя!”, (l.16649), них!”, (l.17594), Господь!”, (l.19129), мир!”, (l.19172)
+    Word”,- count: 7, examples: им”,- (l.5276), знали”,- (l.5287), совсем”,- (l.15111), нас”,- (l.16484), идет”,- (l.21020)
+    Word-Word-Word, count: 4, examples: Беэр-лахай-рои, (l.654), Беф-Ваал-Меон, (l.6173), Авел-Беф-Мааху, (l.9958), Херуб-Аддан-Иммера, (l.12091)
+    (Word), count: 2, examples: (Фовела), (l.102), (Христа), (l.30328)
+    Word?, count: 2, examples: Отец?, (l.26865), Ты?, (l.26979)
+    Word., count: 1, example: твоему., (l.1451)
+    Word,” count: 1, example: Меня,” (l.2057)
+    Word,. count: 1, example: Господнем,. (l.9865)
+    Word:, count: 1, example: царю:, (l.12129)
+    “Word!”, count: 1, example: “глупость!”, (l.17405)
+    Word-Word-Word-Word, count: 1, example: Магер-шелал-хаш-баз, (l.17880)
+    Word), count: 1, example: путем), (l.30270)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    - count: 2234, lines: 29, 183, 205, 346, 402
+    Word-Word count: 438, examples: какого-нибудь (l.410), Бен-Амми (l.496), теперь-то (l.830, 831), какой-нибудь (l.1104)
+    Word,- count: 237, examples: Всевышнего,- (l.355), землю,- (l.599), напьются,- (l.606), человек,- (l.622), начерпаю,- (l.636)
+    Word-Word, count: 197, examples: Реховоф-ир, (l.246), Аштероф-Карнаиме, (l.342), Шаве-Кириафаиме, (l.342), Эл-Фарана, (l.343), Кириаф-Арбе, (l.574)
+    Word-Word. count: 68, examples: Хацацон-Фамаре. (l.344), Иегова-ире. (l.562), тело-хранителей. (l.1151), Ваал-Цефоном. (l.1899), Святаго-святых. (l.2269)
+    Word-Word; count: 22, examples: Иегар-Сагадуфа; (l.921), Ваал-Цефоном; (l.1892), мало-помалу; (l.5135), Кадес-Варне; (l.6195), Ен-Рогела; (l.6211)
+    Word-Word: count: 14, examples: Гацар-Енану: (l.4827), Ваал-Фегором: (l.5009), Ен-Геди: (l.6266), Адони-Везек: (l.6518), Кириаф-Иарима: (l.10363)
+    Word”,- count: 7, examples: им”,- (l.5276), знали”,- (l.5287), совсем”,- (l.15111), нас”,- (l.16484), идет”,- (l.21020)
+    “Word-Word count: 5, examples: “когда-то (l.13016, 22555), “такой-то (l.15368, 15369, 15370)
+    Word-Word-Word, count: 4, examples: Беэр-лахай-рои, (l.654), Беф-Ваал-Меон, (l.6173), Авел-Беф-Мааху, (l.9958), Херуб-Аддан-Иммера, (l.12091)
+    Word-Word? count: 4, examples: чему-нибудь? (l.22836), по-гречески? (l.27769), что-нибудь? (l.28654), по-иудейски? (l.29162)
+    Word- count: 3, examples: се- (l.3853), своими- (l.12145), Господь- (l.29676)
+    Word-Word-Word count: 3, examples: Беероф-Бене-Яакана (l.5194), Авела-Беф-Мааха (l.8571), Авел-Беф-Мааху (l.9272)
+    Word-Word-Word. count: 2, example: Беэр-лахай-рои. (l.396, 670)
+    Word-Word-Word; count: 1, example: Авеле-Беф-Маахе; (l.8572)
+    Word-Word-Word-Word. count: 1, example: Магер-шелал-хаш-баз. (l.17878)
+    Word-Word-Word-Word, count: 1, example: Магер-шелал-хаш-баз, (l.17880)
+    Word!”- count: 1, example: ваш!”- (l.20969)
+    Word?- count: 1, example: Иакову?- (l.23160)
+    Word!- count: 1, example: Раввуни!- (l.26952)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 22908, examples: землю. (l.1), водою. (l.2), свет. (l.3), тьмы. (l.4), ночью. (l.5)
+    Word”. count: 351, examples: их”. (l.4902), нам”. (l.5113), пустыне”. (l.5187), союз”. (l.6050), ваши”. (l.6085)
+    Word-Word. count: 68, examples: Хацацон-Фамаре. (l.344), Иегова-ире. (l.562), тело-хранителей. (l.1151), Ваал-Цефоном. (l.1899), Святаго-святых. (l.2269)
+    “Word”. count: 7, examples: “нет”. (l.6621), “покажитесь”. (l.18715), “галгал”. (l.20715), “Помилованная”. (l.22175), “Ваали”. (l.22190)
+    Word.” count: 4, examples: твоему.” (l.966), пределом.” (l.6163), Израиля.” (l.15306), Израилева.” (l.18298)
+    Word-Word-Word. count: 2, example: Беэр-лахай-рои. (l.396, 670)
+    Word.) count: 2, examples: Соломонова.) (l.8219), хора.) (l.22856)
+    Word... count: 2, examples: Тебе... (l.11187), Мир... (l.12132)
+    Word.; count: 2, examples: радостью.; (l.12172), веки.; (l.12254)
+    Word!”. count: 2, examples: тыл!”. (l.20188), Отче!”. (l.29204)
+    Word., count: 1, example: твоему., (l.1451)
+    Word). count: 1, example: Авию). (l.8386)
+    Word,. count: 1, example: Господнем,. (l.9865)
+    Word!... count: 1, example: горевал!... (l.10399)
+    Word-Word-Word-Word. count: 1, example: Магер-шелал-хаш-баз. (l.17878)
+    Word:. count: 1, example: скажите:. (l.25442)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 10057, examples: Бог: (l.3, 6, 9), утро: (l.5, 8)
+    Word-Word: count: 14, examples: Гацар-Енану: (l.4827), Ваал-Фегором: (l.5009), Ен-Геди: (l.6266), Адони-Везек: (l.6518), Кириаф-Иарима: (l.10363)
+    Word”: count: 5, examples: раб”: (l.8426), тебя”: (l.18530), земле”: (l.19377), их”: (l.19420), дела”: (l.30378)
+    (Word): count: 2, examples: (Геон): (l.44), (Тигр): (l.45)
+    “Word: count: 1, example: “скажи: (l.6877)
+    Word): count: 1, example: ним): (l.7084)
+    Word:, count: 1, example: царю:, (l.12129)
+    Word:. count: 1, example: скажите:. (l.25442)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 10988, examples: годов; (l.14), звезды; (l.16), живую; (l.20), его; (l.27), семя; (l.29)
+    Word”; count: 84, examples: Моих”; (l.2486), свои”; (l.5085), делать”; (l.5272), сим”; (l.5382), пьяница”; (l.5469)
+    Word-Word; count: 22, examples: Иегар-Сагадуфа; (l.921), Ваал-Цефоном; (l.1892), мало-помалу; (l.5135), Кадес-Варне; (l.6195), Ен-Рогела; (l.6211)
+    “Word”; count: 9, examples: “хорошо”; (l.8815), “выздоровеешь”; (l.9741), “хороша”; (l.18528), “отдай”; (l.18581), “Иосифу”; (l.21482)
+    Word.; count: 2, examples: радостью.; (l.12172), веки.; (l.12254)
+    Word-Word-Word; count: 1, example: Авеле-Беф-Маахе; (l.8572)
+    Word!; count: 1, example: духа!; (l.17455)
+    Word!”; count: 1, example: потеряна!”; (l.18845)
+    Word?”; count: 1, example: сделал?”; (l.19228)
+    Word?; count: 1, example: его?; (l.25306)
+    Number; count: 1, example: 153; (l.26978)
+    Word)”; count: 1, example: стрелою)”; (l.30299)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 2885, examples: раю? (l.57), ты? (l.65), наг? (l.67), есть? (l.67), сделала? (l.69)
+    Word?” count: 106, examples: ваш?” (l.5108), их?” (l.5130), Енаковых?” (l.5161), говорил?” (l.5407), ее?” (l.5722)
+    Word”? count: 38, examples: состарилась”? (l.438), говорить”? (l.4460), день”? (l.6079), Господь”? (l.6669), нами”? (l.7459)
+    Word?”, count: 14, examples: камни?”, (l.5918, 5933), кого?”, (l.6621), встану?”, (l.13016), нынешних?”, (l.17509)
+    Word-Word? count: 4, examples: чему-нибудь? (l.22836), по-гречески? (l.27769), что-нибудь? (l.28654), по-иудейски? (l.29162)
+    “Word”? count: 2, examples: “правда”? (l.18547), “вскоре”? (l.26813)
+    Word?, count: 2, examples: Отец?, (l.26865), Ты?, (l.26979)
+    Word?”; count: 1, example: сделал?”; (l.19228)
+    Word?- count: 1, example: Иакову?- (l.23160)
+    Word?; count: 1, example: его?; (l.25306)

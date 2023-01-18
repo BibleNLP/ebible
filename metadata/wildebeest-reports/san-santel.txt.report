@@ -1,0 +1,170 @@
+OVERVIEW:
+File size: 41899 lines, 891418 characters
+Letter scripts: 2
+    TELUGU (437384 instances)
+    LATIN (3 instances): lŸ
+Number scripts: 1
+    ASCII_DIGIT (1 instance): 1
+Other character groups: 7
+    TELUGU_MODIFIERS (302940 instances):  ం ః ా ి ీ ు ూ ృ ౄ ే ై ో ౌ ్
+    SPACE (96079 instances)
+    ASCII_PUNCTUATION (12976 instances): !"(),-:;?[]|
+    DEVANAGARI_MODIFIERS (127 instances):  ा ि ी ु ू ृ े ै ौ ्
+    GENERAL_PUNCTUATION (7 instances): ·‘’
+    DEVANAGARI_PUNCTUATION (1 instance): ॰
+    ZERO_WIDTH (1 instance)
+Words with characters from multiple scripts: 1 category, 3 unique types, 3 instances
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (LATIN, TELUGU):
+    ఈశ్వరేణాదŸाం count: 1, line: 26904
+    దాస్యతిl count: 1, line: 23357
+    పతతిl count: 1, line: 23410
+ZERO_WIDTH characters:
+    ‌ U+200C ZERO WIDTH NON-JOINER count: 1, line: 27407
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 2, lines: 24945, 24954
+    " U+0022 QUOTATION MARK count: 128, lines: 23282, 23285, 23288, 23908, 23973
+    ( U+0028 LEFT PARENTHESIS count: 18, lines: 23229, 23234, 23759, 24041, 24339
+    ) U+0029 RIGHT PARENTHESIS count: 18, lines: 23229, 23234, 23759, 24041, 24339
+    , U+002C COMMA count: 3900, lines: 23216, 23218, 23220, 23223, 23225
+    - U+002D HYPHEN-MINUS count: 37, lines: 23303, 23663, 23754, 23906, 24365
+    : U+003A COLON count: 9, lines: 23220, 23255, 23291, 23669, 23973
+    ; U+003B SEMICOLON count: 620, lines: 23229, 23230, 23254, 23265, 23276
+    ? U+003F QUESTION MARK count: 1022, lines: 23240, 23242, 23268, 23275, 23316
+    [ U+005B LEFT SQUARE BRACKET count: 1, line: 30977
+    ] U+005D RIGHT SQUARE BRACKET count: 1, line: 30977
+    | U+007C VERTICAL LINE count: 7220, lines: 23214, 23215, 23216, 23217, 23218
+GENERAL_PUNCTUATION characters:
+    · U+00B7 MIDDLE DOT count: 1, line: 29005
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+SPACE characters:
+      U+0020 SPACE count: 96077, lines: 23214, 23215, 23216, 23217, 23218
+      U+00A0 NO-BREAK SPACE count: 2, lines: 23231, 23233
+ASCII_DIGIT characters:
+    1 U+0031 DIGIT ONE count: 1, line: 26904
+BASIC_LATIN characters:
+    l U+006C LATIN SMALL LETTER L count: 2, examples: దాస్యతిl (l.23357), పతతిl (l.23410)
+LATIN_EXTENDED_A characters:
+    Ÿ U+0178 LATIN CAPITAL LETTER Y WITH DIAERESIS count: 1, example: ఈశ్వరేణాదŸाం (l.26904)
+DEVANAGARI characters:
+     ा U+093E DEVANAGARI VOWEL SIGN AA count: 38, examples: అाగమామ (l.23240), ర్విరోధయితుఞ్చాగతేाస్మి (l.23520), సేाపి (l.23523, 23524), యీశేाరన్తికం (l.23695)
+     ि U+093F DEVANAGARI VOWEL SIGN I count: 3, examples: క్షుద్రప్రాఏिనామ్ (l.23810), చర్తుिదశో (l.24362), ర్పాिథవపురుషస్యాఙ్గాని (l.29589)
+     ी U+0940 DEVANAGARI VOWEL SIGN II count: 4, examples: ఉద్యోగాी (l.27005), ర్భాीత్యా (l.29606), త్రాीన్ (l.30262), సర్వ్వవంశాीయాశ్చతుశ్చత్వారింశత్సహస్రాధికలక్షలోకా (l.30882)
+     ु U+0941 DEVANAGARI VOWEL SIGN U count: 15, examples: కురిु (l.23353), పుुత్రేణ (l.23926), కర్త్తాुమ్ (l.24478), బైథనియాపుुరే (l.24826), స్వచక్షుुషి (l.25256)
+     ू U+0942 DEVANAGARI VOWEL SIGN UU count: 1, example: సమూूహలోకా (l.31079)
+     ृ U+0943 DEVANAGARI VOWEL SIGN VOCALIC R count: 10, examples: ఋृతీయన్తే (l.23347), ఋृతీయిష్యన్తే (l.23508), ఋृతీయాం (l.24036), దృृష్ట్వా (l.24448), యీశుृం (l.24896)
+     े U+0947 DEVANAGARI VOWEL SIGN E count: 44, examples: స్వస్వపిత్రోे (l.23507), స్వస్థానేे (l.24175), తథోेపాయం (l.24727), కుेక్కుటో (l.24891), యోेహన్ (l.24975)
+     ै U+0948 DEVANAGARI VOWEL SIGN AI count: 9, examples: ఏैచ్ఛత్ (l.27078), పౌैలబర్ణబ్బావక్షోభౌ (l.27477), భూమౌै (l.27779), పౌैेలోక్తవాక్యతోపి (l.27934), ఏैక్యం (l.29342)
+     ौ U+094C DEVANAGARI VOWEL SIGN AU count: 1, example: శ్ష్యిौ (l.23901)
+     ् U+094D DEVANAGARI SIGN VIRAMA count: 2, examples: తృతీయేఽహి्న (l.23792), కిఞి्చదాశ్చర్య్యకర్మ్మ (l.26012)
+    ॰ U+0970 DEVANAGARI ABBREVIATION SIGN count: 1, line: 26904
+TELUGU characters:
+     ం U+0C02 TELUGU SIGN ANUSVARA count: 22128, examples: పూర్వ్వపురుషవంశశ్రేణీ (l.23214), జాయాయాం (l.23219), పూర్వ్వం (l.23224), యిఖనియం (l.23224), భ్రాతృంశ్చ (l.23224)
+     ః U+0C03 TELUGU SIGN VISARGA count: 8326, examples: ఇబ్రాహీమః (l.23214, 23215), పేరసః (l.23216), పుత్రః (l.23217), యిశయః (l.23218)
+    అ U+0C05 TELUGU LETTER A count: 4272, examples: అసోరః (l.23227), అర్థాద్ (l.23229), అభిషిక్తం (l.23229), అనిచ్ఛన్ (l.23232), అర్థాత్ (l.23234)
+    ఆ U+0C06 TELUGU LETTER AA count: 1805, examples: ఆసా (l.23220), ఆహమ్ (l.23222), ఆమోన్ (l.23223), ఆఖీమ్ (l.23227), ఆ (l.23230)
+    ఇ U+0C07 TELUGU LETTER I count: 1444, examples: ఇబ్రాహీమః (l.23214, 23215), ఇస్హాక్ (l.23215), ఇలీయాకీమ్ (l.23226), ఇలీహూద్ (l.23227)
+    ఈ U+0C08 TELUGU LETTER II count: 1025, examples: ఈశ్వరః (l.23236), ఈశ్వరేణ (l.23250, 23253), ఈశ్వరాత్ (l.23260), ఈశ్వర (l.23270)
+    ఉ U+0C09 TELUGU LETTER U count: 1116, examples: ఉషియః (l.23221), ఉద్ధరిష్యతి (l.23234), ఉత్థాయ (l.23237), ఉద్విజ్య (l.23241), ఉద్భవిష్యతీ (l.23244)
+    ఊ U+0C0A TELUGU LETTER UU count: 39, examples: ఊచుః (l.23735, 23736, 24085), ఊర్ద్వ్వే (l.24235), ఊర్ద్వ్వాదధో (l.24249)
+    ఋ U+0C0B TELUGU LETTER VOCALIC R count: 41, examples: ఋृతీయన్తే (l.23347), ఋृతీయిష్యన్తే (l.23508, 25237), ఋृతీయాం (l.24036), ఋृతీయాకారిణశ్చైవ (l.25034)
+    ఏ U+0C0F TELUGU LETTER EE count: 1790, examples: ఏతాదృశీమ్ (l.23247), ఏతద్వచనం (l.23265), ఏతేభ్యః (l.23270), ఏష (l.23278), ఏతస్మిన్నేవ (l.23278)
+    ఐ U+0C10 TELUGU LETTER AI count: 31, examples: ఐశ్వర్య్యవానపి (l.23380), ఐచ్ఛం (l.24024, 25621), ఐచ్ఛత్ (l.24495, 25379)
+    ఓ U+0C13 TELUGU LETTER OO count: 6, examples: ఓబేద్ (l.23218, 25126), ఓబేదః (l.25126), ఓనీషిమనామానఞ్చ (l.29618), ఓనీషిమమ్ (l.30015)
+    క U+0C15 TELUGU LETTER KA count: 22132, examples: ఇస్హాక్ (l.23215), యాకూబ్ (l.23215), హిష్కియః (l.23222), ప్రవసనకాలే (l.23225), ఇలీయాకీమ్ (l.23226)
+    ఖ U+0C16 TELUGU LETTER KHA count: 1525, examples: యీశుఖ్రీష్టస్తస్య (l.23214), యిఖనియం (l.23224), యిఖనియః (l.23225), ఆఖీమ్ (l.23227), ఖ్రీష్టమ్ (l.23229)
+    గ U+0C17 TELUGU LETTER GA count: 6012, examples: గర్భే (l.23216, 23218, 23229), బాబిల్నగరే (l.23224), వాగ్దత్తాసీత్ (l.23231)
+    ఘ U+0C18 TELUGU LETTER GHA count: 543, examples: ఘనసమ్పత్తిం (l.23249), ఘాతయామాస (l.23254), ప్రస్తరాఘాతస్త్వాం (l.23284), ఘరిష్యన్తి (l.23284), జలఘేస్తటే (l.23291)
+    ఙ U+0C19 TELUGU LETTER NGA count: 547, examples: సఙ్గమాత్ (l.23231), కలఙ్గం (l.23232), సఙ్గీశ్వరఇత్యర్థః (l.23235), శఙ్కితవాన్ (l.23260), మహాఙ్గరోమజం (l.23265)
+    చ U+0C1A TELUGU LETTER CA count: 8746, examples: భ్రాతరశ్చ (l.23215), భ్రాతృంశ్చ (l.23224), చతుర్దశపురుషాః (l.23230), చతుర్దశపురుషా (l.23230), అనిచ్ఛన్ (l.23232)
+    ఛ U+0C1B TELUGU LETTER CHA count: 1032, examples: అనిచ్ఛన్ (l.23232), నోపాగచ్ఛత్ (l.23238), పప్రచ్ఛ (l.23242), ఆగచ్ఛ్తో (l.23268), ఆగచ్ఛతి (l.23272)
+    జ U+0C1C TELUGU LETTER JA count: 5926, examples: జజ్ఞాతే (l.23216), జజ్ఞే (l.23218, 23219), రాజః (l.23219), జాయాయాం (l.23219)
+    ఝ U+0C1D TELUGU LETTER JHA count: 6, examples: ఝఞ్భ్శనిల (l.23438), ఝఞ్భ్శద్య (l.23744), ఝటితి (l.24314), మహాఝఞ్భ్శగమాత్ (l.24429), ప్రబలఝఞ్భ్శగమాద్ (l.25338)
+    ఞ U+0C1E TELUGU LETTER NYA count: 2349, examples: జజ్ఞాతే (l.23216), జజ్ఞే (l.23218, 23219), తదీయఞ్చ (l.23235), సంజ్ఞకే (l.23239)
+    ట U+0C1F TELUGU LETTER TTA count: 2274, examples: యీశుఖ్రీష్టస్తస్య (l.23214), యిహోశాఫట్ (l.23221), ఖ్రీష్టమ్ (l.23229), ఖ్రీష్టస్య (l.23230), యీశుఖ్రీష్టస్య (l.23231)
+    ఠ U+0C20 TELUGU LETTER TTHA count: 738, examples: తిష్ఠన్తస్తదీయాం (l.23240), కుఠార (l.23271), అనాహారస్తిష్ఠన్ (l.23280), ధర్మ్మానుష్ఠానాత్ (l.23323), ధర్మ్మానుష్ఠానే (l.23323)
+    డ U+0C21 TELUGU LETTER DDA count: 469, examples: దణ్డవద్ (l.23249, 23287), భాణ్డాగారే (l.23273), చూడోపరి (l.23283), సర్వ్వప్రకారపీడాశ్చ (l.23301)
+    ఢ U+0C22 TELUGU LETTER DDHA count: 140, examples: వోఢుమపి (l.23272), మూఢ (l.23325), నావమారూఢే (l.23437), దృఢమాజ్ఞాప్య (l.23478), నిగూఢాం (l.23619)
+    ణ U+0C23 TELUGU LETTER NNA count: 4817, examples: పూర్వ్వపురుషవంశశ్రేణీ (l.23214), హిష్రోణ్ (l.23216), పవిత్రేణాత్మనా (l.23231), నిదేశానుసారేణ (l.23237), ప్రణన్తుమ్ (l.23240)
+    త U+0C24 TELUGU LETTER TA count: 59910, examples: సన్తానో (l.23214), తస్య (l.23214, 23215), యీశుఖ్రీష్టస్తస్య (l.23214), పుత్ర (l.23215)
+    థ U+0C25 TELUGU LETTER THA count: 7213, examples: యోథమ్ (l.23222), అర్థాద్ (l.23229), ఇత్థమ్ (l.23230), కథ్థతే (l.23231), తథైవ (l.23233)
+    ద U+0C26 TELUGU LETTER DA count: 17860, examples: దాయూద్ (l.23214), యిహూదాస్తస్య (l.23215), తస్మాద్ (l.23216), యిహూదాతస్తామరో (l.23216), ఽమ్మీనాదబ్ (l.23217)
+    ధ U+0C27 TELUGU LETTER DHA count: 4860, examples: ఉద్ధరిష్యతి (l.23234), నామధేయం (l.23235), సిద్ధమభవత్ (l.23236), సార్ద్ధమ్ (l.23241), ప్రధానయాజకాన్ (l.23242)
+    న U+0C28 TELUGU LETTER NA count: 36215, examples: సన్తానో (l.23214), ఽమ్మీనాదబ్ (l.23217), నహశోన్ (l.23217), సల్మోన్ (l.23217), సులేమాన్ (l.23219)
+    ప U+0C2A TELUGU LETTER PA count: 21579, examples: పూర్వ్వపురుషవంశశ్రేణీ (l.23214), పుత్ర (l.23215), పుత్రో (l.23215), పేరస్సేరహౌ (l.23216), పేరసః (l.23216)
+    ఫ U+0C2B TELUGU LETTER PHA count: 695, examples: యిహోశాఫట్ (l.23221), యూషఫ్ (l.23229, 23233), యూషఫే (l.23231), ర్యూషఫ్ (l.23232)
+    బ U+0C2C TELUGU LETTER BA count: 2516, examples: ఇబ్రాహీమః (l.23214, 23215), యాకూబ్ (l.23215), ఽమ్మీనాదబ్ (l.23217), రాహబో (l.23218)
+    భ U+0C2D TELUGU LETTER BHA count: 8009, examples: భ్రాతరశ్చ (l.23215), గర్భే (l.23216, 23218, 23229), భ్రాతృంశ్చ (l.23224)
+    మ U+0C2E TELUGU LETTER MA count: 28111, examples: ఇబ్రాహీమః (l.23214, 23215), తస్మాద్ (l.23216), యిహూదాతస్తామరో (l.23216), ఽరామ్ (l.23216)
+    య U+0C2F TELUGU LETTER YA count: 42064, examples: దాయూద్ (l.23214), తస్య (l.23214, 23215), యీశుఖ్రీష్టస్తస్య (l.23214), యాకూబ్ (l.23215)
+    ర U+0C30 TELUGU LETTER RA count: 37796, examples: ఇబ్రాహీమః (l.23214, 23215), యీశుఖ్రీష్టస్తస్య (l.23214), పూర్వ్వపురుషవంశశ్రేణీ (l.23214), పుత్ర (l.23215)
+    ల U+0C32 TELUGU LETTER LA count: 6428, examples: సల్మోన్ (l.23217), సులేమాన్ (l.23219), బాబిల్నగరే (l.23224), బాబిలి (l.23225), ప్రవసనకాలే (l.23225)
+    వ U+0C35 TELUGU LETTER VA count: 32016, examples: పూర్వ్వపురుషవంశశ్రేణీ (l.23214), ప్రవసనాత్ (l.23224), పూర్వ్వం (l.23224), ప్రవసనకాలే (l.23225), సిరుబ్బావిల్ (l.23225)
+    శ U+0C36 TELUGU LETTER SHA count: 13061, examples: యీశుఖ్రీష్టస్తస్య (l.23214), పూర్వ్వపురుషవంశశ్రేణీ (l.23214), భ్రాతరశ్చ (l.23215), నహశోన్ (l.23217), యిశయః (l.23218)
+    ష U+0C37 TELUGU LETTER SSA count: 12338, examples: యీశుఖ్రీష్టస్తస్య (l.23214), పూర్వ్వపురుషవంశశ్రేణీ (l.23214), హిష్రోణ్ (l.23216), ఉషియః (l.23221), హిష్కియః (l.23222)
+    స U+0C38 TELUGU LETTER SA count: 28412, examples: సన్తానో (l.23214), తస్య (l.23214, 23215), యీశుఖ్రీష్టస్తస్య (l.23214), ఇస్హాక్ (l.23215)
+    హ U+0C39 TELUGU LETTER HA count: 8001, examples: ఇబ్రాహీమః (l.23214, 23215), ఇస్హాక్ (l.23215), యిహూదాస్తస్య (l.23215), యిహూదాతస్తామరో (l.23216)
+    ఽ U+0C3D TELUGU SIGN AVAGRAHA count: 1475, examples: ఽరామ్ (l.23216), ఽమ్మీనాదబ్ (l.23217), పుత్రోఽబియః (l.23220), ఽబోహుద్ (l.23226), సుతోఽసోర్ (l.23226)
+     ా U+0C3E TELUGU VOWEL SIGN AA count: 59742, examples: ఇబ్రాహీమః (l.23214, 23215), సన్తానో (l.23214), దాయూద్ (l.23214), ఇస్హాక్ (l.23215)
+     ి U+0C3F TELUGU VOWEL SIGN I count: 38940, examples: యిహూదాస్తస్య (l.23215), యిహూదాతస్తామరో (l.23216), హిష్రోణ్ (l.23216), యిశయః (l.23218), మృతోరియస్య (l.23219)
+     ీ U+0C40 TELUGU VOWEL SIGN II count: 9142, examples: ఇబ్రాహీమః (l.23214, 23215), యీశుఖ్రీష్టస్తస్య (l.23214), పూర్వ్వపురుషవంశశ్రేణీ (l.23214), ఽమ్మీనాదబ్ (l.23217)
+     ు U+0C41 TELUGU VOWEL SIGN U count: 15677, examples: యీశుఖ్రీష్టస్తస్య (l.23214), పూర్వ్వపురుషవంశశ్రేణీ (l.23214), పుత్ర (l.23215), పుత్రో (l.23215, 23216)
+     ూ U+0C42 TELUGU VOWEL SIGN UU count: 4681, examples: దాయూద్ (l.23214), పూర్వ్వపురుషవంశశ్రేణీ (l.23214), యాకూబ్ (l.23215), యిహూదాస్తస్య (l.23215), యిహూదాతస్తామరో (l.23216)
+     ృ U+0C43 TELUGU VOWEL SIGN VOCALIC R count: 4171, examples: మృతోరియస్య (l.23219), భ్రాతృంశ్చ (l.23224), నీవృతః (l.23244), తాదృగేకో (l.23244), దృష్టాభవత్ (l.23245)
+     ౄ U+0C44 TELUGU VOWEL SIGN VOCALIC RR count: 1, example: జ్యోతిరౄతీయిత్వా (l.26209)
+     ే U+0C47 TELUGU VOWEL SIGN EE count: 19390, examples: పూర్వ్వపురుషవంశశ్రేణీ (l.23214), గర్భే (l.23216), పేరస్సేరహౌ (l.23216), జజ్ఞాతే (l.23216), పేరసః (l.23216)
+     ై U+0C48 TELUGU VOWEL SIGN AI count: 2094, examples: తథైవ (l.23233), భైషీః (l.23233), బైత్లేహమి (l.23239), యిరూశాలమ్నగరస్థితైః (l.23241), సర్వ్వమానవైః (l.23241)
+     ో U+0C4B TELUGU VOWEL SIGN OO count: 12179, examples: సన్తానో (l.23214), పుత్రో (l.23215, 23216), యిహూదాతస్తామరో (l.23216), హిష్రోణ్ (l.23216)
+     ౌ U+0C4C TELUGU VOWEL SIGN AU count: 1254, examples: పేరస్సేరహౌ (l.23216), సౌజన్యాత్ (l.23232), యీశౌ (l.23239), తస్యౌ (l.23247), కటౌ (l.23265)
+     ్ U+0C4D TELUGU SIGN VIRAMA count: 105215, examples: ఇబ్రాహీమః (l.23214), సన్తానో (l.23214), దాయూద్ (l.23214), తస్య (l.23214), యీశుఖ్రీష్టస్తస్య (l.23214)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 2, examples: గదన్తి! (l.24945), దదౌ! (l.24954)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 3871, examples: జజ్ఞాతే, (l.23216), జజ్ఞే, (l.23218), రిహబియామ్, (l.23220), పుత్రోఽబియః, (l.23220), మినశిః, (l.23223)
+    Word,Word count: 11, examples: మాన్యతే,తర్హి (l.23813), మిత్ర,త్వం (l.23953), మనుజః,సఏవ (l.24171), ప్రత్యువాచ,అరోగిలోకానాం (l.24346), పాస్యామి,తావదహం (l.24848)
+    , count: 6, lines: 23245, 23822, 24619, 24620, 26324
+    Word," count: 6, examples: పాపాన్యమోచయిష్యన్త," (l.24404), ప్రీయధ్వం," (l.24772), కురుధ్వం," (l.24773), భవిష్యతి," (l.24923), సమర్ప్యతాం," (l.25065)
+    Word", count: 3, examples: విఖ్యాస్యతి", (l.23908), శివక్తనీ", (l.24244), భవిష్యన్తి", (l.27090)
+    Word:, count: 1, example: ఈశ్వర:, (l.23973)
+    Word,| count: 1, example: జగాద,| (l.24570)
+    Word,’ count: 1, example: బభూవ,’ (l.28828)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 9, examples: కైసరియా-ఫిలిపిప్రదేశమాగత్య (l.23754), యిహూదిమతగ్రాహీ-ఆన్తియఖియానగరీయో (l.27175), కురీణీయసికన్దరీయ-కిలికీయాశీయాదేశీయాః (l.27179), అరామ్-నహరయిమదేశే (l.27187), మిసర-కినానదేశయో (l.27196)
+    Word-Word-Word-Word count: 4, examples: గాలీల్-దికాపని-యిరూశాలమ్-యిహూదీయదేశేభ్యో (l.23303), యాకుబ్-యూషఫ్-శిమోన్-యిహూదాశ్చ (l.23663), గాలీల్యిహూదా-యిరూశాలమ్-ఇదోమ్-యర్దన్నదీపారస్థానేభ్యో (l.24365), యాకూబ్-యోసి-యిహుదా-శిమోనాం (l.24479)
+    Word-Word-Word count: 4, examples: గాలీల్ప్రదేశీయ-నాసరతీయ-భవిష్యద్వాదీ (l.23906), పార్థీ-మాదీ-అరామ్నహరయిమ్దేశనివాసిమనో (l.27027), ఫ్రుగియా-పమ్ఫులియా-మిసరనివాసినః (l.27028), ఆన్తియఖియా-సురియా-కిలికియాదేశస్థభిన్నదేశీయభ్రాతృగణాయ (l.27534)
+    Word-Word-Word-Word- count: 1, example: యిహూదా-కప్పదకియా-పన్త-ఆశియా- (l.27027)
+    Word-Word-Word-Word-Word count: 1, example: పన్త-గాలాతియా-కప్పదకియా-ఆశియా-బిథునియాదేశేషు (l.30442)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 7, examples: నినాద: (l.23255), య: (l.23291), నిజభ్రాతు: (l.23669), లోకా: (l.24620), పిత: (l.26677)
+    Word:| count: 1, example: ఆసా:| (l.23220)
+    Word:, count: 1, example: ఈశ్వర:, (l.23973)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 614, examples: మరియమ్; (l.23229), చతుర్దశపురుషాః; (l.23230), చుకోప; (l.23254), చర్మ్మకటిబన్ధనం; (l.23265), ప్రత్యవోచత్; (l.23276)
+    ; count: 4, lines: 26248, 26299, 26310, 26659
+    Word;Word count: 1, example: ద్రక్ష్యథ;అహం (l.26756)
+    Word;" count: 1, example: సమాగమం;" (l.30209)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 1015, examples: కుత్రాస్తే? (l.23240), జనిష్యతే? (l.23242), కశ్చేతితవాన్? (l.23268), ఆగచ్ఛసి? (l.23275), భవిష్యతి? (l.23316)
+    ? count: 6, lines: 23719, 23984, 24361, 26254, 26904
+    Word?" count: 1, example: మాం?" (l.24929)
+TOKENS WITH | (U+007C VERTICAL LINE):
+    Word| count: 7066, examples: పూర్వ్వపురుషవంశశ్రేణీ| (l.23214), భ్రాతరశ్చ| (l.23215), ఽరామ్| (l.23216), సల్మోన్| (l.23217), యిశయః| (l.23218)
+    Word|| count: 74, examples: భవిష్యతి|| (l.23235), ఉద్భవిష్యతీ|| (l.23244), హి|| (l.23255), రవః|| (l.23264), కరైః|| (l.23284)
+    Word:| count: 1, example: ఆసా:| (l.23220)
+    Word"|| count: 1, example: భవిష్యతి"|| (l.24154)
+    Word,| count: 1, example: జగాద,| (l.24570)
+    Word"| count: 1, example: జీవిష్యతి"| (l.28015)
+    | count: 1, line: 31139
+TOKENS WITH ‌ (U+200C ZERO WIDTH NON-JOINER):
+    Word<U+200C>Word count: 1, example: హేరోద్‌రాజో (l.27407)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 2, examples: ‘తస్య (l.27620), ‘ఆదిపురుష (l.28828)
+    ‘Word’ count: 1, example: ‘అవిజ్ఞాతేశ్వరాయ’ (l.27615)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    ‘Word’ count: 1, example: ‘అవిజ్ఞాతేశ్వరాయ’ (l.27615)
+    Word’ count: 1, example: హి’ (l.27620)
+    Word,’ count: 1, example: బభూవ,’ (l.28828)
