@@ -201,7 +201,7 @@ def unzip_files(zip_files, file_suffix, unzip_folder, logfile, dist_type) -> int
         )
 
         for zip_file, unzip_to_folder in unzips:
-            extract.mkdir(parents=True, exist_ok=True)
+            unzip_to_folder.mkdir(parents=True, exist_ok=True)
             log_and_print(logfile, f"Extracting to: {unzip_to_folder}")
             try:
                 shutil.unpack_archive(zip_file, unzip_to_folder)
