@@ -1,0 +1,171 @@
+OVERVIEW:
+File size: 41899 lines, 891418 characters
+Letter scripts: 2
+    GUJARATI (437384 instances)
+    LATIN (3 instances): lŸ
+Number scripts: 1
+    GUJARATI (1 instance): ૧
+Other character groups: 7
+    GUJARATI_MODIFIERS (302941 instances):  ં ઃ ઼ ા િ ી ુ ૂ ૃ ૄ ે ૈ ો ૌ ્
+    SPACE (96079 instances)
+    ASCII_PUNCTUATION (12976 instances): !"(),-:;?[]|
+    DEVANAGARI_MODIFIERS (127 instances):  ा ि ी ु ू ृ े ै ौ ्
+    GENERAL_PUNCTUATION (6 instances): ‘’
+    DEVANAGARI_PUNCTUATION (1 instance): ॰
+    ZERO_WIDTH (1 instance)
+Non-canonical character combinations: 1
+Words with characters from multiple scripts: 1 category, 3 unique types, 3 instances
+
+DETAILS:
+Non-canonical character combinations: 1
+    Non-canonical: યૈ઼ (ય + ૈ + ઼, count: 1)  Canonical: ય઼ૈ (REORDERED, ય + ઼ + ૈ, count: 0)
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (GUJARATI, LATIN):
+    ઈશ્વરેણાદŸाં count: 1, line: 26904
+    દાસ્યતિl count: 1, line: 23357
+    પતતિl count: 1, line: 23410
+ZERO_WIDTH characters:
+    ‌ U+200C ZERO WIDTH NON-JOINER count: 1, line: 27407
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 2, lines: 24945, 24954
+    " U+0022 QUOTATION MARK count: 128, lines: 23282, 23285, 23288, 23908, 23973
+    ( U+0028 LEFT PARENTHESIS count: 18, lines: 23229, 23234, 23759, 24041, 24339
+    ) U+0029 RIGHT PARENTHESIS count: 18, lines: 23229, 23234, 23759, 24041, 24339
+    , U+002C COMMA count: 3900, lines: 23216, 23218, 23220, 23223, 23225
+    - U+002D HYPHEN-MINUS count: 37, lines: 23303, 23663, 23754, 23906, 24365
+    : U+003A COLON count: 9, lines: 23220, 23255, 23291, 23669, 23973
+    ; U+003B SEMICOLON count: 620, lines: 23229, 23230, 23254, 23265, 23276
+    ? U+003F QUESTION MARK count: 1022, lines: 23240, 23242, 23268, 23275, 23316
+    [ U+005B LEFT SQUARE BRACKET count: 1, line: 30977
+    ] U+005D RIGHT SQUARE BRACKET count: 1, line: 30977
+    | U+007C VERTICAL LINE count: 7220, lines: 23214, 23215, 23216, 23217, 23218
+GENERAL_PUNCTUATION characters:
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 3, lines: 27615, 27620, 28828
+SPACE characters:
+      U+0020 SPACE count: 96077, lines: 23214, 23215, 23216, 23217, 23218
+      U+00A0 NO-BREAK SPACE count: 2, lines: 23231, 23233
+BASIC_LATIN characters:
+    l U+006C LATIN SMALL LETTER L count: 2, examples: દાસ્યતિl (l.23357), પતતિl (l.23410)
+LATIN_EXTENDED_A characters:
+    Ÿ U+0178 LATIN CAPITAL LETTER Y WITH DIAERESIS count: 1, example: ઈશ્વરેણાદŸाં (l.26904)
+DEVANAGARI characters:
+     ा U+093E DEVANAGARI VOWEL SIGN AA count: 38, examples: અाગમામ (l.23240), ર્વિરોધયિતુઞ્ચાગતેाસ્મિ (l.23520), સેाપિ (l.23523, 23524), યીશેाરન્તિકં (l.23695)
+     ि U+093F DEVANAGARI VOWEL SIGN I count: 3, examples: ક્ષુદ્રપ્રાએिનામ્ (l.23810), ચર્તુिદશો (l.24362), ર્પાिથવપુરુષસ્યાઙ્ગાનિ (l.29589)
+     ी U+0940 DEVANAGARI VOWEL SIGN II count: 4, examples: ઉદ્યોગાी (l.27005), ર્ભાीત્યા (l.29606), ત્રાीન્ (l.30262), સર્વ્વવંશાीયાશ્ચતુશ્ચત્વારિંશત્સહસ્રાધિકલક્ષલોકા (l.30882)
+     ु U+0941 DEVANAGARI VOWEL SIGN U count: 15, examples: કુરિु (l.23353), પુुત્રેણ (l.23926), કર્ત્તાुમ્ (l.24478), બૈથનિયાપુुરે (l.24826), સ્વચક્ષુुષિ (l.25256)
+     ू U+0942 DEVANAGARI VOWEL SIGN UU count: 1, example: સમૂूહલોકા (l.31079)
+     ृ U+0943 DEVANAGARI VOWEL SIGN VOCALIC R count: 10, examples: ઋृતીયન્તે (l.23347), ઋृતીયિષ્યન્તે (l.23508), ઋृતીયાં (l.24036), દૃृષ્ટ્વા (l.24448), યીશુृં (l.24896)
+     े U+0947 DEVANAGARI VOWEL SIGN E count: 44, examples: સ્વસ્વપિત્રોे (l.23507), સ્વસ્થાનેे (l.24175), તથોेપાયં (l.24727), કુेક્કુટો (l.24891), યોेહન્ (l.24975)
+     ै U+0948 DEVANAGARI VOWEL SIGN AI count: 9, examples: એैચ્છત્ (l.27078), પૌैલબર્ણબ્બાવક્ષોભૌ (l.27477), ભૂમૌै (l.27779), પૌैेલોક્તવાક્યતોપિ (l.27934), એैક્યં (l.29342)
+     ौ U+094C DEVANAGARI VOWEL SIGN AU count: 1, example: શ્ષ્યિौ (l.23901)
+     ् U+094D DEVANAGARI SIGN VIRAMA count: 2, examples: તૃતીયેઽહિ्ન (l.23792), કિઞિ्ચદાશ્ચર્ય્યકર્મ્મ (l.26012)
+    ॰ U+0970 DEVANAGARI ABBREVIATION SIGN count: 1, line: 26904
+GUJARATI characters:
+     ં U+0A82 GUJARATI SIGN ANUSVARA count: 22128, examples: પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), જાયાયાં (l.23219), પૂર્વ્વં (l.23224), યિખનિયં (l.23224), ભ્રાતૃંશ્ચ (l.23224)
+     ઃ U+0A83 GUJARATI SIGN VISARGA count: 8326, examples: ઇબ્રાહીમઃ (l.23214, 23215), પેરસઃ (l.23216), પુત્રઃ (l.23217), યિશયઃ (l.23218)
+    અ U+0A85 GUJARATI LETTER A count: 4272, examples: અસોરઃ (l.23227), અર્થાદ્ (l.23229), અભિષિક્તં (l.23229), અનિચ્છન્ (l.23232), અર્થાત્ (l.23234)
+    આ U+0A86 GUJARATI LETTER AA count: 1805, examples: આસા (l.23220), આહમ્ (l.23222), આમોન્ (l.23223), આખીમ્ (l.23227), આ (l.23230)
+    ઇ U+0A87 GUJARATI LETTER I count: 1444, examples: ઇબ્રાહીમઃ (l.23214, 23215), ઇસ્હાક્ (l.23215), ઇલીયાકીમ્ (l.23226), ઇલીહૂદ્ (l.23227)
+    ઈ U+0A88 GUJARATI LETTER II count: 1025, examples: ઈશ્વરઃ (l.23236), ઈશ્વરેણ (l.23250, 23253), ઈશ્વરાત્ (l.23260), ઈશ્વર (l.23270)
+    ઉ U+0A89 GUJARATI LETTER U count: 1116, examples: ઉષિયઃ (l.23221), ઉદ્ધરિષ્યતિ (l.23234), ઉત્થાય (l.23237), ઉદ્વિજ્ય (l.23241), ઉદ્ભવિષ્યતી (l.23244)
+    ઊ U+0A8A GUJARATI LETTER UU count: 39, examples: ઊચુઃ (l.23735, 23736, 24085), ઊર્દ્વ્વે (l.24235), ઊર્દ્વ્વાદધો (l.24249)
+    ઋ U+0A8B GUJARATI LETTER VOCALIC R count: 41, examples: ઋृતીયન્તે (l.23347), ઋृતીયિષ્યન્તે (l.23508, 25237), ઋृતીયાં (l.24036), ઋृતીયાકારિણશ્ચૈવ (l.25034)
+    એ U+0A8F GUJARATI LETTER E count: 1790, examples: એતાદૃશીમ્ (l.23247), એતદ્વચનં (l.23265), એતેભ્યઃ (l.23270), એષ (l.23278), એતસ્મિન્નેવ (l.23278)
+    ઐ U+0A90 GUJARATI LETTER AI count: 31, examples: ઐશ્વર્ય્યવાનપિ (l.23380), ઐચ્છં (l.24024, 25621), ઐચ્છત્ (l.24495, 25379)
+    ઓ U+0A93 GUJARATI LETTER O count: 6, examples: ઓબેદ્ (l.23218, 25126), ઓબેદઃ (l.25126), ઓનીષિમનામાનઞ્ચ (l.29618), ઓનીષિમમ્ (l.30015)
+    ક U+0A95 GUJARATI LETTER KA count: 22132, examples: ઇસ્હાક્ (l.23215), યાકૂબ્ (l.23215), હિષ્કિયઃ (l.23222), પ્રવસનકાલે (l.23225), ઇલીયાકીમ્ (l.23226)
+    ખ U+0A96 GUJARATI LETTER KHA count: 1525, examples: યીશુખ્રીષ્ટસ્તસ્ય (l.23214), યિખનિયં (l.23224), યિખનિયઃ (l.23225), આખીમ્ (l.23227), ખ્રીષ્ટમ્ (l.23229)
+    ગ U+0A97 GUJARATI LETTER GA count: 6012, examples: ગર્ભે (l.23216, 23218, 23229), બાબિલ્નગરે (l.23224), વાગ્દત્તાસીત્ (l.23231)
+    ઘ U+0A98 GUJARATI LETTER GHA count: 543, examples: ઘનસમ્પત્તિં (l.23249), ઘાતયામાસ (l.23254), પ્રસ્તરાઘાતસ્ત્વાં (l.23284), ઘરિષ્યન્તિ (l.23284), જલઘેસ્તટે (l.23291)
+    ઙ U+0A99 GUJARATI LETTER NGA count: 547, examples: સઙ્ગમાત્ (l.23231), કલઙ્ગં (l.23232), સઙ્ગીશ્વરઇત્યર્થઃ (l.23235), શઙ્કિતવાન્ (l.23260), મહાઙ્ગરોમજં (l.23265)
+    ચ U+0A9A GUJARATI LETTER CA count: 8746, examples: ભ્રાતરશ્ચ (l.23215), ભ્રાતૃંશ્ચ (l.23224), ચતુર્દશપુરુષાઃ (l.23230), ચતુર્દશપુરુષા (l.23230), અનિચ્છન્ (l.23232)
+    છ U+0A9B GUJARATI LETTER CHA count: 1032, examples: અનિચ્છન્ (l.23232), નોપાગચ્છત્ (l.23238), પપ્રચ્છ (l.23242), આગચ્છ્તો (l.23268), આગચ્છતિ (l.23272)
+    જ U+0A9C GUJARATI LETTER JA count: 5926, examples: જજ્ઞાતે (l.23216), જજ્ઞે (l.23218, 23219), રાજઃ (l.23219), જાયાયાં (l.23219)
+    ઝ U+0A9D GUJARATI LETTER JHA count: 6, examples: ઝઞ્ભ્શનિલ (l.23438), ઝઞ્ભ્શદ્ય (l.23744), ઝટિતિ (l.24314), મહાઝઞ્ભ્શગમાત્ (l.24429), પ્રબલઝઞ્ભ્શગમાદ્ (l.25338)
+    ઞ U+0A9E GUJARATI LETTER NYA count: 2349, examples: જજ્ઞાતે (l.23216), જજ્ઞે (l.23218, 23219), તદીયઞ્ચ (l.23235), સંજ્ઞકે (l.23239)
+    ટ U+0A9F GUJARATI LETTER TTA count: 2274, examples: યીશુખ્રીષ્ટસ્તસ્ય (l.23214), યિહોશાફટ્ (l.23221), ખ્રીષ્ટમ્ (l.23229), ખ્રીષ્ટસ્ય (l.23230), યીશુખ્રીષ્ટસ્ય (l.23231)
+    ઠ U+0AA0 GUJARATI LETTER TTHA count: 738, examples: તિષ્ઠન્તસ્તદીયાં (l.23240), કુઠાર (l.23271), અનાહારસ્તિષ્ઠન્ (l.23280), ધર્મ્માનુષ્ઠાનાત્ (l.23323), ધર્મ્માનુષ્ઠાને (l.23323)
+    ડ U+0AA1 GUJARATI LETTER DDA count: 469, examples: દણ્ડવદ્ (l.23249, 23287), ભાણ્ડાગારે (l.23273), ચૂડોપરિ (l.23283), સર્વ્વપ્રકારપીડાશ્ચ (l.23301)
+    ઢ U+0AA2 GUJARATI LETTER DDHA count: 140, examples: વોઢુમપિ (l.23272), મૂઢ (l.23325), નાવમારૂઢે (l.23437), દૃઢમાજ્ઞાપ્ય (l.23478), નિગૂઢાં (l.23619)
+    ણ U+0AA3 GUJARATI LETTER NNA count: 4817, examples: પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), હિષ્રોણ્ (l.23216), પવિત્રેણાત્મના (l.23231), નિદેશાનુસારેણ (l.23237), પ્રણન્તુમ્ (l.23240)
+    ત U+0AA4 GUJARATI LETTER TA count: 59910, examples: સન્તાનો (l.23214), તસ્ય (l.23214, 23215), યીશુખ્રીષ્ટસ્તસ્ય (l.23214), પુત્ર (l.23215)
+    થ U+0AA5 GUJARATI LETTER THA count: 7213, examples: યોથમ્ (l.23222), અર્થાદ્ (l.23229), ઇત્થમ્ (l.23230), કથ્થતે (l.23231), તથૈવ (l.23233)
+    દ U+0AA6 GUJARATI LETTER DA count: 17860, examples: દાયૂદ્ (l.23214), યિહૂદાસ્તસ્ય (l.23215), તસ્માદ્ (l.23216), યિહૂદાતસ્તામરો (l.23216), ઽમ્મીનાદબ્ (l.23217)
+    ધ U+0AA7 GUJARATI LETTER DHA count: 4860, examples: ઉદ્ધરિષ્યતિ (l.23234), નામધેયં (l.23235), સિદ્ધમભવત્ (l.23236), સાર્દ્ધમ્ (l.23241), પ્રધાનયાજકાન્ (l.23242)
+    ન U+0AA8 GUJARATI LETTER NA count: 36215, examples: સન્તાનો (l.23214), ઽમ્મીનાદબ્ (l.23217), નહશોન્ (l.23217), સલ્મોન્ (l.23217), સુલેમાન્ (l.23219)
+    પ U+0AAA GUJARATI LETTER PA count: 21579, examples: પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), પુત્ર (l.23215), પુત્રો (l.23215), પેરસ્સેરહૌ (l.23216), પેરસઃ (l.23216)
+    ફ U+0AAB GUJARATI LETTER PHA count: 695, examples: યિહોશાફટ્ (l.23221), યૂષફ્ (l.23229, 23233), યૂષફે (l.23231), ર્યૂષફ્ (l.23232)
+    બ U+0AAC GUJARATI LETTER BA count: 2516, examples: ઇબ્રાહીમઃ (l.23214, 23215), યાકૂબ્ (l.23215), ઽમ્મીનાદબ્ (l.23217), રાહબો (l.23218)
+    ભ U+0AAD GUJARATI LETTER BHA count: 8009, examples: ભ્રાતરશ્ચ (l.23215), ગર્ભે (l.23216, 23218, 23229), ભ્રાતૃંશ્ચ (l.23224)
+    મ U+0AAE GUJARATI LETTER MA count: 28111, examples: ઇબ્રાહીમઃ (l.23214, 23215), તસ્માદ્ (l.23216), યિહૂદાતસ્તામરો (l.23216), ઽરામ્ (l.23216)
+    ય U+0AAF GUJARATI LETTER YA count: 42064, examples: દાયૂદ્ (l.23214), તસ્ય (l.23214, 23215), યીશુખ્રીષ્ટસ્તસ્ય (l.23214), યાકૂબ્ (l.23215)
+    ર U+0AB0 GUJARATI LETTER RA count: 37796, examples: ઇબ્રાહીમઃ (l.23214, 23215), યીશુખ્રીષ્ટસ્તસ્ય (l.23214), પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), પુત્ર (l.23215)
+    લ U+0AB2 GUJARATI LETTER LA count: 6428, examples: સલ્મોન્ (l.23217), સુલેમાન્ (l.23219), બાબિલ્નગરે (l.23224), બાબિલિ (l.23225), પ્રવસનકાલે (l.23225)
+    વ U+0AB5 GUJARATI LETTER VA count: 32016, examples: પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), પ્રવસનાત્ (l.23224), પૂર્વ્વં (l.23224), પ્રવસનકાલે (l.23225), સિરુબ્બાવિલ્ (l.23225)
+    શ U+0AB6 GUJARATI LETTER SHA count: 13061, examples: યીશુખ્રીષ્ટસ્તસ્ય (l.23214), પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), ભ્રાતરશ્ચ (l.23215), નહશોન્ (l.23217), યિશયઃ (l.23218)
+    ષ U+0AB7 GUJARATI LETTER SSA count: 12338, examples: યીશુખ્રીષ્ટસ્તસ્ય (l.23214), પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), હિષ્રોણ્ (l.23216), ઉષિયઃ (l.23221), હિષ્કિયઃ (l.23222)
+    સ U+0AB8 GUJARATI LETTER SA count: 28412, examples: સન્તાનો (l.23214), તસ્ય (l.23214, 23215), યીશુખ્રીષ્ટસ્તસ્ય (l.23214), ઇસ્હાક્ (l.23215)
+    હ U+0AB9 GUJARATI LETTER HA count: 8001, examples: ઇબ્રાહીમઃ (l.23214, 23215), ઇસ્હાક્ (l.23215), યિહૂદાસ્તસ્ય (l.23215), યિહૂદાતસ્તામરો (l.23216)
+     ઼ U+0ABC GUJARATI SIGN NUKTA count: 1, example: પ્રત્યૈ઼ક્ષામહિ (l.29005)
+    ઽ U+0ABD GUJARATI SIGN AVAGRAHA count: 1475, examples: ઽરામ્ (l.23216), ઽમ્મીનાદબ્ (l.23217), પુત્રોઽબિયઃ (l.23220), ઽબોહુદ્ (l.23226), સુતોઽસોર્ (l.23226)
+     ા U+0ABE GUJARATI VOWEL SIGN AA count: 59742, examples: ઇબ્રાહીમઃ (l.23214, 23215), સન્તાનો (l.23214), દાયૂદ્ (l.23214), ઇસ્હાક્ (l.23215)
+     િ U+0ABF GUJARATI VOWEL SIGN I count: 38940, examples: યિહૂદાસ્તસ્ય (l.23215), યિહૂદાતસ્તામરો (l.23216), હિષ્રોણ્ (l.23216), યિશયઃ (l.23218), મૃતોરિયસ્ય (l.23219)
+     ી U+0AC0 GUJARATI VOWEL SIGN II count: 9142, examples: ઇબ્રાહીમઃ (l.23214, 23215), યીશુખ્રીષ્ટસ્તસ્ય (l.23214), પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), ઽમ્મીનાદબ્ (l.23217)
+     ુ U+0AC1 GUJARATI VOWEL SIGN U count: 15677, examples: યીશુખ્રીષ્ટસ્તસ્ય (l.23214), પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), પુત્ર (l.23215), પુત્રો (l.23215, 23216)
+     ૂ U+0AC2 GUJARATI VOWEL SIGN UU count: 4681, examples: દાયૂદ્ (l.23214), પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), યાકૂબ્ (l.23215), યિહૂદાસ્તસ્ય (l.23215), યિહૂદાતસ્તામરો (l.23216)
+     ૃ U+0AC3 GUJARATI VOWEL SIGN VOCALIC R count: 4171, examples: મૃતોરિયસ્ય (l.23219), ભ્રાતૃંશ્ચ (l.23224), નીવૃતઃ (l.23244), તાદૃગેકો (l.23244), દૃષ્ટાભવત્ (l.23245)
+     ૄ U+0AC4 GUJARATI VOWEL SIGN VOCALIC RR count: 1, example: જ્યોતિરૄતીયિત્વા (l.26209)
+     ે U+0AC7 GUJARATI VOWEL SIGN E count: 19390, examples: પૂર્વ્વપુરુષવંશશ્રેણી (l.23214), ગર્ભે (l.23216), પેરસ્સેરહૌ (l.23216), જજ્ઞાતે (l.23216), પેરસઃ (l.23216)
+     ૈ U+0AC8 GUJARATI VOWEL SIGN AI count: 2094, examples: તથૈવ (l.23233), ભૈષીઃ (l.23233), બૈત્લેહમિ (l.23239), યિરૂશાલમ્નગરસ્થિતૈઃ (l.23241), સર્વ્વમાનવૈઃ (l.23241)
+     ો U+0ACB GUJARATI VOWEL SIGN O count: 12179, examples: સન્તાનો (l.23214), પુત્રો (l.23215, 23216), યિહૂદાતસ્તામરો (l.23216), હિષ્રોણ્ (l.23216)
+     ૌ U+0ACC GUJARATI VOWEL SIGN AU count: 1254, examples: પેરસ્સેરહૌ (l.23216), સૌજન્યાત્ (l.23232), યીશૌ (l.23239), તસ્યૌ (l.23247), કટૌ (l.23265)
+     ્ U+0ACD GUJARATI SIGN VIRAMA count: 105215, examples: ઇબ્રાહીમઃ (l.23214), સન્તાનો (l.23214), દાયૂદ્ (l.23214), તસ્ય (l.23214), યીશુખ્રીષ્ટસ્તસ્ય (l.23214)
+    ૧ U+0AE7 GUJARATI DIGIT ONE count: 1, line: 26904
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 2, examples: ગદન્તિ! (l.24945), દદૌ! (l.24954)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 3871, examples: જજ્ઞાતે, (l.23216), જજ્ઞે, (l.23218), રિહબિયામ્, (l.23220), પુત્રોઽબિયઃ, (l.23220), મિનશિઃ, (l.23223)
+    Word,Word count: 11, examples: માન્યતે,તર્હિ (l.23813), મિત્ર,ત્વં (l.23953), મનુજઃ,સએવ (l.24171), પ્રત્યુવાચ,અરોગિલોકાનાં (l.24346), પાસ્યામિ,તાવદહં (l.24848)
+    , count: 6, lines: 23245, 23822, 24619, 24620, 26324
+    Word," count: 6, examples: પાપાન્યમોચયિષ્યન્ત," (l.24404), પ્રીયધ્વં," (l.24772), કુરુધ્વં," (l.24773), ભવિષ્યતિ," (l.24923), સમર્પ્યતાં," (l.25065)
+    Word", count: 3, examples: વિખ્યાસ્યતિ", (l.23908), શિવક્તની", (l.24244), ભવિષ્યન્તિ", (l.27090)
+    Word:, count: 1, example: ઈશ્વર:, (l.23973)
+    Word,| count: 1, example: જગાદ,| (l.24570)
+    Word,’ count: 1, example: બભૂવ,’ (l.28828)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 9, examples: કૈસરિયા-ફિલિપિપ્રદેશમાગત્ય (l.23754), યિહૂદિમતગ્રાહી-આન્તિયખિયાનગરીયો (l.27175), કુરીણીયસિકન્દરીય-કિલિકીયાશીયાદેશીયાઃ (l.27179), અરામ્-નહરયિમદેશે (l.27187), મિસર-કિનાનદેશયો (l.27196)
+    Word-Word-Word-Word count: 4, examples: ગાલીલ્-દિકાપનિ-યિરૂશાલમ્-યિહૂદીયદેશેભ્યો (l.23303), યાકુબ્-યૂષફ્-શિમોન્-યિહૂદાશ્ચ (l.23663), ગાલીલ્યિહૂદા-યિરૂશાલમ્-ઇદોમ્-યર્દન્નદીપારસ્થાનેભ્યો (l.24365), યાકૂબ્-યોસિ-યિહુદા-શિમોનાં (l.24479)
+    Word-Word-Word count: 4, examples: ગાલીલ્પ્રદેશીય-નાસરતીય-ભવિષ્યદ્વાદી (l.23906), પાર્થી-માદી-અરામ્નહરયિમ્દેશનિવાસિમનો (l.27027), ફ્રુગિયા-પમ્ફુલિયા-મિસરનિવાસિનઃ (l.27028), આન્તિયખિયા-સુરિયા-કિલિકિયાદેશસ્થભિન્નદેશીયભ્રાતૃગણાય (l.27534)
+    Word-Word-Word-Word- count: 1, example: યિહૂદા-કપ્પદકિયા-પન્ત-આશિયા- (l.27027)
+    Word-Word-Word-Word-Word count: 1, example: પન્ત-ગાલાતિયા-કપ્પદકિયા-આશિયા-બિથુનિયાદેશેષુ (l.30442)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 7, examples: નિનાદ: (l.23255), ય: (l.23291), નિજભ્રાતુ: (l.23669), લોકા: (l.24620), પિત: (l.26677)
+    Word:| count: 1, example: આસા:| (l.23220)
+    Word:, count: 1, example: ઈશ્વર:, (l.23973)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 614, examples: મરિયમ્; (l.23229), ચતુર્દશપુરુષાઃ; (l.23230), ચુકોપ; (l.23254), ચર્મ્મકટિબન્ધનં; (l.23265), પ્રત્યવોચત્; (l.23276)
+    ; count: 4, lines: 26248, 26299, 26310, 26659
+    Word;Word count: 1, example: દ્રક્ષ્યથ;અહં (l.26756)
+    Word;" count: 1, example: સમાગમં;" (l.30209)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 1015, examples: કુત્રાસ્તે? (l.23240), જનિષ્યતે? (l.23242), કશ્ચેતિતવાન્? (l.23268), આગચ્છસિ? (l.23275), ભવિષ્યતિ? (l.23316)
+    ? count: 6, lines: 23719, 23984, 24361, 26254, 26904
+    Word?" count: 1, example: માં?" (l.24929)
+TOKENS WITH | (U+007C VERTICAL LINE):
+    Word| count: 7066, examples: પૂર્વ્વપુરુષવંશશ્રેણી| (l.23214), ભ્રાતરશ્ચ| (l.23215), ઽરામ્| (l.23216), સલ્મોન્| (l.23217), યિશયઃ| (l.23218)
+    Word|| count: 74, examples: ભવિષ્યતિ|| (l.23235), ઉદ્ભવિષ્યતી|| (l.23244), હિ|| (l.23255), રવઃ|| (l.23264), કરૈઃ|| (l.23284)
+    Word:| count: 1, example: આસા:| (l.23220)
+    Word"|| count: 1, example: ભવિષ્યતિ"|| (l.24154)
+    Word,| count: 1, example: જગાદ,| (l.24570)
+    Word"| count: 1, example: જીવિષ્યતિ"| (l.28015)
+    | count: 1, line: 31139
+TOKENS WITH ‌ (U+200C ZERO WIDTH NON-JOINER):
+    Word<U+200C>Word count: 1, example: હેરોદ્‌રાજો (l.27407)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 2, examples: ‘તસ્ય (l.27620), ‘આદિપુરુષ (l.28828)
+    ‘Word’ count: 1, example: ‘અવિજ્ઞાતેશ્વરાય’ (l.27615)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    ‘Word’ count: 1, example: ‘અવિજ્ઞાતેશ્વરાય’ (l.27615)
+    Word’ count: 1, example: હિ’ (l.27620)
+    Word,’ count: 1, example: બભૂવ,’ (l.28828)

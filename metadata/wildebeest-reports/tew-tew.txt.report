@@ -1,0 +1,244 @@
+OVERVIEW:
+File size: 41899 lines, 873857 characters
+Letter scripts: 1
+    LATIN (611274 instances)
+Number scripts: 1
+    ASCII_DIGIT (242 instances): 0123456789
+Other character groups: 5
+    SPACE (96027 instances)
+    COMBINING_DIACRITICAL_MARKS (53647 instances):  ́ ̂ ̖ ̱
+    SPACING_MODIFIER_LETTERS (42365 instances): ˀ
+    ASCII_PUNCTUATION (24100 instances): (),-.:;?
+    GENERAL_PUNCTUATION (3183 instances): —‘’“”
+Non-canonical character combinations: 1
+
+DETAILS:
+Non-canonical character combinations: 1
+    Non-canonical: ḏ (NFD, d + ̱, count: 24656)  Canonical: ḏ (NFC, ḏ, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ( U+0028 LEFT PARENTHESIS count: 151, lines: 24297, 24373, 24446, 24458, 24474
+    ) U+0029 RIGHT PARENTHESIS count: 151, lines: 24297, 24373, 24446, 24458, 24474
+    , U+002C COMMA count: 8483, lines: 24285, 24286, 24287, 24288, 24289
+    - U+002D HYPHEN-MINUS count: 7415, lines: 24285, 24287, 24288, 24290, 24291
+    . U+002E FULL STOP count: 6907, lines: 24285, 24287, 24288, 24289, 24290
+    : U+003A COLON count: 410, lines: 24286, 24291, 24295, 24335, 24361
+    ; U+003B SEMICOLON count: 49, lines: 24536, 24553, 24688, 24960, 27698
+    ? U+003F QUESTION MARK count: 534, lines: 24308, 24311, 24336, 24337, 24338
+GENERAL_PUNCTUATION characters:
+    — U+2014 EM DASH count: 9, lines: 24484, 24583, 24687, 24786, 24821
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 186, lines: 24338, 24464, 24543, 24630, 24712
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 191, lines: 24338, 24464, 24516, 24543, 24630
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 1448, lines: 24287, 24288, 24291, 24295, 24298
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 1349, lines: 24287, 24288, 24292, 24295, 24298
+SPACE characters:
+      U+0020 SPACE count: 96027, lines: 24285, 24286, 24287, 24288, 24289
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 115, examples: 40 (l.24297), 000 (l.24446), 200 (l.24513), 100 (l.24516), 50 (l.24516)
+    1 U+0031 DIGIT ONE count: 39, examples: 12 (l.24458, 24483, 24519, 24588), 100 (l.24516)
+    2 U+0032 DIGIT TWO count: 27, examples: 2 (l.24446), 12 (l.24458, 24483, 24519), 200 (l.24513)
+    3 U+0033 DIGIT THREE count: 6, examples: 300 (l.24828, 26653), 30 (l.25117, 26975), 153 (l.26978)
+    4 U+0034 DIGIT FOUR count: 20, examples: 40 (l.24297, 25134), 4 (l.24578, 24589), 84 (l.25079)
+    5 U+0035 DIGIT FIVE count: 15, examples: 50 (l.24516), 5 (l.24520, 24588), 15 (l.25095), 500 (l.25305)
+    6 U+0036 DIGIT SIX count: 4, examples: 46 (l.26184), 16 (l.27410), 276 (l.27960), 60 (l.29839)
+    7 U+0037 DIGIT SEVEN count: 6, examples: 72 (l.25433, 25449), 75 (l.27199), 70 (l.27825), 276 (l.27960)
+    8 U+0038 DIGIT EIGHT count: 6, examples: 84 (l.25079), 18 (l.25591, 25598, 25603), 800 (l.25696)
+    9 U+0039 DIGIT NINE count: 4, example: 99 (l.25661, 25664)
+COMBINING_DIACRITICAL_MARKS characters:
+     ́ U+0301 COMBINING ACUTE ACCENT count: 3629, examples: Nä́ˀi (l.24285), Hä́nˀoe (l.24286), nakhá̖wä̖́ˀiˀ (l.24286), kamä́yo (l.24290), thaawä̖́ä̖ (l.24290)
+     ̂ U+0302 COMBINING CIRCUMFLEX ACCENT count: 1101, examples: dônmaˀpꞌä̖̂ä̖ḏi (l.24291), Ihayhä̖̂ä̖bá (l.24293), Ihayhä̖̂ä̖ḏi (l.24297), dä̂npaˀakanundeḏi (l.24300), ovä̂nmûˀ (l.24300)
+     ̖ U+0316 COMBINING GRAVE ACCENT BELOW count: 24261, examples: ví̖ˀgeḏi (l.24285), nakhá̖wä̖́ˀiˀ (l.24286), itu̖ˀannin (l.24286), tꞌôepa̖ˀa̖a̖ˀiˀ (l.24287), u̖gîˀ (l.24287)
+     ̱ U+0331 COMBINING MACRON BELOW count: 24656, examples: ví̖ˀgeḏi (l.24285), Táḏáḏí (l.24285), ovâyˀaywoeníḏí (l.24285), Táḏáví (l.24285, 24286)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 290, examples: Andrew (l.24300, 24313, 24373), Alpheus (l.24343), Abiathar (l.24354)
+    B U+0042 LATIN CAPITAL LETTER B count: 244, examples: Báyékí (l.24331, 24342, 24344), Báyékího (l.24367), Boanerges (l.24373)
+    C U+0043 LATIN CAPITAL LETTER C count: 443, examples: Capernaum (l.24305, 24330, 24343, 24640), Caesarea (l.24596)
+    D U+0044 LATIN CAPITAL LETTER D count: 218, examples: Dipówá (l.24314), Dînhanginná (l.24324), Dâywä̖yu̖máaˀin (l.24334), Dínkhóhtsa̖a̖shánkíˀeeḏináˀ (l.24348), David (l.24354)
+    E U+0045 LATIN CAPITAL LETTER E count: 146, examples: Ee (l.24482), Elijah (l.24491, 24597, 24611), Ephatha (l.24566)
+    F U+0046 LATIN CAPITAL LETTER F count: 28, examples: Figs (l.25259), Felix (l.27826, 27828, 27839, 27859)
+    G U+0047 LATIN CAPITAL LETTER G count: 279, example: Galilee (l.24293, 24298, 24300, 24312, 24323)
+    H U+0048 LATIN CAPITAL LETTER H count: 3283, examples: Hä́nˀoe (l.24286), Hä̖ˀi (l.24287), Heḏi (l.24289, 24291, 24294)
+    I U+0049 LATIN CAPITAL LETTER I count: 1444, examples: Isaiah (l.24286), Iˀḏân (l.24287), In (l.24287), Ihayhä̖̂ä̖bá (l.24293), Ihayḏi (l.24296)
+    J U+004A LATIN CAPITAL LETTER J count: 3055, examples: Jesus (l.24285), Jôesi (l.24285, 24286), John (l.24288), Jôesiví (l.24288)
+    K U+004B LATIN CAPITAL LETTER K count: 134, examples: Kaykhanwówá (l.24361), Kwa̖hta̖a̖ (l.24373), Khun (l.24419), Khu̖u̖ (l.24438), Korban (l.24543)
+    L U+004C LATIN CAPITAL LETTER L count: 70, examples: Levi (l.24343, 24344, 25118, 25123), Lysanius (l.25095)
+    M U+004D LATIN CAPITAL LETTER M count: 298, examples: Moses (l.24327, 24542, 24611), Matthew (l.24373), Mary (l.24479)
+    N U+004E LATIN CAPITAL LETTER N count: 1500, examples: Nä́ˀi (l.24285), Naaḏá (l.24292), Nazareth (l.24293), Nää (l.24298), Naa (l.24301)
+    O U+004F LATIN CAPITAL LETTER O count: 158, examples: Oe (l.24287, 24288), Ovâytu̖máa (l.24298), Ovâythayyandi (l.24403), Ovâytu̖ˀan (l.24486)
+    P U+0050 LATIN CAPITAL LETTER P count: 1017, examples: Pꞌoewa̖a̖hâ̖a̖ (l.24292, 24294), Pꞌoewa̖a̖hâ̖a̖ḏi (l.24296), Penísendi (l.24297), Pharisees (l.24344)
+    Q U+0051 LATIN CAPITAL LETTER Q count: 2, examples: Quirinius (l.25044), Quartus (l.28427)
+    R U+0052 LATIN CAPITAL LETTER R count: 69, examples: Rome (l.24756, 25043, 25095), Rufus (l.24916), Rhesa (l.25121)
+    S U+0053 LATIN CAPITAL LETTER S count: 619, examples: Satan (l.24297), Simon (l.24300, 24313, 24314, 24320)
+    T U+0054 LATIN CAPITAL LETTER T count: 2336, examples: Táḏáḏí (l.24285, 24288), Táḏáví (l.24285, 24286), Táḏá (l.24286)
+    U U+0055 LATIN CAPITAL LETTER U count: 312, examples: Unbí (l.24288, 24298), U̖ (l.24295, 24308), Unhehkháapúuwí (l.24325)
+    W U+0057 LATIN CAPITAL LETTER W count: 780, examples: Wí (l.24291), Wesebo (l.24302), Wíyá (l.24303), Wên (l.24311), Waˀḏéeḏí (l.24319)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 1211, example: Yä̖ˀḏâaˀi (l.24292, 24294, 24296, 24386, 24778)
+    Z U+005A LATIN CAPITAL LETTER Z count: 45, examples: Zebedee (l.24303, 24304, 24373, 24692), Zealot (l.24373)
+    a U+0061 LATIN SMALL LETTER A count: 48032, examples: namuu (l.24285), tꞌowa (l.24285), ovâyˀaywoeníḏí (l.24285), ay (l.24285), Isaiah (l.24286)
+    b U+0062 LATIN SMALL LETTER B count: 9320, examples: iˀbá (l.24285), tukheˀbiˀ (l.24286), Ótꞌôeyanbe (l.24287), binkhâyˀan (l.24287), bintaˀgeˀan (l.24287)
+    c U+0063 LATIN SMALL LETTER C count: 1503, examples: ohíhchan (l.24295), chä̖ˀ (l.24343), nachaˀḏee (l.24351), wíḏisígítaachanpoeˀopíḏân (l.24362), ûnkhâychaníˀin (l.24366)
+    d U+0064 LATIN SMALL LETTER D count: 42209, examples: híwóˀdi (l.24285), ví̖ˀgeḏi (l.24285), Táḏáḏí (l.24285), ovâyˀaywoeníḏí (l.24285), Táḏáví (l.24285)
+    e U+0065 LATIN SMALL LETTER E count: 37655, examples: Jesus (l.24285), ví̖ˀgeḏi (l.24285), Jôesi (l.24285), óesógeˀiˀ (l.24285), ovâyˀaywoeníḏí (l.24285)
+    f U+0066 LATIN SMALL LETTER F count: 15, examples: fig (l.24722, 24723, 24729, 24814), Rufus (l.24916)
+    g U+0067 LATIN SMALL LETTER G count: 9965, examples: ví̖ˀgeḏi (l.24285), óesógeˀiˀ (l.24285), gin (l.24286), ginnân (l.24286), u̖gîˀ (l.24287)
+    h U+0068 LATIN SMALL LETTER H count: 31019, examples: híwóˀdi (l.24285), tukheˀbiˀ (l.24286), Isaiah (l.24286), nakhá̖wä̖́ˀiˀ (l.24286), háa (l.24286)
+    i U+0069 LATIN SMALL LETTER I count: 52646, examples: Nä́ˀi (l.24285), iˀ (l.24285), híwóˀdi (l.24285), ví̖ˀgeḏi (l.24285), i (l.24285)
+    j U+006A LATIN SMALL LETTER J count: 1965, examples: natsonjiˀigîˀ (l.24287), binjoeˀan (l.24288), wovâyˀowóejé (l.24288), najiˀ (l.24289), napújebaˀáamuu (l.24290)
+    k U+006B LATIN SMALL LETTER K count: 11673, examples: tukheˀbiˀ (l.24286), nakhá̖wä̖́ˀiˀ (l.24286), wînsankhâymáa (l.24287), wônkhâyˀa̖mí (l.24287), ahkon (l.24287)
+    l U+006C LATIN SMALL LETTER L count: 1146, examples: Jerusalem (l.24289), Galilee (l.24293, 24298, 24300, 24312)
+    m U+006D LATIN SMALL LETTER M count: 11215, examples: namuu (l.24285, 24288), ûnmuu (l.24285), wînsankhâymáa (l.24287), wônkhâyˀa̖mí (l.24287)
+    n U+006E LATIN SMALL LETTER N count: 57456, examples: ân (l.24285), namuu (l.24285), tun (l.24285), ovâyˀaywoeníḏí (l.24285), ûnmuu (l.24285)
+    o U+006F LATIN SMALL LETTER O count: 22312, examples: toˀwí (l.24285), tꞌowa (l.24285), ovâyˀaywoeníḏí (l.24285), Hä́nˀoe (l.24286), ahkon (l.24287)
+    p U+0070 LATIN SMALL LETTER P count: 12313, examples: tꞌôepa̖ˀa̖a̖ˀiˀ (l.24287), páaḏé (l.24287), pꞌôe (l.24287), tꞌôepa̖ˀa̖a̖ˀi (l.24287), pꞌôeˀây (l.24287)
+    q U+0071 LATIN SMALL LETTER Q count: 6, example: Aquila (l.27628, 27644, 27645, 27652, 28407)
+    r U+0072 LATIN SMALL LETTER R count: 1609, examples: Jerusalem (l.24289), Jordan (l.24289, 24293), Nazareth (l.24293), Andrew (l.24300)
+    s U+0073 LATIN SMALL LETTER S count: 13164, examples: Jesus (l.24285), Jôesi (l.24285, 24286), óesógeˀiˀ (l.24285), Isaiah (l.24286)
+    t U+0074 LATIN SMALL LETTER T count: 17865, examples: tun (l.24285), toˀwí (l.24285), tꞌowa (l.24285), tukheˀbiˀ (l.24286), itaˀnan (l.24286)
+    u U+0075 LATIN SMALL LETTER U count: 19192, examples: namuu (l.24285), tun (l.24285), Jesus (l.24285), ûnmuu (l.24285), tukheˀbiˀ (l.24286)
+    v U+0076 LATIN SMALL LETTER V count: 10359, examples: ví̖ˀgeḏi (l.24285), ovâyˀaywoeníḏí (l.24285), Táḏáví (l.24285, 24286), iví (l.24286)
+    w U+0077 LATIN SMALL LETTER W count: 27467, examples: híwóˀdi (l.24285), toˀwí (l.24285), tꞌowa (l.24285), ovâyˀaywoeníḏí (l.24285), nakhá̖wä̖́ˀiˀ (l.24286)
+    x U+0078 LATIN SMALL LETTER X count: 46, examples: tax (l.24343, 24344, 24345, 24756), Alexander (l.24916)
+    y U+0079 LATIN SMALL LETTER Y count: 19419, examples: ovâyˀaywoeníḏí (l.24285), ay (l.24285, 24286), Ótꞌôeyanbe (l.24287), wînsankhâymáa (l.24287)
+    z U+007A LATIN SMALL LETTER Z count: 77, examples: Nazareth (l.24293, 24308, 24704, 24889), Beelzebul (l.24379)
+LATIN_EXTENDED_LETTER characters:
+    Á U+00C1 LATIN CAPITAL LETTER A WITH ACUTE count: 19, examples: Ánpí (l.24308, 24431), Ánshaaginpíḏíbo (l.24467), Á̖yîngiḏḏi (l.24861), Á̖yîngiḏi (l.24968)
+    Â U+00C2 LATIN CAPITAL LETTER A WITH CIRCUMFLEX count: 2, examples: Âymúuní (l.24931), Âydaˀmáa (l.29727)
+    Í U+00CD LATIN CAPITAL LETTER I WITH ACUTE count: 24, examples: Ímän (l.24484), Íchanpóe (l.24541), Ítséemuu (l.24587), Íkhâymúuníˀin (l.24823), Íviˀwän (l.25165)
+    Ó U+00D3 LATIN CAPITAL LETTER O WITH ACUTE count: 69, examples: Ótꞌôeyanbe (l.24287), Óetu̖ˀan (l.24324), Óetꞌôeyan (l.24327), Ókhóhtä̖ä̖ (l.24362), Óewhisógeḏiḏa̖ˀmânho (l.24384)
+    Ô U+00D4 LATIN CAPITAL LETTER O WITH CIRCUMFLEX count: 1, example: Ônmaaḏi (l.24758)
+    Ú U+00DA LATIN CAPITAL LETTER U WITH ACUTE count: 39, examples: Úuva (l.24351), Úkoḏiḏáho (l.24629), Úkoḏiḏáhoˀ (l.24630), Úvíjûusuˀoḏiḏa̖ˀmân (l.24636), Úhanginná (l.24685)
+    Û U+00DB LATIN CAPITAL LETTER U WITH CIRCUMFLEX count: 2, examples: Ûnpúuwí (l.24423), Ûnpꞌoe (l.27037)
+    á U+00E1 LATIN SMALL LETTER A WITH ACUTE count: 27448, examples: á (l.24285), Táḏáḏí (l.24285), iˀbá (l.24285), Táḏáví (l.24285, 24286)
+    â U+00E2 LATIN SMALL LETTER A WITH CIRCUMFLEX count: 10225, examples: ân (l.24285), ovâyˀaywoeníḏí (l.24285), ginnân (l.24286), wînsankhâymáa (l.24287), Iˀḏân (l.24287)
+    ä U+00E4 LATIN SMALL LETTER A WITH DIAERESIS count: 18591, examples: Nä́ˀi (l.24285), Hä́nˀoe (l.24286), nakhá̖wä̖́ˀiˀ (l.24286), Hä̖ˀi (l.24287), dimää (l.24289)
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 4376, examples: páaḏé (l.24287), wovâyˀowóejé (l.24288, 24291), báyékí (l.24289), tíˀúugé (l.24291)
+    ê U+00EA LATIN SMALL LETTER E WITH CIRCUMFLEX count: 1398, examples: toˀwên (l.24289, 24316), hä̖ä̖wênda̖ˀmân (l.24297), Wên (l.24311), wên (l.24335)
+    í U+00ED LATIN SMALL LETTER I WITH ACUTE count: 39458, examples: híwóˀdi (l.24285), ví̖ˀgeḏi (l.24285), toˀwí (l.24285), Táḏáḏí (l.24285), ovâyˀaywoeníḏí (l.24285)
+    î U+00EE LATIN SMALL LETTER I WITH CIRCUMFLEX count: 2676, examples: wînsankhâymáa (l.24287), u̖gîˀ (l.24287), natsonjiˀigîˀ (l.24287), igîˀ (l.24287), ivîˀḏi (l.24294)
+    ó U+00F3 LATIN SMALL LETTER O WITH ACUTE count: 9210, examples: híwóˀdi (l.24285), óesógeˀiˀ (l.24285), pꞌóˀpꞌoekandi (l.24288), tꞌaywóˀdi (l.24288), wovâyˀowóejé (l.24288)
+    ô U+00F4 LATIN SMALL LETTER O WITH CIRCUMFLEX count: 3793, examples: Jôesi (l.24285, 24286), Ótꞌôeyanbe (l.24287), tꞌôepa̖ˀa̖a̖ˀiˀ (l.24287), pꞌôe (l.24287)
+    ú U+00FA LATIN SMALL LETTER U WITH ACUTE count: 5031, examples: ûntu̖hkwíntú̖u̖ní (l.24287), búˀwindá (l.24289), napújebaˀáamuu (l.24290), tíˀúugé (l.24291), búˀḏí (l.24293)
+    û U+00FB LATIN SMALL LETTER U WITH CIRCUMFLEX count: 2509, examples: ûnmuu (l.24285), ûntu̖hkwíntú̖u̖ní (l.24287), ûnpaˀan (l.24290), imûˀ (l.24294), tíˀûu (l.24300)
+LATIN_EXTENDED_D characters:
+    ꞌ U+A78C LATIN SMALL LETTER SALTILLO count: 8774, examples: tꞌowa (l.24285), Ótꞌôeyanbe (l.24287), tꞌôepa̖ˀa̖a̖ˀiˀ (l.24287), pꞌôe (l.24287), tꞌôepa̖ˀa̖a̖ˀi (l.24287)
+SPACING_MODIFIER_LETTERS characters:
+    ˀ U+02C0 MODIFIER LETTER GLOTTAL STOP count: 42365, examples: Nä́ˀi (l.24285), iˀ (l.24285), híwóˀdi (l.24285), ví̖ˀgeḏi (l.24285), toˀwí (l.24285)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 7684, examples: ovâyˀaywoeníḏí, (l.24285), tukheˀbiˀ, (l.24286), nakhá̖wä̖́ˀiˀ, (l.24286), itu̖ˀannin, (l.24286), Ótꞌôeyanbe, (l.24287)
+    Word-Word, count: 564, examples: Jesus-ví̖ˀgeḏi, (l.24285), wovâyˀowóejé-íḏí, (l.24288, 24291), damú-íˀin, (l.24304), iˀowóejé-íḏí, (l.24336)
+    “Word, count: 131, examples: “Hânda̖ˀdiboˀ, (l.24309), “Óetꞌôeyan, (l.24327), “Wítu̖máa, (l.24340), “Há̖hkandiˀ, (l.24430), “Wíˀunkhunwôedaˀípí, (l.24469)
+    Word,” count: 21, examples: wíˀâymûˀpí,” (l.24341), ókä̖ˀve,” (l.24343), wítsikaˀya̖míḏí,” (l.25284), wíˀúvíˀa̖mípí,” (l.25984), binpꞌiḏe,” (l.26171)
+    ‘Word, count: 19, examples: ‘Ótégé, (l.24732), ‘Binmúˀḏí, (l.24807, 25298), ‘Woekandi, (l.25155), ‘Kꞌema, (l.25479)
+    Word), count: 18, examples: óekhá̖wä̖́mä́gi), (l.24373), namuu), (l.24373, 24475), ûnmuu), (l.24373), namuuwän), (l.24373)
+    Word,’ count: 16, examples: úˀowóˀjen,’ (l.24338), ójíyé,’ (l.24338), ópichä̖́nú,’ (l.24732), ovâyˀaywoeníḏí,’ (l.24807), najiˀ,’ (l.24807)
+    (Number,Number) count: 15, examples: (2,000) (l.24446), (5,000) (l.24520, 24588), (4,000) (l.24578, 24589)
+    Word-Word-Word, count: 4, examples: Moses-gîˀ-á, (l.24612, 25403), na-fig-muuˀin, (l.24722), Jacob-vîˀ-á, (l.25885)
+    Word?’, count: 2, examples: dä̂nˀoˀ?’, (l.24712), dä̂nwhihsuuḏeˀ?’, (l.25831)
+    “Word,” count: 2, examples: “Há̖hkandiˀ,” (l.24868), “Yoe,” (l.26879)
+    Word-Word,’ count: 2, examples: naˀä̖ä̖-íḏí,’ (l.25573), dônpꞌä̖̂ä̖ḏi-íḏí,’ (l.27456)
+    Word-Word-Word-Word, count: 2, examples: wíˀóe-tax-wáˀâa-ípí, (l.26006), na-olive-páa-í, (l.30398)
+    (Word, count: 1, example: (Bîntunnanpíˀan, (l.24800)
+    (Number,Number’Word) count: 1, example: (1,000’s) (l.25529)
+    Word-Word,” count: 1, example: wovâyhíhchannamígîˀ-á,” (l.27500)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 5953, examples: Nä́ˀi-ân (l.24285), i-á (l.24285), pꞌôeˀây-á (l.24287), pꞌóˀpꞌoekandi-ân (l.24288), John-bí (l.24290)
+    Word-Word, count: 564, examples: Jesus-ví̖ˀgeḏi, (l.24285), wovâyˀowóejé-íḏí, (l.24288, 24291), damú-íˀin, (l.24304), iˀowóejé-íḏí, (l.24336)
+    Word-Word. count: 458, examples: dônmaˀpꞌä̖̂ä̖ḏi-íḏí. (l.24291), óenuuwä̖́-íḏí. (l.24320), nasiveḏee-í. (l.24350), nachaˀḏee-í. (l.24351), ôntꞌeˀpꞌêeḏe-í. (l.24359)
+    “Word-Word count: 133, examples: “U̖-á (l.24295, 24368), “Nää-ânho (l.24298), “Naa-áḏí (l.24301, 24343)
+    Word-Word.” count: 120, examples: unmú-í.” (l.24340), ovâykhehpeeyé-íḏí.” (l.24379), naˀowójéḏee-íˀin.” (l.24386), ovâyˀowóejé-í.” (l.24404), owôewa-í.” (l.24461)
+    (Word-Word count: 27, examples: (i-á (l.24373, 24475, 24935, 25229), (Barabbas-á (l.26023)
+    Word-Word?” count: 19, examples: âykhehpeeyé-íḏí?” (l.24635), ûnˀaywondee-íḏí?” (l.24683), dä̂nphaaḏé-íˀin?” (l.24695), khá̖wä̖́-á?” (l.24758), napee-íḏí?” (l.24983)
+    ‘Word-Word count: 18, examples: ‘Nä́ˀi-ânkun (l.24749), ‘Oe-ân (l.24807), ‘Abraham-bí (l.25102), ‘Nää-á (l.25441), ‘Nää-áho (l.25547)
+    Word-Word.’ count: 18, examples: wíwáˀâa-í.’ (l.25467), ovâyhá̖a̖nú-í.’ (l.25523), natsaaḏee-í.’ (l.25596), naˀä̖ä̖-íḏí.’ (l.25622), omú-íḏí.’ (l.25642)
+    Word-Word-Word count: 17, examples: óekꞌéˀtsꞌâa-íˀi-ân (l.24492), na-fig-púuwí (l.24722), Nazareth-wi-áḏí (l.24889), Biwänpiwä̖ä̖yú̖-í-á (l.25364), su̖wä̖gîˀ-áḏíḏa̖ˀbá-á (l.25573)
+    Word-Word? count: 11, examples: ipikhehpeeyé-íḏí? (l.24380), ay-á? (l.24479), ithaaweejé-íḏí? (l.24659), wíwovâytuhchä̖ä̖nú-ípíḏí? (l.25101), Galilee-winbíˀweḏi? (l.25589)
+    Word-Word-Word.” count: 7, examples: Elijah-gîˀ-á.” (l.24612, 25403), wíˀi-fig-kꞌoˀípí.” (l.24723), nawôewa-í-ákun.” (l.25364), Nazareth-wi-ân.” (l.26861)
+    Word-Word-Word, count: 4, examples: Moses-gîˀ-á, (l.24612, 25403), na-fig-muuˀin, (l.24722), Jacob-vîˀ-á, (l.25885)
+    Word-Word: count: 3, examples: ûnwaḏeḏee-íˀin: (l.24422), dáywhä̖yú̖-íḏí: (l.29749), dívíˀoˀingîˀ-ân: (l.29772)
+    Word-Word” count: 3, examples: dovâywáywówápaa-í” (l.26366), dítaa-íḏí” (l.26758), bîntsꞌûuḏe-í” (l.27766)
+    “Word-Word” count: 2, examples: “nakhuuḏee-í” (l.24566), “Italy-win” (l.27329)
+    “Word-Word.” count: 2, examples: “Gä́nkoḏi-ákun.” (l.24696), “Wívisíhtä̖ä̖-ípí.” (l.25277)
+    Word-Word-Word-Word count: 2, example: ây-tax-wáˀâa-íḏí (l.24756, 25870)
+    Word-Word,’ count: 2, examples: naˀä̖ä̖-íḏí,’ (l.25573), dônpꞌä̖̂ä̖ḏi-íḏí,’ (l.27456)
+    Word-Word-Word-Word, count: 2, examples: wíˀóe-tax-wáˀâa-ípí, (l.26006), na-olive-páa-í, (l.30398)
+    Word-Word-Word” count: 2, examples: Nazareth-wi-ân” (l.26859), Cilicia-wi-ân” (l.27836)
+    Word-Word.) count: 2, examples: nawha̖veˀä̖́ä̖-íḏí.) (l.28262), óewówápaa-íḏí.) (l.28263)
+    “Word-Word. count: 1, example: “Wíˀúvísíhtä̖ä̖-ípí. (l.25366)
+    Word-Word?’ count: 1, example: âysu̖u̖wä̖́-í?’ (l.25557)
+    Word-Word,” count: 1, example: wovâyhíhchannamígîˀ-á,” (l.27500)
+    Word-Word; count: 1, example: búˀwi-á; (l.27698)
+    Word-Word’? count: 1, example: dípaa-íˀin’? (l.28243)
+    Word-Word-Word-Word? count: 1, example: na-fig-páa-í? (l.30398)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 5318, examples: ûnmuu. (l.24285), wînsankhâymáa. (l.24287), wônkhâyˀa̖mí. (l.24287), natsonjiˀigîˀ. (l.24287), namuu. (l.24288)
+    Word.” count: 811, examples: bintaˀgeˀan.” (l.24287), wâypꞌóˀpꞌoeˀa̖mí.” (l.24288), waagibá.” (l.24292), ohíhchan.” (l.24295), bíwä̖́yú̖.” (l.24298)
+    Word-Word. count: 458, examples: dônmaˀpꞌä̖̂ä̖ḏi-íḏí. (l.24291), óenuuwä̖́-íḏí. (l.24320), nasiveḏee-í. (l.24350), nachaˀḏee-í. (l.24351), ôntꞌeˀpꞌêeḏe-í. (l.24359)
+    Word-Word.” count: 120, examples: unmú-í.” (l.24340), ovâykhehpeeyé-íḏí.” (l.24379), naˀowójéḏee-íˀin.” (l.24386), ovâyˀowóejé-í.” (l.24404), owôewa-í.” (l.24461)
+    Word.’ count: 106, examples: gin.’ (l.24543), wônwáymáˀí.’ (l.24712), dînˀaˀgeení.’ (l.24748), gínmúuní.’ (l.24749), wînkáaní.’ (l.24778)
+    Word.) count: 29, examples: gin.) (l.24543), tundi.) (l.24566), ûnmuuˀin.) (l.24741), diwówápúuwí.) (l.24760), íkaˀpóewíˀin.) (l.24800)
+    Word-Word.’ count: 18, examples: wíwáˀâa-í.’ (l.25467), ovâyhá̖a̖nú-í.’ (l.25523), natsaaḏee-í.’ (l.25596), naˀä̖ä̖-íḏí.’ (l.25622), omú-íḏí.’ (l.25642)
+    “Word.” count: 11, examples: “Ókhóhtä̖ä̖.” (l.24362, 25225), “Hânda̖ˀdiboˀ.” (l.24705, 25796), “Wísígíkéndeˀ.” (l.24718)
+    Word). count: 8, examples: namuu). (l.24373, 25229), óekꞌoˀígîˀ). (l.24551), dä́nmuu). (l.24935), ûnmuu). (l.27005)
+    Word-Word-Word.” count: 7, examples: Elijah-gîˀ-á.” (l.24612, 25403), wíˀi-fig-kꞌoˀípí.” (l.24723), nawôewa-í-ákun.” (l.25364), Nazareth-wi-ân.” (l.26861)
+    “Word. count: 6, examples: “Bítꞌôeyan. (l.24395), “Wíˀíkhunwôedaˀípí. (l.24948, 25052), “Wíˀunkhunwôedaˀípí. (l.25186, 25364)
+    “Word-Word.” count: 2, examples: “Gä́nkoḏi-ákun.” (l.24696), “Wívisíhtä̖ä̖-ípí.” (l.25277)
+    Word?’. count: 2, examples: wíˀúvíwä̖yu̖pí?’. (l.24740), unmuu?’. (l.27780)
+    Word’.” count: 2, examples: namuu’.” (l.25215), ihangintanmáa’.” (l.25299)
+    Word-Word.) count: 2, examples: nawha̖veˀä̖́ä̖-íḏí.) (l.28262), óewówápaa-íḏí.) (l.28263)
+    Word.Word count: 1, example: óeˀaˀgindoˀ.in (l.24317)
+    Word.”) count: 1, example: wítu̖máa.”) (l.24474)
+    (Number’Word). count: 1, example: (50’s). (l.24516)
+    (Number). count: 1, example: (50). (l.25305)
+    “Word-Word. count: 1, example: “Wíˀúvísíhtä̖ä̖-ípí. (l.25366)
+    ‘Word. count: 1, example: ‘Wíḏíkú̖ˀdaaˀâ̖a̖mípí. (l.25730)
+    Word.”’ count: 1, example: ihóndeˀivíˀweḏi.”’ (l.27729)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 406, examples: ginnân: (l.24286), ovâytu̖máa: (l.24291), natú̖: (l.24295), dívíˀánshaamáa: (l.24335), ívíˀa̖míḏí: (l.24361)
+    Word-Word: count: 3, examples: ûnwaḏeḏee-íˀin: (l.24422), dáywhä̖yú̖-íḏí: (l.29749), dívíˀoˀingîˀ-ân: (l.29772)
+    Word?: count: 1, example: natundaˀ?: (l.25865)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 48, examples: dívímanˀowíḏipíḏíboˀ; (l.24536), nasändaˀ; (l.24553), natꞌowatꞌakha̖nudaˀ; (l.24553), iwhohkumáa; (l.24553), nadaˀ; (l.24553)
+    Word-Word; count: 1, example: búˀwi-á; (l.27698)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 259, examples: gáhân? (l.24308), nä́ˀin? (l.24311), ihíˀmáa? (l.24336), úvíˀánshaamáa? (l.24337), joe? (l.24338)
+    Word?” count: 218, examples: ihúujoˀ?” (l.24345), joe?” (l.24347), âyháyjíˀin?” (l.24361), dípꞌotꞌakha̖nukhâyˀoˀ?” (l.24430), wívînmáapíˀan?” (l.24432)
+    Word-Word?” count: 19, examples: âykhehpeeyé-íḏí?” (l.24635), ûnˀaywondee-íḏí?” (l.24683), dä̂nphaaḏé-íˀin?” (l.24695), khá̖wä̖́-á?” (l.24758), napee-íḏí?” (l.24983)
+    Word?’ count: 16, examples: dítä̖ge?’ (l.24464), âykꞌoˀí?’ (l.24837), ikhonkhâymáa?’ (l.25548), napoeˀo?’ (l.25683), unphaamuu?’ (l.25694)
+    Word-Word? count: 11, examples: ipikhehpeeyé-íḏí? (l.24380), ay-á? (l.24479), ithaaweejé-íḏí? (l.24659), wíwovâytuhchä̖ä̖nú-ípíḏí? (l.25101), Galilee-winbíˀweḏi? (l.25589)
+    Word?’, count: 2, examples: dä̂nˀoˀ?’, (l.24712), dä̂nwhihsuuḏeˀ?’, (l.25831)
+    Word?’. count: 2, examples: wíˀúvíwä̖yu̖pí?’. (l.24740), unmuu?’. (l.27780)
+    ‘Word?’ count: 1, example: ‘Úkoḏiḏáhoˀ?’ (l.24630)
+    Word?) count: 1, example: díjoeˀan?) (l.24929)
+    Word-Word?’ count: 1, example: âysu̖u̖wä̖́-í?’ (l.25557)
+    Word?: count: 1, example: natundaˀ?: (l.25865)
+    Word’? count: 1, example: díwáymúní’? (l.26814)
+    Word-Word’? count: 1, example: dípaa-íˀin’? (l.28243)
+    Word-Word-Word-Word? count: 1, example: na-fig-páa-í? (l.30398)
+TOKENS WITH — (U+2014 EM DASH):
+    — count: 9, lines: 24484, 24583, 24687, 24786, 24821
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 141, examples: ‘Uví (l.24338), ‘Toˀḏan (l.24464), ‘Naví (l.24543), ‘Nä́ˀi (l.24543), ‘Háaḏan (l.24712)
+    ‘Word, count: 19, examples: ‘Ótégé, (l.24732), ‘Binmúˀḏí, (l.24807, 25298), ‘Woekandi, (l.25155), ‘Kꞌema, (l.25479)
+    ‘Word-Word count: 18, examples: ‘Nä́ˀi-ânkun (l.24749), ‘Oe-ân (l.24807), ‘Abraham-bí (l.25102), ‘Nää-á (l.25441), ‘Nää-áho (l.25547)
+    ‘Word’ count: 6, examples: ‘Ópûn’ (l.25272), ‘Ókä̖ˀve’ (l.25272), ‘Báyékí’ (l.25344), ‘hanwaapíḏíboˀ’ (l.26813), ‘joe’ (l.27357)
+    ‘Word?’ count: 1, example: ‘Úkoḏiḏáhoˀ?’ (l.24630)
+    ‘Word. count: 1, example: ‘Wíḏíkú̖ˀdaaˀâ̖a̖mípí. (l.25730)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word.’ count: 106, examples: gin.’ (l.24543), wônwáymáˀí.’ (l.24712), dînˀaˀgeení.’ (l.24748), gínmúuní.’ (l.24749), wînkáaní.’ (l.24778)
+    Word-Word.’ count: 18, examples: wíwáˀâa-í.’ (l.25467), ovâyhá̖a̖nú-í.’ (l.25523), natsaaḏee-í.’ (l.25596), naˀä̖ä̖-íḏí.’ (l.25622), omú-íḏí.’ (l.25642)
+    Word,’ count: 16, examples: úˀowóˀjen,’ (l.24338), ójíyé,’ (l.24338), ópichä̖́nú,’ (l.24732), ovâyˀaywoeníḏí,’ (l.24807), najiˀ,’ (l.24807)
+    Word?’ count: 16, examples: dítä̖ge?’ (l.24464), âykꞌoˀí?’ (l.24837), ikhonkhâymáa?’ (l.25548), napoeˀo?’ (l.25683), unphaamuu?’ (l.25694)
+    Word’ count: 12, examples: dómä́gi’ (l.24543), ônkꞌûˀ’ (l.24741), unmuu’ (l.24994), pꞌóˀḏéḏîˀ’ (l.25261), óˀan’ (l.25272)
+    ‘Word’ count: 6, examples: ‘Ópûn’ (l.25272), ‘Ókä̖ˀve’ (l.25272), ‘Báyékí’ (l.25344), ‘hanwaapíḏíboˀ’ (l.26813), ‘joe’ (l.27357)
+    (Number’Word) count: 2, examples: (100’s) (l.24516), (50’s) (l.25384)
+    Word?’, count: 2, examples: dä̂nˀoˀ?’, (l.24712), dä̂nwhihsuuḏeˀ?’, (l.25831)
+    Word?’. count: 2, examples: wíˀúvíwä̖yu̖pí?’. (l.24740), unmuu?’. (l.27780)
+    Word’.” count: 2, examples: namuu’.” (l.25215), ihangintanmáa’.” (l.25299)
+    Word-Word,’ count: 2, examples: naˀä̖ä̖-íḏí,’ (l.25573), dônpꞌä̖̂ä̖ḏi-íḏí,’ (l.27456)
+    (Number’Word). count: 1, example: (50’s). (l.24516)
+    ‘Word?’ count: 1, example: ‘Úkoḏiḏáhoˀ?’ (l.24630)
+    (Number,Number’Word) count: 1, example: (1,000’s) (l.25529)
+    Word-Word?’ count: 1, example: âysu̖u̖wä̖́-í?’ (l.25557)
+    Word’? count: 1, example: díwáymúní’? (l.26814)
+    Word.”’ count: 1, example: ihóndeˀivíˀweḏi.”’ (l.27729)
+    Word-Word’? count: 1, example: dípaa-íˀin’? (l.28243)

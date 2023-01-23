@@ -1,0 +1,204 @@
+OVERVIEW:
+File size: 41899 lines, 6948222 characters
+Letter scripts: 1
+    LATIN (5378488 instances)
+Number scripts: 1
+    ASCII_DIGIT (5812 instances): 0123456789
+Other character groups: 4
+    SPACE (1242089 instances)
+    ASCII_PUNCTUATION (194213 instances): !(),-.:;?[]
+    COMBINING_DIACRITICAL_MARKS (58507 instances):  ̨
+    GENERAL_PUNCTUATION (21698 instances): ‘’“”
+Non-canonical character combinations: 6
+
+DETAILS:
+Non-canonical character combinations: 6
+    Non-canonical: Ą (NFD, A + ̨, count: 22)  Canonical: Ą (NFC, Ą, count: 0)
+    Non-canonical: ą (NFD, a + ̨, count: 17735)  Canonical: ą (NFC, ą, count: 0)
+    Non-canonical: ę (NFD, e + ̨, count: 22174)  Canonical: ę (NFC, ę, count: 0)
+    Non-canonical: į (NFD, i + ̨, count: 5774)  Canonical: į (NFC, į, count: 0)
+    Non-canonical: ǫ (NFD, o + ̨, count: 7888)  Canonical: ǫ (NFC, ǫ, count: 0)
+    Non-canonical: ų (NFD, u + ̨, count: 4914)  Canonical: ų (NFC, ų, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 363, lines: 3, 270, 318, 440, 467
+    ( U+0028 LEFT PARENTHESIS count: 66, lines: 329, 689, 1984, 1990, 4950
+    ) U+0029 RIGHT PARENTHESIS count: 67, lines: 329, 689, 1984, 1990, 3391
+    , U+002C COMMA count: 120009, lines: 1, 2, 3, 4, 5
+    - U+002D HYPHEN-MINUS count: 4, lines: 22082, 22083, 28558
+    . U+002E FULL STOP count: 70347, lines: 1, 2, 3, 4, 5
+    : U+003A COLON count: 305, lines: 1534, 1592, 3947, 4080, 4196
+    ; U+003B SEMICOLON count: 8, lines: 4309, 4431, 4636, 4685, 5064
+    ? U+003F QUESTION MARK count: 3010, lines: 57, 65, 67, 69, 86
+    [ U+005B LEFT SQUARE BRACKET count: 17, lines: 23364, 23790, 23807, 23939, 24001
+    ] U+005D RIGHT SQUARE BRACKET count: 17, lines: 23364, 23790, 23807, 23939, 24001
+GENERAL_PUNCTUATION characters:
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 1865, lines: 54, 59, 62, 90, 104
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 1864, lines: 54, 59, 62, 90, 104
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 8985, lines: 3, 5, 6, 8, 9
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 8984, lines: 3, 5, 6, 8, 9
+SPACE characters:
+      U+0020 SPACE count: 1242089, lines: 1, 2, 3, 4, 5
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 2308, examples: 130 (l.109), 800 (l.110), 930 (l.111), 105 (l.112), 807 (l.113)
+    1 U+0031 DIGIT ONE count: 749, examples: 130 (l.109), 105 (l.112), 912 (l.114), 815 (l.116), 910 (l.120)
+    2 U+0032 DIGIT TWO count: 701, examples: 912 (l.114), 162 (l.124), 962 (l.126), 782 (l.132), 182 (l.134)
+    3 U+0033 DIGIT THREE count: 398, examples: 130 (l.109), 930 (l.111), 830 (l.122), 300 (l.128), 365 (l.129)
+    4 U+0034 DIGIT FOUR count: 376, examples: 840 (l.119), 40 (l.172), 403 (l.280, 282), 34 (l.283)
+    5 U+0035 DIGIT FIVE count: 369, examples: 105 (l.112), 815 (l.116), 905 (l.117), 65 (l.121), 895 (l.123)
+    6 U+0036 DIGIT SIX count: 262, examples: 65 (l.121, 127), 162 (l.124), 962 (l.126), 365 (l.129)
+    7 U+0037 DIGIT SEVEN count: 356, examples: 807 (l.113), 187 (l.131), 782 (l.132), 777 (l.137), 17 (l.171)
+    8 U+0038 DIGIT EIGHT count: 178, examples: 800 (l.110), 807 (l.113), 815 (l.116), 840 (l.119), 830 (l.122)
+    9 U+0039 DIGIT NINE count: 115, examples: 930 (l.111), 912 (l.114), 90 (l.115), 905 (l.117), 910 (l.120)
+COMBINING_DIACRITICAL_MARKS characters:
+     ̨ U+0328 COMBINING OGONEK count: 58507, examples: tǫ (l.1), tǫde (l.2), wę (l.2, 6), dąį (l.6)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 11241, examples: Augwali (l.40), Asiria (l.45), Aga (l.54), Adam (l.76, 77)
+    B U+0042 LATIN CAPITAL LETTER B count: 12480, examples: Bidi (l.2, 56), Be (l.5, 23), Boi (l.90)
+    D U+0044 LATIN CAPITAL LETTER D count: 6963, examples: Dagalu (l.8), Dago (l.26), Dagego (l.28), Dage (l.59, 60)
+    E U+0045 LATIN CAPITAL LETTER E count: 6587, examples: Eno (l.29, 66, 89, 93), Enok (l.97)
+    F U+0046 LATIN CAPITAL LETTER F count: 704, examples: Filistia (l.249, 546, 548), Fikol (l.536, 546)
+    G U+0047 LATIN CAPITAL LETTER G count: 19644, example: Godigo (l.1, 2, 3, 4, 6)
+    H U+0048 LATIN CAPITAL LETTER H count: 2246, examples: Hulide (l.5), Havila (l.42, 43), Hasamanigo (l.69), Ham (l.138)
+    I U+0049 LATIN CAPITAL LETTER I count: 5250, examples: Iden (l.39, 41, 46, 79), Iv (l.76)
+    J U+004A LATIN CAPITAL LETTER J count: 11273, examples: Jabal (l.100, 101), Jabalgo (l.100), Jubal (l.101), Jubalgo (l.101)
+    K U+004B LATIN CAPITAL LETTER K count: 2298, examples: Kus (l.44), Kein (l.81, 82, 85), Keingo (l.83)
+    L U+004C LATIN CAPITAL LETTER L count: 1101, examples: Lamek (l.98, 103, 104), Lamekgo (l.99, 103)
+    M U+004D LATIN CAPITAL LETTER M count: 8997, examples: Menio (l.1), Mobo (l.2), Megi (l.26), Magi (l.34), Mu (l.37)
+    N U+004E LATIN CAPITAL LETTER N count: 4543, examples: Nosali (l.6, 9, 62), Nago (l.47), Nage (l.65)
+    O U+004F LATIN CAPITAL LETTER O count: 744, examples: Obal (l.263), Ofir (l.264), Odao (l.310, 388), Odogo (l.354)
+    P U+0050 LATIN CAPITAL LETTER P count: 2291, examples: Polobadu (l.1, 209), Pison (l.42), Put (l.241), Patros (l.249)
+    R U+0052 LATIN CAPITAL LETTER R count: 798, examples: Rifat (l.238), Rodan (l.239), Rama (l.242), Ramago (l.242), Rehobotir (l.246)
+    S U+0053 LATIN CAPITAL LETTER S count: 5468, examples: Subigila (l.96), Sila (l.99, 103), Silago (l.102), Set (l.105)
+    T U+0054 LATIN CAPITAL LETTER T count: 50514, examples: Te (l.2), Tama (l.2, 3, 4), Tialima (l.3)
+    U U+0055 LATIN CAPITAL LETTER U count: 391, examples: Ula (l.3), Us (l.258), Usal (l.262), Ur (l.295, 298)
+    V U+0056 LATIN CAPITAL LETTER V count: 16, examples: Vopsigo (l.4090), Vania (l.12291), Vastigo (l.12715), Vasti (l.12717), Vastibolo (l.12718)
+    W U+0057 LATIN CAPITAL LETTER W count: 390, examples: Węde (l.20), We (l.99), Waa (l.505), Woo (l.578, 598)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 592, examples: Yawe (l.35, 38, 39, 46), Yufretis (l.45)
+    a U+0061 LATIN SMALL LETTER A count: 991742, examples: Polobadu (l.1), dagalu (l.1), gagalama (l.1), nigali (l.1), hasia (l.1)
+    b U+0062 LATIN SMALL LETTER B count: 271307, examples: Polobadu (l.1), bolo (l.1), subo (l.1), ebeo (l.1), bidibo (l.2)
+    d U+0064 LATIN SMALL LETTER D count: 288963, examples: Polobadu (l.1), Godigo (l.1), dagalu (l.1), de (l.1), dago (l.1)
+    e U+0065 LATIN SMALL LETTER E count: 541057, examples: te (l.1), de (l.1), megi (l.1), me (l.1), ebeo (l.1)
+    f U+0066 LATIN SMALL LETTER F count: 4082, examples: Yufretis (l.45), ofa (l.83, 84, 85), Jafet (l.138)
+    g U+0067 LATIN SMALL LETTER G count: 334340, examples: Godigo (l.1), dagalu (l.1), gagalama (l.1), nigali (l.1), sogo (l.1)
+    h U+0068 LATIN SMALL LETTER H count: 42745, examples: hasia (l.1), hulia (l.2), halua (l.2), homu (l.4), hulibo (l.4)
+    i U+0069 LATIN SMALL LETTER I count: 596296, examples: Godigo (l.1), si (l.1), nigali (l.1), hasia (l.1), megi (l.1)
+    j U+006A LATIN SMALL LETTER J count: 447, examples: Mehujael (l.98), Mehujaelgo (l.98), Benjamin (l.1030, 1036, 1257)
+    k U+006B LATIN SMALL LETTER K count: 32655, examples: keba (l.11, 12), kigamu (l.13, 23), kibu (l.14)
+    l U+006C LATIN SMALL LETTER L count: 279652, examples: Polobadu (l.1), dagalu (l.1), gagalama (l.1), nigali (l.1), bolo (l.1)
+    m U+006D LATIN SMALL LETTER M count: 223991, examples: mu (l.1), gagalama (l.1), megi (l.1), gilama (l.1), me (l.1)
+    n U+006E LATIN SMALL LETTER N count: 175178, examples: nigali (l.1), Menio (l.1), nai (l.2), meni (l.2), genuai (l.2)
+    o U+006F LATIN SMALL LETTER O count: 500105, examples: Polobadu (l.1), Godigo (l.1), tǫ (l.1), sogo (l.1), bolo (l.1)
+    p U+0070 LATIN SMALL LETTER P count: 89687, examples: peyu (l.2), po (l.3), pedelao (l.3), pedelai (l.3), pemene (l.4)
+    r U+0072 LATIN SMALL LETTER R count: 18696, examples: Taigris (l.45), Asiria (l.45), Yufretis (l.45), Irat (l.98), Iratgo (l.98)
+    s U+0073 LATIN SMALL LETTER S count: 169330, examples: si (l.1), sogo (l.1), hasia (l.1), subo (l.1), gasagi (l.2)
+    t U+0074 LATIN SMALL LETTER T count: 244842, examples: te (l.1, 2), tǫ (l.1), tiwai (l.1), tedali (l.2)
+    u U+0075 LATIN SMALL LETTER U count: 232091, examples: Polobadu (l.1), mu (l.1), dagalu (l.1), subo (l.1), elaluyu (l.2)
+    v U+0076 LATIN SMALL LETTER V count: 3357, examples: Havila (l.42, 43), Iv (l.76), oliv (l.195), Javan (l.237)
+    w U+0077 LATIN SMALL LETTER W count: 134765, examples: tiwai (l.1), augwali (l.2), wę (l.2), wai (l.3), wiegi (l.4)
+    y U+0079 LATIN SMALL LETTER Y count: 48629, examples: elaluyu (l.2), yai (l.2, 4), peyu (l.2), yabo (l.4)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 240, examples: dedeo! (l.270), sao! (l.318), gedao! (l.467), yao! (l.473), isabuo! (l.475)
+    Word!” count: 75, examples: pedelao!” (l.3), piąo!” (l.318), o!” (l.549), Abraham!” (l.559), dao!” (l.969)
+    “Word! count: 35, examples: “Menio! (l.440, 1265), “Abraham! (l.559), “Odao! (l.858), “Suao! (l.1281)
+    Word!’ count: 5, examples: yalio!’ (l.1330), dao!’ (l.6448, 19578), tiali!’ (l.6698), piąo!’ (l.6699)
+    “Word!” count: 4, examples: “Ayao!” (l.555, 746), “Ogwao!” (l.729), “Efata!” (l.24566)
+    ‘Word! count: 3, examples: ‘Tegoba! (l.5012), ‘Suao! (l.22788), ‘Odao! (l.30167)
+    Word!’” count: 1, example: pao!’” (l.6637)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 111248, examples: mu, (l.1), sogo, (l.1), elaluyu, (l.2), elalubadi, (l.2), peyu, (l.2)
+    Word,” count: 6071, examples: dao,” (l.5), elalumainao,” (l.6), da,” (l.8), pomainao,” (l.9), pedelao,” (l.11)
+    Word,’ count: 1073, examples: isabuo,’ (l.59), yaibao,’ (l.62), muao,’ (l.90), da,’ (l.311, 312)
+    “Word, count: 808, examples: “Tiyu, (l.49), “Awe, (l.270), “Odao, (l.310), “Suao, (l.328), “Abram, (l.362)
+    Number,Number count: 476, examples: 1,000 (l.512, 2021, 2025, 2058), 600,000 (l.1854)
+    ‘Word, count: 121, examples: ‘Tiyu, (l.507), ‘Ae, (l.606, 637), ‘Yawe, (l.634), ‘Awe, (l.949)
+    Number, count: 66, examples: 17, (l.188), 27, (l.198), 86, (l.398), 20, (l.943), 14, (l.1835)
+    Word,’” count: 46, examples: sąyao,’” (l.2751, 2757), asao,’” (l.2760), yaibao,’” (l.2763), dao,’” (l.3076)
+    “Word,” count: 22, examples: “Pao,” (l.1572), “Awe,” (l.5869), “Menio,” (l.6876), “Sihibolet,” (l.6877), “Odao,” (l.8101)
+    Number,Number, count: 15, examples: 603,550, (l.2659), 675,000, (l.4698), 72,000, (l.4698), 61,000, (l.4698), 2,000, (l.5981)
+    “‘Word, count: 10, examples: “‘Tialima, (l.4633, 5606, 9540), “‘Ena, (l.8191), “‘Awe, (l.9541)
+    ‘Word,’ count: 4, examples: ‘Odao,’ (l.2447), ‘Tagala,’ (l.6874, 19059), ‘Asao,’ (l.18715)
+    NumberWord, count: 4, examples: 10de, (l.3231), 14de, (l.5946), 7de, (l.21293), 24de, (l.22088)
+    Word’, count: 4, examples: walao’, (l.10164), dabe’, (l.18868), kegalio’, (l.29165), dao’, (l.29166)
+    Word,. count: 4, examples: koneama,. (l.14683), pedelaibao,. (l.23322), pali,. (l.25081, 27739)
+    Number,Number,Number count: 3, examples: 3,000,000 (l.9948), 1,100,000 (l.10944), 1,000,000 (l.11489)
+    Word?’, count: 3, examples: hwįagasaibawe?’, (l.19522), ponaniwe?’, (l.19588, 19590)
+    Number,Number. count: 2, examples: 180,000. (l.9175), 7,000. (l.10222)
+    Word,, count: 2, examples: sali,, (l.9949), pelama,, (l.11363)
+    Word.,” count: 2, examples: da.,” (l.18703), pao.,” (l.24165)
+    WordNumber, count: 1, example: K300, (l.2110)
+    WordNumber,Number count: 1, example: K1,000 (l.5491)
+    Number,Number; count: 1, example: 300,000; (l.11488)
+    Word), count: 1, example: poai), (l.25229)
+    (Word, count: 1, example: (Tialima, (l.26227)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Number-Word count: 3, example: 7-pela (l.22082, 22083)
+    (-) count: 1, line: 28558
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 67966, examples: ebeo. (l.1), Menio. (l.1), elaluali. (l.2), yai. (l.2), wai. (l.3)
+    Word.” count: 1737, examples: ulade.” (l.5), dao.” (l.10, 68), poali.” (l.54), salio.” (l.81)
+    Word.’ count: 344, examples: saibao.’ (l.104), yao.’ (l.301), yaibao.’ (l.444, 636), ulu.’ (l.654)
+    “Word. count: 123, examples: “Tegobeo. (l.60), “Menio. (l.95, 460), “Odao. (l.388), “Awe. (l.417)
+    Word.’” count: 87, examples: bidai.’” (l.1844), dolaibao.’” (l.1930), yaibao.’” (l.2753, 2758), ebeo.’” (l.3061)
+    Word.) count: 32, examples: dao.) (l.329, 1990, 4952), poali.) (l.689), muani.) (l.1984)
+    ‘Word. count: 10, examples: ‘Suao. (l.886, 13270), ‘Hobedeo. (l.4935), ‘Tagalao. (l.7474, 19163)
+    Word.] count: 9, examples: sogobeo.] (l.24651, 24653), dao.] (l.24962), wali.] (l.25756), tiwai.] (l.25977)
+    “Word.” count: 6, examples: “Awe.” (l.752, 23659), “Barabas.” (l.24219), “Mariao.” (l.26952), “Asao.” (l.27168)
+    Word,. count: 4, examples: koneama,. (l.14683), pedelaibao,. (l.23322), pali,. (l.25081, 27739)
+    Word.]” count: 4, examples: Menio.]” (l.23790), dao.]” (l.23807), pedalaibao.]” (l.23939), menio.]” (l.24001)
+    Word.Word count: 3, examples: bulu.badu (l.3450), tagalai.yabo (l.23500), konesiąbadi.tama (l.24065)
+    Word’. count: 3, examples: pa’. (l.17880), Menio’. (l.22169, 22172)
+    Word.”] count: 3, examples: odiąo.”] (l.24548), sagobeo.”] (l.24735), nedali.”] (l.24923)
+    Number,Number. count: 2, examples: 180,000. (l.9175), 7,000. (l.10222)
+    Word.,” count: 2, examples: da.,” (l.18703), pao.,” (l.24165)
+    Word?. count: 2, examples: agawe?. (l.25447), saibawe?. (l.25627)
+    Number. count: 2, examples: 800. (l.25696), 276. (l.27960)
+    Word.”) count: 2, examples: dao.”) (l.27011), sogode.”) (l.31038)
+    ‘Word.’ count: 1, example: ‘Jekop.’ (l.885)
+    Word.]’ count: 1, example: dao.]’ (l.23364)
+    Word.”’” count: 1, example: pedalalio.”’” (l.27529)
+    Word). count: 1, example: Adam). (l.27618)
+    Word.”. count: 1, example: wali.”. (l.30346)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 304, examples: wai: (l.1534), dao: (l.1592, 4080, 4196), tiao: (l.3947)
+    Number:NumberWord count: 1, example: 8:1a (l.27245)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Number; count: 7, examples: 3; (l.4309, 4685, 5064), 7; (l.4431), 9; (l.4636)
+    Number,Number; count: 1, example: 300,000; (l.11488)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 2041, examples: dawe? (l.57), waliwe? (l.67), ebawe? (l.86), pedelaliwe? (l.86), yaliwe? (l.89)
+    Word?” count: 831, examples: selaliwe?” (l.57), bidibawe?” (l.65), dawe?” (l.67), yaliwe?” (l.69), bidibowe?” (l.89)
+    Word?’ count: 127, examples: egowe?’ (l.415), yaibawe?’ (l.437), naibawe?’ (l.438), yagawe?’ (l.631), dawe?’ (l.639)
+    Word?’” count: 5, examples: obawe?’” (l.8439), momainuwe?’” (l.9620), isąbawe?’” (l.18859), tonaluaibawe?’” (l.25283), saibawe?’” (l.25548)
+    Word?’, count: 3, examples: hwįagasaibawe?’, (l.19522), ponaniwe?’, (l.19588, 19590)
+    Word?. count: 2, examples: agawe?. (l.25447), saibawe?. (l.25627)
+    “Word? count: 1, example: “Odaliwe? (l.26293)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 1607, examples: ‘Dage (l.59), ‘Te (l.62, 104), ‘Boi (l.90), ‘Eno (l.301)
+    ‘Word, count: 121, examples: ‘Tiyu, (l.507), ‘Ae, (l.606, 637), ‘Yawe, (l.634), ‘Awe, (l.949)
+    “‘Word count: 95, examples: “‘Te (l.2748, 2749), “‘Tama (l.2752), “‘Bidi (l.2756), “‘Tialima (l.2758)
+    ‘Word’ count: 14, examples: ‘we’ (l.54), ‘Menio’ (l.6621), ‘Nedao’ (l.21969), ‘Dagalao’ (l.21970), ‘Pedao’ (l.21971)
+    ‘Word. count: 10, examples: ‘Suao. (l.886, 13270), ‘Hobedeo. (l.4935), ‘Tagalao. (l.7474, 19163)
+    “‘Word, count: 10, examples: “‘Tialima, (l.4633, 5606, 9540), “‘Ena, (l.8191), “‘Awe, (l.9541)
+    ‘Word,’ count: 4, examples: ‘Odao,’ (l.2447), ‘Tagala,’ (l.6874, 19059), ‘Asao,’ (l.18715)
+    ‘Word! count: 3, examples: ‘Tegoba! (l.5012), ‘Suao! (l.22788), ‘Odao! (l.30167)
+    ‘Word.’ count: 1, example: ‘Jekop.’ (l.885)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word,’ count: 1073, examples: isabuo,’ (l.59), yaibao,’ (l.62), muao,’ (l.90), da,’ (l.311, 312)
+    Word.’ count: 344, examples: saibao.’ (l.104), yao.’ (l.301), yaibao.’ (l.444, 636), ulu.’ (l.654)
+    Word’ count: 132, examples: bidi’ (l.764), elalugowe’ (l.5130), wabowe’ (l.5272), hwįagasao’ (l.6785), paibao’ (l.9712)
+    Word?’ count: 127, examples: egowe?’ (l.415), yaibawe?’ (l.437), naibawe?’ (l.438), yagawe?’ (l.631), dawe?’ (l.639)
+    Word.’” count: 87, examples: bidai.’” (l.1844), dolaibao.’” (l.1930), yaibao.’” (l.2753, 2758), ebeo.’” (l.3061)
+    Word,’” count: 46, examples: sąyao,’” (l.2751, 2757), asao,’” (l.2760), yaibao,’” (l.2763), dao,’” (l.3076)
+    ‘Word’ count: 14, examples: ‘we’ (l.54), ‘Menio’ (l.6621), ‘Nedao’ (l.21969), ‘Dagalao’ (l.21970), ‘Pedao’ (l.21971)
+    ’ count: 13, lines: 1524, 1597, 19732, 20130, 24539
+    Word!’ count: 5, examples: yalio!’ (l.1330), dao!’ (l.6448, 19578), tiali!’ (l.6698), piąo!’ (l.6699)
+    Word?’” count: 5, examples: obawe?’” (l.8439), momainuwe?’” (l.9620), isąbawe?’” (l.18859), tonaluaibawe?’” (l.25283), saibawe?’” (l.25548)
+    ‘Word,’ count: 4, examples: ‘Odao,’ (l.2447), ‘Tagala,’ (l.6874, 19059), ‘Asao,’ (l.18715)
+    Word’, count: 4, examples: walao’, (l.10164), dabe’, (l.18868), kegalio’, (l.29165), dao’, (l.29166)
+    Word’. count: 3, examples: pa’. (l.17880), Menio’. (l.22169, 22172)
+    Word?’, count: 3, examples: hwįagasaibawe?’, (l.19522), ponaniwe?’, (l.19588, 19590)
+    ‘Word.’ count: 1, example: ‘Jekop.’ (l.885)
+    Word!’” count: 1, example: pao!’” (l.6637)
+    Word.]’ count: 1, example: dao.]’ (l.23364)
+    Word.”’” count: 1, example: pedalalio.”’” (l.27529)

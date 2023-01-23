@@ -1,0 +1,219 @@
+OVERVIEW:
+File size: 41899 lines, 1287574 characters
+Letter scripts: 1
+    LATIN (857956 instances)
+Number scripts: 1
+    ASCII_DIGIT (29 instances): 012345678
+Other character groups: 4
+    SPACE (206470 instances)
+    COMBINING_DIACRITICAL_MARKS (149704 instances):  ́
+    ASCII_PUNCTUATION (26718 instances): !()*,-.:;?[]
+    GENERAL_PUNCTUATION (4700 instances): ‘’“”
+Non-canonical character combinations: 11
+
+DETAILS:
+Non-canonical character combinations: 11
+    Non-canonical: Á (NFD, A + ́, count: 784)  Canonical: Á (NFC, Á, count: 0)
+    Non-canonical: Ḿ (NFD, M + ́, count: 1)  Canonical: Ḿ (NFC, Ḿ, count: 0)
+    Non-canonical: Ń (NFD, N + ́, count: 1)  Canonical: Ń (NFC, Ń, count: 0)
+    Non-canonical: Ú (NFD, U + ́, count: 1)  Canonical: Ú (NFC, Ú, count: 0)
+    Non-canonical: á (NFD, a + ́, count: 28063)  Canonical: á (NFC, á, count: 0)
+    Non-canonical: é (NFD, e + ́, count: 47958)  Canonical: é (NFC, é, count: 0)
+    Non-canonical: ǵ (NFD, g + ́, count: 1)  Canonical: ǵ (NFC, ǵ, count: 0)
+    Non-canonical: í (NFD, i + ́, count: 3143)  Canonical: í (NFC, í, count: 0)
+    Non-canonical: ń (NFD, n + ́, count: 5)  Canonical: ń (NFC, ń, count: 0)
+    Non-canonical: ó (NFD, o + ́, count: 13679)  Canonical: ó (NFC, ó, count: 0)
+    Non-canonical: ú (NFD, u + ́, count: 15029)  Canonical: ú (NFC, ú, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 107, lines: 23268, 23407, 23408, 23412, 23440
+    ( U+0028 LEFT PARENTHESIS count: 37, lines: 23488, 23511, 24041, 24160, 24387
+    ) U+0029 RIGHT PARENTHESIS count: 37, lines: 23488, 23511, 24041, 24160, 24387
+    * U+002A ASTERISK count: 108, lines: 23380, 24967, 24989, 25038, 25042
+    , U+002C COMMA count: 13330, lines: 23214, 23215, 23216, 23217, 23218
+    - U+002D HYPHEN-MINUS count: 19, lines: 23536, 23763, 24193, 24249, 24891
+    . U+002E FULL STOP count: 11977, lines: 23214, 23215, 23216, 23217, 23218
+    : U+003A COLON count: 107, lines: 23284, 23305, 24091, 24187, 25008
+    ; U+003B SEMICOLON count: 44, lines: 23306, 23350, 23409, 23411, 23828
+    ? U+003F QUESTION MARK count: 926, lines: 23240, 23242, 23268, 23275, 23316
+    [ U+005B LEFT SQUARE BRACKET count: 13, lines: 23790, 23939, 24951, 25756, 25952
+    ] U+005D RIGHT SQUARE BRACKET count: 13, lines: 23790, 23939, 24962, 25756, 25953
+GENERAL_PUNCTUATION characters:
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 330, lines: 23264, 23284, 23285, 23288, 23389
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 330, lines: 23264, 23284, 23285, 23288, 23389
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 2112, lines: 23233, 23236, 23240, 23242, 23243
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 1928, lines: 23234, 23236, 23240, 23242, 23243
+SPACE characters:
+      U+0020 SPACE count: 206470, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 7, examples: 000 (l.27059), 450 (l.27451), 500 (l.28792), 430 (l.29186)
+    1 U+0031 DIGIT ONE count: 4, examples: 153 (l.26978), 31 (l.30313), 118 (l.30314)
+    2 U+0032 DIGIT TWO count: 1, example: 276 (l.27960)
+    3 U+0033 DIGIT THREE count: 4, examples: 153 (l.26978), 3 (l.27059), 430 (l.29186), 31 (l.30313)
+    4 U+0034 DIGIT FOUR count: 2, examples: 450 (l.27451), 430 (l.29186)
+    5 U+0035 DIGIT FIVE count: 3, examples: 153 (l.26978), 450 (l.27451), 500 (l.28792)
+    6 U+0036 DIGIT SIX count: 6, examples: 276 (l.27960), 6 (l.30313, 30314), 666 (l.30995)
+    7 U+0037 DIGIT SEVEN count: 1, example: 276 (l.27960)
+    8 U+0038 DIGIT EIGHT count: 1, example: 118 (l.30314)
+COMBINING_DIACRITICAL_MARKS characters:
+     ́ U+0301 COMBINING ACUTE ACCENT count: 149704, examples: Gɛ́ (l.23214), ukwéne (l.23214), mpyáne (l.23214), aŋmɛ́ (l.23215), bií (l.23215)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 2877, examples: Abraham (l.23214, 23215), Asek (l.23215), Aminadab (l.23217), Abija (l.23220)
+    B U+0042 LATIN CAPITAL LETTER B count: 730, examples: Boas (l.23218), Babilɔn (l.23224, 23225, 23230), Bɛtɛlɛhɛm (l.23239)
+    C U+0043 LATIN CAPITAL LETTER C count: 139, examples: Chóge (l.23246, 23461), Chyɛgé (l.23362), Chó (l.23418, 23423)
+    D U+0044 LATIN CAPITAL LETTER D count: 531, examples: Dɛvid (l.23214, 23219, 23230, 23233), Déjyɛgé (l.23251)
+    E U+0045 LATIN CAPITAL LETTER E count: 2, examples: Epafrudytus (l.29483), Eeh (l.31028)
+    F U+0046 LATIN CAPITAL LETTER F count: 235, example: Farasi (l.23268, 23323, 23459, 23462, 23482)
+    G U+0047 LATIN CAPITAL LETTER G count: 1065, examples: Gɛ́ (l.23214), Gébégé (l.23224), Getu (l.23234), Gárege (l.23245), Galilií (l.23260)
+    H U+0048 LATIN CAPITAL LETTER H count: 112, examples: Hɛsrɔn (l.23216), Hɛsɛkya (l.23222, 23223), Hɛrɔd (l.23239, 23241)
+    I U+0049 LATIN CAPITAL LETTER I count: 178, examples: Isrɛli (l.23224, 23244), Ijip (l.23251, 23252, 23253)
+    J U+004A LATIN CAPITAL LETTER J count: 3920, examples: Jisɔs (l.23214), Jakɔb (l.23215), Juda (l.23215, 23216), Jɛsse (l.23218)
+    K U+004B LATIN CAPITAL LETTER K count: 1057, examples: Kras (l.23214, 23230, 23231, 23242), Kwílé (l.23251)
+    L U+004C LATIN CAPITAL LETTER L count: 124, examples: Lɛ́ré (l.23389), Lyáge (l.23845), Lɛrege (l.23960), Lɛ́régé (l.24284), Lyage (l.24299)
+    M U+004D LATIN CAPITAL LETTER M count: 3026, examples: Manasɛ (l.23223), Matan (l.23228), Mɛri (l.23229), Muú (l.23229), Mmyɛ (l.23230)
+    N U+004E LATIN CAPITAL LETTER N count: 4236, examples: Ne (l.23216, 23217, 23219, 23220), Nashyɔn (l.23217)
+    O U+004F LATIN CAPITAL LETTER O count: 19, examples: Obɛd (l.23218), Olif (l.23896, 24029, 24153, 24710)
+    P U+0050 LATIN CAPITAL LETTER P count: 788, examples: Pɛrɛs (l.23216), Pita (l.23296), Pɔ́ (l.23349), Pyɛ (l.23361), Pɛ́ge (l.23377)
+    R U+0052 LATIN CAPITAL LETTER R count: 103, examples: Ram (l.23216, 23217), Rahab (l.23218), Rut (l.23218), Rehoboam (l.23220)
+    S U+0053 LATIN CAPITAL LETTER S count: 508, examples: Sɛra (l.23216), Salmɔn (l.23217, 23218), Solomun (l.23219, 23220)
+    T U+0054 LATIN CAPITAL LETTER T count: 306, examples: Tama (l.23216), Tɛ́nétɛ́né (l.23277, 23417, 23429), Tɛnétɛné (l.23298)
+    U U+0055 LATIN CAPITAL LETTER U count: 469, examples: Uriya (l.23219), Usiya (l.23221, 23222), Ukpea (l.23231, 23233)
+    W U+0057 LATIN CAPITAL LETTER W count: 381, examples: Wuúge (l.23236), Wɔ (l.23244, 23325, 23390), Wyɛmbɔ (l.23319)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 1006, examples: Yɛ́mbɔ (l.23238, 23260, 23272), Yɛ́ndémuú (l.23269), Yɛ (l.23271)
+    a U+0061 LATIN SMALL LETTER A count: 93383, examples: mabɔ (l.23214), antɛ (l.23214), Kras (l.23214), mpyáne (l.23214), mfwa (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 37064, examples: mabɔ (l.23214), Abraham (l.23214, 23215), Jakɔb (l.23215), bií (l.23215)
+    c U+0063 LATIN SMALL LETTER C count: 6240, examples: cho (l.23232), manchyɛ (l.23232), ɛ́chwɔ́ (l.23233), achwɔɔ́ (l.23234), áchwɔ́ɔ (l.23239)
+    d U+0064 LATIN SMALL LETTER D count: 13783, examples: Dɛvid (l.23214), Juda (l.23215, 23216), ande (l.23215), Aminadab (l.23217)
+    e U+0065 LATIN SMALL LETTER E count: 113125, examples: ukwéne (l.23214), mpyáne (l.23214), Asek (l.23215), ne (l.23215), ande (l.23215)
+    f U+0066 LATIN SMALL LETTER F count: 9629, examples: mfwa (l.23214, 23219), Jɛhoshafa (l.23221), Jehoshafa (l.23221), Josɛf (l.23229)
+    g U+0067 LATIN SMALL LETTER G count: 36001, examples: akamege (l.23216, 23218), Gébégé (l.23224), Ájyɛgé (l.23225), gefwa (l.23229)
+    h U+0068 LATIN SMALL LETTER H count: 8387, examples: Abraham (l.23214, 23215), Nashyɔn (l.23217), Rahab (l.23218), Rehoboam (l.23220)
+    i U+0069 LATIN SMALL LETTER I count: 29448, examples: Jisɔs (l.23214), Dɛvid (l.23214), bií (l.23215), abi (l.23215), Aminadab (l.23217)
+    j U+006A LATIN SMALL LETTER J count: 11300, examples: Abija (l.23220), ájyɛ (l.23224), Ájyɛgé (l.23225), ji (l.23229), ájyɛ́ (l.23230)
+    k U+006B LATIN SMALL LETTER K count: 20374, examples: ukwéne (l.23214), Asek (l.23215), Jakɔb (l.23215), akamege (l.23216, 23218)
+    l U+006C LATIN SMALL LETTER L count: 20667, examples: alu (l.23215, 23216, 23217), Salmɔn (l.23217, 23218)
+    m U+006D LATIN SMALL LETTER M count: 49154, examples: mabɔ (l.23214), mpyáne (l.23214), mfwa (l.23214), Abraham (l.23214, 23215)
+    n U+006E LATIN SMALL LETTER N count: 66154, examples: ukwéne (l.23214), antɛ (l.23214), mpyáne (l.23214), ntɛ (l.23215), ne (l.23215)
+    o U+006F LATIN SMALL LETTER O count: 23448, examples: Boas (l.23218), Solomun (l.23219, 23220), Rehoboam (l.23220), Jɛhoshafa (l.23221)
+    p U+0070 LATIN SMALL LETTER P count: 12803, examples: mpyáne (l.23214), ápyɛné (l.23224), upyáne (l.23230), kpaá (l.23230), akpɛ (l.23231)
+    r U+0072 LATIN SMALL LETTER R count: 8806, examples: Kras (l.23214), Abraham (l.23214, 23215), Pɛrɛs (l.23216), Sɛra (l.23216)
+    s U+0073 LATIN SMALL LETTER S count: 19593, examples: Jisɔs (l.23214), Kras (l.23214), Asek (l.23215), Pɛrɛs (l.23216), Hɛsrɔn (l.23216)
+    t U+0074 LATIN SMALL LETTER T count: 13354, examples: antɛ (l.23214), ntɛ (l.23215, 23216, 23217, 23218)
+    u U+0075 LATIN SMALL LETTER U count: 34194, examples: ukwéne (l.23214), alu (l.23215, 23216), Juda (l.23215, 23216)
+    v U+0076 LATIN SMALL LETTER V count: 324, examples: Dɛvid (l.23214, 23219, 23230, 23233), ɛkpávé (l.23235)
+    w U+0077 LATIN SMALL LETTER W count: 28975, examples: ŋwɛ (l.23214), ukwéne (l.23214), mfwa (l.23214, 23219), bwɔ́ (l.23216)
+    y U+0079 LATIN SMALL LETTER Y count: 35187, examples: mpyáne (l.23214), Nashyɔn (l.23217), Uriya (l.23219), Usiya (l.23221, 23222)
+LATIN_EXTENDED_A characters:
+    Ŋ U+014A LATIN CAPITAL LETTER ENG count: 29, examples: Ŋgba (l.23285), Ŋwɛ (l.23565), Ŋmɛɛ́ (l.24398), Ŋmogétá (l.25581), Ŋka (l.25698)
+    ŋ U+014B LATIN SMALL LETTER ENG count: 3201, examples: ŋwɛ (l.23214), aŋmɛ́ (l.23215, 23224), ŋmɛɛ́ (l.23239, 23240)
+LATIN_EXTENDED_B characters:
+    Ɔ U+0186 LATIN CAPITAL LETTER OPEN O count: 144, examples: Ɔbɔ́ (l.23288), Ɔ́kamégé (l.23364), Ɔgɛgé (l.23400), Ɔchwɔ́ (l.23443), Ɔ́nené (l.23553)
+    Ɛ U+0190 LATIN CAPITAL LETTER OPEN E count: 6462, examples: Ɛmɔs (l.23223), Ɛliakim (l.23226), Ɛliud (l.23227, 23228), Ɛliassa (l.23228)
+LATIN characters:
+    ɔ U+0254 LATIN SMALL LETTER OPEN O count: 68311, examples: mabɔ (l.23214), Jisɔs (l.23214), Jakɔb (l.23215), bwɔ́ (l.23216), Hɛsrɔn (l.23216)
+    ɛ U+025B LATIN SMALL LETTER OPEN E count: 66604, examples: Gɛ́ (l.23214), ŋwɛ (l.23214), antɛ (l.23214), Dɛvid (l.23214), ntɛ (l.23215)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 61, examples: mmyɔ! (l.23268), Ata! (l.23407), átɛ́né! (l.23440), yɛ! (l.23570), Dɛvid! (l.23904)
+    Word!” count: 18, examples: kpakpa!” (l.23412), meshwɛ!” (l.23891), mbaá!” (l.23894), mfaá!” (l.23904), wyɛɛ́!” (l.23908)
+    Word!’ count: 15, examples: ɛnyú!’ (l.23408), byɛ!’ (l.23825), ŋmɛɛ́!’ (l.23873), jií!’ (l.23933), se!’ (l.23937)
+    “Word! count: 7, examples: “Wuúge! (l.24395), “Wuúgé! (l.25076), “Fwɔregé! (l.25322), “Ntɛ! (l.28199), “Ɛɛh! (l.28885)
+    Word!’” count: 3, examples: cho!’” (l.24287), ya!’” (l.24539), Atá!’” (l.25622)
+    “Word-Word! count: 2, examples: “Cha-o! (l.23763), “Chaá-ó! (l.25990)
+    Word-Word!” count: 1, example: detuú-o!” (l.25991)
+TOKENS WITH * (U+002A ASTERISK):
+    *Word count: 91, examples: *Solomun (l.23380), *Muú (l.25038), *Mfwa (l.25043), *Ɛkiɛ́nné (l.25051), *nsɔ́ (l.25063)
+    *Word. count: 10, examples: *Ɛrɔn. (l.24967), *Dɛvid. (l.24989), *Isrɛli. (l.25042), *Rom. (l.25043, 25095)
+    *Word, count: 5, examples: *mashwɔne, (l.25042), *Isrɛli, (l.25046), *mashwɔ́né, (l.25095), *Ɛlija, (l.25400), *Abraham, (l.25713)
+    “*Word count: 2, examples: “*Jɔn (l.25284), “*Maá (l.25392)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 13138, examples: Dɛvid, (l.23214), Asek, (l.23215), Jakɔb, (l.23215), Sɛra, (l.23216), Hɛsrɔn, (l.23216)
+    “Word, count: 113, examples: “Wuúge, (l.23236), “Josɛf, (l.23251, 23258), “Ŋgba, (l.23285), “Ménlɛré, (l.23433)
+    Word,” count: 18, examples: ntamé,” (l.24172, 24868), makpo,” (l.26037), melɔ́mélɔ́,” (l.26409), ji,” (l.26518)
+    ‘Word, count: 17, examples: ‘Wuúgé, (l.23538, 24286), ‘Ngba, (l.23637), ‘Ata, (l.23822), ‘Ntɛ, (l.23825)
+    Word’, count: 12, examples: wɔ’, (l.23284), Ata’, (l.23406), wyɛ́’, (l.23453), mega’, (l.23916), né’, (l.24049)
+    Word,’ count: 12, examples: yicha,’ (l.23789), fana,’ (l.24049), wyɛ́,’ (l.24338), mega,’ (l.24732), bí,’ (l.24740)
+    Word”, count: 9, examples: nyáme”, (l.23892), fɔ́”, (l.23928), menɔ”, (l.26242), wɔ”, (l.26547), wuú”, (l.28113)
+    *Word, count: 5, examples: *mashwɔne, (l.25042), *Isrɛli, (l.25046), *mashwɔ́né, (l.25095), *Ɛlija, (l.25400), *Abraham, (l.25713)
+    ‘Word’, count: 3, examples: ‘Ntɛ́’, (l.23996), ‘Ata’, (l.23997), ‘Gejamé’, (l.24442)
+    ‘Word,’ count: 1, example: ‘Ménlɛré,’ (l.23995)
+    , count: 1, line: 25466
+    Word?’, count: 1, example: yimbɔ?’, (l.25831)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word. count: 3, examples: Chyaá-o. (l.23536), Ba-Jisɔs. (l.27437), Cha-o. (l.28237)
+    “Word-Word! count: 2, examples: “Cha-o! (l.23763), “Chaá-ó! (l.25990)
+    “Word-Word count: 2, example: “Chaá-ó (l.24193, 24891)
+    Word-Word-Word-Word count: 2, example: gba-ra-ra-ra (l.24249, 24933)
+    Word-Word-Word count: 2, example: h-ɛ-m (l.24932, 26050)
+    Word-Word!” count: 1, example: detuú-o!” (l.25991)
+    Word-Word count: 1, example: Ba-Jisɔs (l.27438)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 10251, examples: Abraham. (l.23214), ande. (l.23215), Tama. (l.23216), Ram. (l.23216), Salmɔn. (l.23217)
+    Word.” count: 1401, examples: Jisɔs.” (l.23234), Ɛmanuɛl.” (l.23236), ɛsé.” (l.23236), ji.” (l.23240), Judiya.” (l.23243)
+    Word.’ count: 160, examples: ɛnyú.’ (l.23498), nlu.’ (l.23602), ápó.’ (l.23623), mimbɔ.’ (l.23636), wyɛ.’ (l.23706)
+    Word.’” count: 40, examples: ntaá.’” (l.23284), genó.’” (l.23285), defwɛ.’” (l.23288), manlí.’” (l.23545), gélálé.’” (l.23638)
+    Word”. count: 25, examples: nchyɛ”. (l.23482), áwú”. (l.23617), ɔ́”. (l.23692), yɛ́ndégébé”. (l.23757), mbɔ”. (l.24222)
+    Word’. count: 16, examples: wuú’. (l.23565), kwé’. (l.23744), wyɛ’. (l.24542), Jakɔb’. (l.24768), ɔ́gílé’. (l.24820)
+    Word’.” count: 14, examples: cho’.” (l.23264), wyɛ’.” (l.23538), wɔ’.” (l.23911), defwɛ’.” (l.25140), ula’.” (l.25324)
+    Word.] count: 12, examples: mmyɛmenɛne.] (l.23790), yilé.] (l.23939), wáwálé.] (l.24962), ayifɔ.] (l.25756), ɛnyú.] (l.25953)
+    Word.) count: 12, examples: ɛchwɔɔ́.) (l.24800), wá.) (l.26023), ɛtárávɛ́.) (l.26155), denɔ.) (l.26213), negbo.) (l.26945)
+    *Word. count: 10, examples: *Ɛrɔn. (l.24967), *Dɛvid. (l.24989), *Isrɛli. (l.25042), *Rom. (l.25043, 25095)
+    “Word.” count: 8, examples: “Achyɛge.” (l.23794), “Ngba.” (l.26134), “Nard.” (l.26652), “Kɔnɛlyos.” (l.27331), “Ɛh.” (l.27799)
+    Word). count: 6, examples: ula). (l.24041), menlɛré). (l.26151), átɔ). (l.26516), ajɔ́gé). (l.28064), ayifɔ). (l.29376)
+    Word-Word. count: 3, examples: Chyaá-o. (l.23536), Ba-Jisɔs. (l.27437), Cha-o. (l.28237)
+    (Number). count: 3, examples: (153). (l.26978), (276). (l.27960), (500). (l.28792)
+    “Word. count: 2, example: “Défɔgé. (l.24269, 24948)
+    “Word.”) count: 2, examples: “Golgota.”) (l.26911), “Ménlɛré.”) (l.26952)
+    (Word. count: 2, examples: (Det. (l.30313), (Ps. (l.30314)
+    ‘Word.’ count: 1, example: ‘Anlɛré.’ (l.23994)
+    Word.”) count: 1, example: nchyɛ.”) (l.24387)
+    “Word”. count: 1, example: “Néné”. (l.24566)
+    Word.’? count: 1, example: mako.’? (l.24726)
+    Word”.’ count: 1, example: ubeé”.’ (l.25298)
+    “Word”.) count: 1, example: “Gabata”.) (l.26907)
+    (Number.Number) count: 1, example: (3.000) (l.27059)
+    Word”.] count: 1, example: Ɛsɔwɔ”.] (l.27282)
+    ‘Word. count: 1, example: ‘Wuge. (l.27472)
+    Word).” count: 1, example: álɛrege).” (l.31094)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 105, examples: nnó: (l.23284, 24187), aké: (l.23305, 25008), na: (l.24091)
+    Number:Number) count: 2, examples: 31:6) (l.30313), 118:6) (l.30314)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 43, examples: genó; (l.23306), Jus; (l.23350), ɛtárávɛ́; (l.23409), ákɛ́lege; (l.23411), me; (l.23828)
+    Word”; count: 1, example: geŋwá”; (l.28831)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 548, examples: fɔ́? (l.23240), ukéré? (l.23316), wyɛɛ́? (l.23349), apyɛɛ́? (l.23349), pyɛ? (l.23350)
+    Word?” count: 315, examples: tɔ́?” (l.23268), wáa?” (l.23275), waá?” (l.23325), ji?” (l.23441), ubeé?” (l.23459)
+    Word?’ count: 27, examples: myɛɛ́?’ (l.23407), wyɛ́?’ (l.23635), mimbɔ?’ (l.23636), mbɔ?’ (l.23829, 23867)
+    Word”? count: 23, examples: Kras”? (l.23242), wɔ́”? (l.23443), mbɔ”? (l.23462), makamejɔɔ́”? (l.23618), ya”? (l.24463)
+    Word’? count: 8, examples: kɛ’? (l.23453, 25199), nnó’? (l.25480, 25696), ɔnyɛ́’? (l.25727)
+    Word?’” count: 3, examples: ayichá?’” (l.25284), wa?’” (l.25548), nnó?’” (l.26472)
+    Word.’? count: 1, example: mako.’? (l.24726)
+    Word?’, count: 1, example: yimbɔ?’, (l.25831)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 306, examples: ‘Kwyɛge (l.23264), ‘Ɛsɔwɔ (l.23284), ‘Ágbárege (l.23284), ‘Mekwaá (l.23285), ‘Ɔbɔ́ (l.23288)
+    ‘Word, count: 17, examples: ‘Wuúgé, (l.23538, 24286), ‘Ngba, (l.23637), ‘Ata, (l.23822), ‘Ntɛ, (l.23825)
+    ‘Word’, count: 3, examples: ‘Ntɛ́’, (l.23996), ‘Ata’, (l.23997), ‘Gejamé’, (l.24442)
+    ‘Word.’ count: 1, example: ‘Anlɛré.’ (l.23994)
+    ‘Word,’ count: 1, example: ‘Ménlɛré,’ (l.23995)
+    ‘Word. count: 1, example: ‘Wuge. (l.27472)
+    ‘Word’ count: 1, example: ‘burup’ (l.31003)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word.’ count: 160, examples: ɛnyú.’ (l.23498), nlu.’ (l.23602), ápó.’ (l.23623), mimbɔ.’ (l.23636), wyɛ.’ (l.23706)
+    Word.’” count: 40, examples: ntaá.’” (l.23284), genó.’” (l.23285), defwɛ.’” (l.23288), manlí.’” (l.23545), gélálé.’” (l.23638)
+    Word?’ count: 27, examples: myɛɛ́?’ (l.23407), wyɛ́?’ (l.23635), mimbɔ?’ (l.23636), mbɔ?’ (l.23829, 23867)
+    Word’. count: 16, examples: wuú’. (l.23565), kwé’. (l.23744), wyɛ’. (l.24542), Jakɔb’. (l.24768), ɔ́gílé’. (l.24820)
+    Word!’ count: 15, examples: ɛnyú!’ (l.23408), byɛ!’ (l.23825), ŋmɛɛ́!’ (l.23873), jií!’ (l.23933), se!’ (l.23937)
+    Word’.” count: 14, examples: cho’.” (l.23264), wyɛ’.” (l.23538), wɔ’.” (l.23911), defwɛ’.” (l.25140), ula’.” (l.25324)
+    Word’, count: 12, examples: wɔ’, (l.23284), Ata’, (l.23406), wyɛ́’, (l.23453), mega’, (l.23916), né’, (l.24049)
+    Word,’ count: 12, examples: yicha,’ (l.23789), fana,’ (l.24049), wyɛ́,’ (l.24338), mega,’ (l.24732), bí,’ (l.24740)
+    Word’ count: 11, examples: dambɔɔ́nnyi’ (l.23389), áchyɛ’ (l.23921), fɔ́’ (l.23924), nlú’ (l.24792), yina’ (l.25437)
+    Word’? count: 8, examples: kɛ’? (l.23453, 25199), nnó’? (l.25480, 25696), ɔnyɛ́’? (l.25727)
+    ‘Word’, count: 3, examples: ‘Ntɛ́’, (l.23996), ‘Ata’, (l.23997), ‘Gejamé’, (l.24442)
+    Word!’” count: 3, examples: cho!’” (l.24287), ya!’” (l.24539), Atá!’” (l.25622)
+    Word?’” count: 3, examples: ayichá?’” (l.25284), wa?’” (l.25548), nnó?’” (l.26472)
+    ‘Word.’ count: 1, example: ‘Anlɛré.’ (l.23994)
+    ‘Word,’ count: 1, example: ‘Ménlɛré,’ (l.23995)
+    Word.’? count: 1, example: mako.’? (l.24726)
+    Word”.’ count: 1, example: ubeé”.’ (l.25298)
+    Word?’, count: 1, example: yimbɔ?’, (l.25831)
+    ‘Word’ count: 1, example: ‘burup’ (l.31003)

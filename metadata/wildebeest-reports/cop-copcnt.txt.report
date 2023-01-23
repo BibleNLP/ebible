@@ -1,0 +1,251 @@
+OVERVIEW:
+File size: 41899 lines, 898813 characters
+Letter scripts: 2
+    COPTIC (575143 instances)
+    GREEK (81539 instances): ϣϥϦϧϨϩϫϭϯ
+Number scripts: 0
+Other character groups: 6
+    SPACE (124042 instances)
+    COPTIC_PUNCTUATION (60599 instances): ⳿
+    ASCII_PUNCTUATION (9275 instances): ()-.
+    COMBINING_DIACRITICAL_MARKS (5606 instances):  ̅ ̇ ͞
+    COPTIC (699 instances): ⳧⳪
+    DINGBATS (11 instances): ✠
+Words with characters from multiple scripts: 1 category, 10878 unique types, 67094 instances
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (COPTIC, GREEK):
+    ϣϣⲉ count: 2, lines: 28262, 28263
+    ϣϣⲏⲛ count: 30, lines: 23271, 23402, 23403, 23404, 23591
+    ϣϣⲟⲧ count: 1, line: 24430
+    ϣϥⲁⲓ count: 2, lines: 26807, 30299
+    ϣϥⲱ count: 3, lines: 29821, 29973, 30562
+    ϣϧⲉⲧϧⲱⲧϥ count: 1, line: 28477
+    ϣϧⲱⲛⲧ count: 1, line: 29871
+    ϣϩⲓⲟⲩ count: 1, line: 28218
+    ϣϩⲟⲗⲙⲟⲩ count: 1, line: 26579
+    ϣϩⲱⲡ count: 1, line: 29855
+    ϣϫⲉ count: 2, lines: 23265, 24290
+    ϣϫⲉⲙϫⲟⲙ count: 56, lines: 23316, 23442, 23759, 23785, 23788
+    ϣϫⲉⲙϫⲟⲩ count: 1, line: 24625
+    ϣϫⲏⲟⲩ count: 2, lines: 30911, 30915
+    ϣϫⲟⲙ count: 183, lines: 23270, 23317, 23339, 23375, 23378
+    ϣϫⲟⲙϫⲉⲙ count: 1, line: 27935
+    ϣϭⲛⲏⲛ count: 14, lines: 23577, 24242, 28027, 28038, 28442
+    ϣϭⲟⲣ count: 1, line: 27996
+    ϣϭⲟⲩⲣ count: 1, line: 25679
+    ϣⲁ count: 246, lines: 23230, 23253, 23364, 23508, 23540
+    ϣⲁϣⲓ count: 1, line: 29370
+    ϣⲁϣⲛⲓ count: 1, line: 30126
+    ϣⲁϥ count: 17, lines: 23318, 23423, 23603, 23627, 24407
+    ϣⲁϥϣⲁⲓ count: 1, line: 30565
+    ϣⲁϥϣⲁⲛⲟⲩϣⲥ count: 1, line: 29400
+    ϣⲁϥϣⲉ count: 3, lines: 25272, 25409, 25500
+    ϣⲁϥϣⲉⲛⲁϥ count: 3, lines: 23423, 23601, 23603
+    ϣⲁϥϣⲓ count: 1, line: 24419
+    ϣⲁϥϣⲱⲟⲩ count: 2, lines: 24625, 26774
+    ϣⲁϥϧⲉⲧϧⲉⲧ count: 1, line: 28477
+    ϣⲁϥϩⲉⲓ count: 3, lines: 23784, 25491
+    ϣⲁϥϩⲓⲧϥ count: 1, line: 24629
+    ϣⲁϥϩⲱⲗⲉⲙ count: 1, line: 23627
+    ϣⲁϥϫⲉⲙⲙⲁ count: 1, line: 29911
+    ϣⲁϥϫⲓⲙⲓ count: 2, lines: 23393, 25484
+    ϣⲁϥϫⲟⲣⲟⲩ count: 1, line: 26562
+    ϣⲁϥϫⲟⲥ count: 1, line: 23602
+    ϣⲁϥϫⲱⲣ count: 1, line: 25496
+    ϣⲁϥϭⲓ count: 4, lines: 23393, 25484, 30118, 30138
+    ϣⲁϥϭⲓϭⲣⲟⲡ count: 1, line: 26602
+    ϣⲁϥϭⲓⲥⲓ count: 1, line: 28596
+    ϣⲁϥϭⲣⲟ count: 1, line: 30695
+    ϣⲁϥϯ count: 2, lines: 26561, 28824
+    ϣⲁϥϯⲟⲩⲧⲁϩ count: 1, line: 23631
+    ϣⲁϥⲁⲓϥ count: 2, lines: 23423, 25272
+    ϣⲁϥⲉⲑⲣⲉϥⲉⲛϣⲱⲧ count: 1, line: 28241
+    ϣⲁϥⲉⲛ count: 2, line: 23402
+    ϣⲁϥⲉⲛϥ count: 1, line: 24625
+    ϣⲁϥⲉⲣ count: 4, lines: 23629, 23631
+    ϣⲁϥⲉⲣϩⲩⲡⲟⲙⲟⲛⲓⲛ count: 1, line: 28208
+    ϣⲁϥⲉⲣϩⲱⲃ count: 2, lines: 28212, 28994
+    ϣⲁϥⲉⲣⲁⲅⲁⲡⲁⲛ count: 1, line: 25311
+    ϣⲁϥⲉⲣⲁⲧⲟⲩⲧⲁϩ count: 2, lines: 23630, 24411
+    ϣⲁϥⲉⲣⲑⲁⲗⲡⲓⲛ count: 1, line: 29400
+    ϣⲁϥⲉⲣⲙⲁⲥⲧⲓⲅⲅⲟⲓⲛ count: 1, line: 30285
+    ϣⲁϥⲓⲛⲓ count: 1, line: 25260
+    ϣⲁϥⲙⲟϣⲓ count: 1, line: 26554
+    ϣⲁϥⲙⲟϩ count: 1, line: 24420
+    ϣⲁϥⲙⲟⲩ count: 1, line: 30228
+    ϣⲁϥⲙⲟⲩϯ count: 2, lines: 25663, 26553
+    ϣⲁϥⲛⲁⲓ count: 1, line: 28241
+    ϣⲁϥⲟϩⲓ count: 1, line: 26485
+    ϣⲁϥⲟⲩⲉⲙ count: 1, line: 28350
+    ϣⲁϥⲟⲩⲟϩ count: 1, line: 27065
+    ϣⲁϥⲟⲩⲱⲙ count: 1, line: 29160
+    ϣⲁϥⲟⲩⲱⲣⲡ count: 2, lines: 24421, 25654
+    ϣⲁϥⲣⲁϣⲓ count: 1, line: 23809
+    ϣⲁϥⲥⲁϫⲓ count: 2, lines: 26220, 26494
+    ϣⲁϥⲥⲓⲛⲓ count: 1, line: 25498
+    ϣⲁϥⲥⲱⲧⲉⲙ count: 4, lines: 26497, 26540, 30676, 30705
+    ϣⲁϥⲧⲁⲕⲟ count: 2, lines: 28606, 30418
+    ϣⲁϥⲧⲁⲗⲟϥ count: 1, line: 25662
+    ϣⲁϥⲧⲁⲟⲩ count: 2, line: 23593
+    ϣⲁϥⲧⲟⲩⲃⲟ count: 2, lines: 29819, 30185
+    ϣⲁϥⲧⲟⲩⲃⲟϥ count: 1, line: 30649
+    ϣⲁϥⲫⲱⲛ count: 1, line: 25213
+    ϣⲁϥⲫⲱⲧ count: 1, line: 26562
+    ϣⲁϥⲭⲁ count: 1, line: 26562
+    ϣⲁϥⲭⲱ count: 1, line: 30159
+    ϣⲁϥⲱⲗⲓ count: 2, lines: 25326, 25496
+    ϣⲁϯ count: 5, lines: 25813, 26989, 26990, 30043, 30810
+    ϣⲁϯϫⲟⲥ count: 1, line: 23251
+    ϣⲁϯⲟⲩⲱⲙ count: 1, line: 25728
+    ϣⲁϯⲭⲁ count: 3, lines: 24778, 25891, 27053
+    ϣⲁϯⲭⲱ count: 1, line: 23985
+    ϣⲁⲃⲟⲗ count: 1, line: 30201
+    ϣⲁⲓ count: 3, lines: 23348, 23614, 24944
+    ϣⲁⲓϫⲉⲙⲛⲟⲙϯ count: 1, line: 29100
+    ϣⲁⲓϭⲟϫⲓ count: 1, line: 27902
+    ϣⲁⲓϯ count: 1, line: 30833
+    ϣⲁⲓϯⲱⲡ count: 1, line: 27901
+    ϣⲁⲓⲑⲱⲟⲩϯ count: 1, line: 24103
+    ϣⲁⲓⲥⲁϩⲱⲟⲩ count: 1, line: 30833
+    ϣⲁⲓⲧⲏⲓϥ count: 1, line: 25138
+    ϣⲁⲓⲱⲥϧ count: 1, line: 24103
+    ϣⲁⲕϣⲉ count: 1, line: 26985
+    ϣⲁⲕⲙⲟⲣⲕ count: 1, line: 26985
+    ϣⲁⲛ count: 54, lines: 23453, 23531, 23794, 23876, 23920
+    ϣⲁⲛϣ count: 1, line: 25552
+    ϣⲁⲛϫⲟⲥ count: 1, line: 28067
+    ...
+ASCII_PUNCTUATION characters:
+    ( U+0028 LEFT PARENTHESIS count: 3, lines: 24235, 25529
+    ) U+0029 RIGHT PARENTHESIS count: 1, line: 24235
+    - U+002D HYPHEN-MINUS count: 7, lines: 28446, 28469, 28491, 28520, 28524
+    . U+002E FULL STOP count: 9264, lines: 23214, 23215, 23216, 23217, 23218
+SPACE characters:
+      U+0020 SPACE count: 124042, lines: 23214, 23215, 23216, 23217, 23218
+COMBINING_DIACRITICAL_MARKS characters:
+     ̅ U+0305 COMBINING OVERLINE count: 5024, examples: Ⲓⲏ̅ⲥ̅ (l.23214, 23229), Ⲡⲭ̅ⲥ̅ (l.23214, 23229), ⲓ̅ⲇ̅ (l.23230)
+     ̇ U+0307 COMBINING DOT ABOVE count: 233, examples: Ⲡ̇ϫⲱⲙ (l.23214), Ⲁ̇ⲣⲁⲙ (l.23216, 23217), Ⲁ̇ⲙⲓⲛⲁⲇⲁⲃ (l.23217), Ⲁ̇ⲃⲓ (l.23220)
+     ͞ U+035E COMBINING DOUBLE MACRON count: 349, examples: ⲟⲩⲡ͞ⲛⲁ̅ (l.23231, 23233, 23272), ⲉⲟⲩⲡ͞ⲛⲁ̅ (l.23277), ⲡⲓⲡ͞ⲛⲁ̅ (l.23279)
+GREEK characters:
+    ϣ U+03E3 COPTIC SMALL LETTER SHEI count: 10541, examples: ⲡϣⲏⲣⲓ (l.23214, 23233), ϣⲁ (l.23230), ϥⲟⲩⲱϣ (l.23232), ⲉϣⲉⲡ (l.23233)
+    ϥ U+03E5 COPTIC SMALL LETTER FEI count: 17224, examples: ⲁϥ (l.23215, 23216, 23217, 23218), ⲛⲉϥ (l.23215)
+    Ϧ U+03E6 COPTIC CAPITAL LETTER KHEI count: 1, example: Ϧⲉⲛ (l.28046)
+    ϧ U+03E7 COPTIC SMALL LETTER KHEI count: 7738, examples: ⲉⲃⲟⲗϧⲉⲛ (l.23216, 23218, 23219, 23231), ϧⲉⲛ (l.23233)
+    Ϩ U+03E8 COPTIC CAPITAL LETTER HORI count: 1, example: ϯϨⲩⲇⲟⲩⲙⲉ (l.24365)
+    ϩ U+03E9 COPTIC SMALL LETTER HORI count: 20603, examples: Ⲍⲁⲣⲁϩ (l.23216), ϩⲓ (l.23224), ⲡϩⲁⲓ (l.23229), ⲟⲩⲟϩ (l.23230), ⲡⲉⲥϩⲁⲓ (l.23232)
+    ϫ U+03EB COPTIC SMALL LETTER GANGIA count: 14627, examples: Ⲡ̇ϫⲱⲙ (l.23214), ϫⲫⲉ (l.23215, 23216, 23217, 23218)
+    ϭ U+03ED COPTIC SMALL LETTER SHIMA count: 1630, examples: ⲁϥⲥⲟϭⲛⲓ (l.23232), ⲁϥϭⲓ (l.23252, 23259), ⲛⲉⲥϭⲓ (l.23254), ϭⲓ (l.23258)
+    ϯ U+03EF COPTIC SMALL LETTER DEI count: 9174, examples: ⲉⲧⲟⲩⲙⲟⲩϯ (l.23229), ⲟⲩⲡⲁⲓⲣⲏϯ (l.23231), ⲙⲡⲉⲣⲉⲣϩⲟϯ (l.23233), ⲉⲙⲟⲩϯ (l.23234), ϯⲡⲁⲣⲑⲉⲛⲟⲥ (l.23236)
+DINGBATS characters:
+    ✠ U+2720 MALTESE CROSS count: 11, lines: 23762, 23789, 23843, 24010, 24756
+COPTIC characters:
+    Ⲁ U+2C80 COPTIC CAPITAL LETTER ALFA count: 78, examples: ⲛⲀⲃⲣⲁⲁⲙ (l.23214), Ⲁⲃⲣⲁⲁⲙ (l.23215), Ⲁ̇ⲣⲁⲙ (l.23216, 23217), Ⲁ̇ⲙⲓⲛⲁⲇⲁⲃ (l.23217)
+    ⲁ U+2C81 COPTIC SMALL LETTER ALFA count: 51912, examples: ⲛⲆⲁⲩⲓⲇ (l.23214), ⲛⲀⲃⲣⲁⲁⲙ (l.23214), Ⲁⲃⲣⲁⲁⲙ (l.23215), ⲁϥ (l.23215), Ⲓⲥⲁⲁⲕ (l.23215)
+    Ⲃ U+2C82 COPTIC CAPITAL LETTER VIDA count: 37, examples: Ⲃⲟⲉⲥ (l.23218), Ⲃⲁⲃⲩⲗⲱⲛ (l.23224, 23225, 23230), Ⲃⲏⲑⲗⲉⲉⲙ (l.23239)
+    ⲃ U+2C83 COPTIC SMALL LETTER VIDA count: 10092, examples: ⲛⲀⲃⲣⲁⲁⲙ (l.23214), Ⲁⲃⲣⲁⲁⲙ (l.23215), Ⲓⲁⲕⲱⲃ (l.23215), ⲉⲃⲟⲗϧⲉⲛ (l.23216), Ⲁ̇ⲙⲓⲛⲁⲇⲁⲃ (l.23217)
+    Ⲅ U+2C84 COPTIC CAPITAL LETTER GAMMA count: 47, examples: ϯⲄⲁⲗⲓⲗⲉ (l.23260, 23274, 23293, 23296), ⲉϯⲄⲁⲗⲓⲗⲉ (l.23290)
+    ⲅ U+2C85 COPTIC SMALL LETTER GAMMA count: 2780, examples: ⲟⲩⲁⲅⲅⲉⲗⲟⲥ (l.23233), ⲅⲁⲣ (l.23233, 23234), ⲡⲓⲁⲅⲅⲉⲗⲟⲥ (l.23237), ϩⲁⲛⲙⲁⲅⲟⲥ (l.23239)
+    Ⲇ U+2C86 COPTIC CAPITAL LETTER DALDA count: 41, examples: ⲛⲆⲁⲩⲓⲇ (l.23214, 23233, 23475), Ⲇⲁⲩⲓⲇ (l.23219, 23230)
+    ⲇ U+2C87 COPTIC SMALL LETTER DALDA count: 4618, examples: ⲛⲆⲁⲩⲓⲇ (l.23214), ⲇⲉ (l.23215, 23216), Ⲓⲟⲩⲇⲁⲥ (l.23215, 23216)
+    Ⲉ U+2C88 COPTIC CAPITAL LETTER EIE count: 14, examples: Ⲉⲥⲣⲱⲙ (l.23216), Ⲉ̇ⲍⲉⲕⲓⲁⲥ (l.23222, 23223), Ⲉ̇ⲗⲓ (l.23226), Ⲉ̇ⲗⲓⲟⲩⲇ (l.23227)
+    ⲉ U+2C89 COPTIC SMALL LETTER EIE count: 84835, examples: ⲛⲧⲉ (l.23214), ⲇⲉ (l.23215), ϫⲫⲉ (l.23215), ⲛⲉⲙ (l.23215), ⲛⲉϥ (l.23215)
+    ⲋ U+2C8B COPTIC SMALL LETTER SOU count: 15, examples: ⲋ̅ (l.23770, 23866, 24243, 24609), ⲙⲙⲁϩⲋ̅ (l.24988)
+    Ⲍ U+2C8C COPTIC CAPITAL LETTER ZATA count: 17, examples: Ⲍⲁⲣⲁϩ (l.23216), Ⲍⲟⲣⲟⲃⲁⲃⲉⲗ (l.23225, 23226), Ⲍⲁⲃⲟⲩⲗⲱⲛ (l.23291), ⲛⲌⲁⲃⲟⲩⲗⲱⲛ (l.23293)
+    ⲍ U+2C8D COPTIC SMALL LETTER ZATA count: 417, examples: Ⲟ̇ⲍⲓⲁⲥ (l.23221, 23222), Ⲁ̇ⲭⲁⲍ (l.23222), Ⲉ̇ⲍⲉⲕⲓⲁⲥ (l.23222, 23223)
+    Ⲏ U+2C8E COPTIC CAPITAL LETTER HATE count: 62, example: Ⲏ̇ⲣⲱⲇⲏⲥ (l.23239, 23241, 23245, 23250, 23251)
+    ⲏ U+2C8F COPTIC SMALL LETTER HATE count: 18665, examples: Ⲓⲏ̅ⲥ̅ (l.23214), ⲡϣⲏⲣⲓ (l.23214), ⲥⲛⲏⲟⲩ (l.23215), Ⲣⲏⲭⲁⲃ (l.23218), Ⲓⲱⲃⲏⲇ (l.23218)
+    Ⲑ U+2C90 COPTIC CAPITAL LETTER THETHE count: 6, examples: Ⲑⲁⲙⲁⲣ (l.23216), Ⲑⲱⲙⲁⲥ (l.23489, 24375), Ⲑⲁⲇⲇⲉⲟⲥ (l.23489, 24375)
+    ⲑ U+2C91 COPTIC SMALL LETTER THETHE count: 7289, examples: Ⲣⲟⲩⲑ (l.23218), ⲑⲁ (l.23219), ⲁⲑⲁⲙ (l.23222), Ⲥⲁⲗⲁⲑⲓⲏⲗ (l.23225), Ⲙⲁⲧⲑⲁⲛ (l.23228)
+    Ⲓ U+2C92 COPTIC CAPITAL LETTER IAUDA count: 1392, examples: Ⲓⲏ̅ⲥ̅ (l.23214), Ⲓⲥⲁⲁⲕ (l.23215), Ⲓⲁⲕⲱⲃ (l.23215), Ⲓⲟⲩⲇⲁⲥ (l.23215, 23216)
+    ⲓ U+2C93 COPTIC SMALL LETTER IAUDA count: 43732, examples: ⲙⲙⲓⲥⲓ (l.23214), ⲡϣⲏⲣⲓ (l.23214), ⲛⲆⲁⲩⲓⲇ (l.23214), Ⲁ̇ⲙⲓⲛⲁⲇⲁⲃ (l.23217), Ⲇⲁⲩⲓⲇ (l.23219)
+    Ⲕ U+2C94 COPTIC CAPITAL LETTER KAPA count: 38, examples: Ⲕⲁⲫⲁⲣⲛⲁⲟⲩⲙ (l.23291, 23551), ⲉⲔⲁⲫⲁⲣⲛⲁⲟⲩⲙ (l.23419), ⲡⲓⲔⲁⲛⲁⲛⲉⲟⲥ (l.23490), ⲧⲔⲉⲥⲁⲣⲓ (l.23754)
+    ⲕ U+2C95 COPTIC SMALL LETTER KAPA count: 8319, examples: Ⲓⲥⲁⲁⲕ (l.23215), Ⲓⲁⲕⲱⲃ (l.23215), Ⲉ̇ⲍⲉⲕⲓⲁⲥ (l.23222, 23223), ⲁⲕⲓⲙ (l.23226)
+    Ⲗ U+2C96 COPTIC CAPITAL LETTER LAULA count: 1, example: ⲉⲖⲉⲩ (l.24343)
+    ⲗ U+2C97 COPTIC SMALL LETTER LAULA count: 9960, examples: ⲉⲃⲟⲗϧⲉⲛ (l.23216, 23218), Ⲥⲁⲗⲙⲱⲛ (l.23217, 23218), Ⲥⲟⲗⲟⲙⲱⲛ (l.23219)
+    Ⲙ U+2C98 COPTIC CAPITAL LETTER MI count: 75, examples: Ⲙⲁⲛⲁⲥⲥⲏ (l.23223), Ⲙⲁⲧⲑⲁⲛ (l.23228), ⲙⲘⲁⲣⲓ (l.23229), Ⲙⲁⲣⲓ (l.23231, 23233)
+    ⲙ U+2C99 COPTIC SMALL LETTER MI count: 32479, examples: Ⲡ̇ϫⲱⲙ (l.23214), ⲙⲙⲓⲥⲓ (l.23214), ⲛⲀⲃⲣⲁⲁⲙ (l.23214), Ⲁⲃⲣⲁⲁⲙ (l.23215), ⲛⲉⲙ (l.23215)
+    Ⲛ U+2C9A COPTIC CAPITAL LETTER NI count: 30, examples: Ⲛⲁⲥⲥⲱⲛ (l.23217), Ⲛⲁⲍⲁⲣⲉⲑ (l.23261), ⲡⲓⲣⲉⲙⲚⲁⲍⲁⲣⲉⲑ (l.23261), ⲛⲚⲁⲍⲁⲣⲉⲑ (l.23291), Ⲛⲉⲫⲑⲁⲗⲓⲙ (l.23291)
+    ⲛ U+2C9B COPTIC SMALL LETTER NI count: 69964, examples: ⲛⲧⲉ (l.23214), ⲛⲆⲁⲩⲓⲇ (l.23214), ⲛⲀⲃⲣⲁⲁⲙ (l.23214), ⲛⲉⲙ (l.23215), ⲛⲉϥ (l.23215)
+    ⲝ U+2C9D COPTIC SMALL LETTER KSI count: 238, examples: ⲝ̅ (l.23616, 23631), ⲥⲁⲣⲝ (l.23758), ⲉⲩⲥⲁⲣⲝ (l.23836), ⲟⲩⲥⲁⲣⲝ (l.23837)
+    Ⲟ U+2C9E COPTIC CAPITAL LETTER O count: 7, examples: Ⲟⲩⲣⲓⲁⲥ (l.23219), Ⲟ̇ⲍⲓⲁⲥ (l.23221, 23222), Ⲡ̇ⲞⲨⲢⲞ (l.24235), ⲚⲒⲒⲞⲨⲆⲀⲒ (l.24235)
+    ⲟ U+2C9F COPTIC SMALL LETTER O count: 61124, examples: Ⲓⲟⲩⲇⲁⲥ (l.23215, 23216), ⲥⲛⲏⲟⲩ (l.23215), ⲉⲃⲟⲗϧⲉⲛ (l.23216), Ⲃⲟⲉⲥ (l.23218)
+    Ⲡ U+2CA0 COPTIC CAPITAL LETTER PI count: 1300, examples: Ⲡ̇ϫⲱⲙ (l.23214), Ⲡⲭ̅ⲥ̅ (l.23214, 23229, 23230, 23231)
+    ⲡ U+2CA1 COPTIC SMALL LETTER PI count: 21036, examples: ⲡϣⲏⲣⲓ (l.23214), ⲡⲟⲩⲣⲟ (l.23219), ⲡⲓⲟⲩ (l.23224, 23225), ⲡϩⲁⲓ (l.23229)
+    Ⲣ U+2CA2 COPTIC CAPITAL LETTER RO count: 11, examples: Ⲣⲏⲭⲁⲃ (l.23218), Ⲣⲟⲩⲑ (l.23218), Ⲣⲟⲃⲟⲁⲙ (l.23220), Ⲣⲁⲙⲁ (l.23256), Ⲣⲁⲭⲏⲗ (l.23256)
+    ⲣ U+2CA3 COPTIC SMALL LETTER RO count: 21372, examples: ⲡϣⲏⲣⲓ (l.23214), ⲛⲀⲃⲣⲁⲁⲙ (l.23214), Ⲁⲃⲣⲁⲁⲙ (l.23215), Ⲫⲁⲣⲉⲥ (l.23216), Ⲍⲁⲣⲁϩ (l.23216)
+    Ⲥ U+2CA4 COPTIC CAPITAL LETTER SIMA count: 87, examples: Ⲥⲁⲗⲙⲱⲛ (l.23217, 23218), Ⲥⲟⲗⲟⲙⲱⲛ (l.23219, 23220), Ⲥⲁⲗⲁⲑⲓⲏⲗ (l.23225)
+    ⲥ U+2CA5 COPTIC SMALL LETTER SIMA count: 22857, examples: ⲙⲙⲓⲥⲓ (l.23214), Ⲓⲏ̅ⲥ̅ (l.23214), Ⲡⲭ̅ⲥ̅ (l.23214), Ⲓⲥⲁⲁⲕ (l.23215), Ⲓⲟⲩⲇⲁⲥ (l.23215)
+    Ⲧ U+2CA6 COPTIC CAPITAL LETTER TAU count: 15, examples: Ⲧⲩⲣⲟⲥ (l.23549, 23550, 23723), Ⲛ̇ⲦⲈ (l.24235), Ⲧⲁⲣⲭⲏ (l.24285)
+    ⲧ U+2CA7 COPTIC SMALL LETTER TAU count: 32684, examples: ⲛⲧⲉ (l.23214, 23224), Ⲓⲱⲥⲁⲫⲁⲧ (l.23221), ⲱⲧⲉⲃ (l.23224, 23225)
+    Ⲩ U+2CA8 COPTIC CAPITAL LETTER UA count: 2, examples: Ⲡ̇ⲞⲨⲢⲞ (l.24235), ⲚⲒⲒⲞⲨⲆⲀⲒ (l.24235)
+    ⲩ U+2CA9 COPTIC SMALL LETTER UA count: 37431, examples: ⲛⲆⲁⲩⲓⲇ (l.23214), Ⲓⲟⲩⲇⲁⲥ (l.23215, 23216), ⲥⲛⲏⲟⲩ (l.23215), Ⲣⲟⲩⲑ (l.23218)
+    Ⲫ U+2CAA COPTIC CAPITAL LETTER FI count: 340, examples: Ⲫⲁⲣⲉⲥ (l.23216), Ⲫϯ (l.23236, 23277), ⲛⲓⲪⲁⲣⲓⲥⲉⲟⲥ (l.23268), ⲙⲪϯ (l.23270)
+    ⲫ U+2CAB COPTIC SMALL LETTER FI count: 7180, example: ϫⲫⲉ (l.23215, 23216, 23217, 23218, 23219)
+    Ⲭ U+2CAC COPTIC CAPITAL LETTER KHI count: 14, examples: ⲉⲬⲏⲙⲓ (l.23251, 23252, 27194), Ⲭⲟⲣⲁⲍⲓⲛ (l.23549), ⲛⲬⲏⲙⲓ (l.27195)
+    ⲭ U+2CAD COPTIC SMALL LETTER KHI count: 3030, examples: Ⲡⲭ̅ⲥ̅ (l.23214), Ⲣⲏⲭⲁⲃ (l.23218), Ⲁ̇ⲭⲁⲍ (l.23222), Ⲓⲉⲭⲟⲛⲓⲁⲥ (l.23224, 23225)
+    ⲯ U+2CAF COPTIC SMALL LETTER PSI count: 148, examples: ⲧⲯⲩⲭⲏ (l.23258), ⲧⲉⲧⲉⲛⲯⲩⲭⲏ (l.23376, 23514), ϯⲯⲩⲭⲏ (l.23376), ⲉϯⲯⲩⲭⲏ (l.23514)
+    ⲱ U+2CB1 COPTIC SMALL LETTER OOU count: 19352, examples: Ⲡ̇ϫⲱⲙ (l.23214), Ⲓⲁⲕⲱⲃ (l.23215), Ⲉⲥⲣⲱⲙ (l.23216), Ⲛⲁⲥⲥⲱⲛ (l.23217), Ⲥⲁⲗⲙⲱⲛ (l.23217)
+    ⳧ U+2CE7 COPTIC SYMBOL STAUROS count: 2, lines: 28448, 28449
+    ⳪ U+2CEA COPTIC SYMBOL SHIMA SIMA count: 697, lines: 23233, 23235, 23237, 23251, 23253
+    ⳿ U+2CFF COPTIC MORPHOLOGICAL DIVIDER count: 60599, lines: 23214, 23215, 23216, 23217, 23218
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word- count: 3, examples: ϭ- (l.28446), ⲉⲑ- (l.28491), ⲛⲏ- (l.28520)
+    - count: 1, line: 28469
+    ⳿Word- count: 1, example: ⳿ⲙⲫⲏ- (l.28524)
+    Word⳿Word- count: 1, example: ϯⲉⲕ⳿ⲕⲗⲏ- (l.28730)
+    -Word. count: 1, example: -ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ. (l.28984)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 3030, examples: Ⲁ̇ⲣⲁⲙ. (l.23216), Ⲥⲁⲗⲙⲱⲛ. (l.23217), Ⲓⲉⲥⲥⲉ. (l.23218), Ⲟⲩⲣⲓⲁⲥ. (l.23219), Ⲁ̇ⲥⲁⲫ. (l.23220)
+    ⳿Word. count: 2173, examples: ⳿ⲛⲀⲃⲣⲁⲁⲙ. (l.23214), ⳿ⲛϫⲱⲟⲩ. (l.23230), ⳿ⲛⲭⲱⲡ. (l.23232), ⳿ⲙⲙⲟⲥ. (l.23235), ⳿ⲉⲣⲟϥ. (l.23237)
+    .. count: 922, lines: 24608, 24609, 24610, 24611, 24612
+    Word⳿Word. count: 413, examples: ⲛⲉϥ⳿ⲥⲛⲏⲟⲩ. (l.23215), ϯⲄⲁⲗⲓⲗⲉ⳿ⲁ. (l.23260), ϯⲒⲟⲩⲇⲉ⳿ⲁ. (l.23262), ⲛⲓⲫⲏⲟⲩ⳿ⲓ. (l.23263), ⲟⲩ⳿ⲭⲣⲱⲙ. (l.23272)
+    ⳿Word⳿Word. count: 376, examples: ⳿ⲙⲡⲓ⳿ⲡⲣⲟⲫⲏⲧⲏⲥ. (l.23243), ⳿ⲙⲡⲓ⳿ⲁⲗⲟⲩ. (l.23258), ⳿ⲛϯⲙⲉⲧⲁⲛⲟⲓ⳿ⲁ. (l.23269), ⳿ⲉⲡⲓ⳿ⲭⲣⲱⲙ. (l.23271), ⳿ⲉϯⲄⲁⲗⲓⲗⲉ⳿ⲁ. (l.23290)
+    Word.. count: 329, examples: ⲡⲉ.. (l.28454), ⲫϯ.. (l.28455, 28463), ⲛⲓⲣⲱⲙⲓ.. (l.28456), ⲟⲩⲥⲱϯ.. (l.28461)
+    ⳿Word.. count: 192, examples: ⳿ⲛⲕⲉⲟⲩⲁⲓ.. (l.28447), ⳿ⲛⲥⲟϫ.. (l.28451), ⳿ⲛⲛⲏⲉⲑⲛⲁϩϯ.. (l.28452), ⳿ⲛⲉⲩⲅⲉⲛⲏⲥ.. (l.28457), ⳿ⲛⲛⲓϫⲱⲣⲓ.. (l.28458)
+    Word⳿Word.. count: 46, examples: ⲟⲩⲥⲟⲫⲓ⳿ⲁ.. (l.28453), ⲁϥ⳿ⲑⲣⲟⲩⲁⲓⲁⲓ.. (l.28484), ⲣⲱⲟⲩ⳿ⲓ.. (l.28490), ⲟⲩ⳿ⲭⲣⲱⲙ.. (l.28493), ⲡⲉϥ⳿ϣⲫⲏⲣ.. (l.28507)
+    Word⳪. count: 45, examples: Ⲡⲉⲛ⳪. (l.23476), Ⲡ⳪. (l.23659), ⲡⲉϥ⳪. (l.24095), ⲡⲉⲕ⳪. (l.24098, 24100)
+    ⳿Word⳿Word.. count: 31, examples: ⳿ⲛ⳿ϩⲙⲟⲧ.. (l.28474), ⳿ⲛⲛⲉⲧⲉⲛ⳿ⲥⲛⲏⲟⲩ.. (l.28543), ⳿ⲛⲧⲉⲕ⳿ⲥϩⲓⲙⲓ.. (l.28571), ⳿ⲙⲡⲉⲛ⳿ⲑⲣⲉϥⲥⲟⲩⲃⲏⲧϥ.. (l.28573), ⳿ⲛⲧⲉϥ⳿ⲥϩⲓⲙⲓ.. (l.28588)
+    Word⳿Word⳿Word. count: 26, examples: ⲛⲉⲧⲉ⳿ⲛϫ⳿ⲉⲛⲉⲫⲱⲣ. (l.23513), ⲛⲉⲥ⳿ϩⲃⲏⲟⲩ⳿ⲓ. (l.23547), ⲛⲓ⳿ⲡⲗⲁⲧⲓ⳿ⲁ. (l.23577), ⲛⲉϥ⳿ϩⲃⲏⲟⲩ⳿ⲓ. (l.23768), ⲧⲁⲓⲅ⳿ⲉⲛⲉ⳿ⲁ. (l.24023)
+    . count: 24, lines: 24657, 27018, 27026, 27065, 27091
+    ⳿Word⳪. count: 23, example: ⳿ⲙⲠ⳪. (l.23336, 25008, 25064, 25065, 25151)
+    ⳿Word⳿Word⳿Word. count: 20, examples: ⳿ⲛ⳿ⲁⲗⲱⲟⲩ⳿ⲓ. (l.23553), ⳿ⲛϯ⳿ⲁⲛⲟⲙⲓ⳿ⲁ. (l.23649), ⳿ⲛⲟⲩ⳿ⲉ⳿ⲱ. (l.23900), ⳿ⲛⲧⲉϥ⳿ⲕⲗⲏⲣⲟⲛⲟⲙⲓ⳿ⲁ. (l.23933), ⳿ⲛϯ⳿ⲕⲗⲏⲣⲟⲛⲟⲙⲓ⳿ⲁ. (l.25541)
+    Word⳪.. count: 12, example: Ⲡ⳪.. (l.28594, 28609, 28610, 28679, 28695)
+    Word.Modifier. count: 11, examples: Ⲡⲭ̅ⲥ̅.̅. (l.28479), Ⲡⲭ̅ⲥ.̅. (l.28526, 28529, 28714, 28882)
+    ⳿Word⳿⳿Word. count: 4, examples: ⳿ⲛ⳿⳿ⲉⲛⲉϩ. (l.23804, 23847, 24386), ⳿ⲡ⳿⳿ⲉⲛⲉϩ. (l.27529)
+    Word⳿Word⳿Word.. count: 4, examples: ⲙⲁⲣⲟⲩⲉⲣⲇⲓ⳿ⲁ⳿ⲕⲣⲓⲛⲓⲛ.. (l.28775), ϯⲉⲕ⳿ⲕⲗⲏⲥⲓ⳿ⲁ.. (l.28781), ⲟⲩ⳿ϫⲫⲓ⳿ⲟ.. (l.28820), ϯ⳿ⲁⲭⲁⲓ⳿ⲁ.. (l.29067)
+    ⳿Word⳪.. count: 3, examples: ⳿ⲙⲠ⳪.. (l.28587, 28951), ⳿ⲛ⳪.. (l.28600)
+    ⳿Word.Modifier. count: 3, example: ⳿ⲙⲠⲭ̅ⲥ.̅. (l.28669, 29023, 29059)
+    Word⳿⳿Word. count: 2, example: ⲡⲁⲓ⳿⳿ⲉⲛⲉϩ. (l.23648, 24029)
+    ⳿⳿Word. count: 2, examples: ⳿⳿ⲉⲛⲉϩ. (l.24341), ⳿⳿ⲉⲛⲉϥⲙⲁⲑⲏⲧⲏⲥ. (l.24426)
+    ⳿Word⳿Word⳿Word.. count: 2, examples: ⳿ⲉ⳿ⲡϫⲓⲛⲉⲣⲡⲁⲙⲉⲩ⳿ⲓ.. (l.28692), ⳿ⲉ⳿ⲡ⳿ⲁⲏⲣ.. (l.28755)
+    Word⳿⳿Word⳿Word. count: 1, example: ϯ⳿⳿ⲁⲛⲟⲙⲓ⳿ⲁ. (l.23408)
+    ⳿Word⳪Modifier. count: 1, example: ⳿ⲉⲡⲉϥ⳪̅. (l.23510)
+    ). count: 1, line: 24235
+    ⳿Word⳿Word⳿⳿Word. count: 1, example: ⳿ⲛⲟⲩⲱⲛϧ⳿ⲛ⳿⳿ⲉⲛⲉϩ. (l.24674)
+    Word⳿Word⳿⳿Word. count: 1, example: ⲟⲩⲱⲛϧ⳿ⲛ⳿⳿ⲉⲛⲉϩ. (l.24687)
+    ⳿. count: 1, line: 28583
+    Modifier. count: 1, example: ̅. (l.28620)
+    ⳿Word⳿.Word. count: 1, example: ⳿ⲛⲛⲉϥⲙⲉⲩ⳿.Ⲓ. (l.28903)
+    -Word. count: 1, example: -ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ. (l.28984)
+    ⳿Word.⳿⳿⳿⳿⳿⳿⳿⳿⳿⳿⳿. count: 1, example: ⳿ⲛϩⲏⲧ.⳿⳿⳿⳿⳿⳿⳿⳿⳿⳿⳿. (l.29017)
+    Word.⳿. count: 1, example: Ⲫϯ.⳿. (l.29064)
+    Word.Modifier count: 1, example: ⲟⲩ.̇ (l.29466)
+    ⳿Word.Modifier count: 1, example: ⳿ⲉⲡⲓ.̇ (l.29575)
+TOKENS WITH ORPHAN MODIFIER:
+    Word.Modifier. count: 11, examples: Ⲡⲭ̅ⲥ̅.̅. (l.28479), Ⲡⲭ̅ⲥ.̅. (l.28526, 28529, 28714, 28882)
+    Modifier count: 4, example: ̅ (l.25601, 25641, 28868, 28940)
+    Modifier⳿Word count: 4, examples: ̇⳿ⲛⲧⲉ (l.29267, 29269), ̇⳿ⲉⲁϥϧⲱⲧⲉⲃ (l.29312), ̇⳿ⲉⲃⲟⲗ (l.29552)
+    ⳿Word.Modifier. count: 3, example: ⳿ⲙⲠⲭ̅ⲥ.̅. (l.28669, 29023, 29059)
+    ModifiersWord count: 2, example: ̇̇Ⲏⲣⲱⲇⲓⲁⲥ (l.23669, 24493)
+    ModifierWord count: 2, examples: ̅ⲃ̅ (l.25387), ̇ⲉⲣⲟϥ (l.25649)
+    Word⳪Modifier count: 1, example: Ⲡ⳪̅ (l.23233)
+    ⳿ModifierWord count: 1, example: ⳿̇ⲡϣⲏⲣⲓ (l.23443)
+    ⳿Word⳪Modifier. count: 1, example: ⳿ⲉⲡⲉϥ⳪̅. (l.23510)
+    ⳿Word⳪Modifier count: 1, example: ⳿ⲙⲠⲁ⳪̅ (l.23985)
+    Modifier. count: 1, example: ̅. (l.28620)
+    Word.Modifier count: 1, example: ⲟⲩ.̇ (l.29466)
+    ⳿Word.Modifier count: 1, example: ⳿ⲉⲡⲓ.̇ (l.29575)
+    ModifierWord⳿Word count: 1, example: ̇ⲁϥⲉⲣⲕⲁⲧⲁ⳿ⲫⲣⲟⲛⲓⲛ (l.30281)

@@ -1,0 +1,170 @@
+OVERVIEW:
+File size: 41899 lines, 1429630 characters
+Letter scripts: 1
+    LATIN (1112974 instances)
+Number scripts: 0
+Other character groups: 4
+    SPACE (212598 instances)
+    ASCII_PUNCTUATION (33413 instances): !(),-.:;?
+    COMBINING_DIACRITICAL_MARKS (24789 instances):  ̈
+    GENERAL_PUNCTUATION (3670 instances): ¡¿—‘’“”
+Non-canonical character combinations: 1
+
+DETAILS:
+Non-canonical character combinations: 1
+    Non-canonical: ẍ (NFD, x + ̈, count: 3764)  Canonical: ẍ (NFC, ẍ, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 255, lines: 23377, 23388, 23390, 23401, 23403
+    ( U+0028 LEFT PARENTHESIS count: 8, lines: 26151, 26155, 26227, 26234, 26516
+    ) U+0029 RIGHT PARENTHESIS count: 8, lines: 26151, 26155, 26227, 26234, 26516
+    , U+002C COMMA count: 17674, lines: 23214, 23215, 23216, 23217, 23218
+    - U+002D HYPHEN-MINUS count: 252, lines: 23475, 23547, 23729, 23911, 24045
+    . U+002E FULL STOP count: 11723, lines: 23214, 23215, 23216, 23217, 23218
+    : U+003A COLON count: 2269, lines: 23214, 23233, 23235, 23240, 23242
+    ; U+003B SEMICOLON count: 386, lines: 23233, 23242, 23303, 23340, 23374
+    ? U+003F QUESTION MARK count: 838, lines: 23240, 23242, 23268, 23349, 23350
+GENERAL_PUNCTUATION characters:
+    ¡ U+00A1 INVERTED EXCLAMATION MARK count: 255, lines: 23377, 23388, 23390, 23401, 23403
+    ¿ U+00BF INVERTED QUESTION MARK count: 838, lines: 23240, 23242, 23268, 23349, 23350
+    — U+2014 EM DASH count: 1629, lines: 23233, 23240, 23242, 23243, 23246
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 10, lines: 23932, 23933, 23945, 25272, 25675
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 10, lines: 23932, 23933, 23945, 25272, 25676
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 464, lines: 23253, 23264, 23270, 23285, 23288
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 464, lines: 23253, 23264, 23273, 23285, 23288
+SPACE characters:
+      U+0020 SPACE count: 212598, lines: 23214, 23215, 23216, 23217, 23218
+COMBINING_DIACRITICAL_MARKS characters:
+     ̈ U+0308 COMBINING DIAERESIS count: 24789, examples: yuẍtaj (l.23215, 23224), cawan̈ (l.23216), yalan̈tocanoj (l.23219), yin̈ (l.23224)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 1046, examples: Abraham (l.23214, 23215), Aram (l.23216, 23217), Aminadab (l.23217)
+    B U+0042 LATIN CAPITAL LETTER B count: 236, examples: Booz (l.23218), Babilonia (l.23224, 23225, 23230), Bey (l.23239)
+    C U+0043 LATIN CAPITAL LETTER C count: 12853, examples: Comam (l.23214, 23229, 23230, 23231), Cristo (l.23229)
+    D U+0044 LATIN CAPITAL LETTER D count: 3397, examples: David (l.23214, 23219, 23230, 23233), Dios (l.23233)
+    E U+0045 LATIN CAPITAL LETTER E count: 574, examples: Esrom (l.23216), Ezequías (l.23222, 23223), Eliaquim (l.23226), Eliud (l.23227)
+    F U+0046 LATIN CAPITAL LETTER F count: 106, examples: Fares (l.23216), Felipe (l.23489, 23669, 24375), Filipo (l.23754)
+    G U+0047 LATIN CAPITAL LETTER G count: 125, example: Galilea (l.23260, 23274, 23290, 23291, 23293)
+    H U+0048 LATIN CAPITAL LETTER H count: 3575, examples: Haꞌ (l.23214, 23224), Hac (l.23214), Haxa (l.23219), Hayet (l.23225)
+    I U+0049 LATIN CAPITAL LETTER I count: 1950, examples: Icham (l.23215), Isaac (l.23215), Isaí (l.23218, 23219), Israel (l.23224)
+    J U+004A LATIN CAPITAL LETTER J count: 2499, examples: Jesucristo (l.23214), Jacob (l.23215), Judá (l.23215, 23216), Josafat (l.23221)
+    K U+004B LATIN CAPITAL LETTER K count: 114, example: Kꞌinalo (l.23316, 23317, 23326, 23332, 23333)
+    L U+004C LATIN CAPITAL LETTER L count: 671, example: Lahwi (l.23237, 23245, 23246, 23247, 23249)
+    M U+004D LATIN CAPITAL LETTER M count: 1526, examples: Manasés (l.23223), Matán (l.23228), María (l.23229, 23231), Moisés (l.23232)
+    N U+004E LATIN CAPITAL LETTER N count: 274, examples: Naj (l.23216, 23217, 23218, 23219), Naasón (l.23217)
+    O U+004F LATIN CAPITAL LETTER O count: 65, examples: Obed (l.23218), Ocan̈we (l.23297), Ocan̈ (l.23457), Oxeb (l.23598), Olivo (l.23896)
+    P U+0050 LATIN CAPITAL LETTER P count: 753, examples: Pedro (l.23296, 23428, 23488, 23694), Paxan̈to (l.23427)
+    Q U+0051 LATIN CAPITAL LETTER Q count: 9, examples: Quinhulan (l.23521), Quinyacojan (l.24282), Quexwej (l.24446), Quinyatijan (l.25151), Quinpitzcꞌahan (l.26891)
+    R U+0052 LATIN CAPITAL LETTER R count: 83, examples: Rahab (l.23218), Rut (l.23218), Roboam (l.23220), Ramá (l.23256), Raquel (l.23256)
+    S U+0053 LATIN CAPITAL LETTER S count: 727, examples: Salmón (l.23217, 23218), Salomón (l.23219, 23220), Salatiel (l.23225)
+    T U+0054 LATIN CAPITAL LETTER T count: 1220, examples: Tamar (l.23216), Tzujanilo (l.23230), Tzujanxa (l.23230), Tato (l.23269), Tajca (l.23270)
+    U U+0055 LATIN CAPITAL LETTER U count: 6, examples: Urías (l.23219), Uzías (l.23221, 23222), Ucꞌwe (l.24150), Uchcꞌaweyo (l.26183)
+    W U+0057 LATIN CAPITAL LETTER W count: 1286, example: Wal (l.23220, 23230, 23231, 23232, 23247)
+    X U+0058 LATIN CAPITAL LETTER X count: 84, examples: Xahan (l.23346, 23980), Xol (l.23468, 23740, 23976)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 3940, examples: Yajaꞌ (l.23238), Yet (l.23239, 23241), Yuxin (l.23240, 23242)
+    Z U+005A LATIN CAPITAL LETTER Z count: 46, examples: Zara (l.23216), Zorobabel (l.23225, 23226), Zabulón (l.23291, 23293)
+    a U+0061 LATIN SMALL LETTER A count: 166235, examples: Haꞌ (l.23214), icham (l.23214), Abraham (l.23214), naj (l.23214), David (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 28742, examples: Abraham (l.23214, 23215), yeb (l.23214, 23215), Jacob (l.23215)
+    c U+0063 LATIN SMALL LETTER C count: 60552, examples: icham (l.23214), yichmam (l.23214), Jesucristo (l.23214), Hac (l.23214), hacaꞌ (l.23214)
+    d U+0064 LATIN SMALL LETTER D count: 1568, examples: David (l.23214), Judá (l.23215, 23216), Aminadab (l.23217), Obed (l.23218)
+    e U+0065 LATIN SMALL LETTER E count: 62951, examples: yeb (l.23214, 23215), rey (l.23214), Jesucristo (l.23214), ye (l.23214)
+    f U+0066 LATIN SMALL LETTER F count: 256, examples: Josafat (l.23221), fariseo (l.23268, 23323), Neftalí (l.23291, 23293)
+    g U+0067 LATIN SMALL LETTER G count: 634, examples: yángel (l.23233, 23237), ángel (l.23233, 23234), mago (l.23245)
+    h U+0068 LATIN SMALL LETTER H count: 54196, examples: icham (l.23214), Abraham (l.23214), haꞌ (l.23214), yichmam (l.23214), hacaꞌ (l.23214)
+    i U+0069 LATIN SMALL LETTER I count: 93873, examples: icham (l.23214), David (l.23214), yichmam (l.23214), Jesucristo (l.23214), tiꞌ (l.23214)
+    j U+006A LATIN SMALL LETTER J count: 30867, examples: naj (l.23214, 23215, 23216), yuẍtaj (l.23215), Naj (l.23216)
+    k U+006B LATIN SMALL LETTER K count: 8809, examples: huntekꞌanxa (l.23215, 23224), takꞌwebilxa (l.23231), chiyikꞌ (l.23231), iskꞌanaꞌ (l.23232)
+    l U+006C LATIN SMALL LETTER L count: 49231, examples: istxolal (l.23214), Salmón (l.23217, 23218), wal (l.23218), Salomón (l.23219)
+    m U+006D LATIN SMALL LETTER M count: 44271, examples: icham (l.23214), Abraham (l.23214), yichmam (l.23214), Comam (l.23214), Icham (l.23215)
+    n U+006E LATIN SMALL LETTER N count: 96015, examples: naj (l.23214, 23215, 23216), huntekꞌanxa (l.23215), xin (l.23216)
+    o U+006F LATIN SMALL LETTER O count: 60768, examples: Comam (l.23214), Jesucristo (l.23214), istxolal (l.23214), Jacob (l.23215), ton (l.23216)
+    p U+0070 LATIN SMALL LETTER P count: 7053, examples: istiempohal (l.23224), preso (l.23224, 23230), yip (l.23225), yichipaxti (l.23230)
+    q U+0071 LATIN SMALL LETTER Q count: 1008, examples: Ezequías (l.23222, 23223), Eliaquim (l.23226), Aquim (l.23227), Raquel (l.23256)
+    r U+0072 LATIN SMALL LETTER R count: 4950, examples: Abraham (l.23214, 23215), rey (l.23214), Jesucristo (l.23214), Fares (l.23216)
+    s U+0073 LATIN SMALL LETTER S count: 31123, examples: Jesucristo (l.23214), istxolal (l.23214), ismam (l.23215, 23216), Isaac (l.23215)
+    t U+0074 LATIN SMALL LETTER T count: 69111, examples: Jesucristo (l.23214), tiꞌ (l.23214), istxolal (l.23214), huntekꞌanxa (l.23215), yuẍtaj (l.23215)
+    u U+0075 LATIN SMALL LETTER U count: 43045, examples: Jesucristo (l.23214), Judá (l.23215, 23216), huntekꞌanxa (l.23215), yuẍtaj (l.23215)
+    v U+0076 LATIN SMALL LETTER V count: 281, examples: David (l.23214, 23219, 23230, 23233), uva (l.23401)
+    w U+0077 LATIN SMALL LETTER W count: 18508, examples: cawan̈ (l.23216), wal (l.23218), can̈lahon̈wan̈ (l.23230), can̈lahon̈wan̈xa (l.23230), takꞌwebilxa (l.23231)
+    x U+0078 LATIN SMALL LETTER X count: 28887, examples: istxolal (l.23214), huntekꞌanxa (l.23215), yuẍtaj (l.23215), xin (l.23216), ix (l.23216)
+    y U+0079 LATIN SMALL LETTER Y count: 53723, examples: yeb (l.23214, 23215), rey (l.23214), yichmam (l.23214), ye (l.23214)
+    z U+007A LATIN SMALL LETTER Z count: 7971, examples: Booz (l.23218), Uzías (l.23221, 23222), Acaz (l.23222), Ezequías (l.23222)
+LATIN_EXTENDED_LETTER characters:
+    á U+00E1 LATIN SMALL LETTER A WITH ACUTE count: 448, examples: Judá (l.23215, 23216), Matán (l.23228), yángel (l.23233), ángel (l.23233)
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 632, examples: Manasés (l.23223), José (l.23229, 23231, 23232), Moisés (l.23232)
+    í U+00ED LATIN SMALL LETTER I WITH ACUTE count: 674, examples: Isaí (l.23218, 23219), Urías (l.23219), Abías (l.23220), Uzías (l.23221)
+    ñ U+00F1 LATIN SMALL LETTER N WITH TILDE count: 2, example: España (l.28395, 28399)
+    ó U+00F3 LATIN SMALL LETTER O WITH ACUTE count: 319, examples: Naasón (l.23217), Salmón (l.23217, 23218), Salomón (l.23219, 23220)
+    ú U+00FA LATIN SMALL LETTER U WITH ACUTE count: 869, example: Jesús (l.23229, 23234, 23238, 23239, 23247)
+LATIN_EXTENDED_D characters:
+    ꞌ U+A78C LATIN SMALL LETTER SALTILLO count: 48237, examples: Haꞌ (l.23214), haꞌ (l.23214, 23215), tiꞌ (l.23214), hacaꞌ (l.23214)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 172, examples: noꞌ! (l.23377), haꞌ! (l.23439), Dios! (l.23440), win̈an! (l.23534), camom! (l.23692)
+    ¡Word! count: 58, examples: ¡Machoj! (l.23388, 23401, 23403), ¡lekꞌtiꞌach! (l.23390), ¡machoj! (l.23461)
+    —¡Word! count: 13, examples: —¡Mamin! (l.25798), —¡Bejwej! (l.25984), —¡Machoj! (l.26894), —¡María! (l.26952), —¡Cornelio! (l.27331)
+    Word!” count: 9, examples: chintohan!” (l.23924), Dios!” (l.24026), chewatxꞌe!” (l.25614), chala!” (l.25718), hecal!” (l.28818)
+    “¡Word! count: 3, examples: “¡Ahan̈wewanoj! (l.24083), “¡Machoj! (l.24089), “¡Ilwecꞌanabtoj! (l.25862)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 16979, examples: David, (l.23214), Abraham, (l.23215), Isaac, (l.23215), Jacob, (l.23215), Judá, (l.23216)
+    Word,” count: 398, examples: Incꞌaholan,” (l.23253), hayanma,” (l.23264), istan̈bal,” (l.23273), wehan,” (l.23285), chala,” (l.23288)
+    —Word, count: 216, examples: —José, (l.23233), —Machoj, (l.23275), —Mamin, (l.23416, 23420), —Hoꞌ, (l.23417)
+    “Word, count: 51, examples: “Wuẍtaj, (l.23389), “Mamin, (l.23406, 23407, 23635), “Machoj, (l.23637)
+    Word-Word-Word, count: 10, examples: chi-la-iswatxꞌe, (l.23547, 25299, 26680), chi-caw-istita, (l.26197), hanin-ton-an, (l.26518)
+    “Word,” count: 7, examples: “Cata,” (l.23423), “Raboni,” (l.26952), “cꞌulticꞌa,” (l.28887), “machoj,” (l.28887), “Hacꞌahol,” (l.29185)
+    Word,’ count: 6, examples: ebnaj,’ (l.23932), tiꞌ,’ (l.23933, 25272), tuꞌ,’ (l.23945), chiwucojan,’ (l.25676)
+    ¡Word, count: 4, examples: ¡Ilwecꞌanabi, (l.29266), ¡Ay, (l.31072, 31078, 31081)
+    ‘Word,’ count: 1, example: ‘Asiꞌ,’ (l.25272)
+    —¡Word, count: 1, example: —¡Cꞌanchꞌanexpaxo, (l.25520)
+    ‘Word, count: 1, example: ‘Mam, (l.25675)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word-Word count: 101, examples: Chi-xin-awito (l.23475), chi-ticꞌa-yican̈ (l.23729), chi-to-txutxwi (l.23911, 24045), han̈-caw-on̈ (l.24188)
+    Word-Word-Word. count: 11, examples: chi-caw-istopaxicoj. (l.26197), chi-la-iswatxꞌe. (l.26209), xa-le-camtoj. (l.26375), chi-caw-istiticoj. (l.26424), chi-caw-intocojan. (l.26464)
+    Word-Word-Word, count: 10, examples: chi-la-iswatxꞌe, (l.23547, 25299, 26680), chi-caw-istita, (l.26197), hanin-ton-an, (l.26518)
+    Word-Word count: 6, examples: la-cam (l.25879), Le-yalni (l.26378), le-yu (l.26992), le-yalni (l.27031), la-ecꞌ (l.27552)
+    Word-Word-Word? count: 1, example: chi-la-heyalaꞌ? (l.26388)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 11697, examples: Jesucristo. (l.23214), yuẍtaj. (l.23215), Tamar. (l.23216), Aram. (l.23216), Salmón. (l.23217)
+    Word-Word-Word. count: 11, examples: chi-caw-istopaxicoj. (l.26197), chi-la-iswatxꞌe. (l.26209), xa-le-camtoj. (l.26375), chi-caw-istiticoj. (l.26424), chi-caw-intocojan. (l.26464)
+    Word.” count: 7, examples: ahan̈wanoj.” (l.24474), yu.” (l.25197), uninal.” (l.26960), ayon̈icojan̈.” (l.28443, 28482)
+    Word.) count: 7, examples: chaliloj.) (l.26151), Pedro.) (l.26155), anma.) (l.26227), Samaria.) (l.26234), Akꞌbiltij.) (l.26516)
+    “Word.” count: 1, example: “machoj.” (l.28886)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 2258, examples: tiꞌ: (l.23214, 23233, 23235), ebnaj: (l.23240, 23242)
+    Word?: count: 11, examples: tiꞌ?: (l.23911, 23937, 23972, 24768), chala?: (l.24752)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 386, examples: iswayic; (l.23233), Moisés; (l.23242), Comam; (l.23303), machojabi; (l.23340), hemujlubal; (l.23374)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 784, examples: tiꞌ? (l.23240), Cristo? (l.23242), Dios? (l.23268, 23349), tuꞌ? (l.23350)
+    Word?” count: 36, examples: hapaxtoj?” (l.23453), ixim?” (l.23635), chicolchahi?” (l.23856), tiꞌ?” (l.23867), incꞌulan?” (l.23876)
+    Word?: count: 11, examples: tiꞌ?: (l.23911, 23937, 23972, 24768), chala?: (l.24752)
+    Word?’ count: 2, examples: satcan̈?’ (l.28262), cambal?’ (l.28263)
+    ¿Word? count: 1, example: ¿machmitajinan? (l.24145)
+    Word?’” count: 1, example: incuywoman?’” (l.25944)
+    Word-Word-Word? count: 1, example: chi-la-heyalaꞌ? (l.26388)
+    “Word?” count: 1, example: “chexcolchacanoj?” (l.26483)
+    Word”? count: 1, example: hanicꞌxan̈e”? (l.26813)
+TOKENS WITH ¡ (U+00A1 INVERTED EXCLAMATION MARK):
+    ¡Word count: 128, examples: ¡Hajxamex (l.23377), ¡Caw (l.23440), ¡Sakꞌal (l.23534), ¡haꞌojab (l.23763), ¡Jalaꞌwe (l.23904)
+    ¡Word! count: 58, examples: ¡Machoj! (l.23388, 23401, 23403), ¡lekꞌtiꞌach! (l.23390), ¡machoj! (l.23461)
+    —¡Word count: 43, examples: —¡Mamin (l.23439), —¡Huneꞌ (l.23692), —¡Yin̈ (l.23699), —¡Caw (l.23904), —¡Matxa (l.23914)
+    —¡Word! count: 13, examples: —¡Mamin! (l.25798), —¡Bejwej! (l.25984), —¡Machoj! (l.26894), —¡María! (l.26952), —¡Cornelio! (l.27331)
+    “¡Word count: 5, examples: “¡Mach (l.23924), “¡Jakꞌawe (l.24026), “¡Wal (l.25443), “¡Caw (l.25548), “¡Waꞌojon̈we (l.28818)
+    ¡Word, count: 4, examples: ¡Ilwecꞌanabi, (l.29266), ¡Ay, (l.31072, 31078, 31081)
+    “¡Word! count: 3, examples: “¡Ahan̈wewanoj! (l.24083), “¡Machoj! (l.24089), “¡Ilwecꞌanabtoj! (l.25862)
+    —¡Word, count: 1, example: —¡Cꞌanchꞌanexpaxo, (l.25520)
+TOKENS WITH — (U+2014 EM DASH):
+    —Word count: 1096, examples: —Yul (l.23243), —Asiwe (l.23246), —Ahan̈wano (l.23251), —Ahan̈wanoj (l.23258), —Bejwecano (l.23263)
+    —¿Word count: 260, examples: —¿Baytuꞌwal (l.23240), —¿Baytaxca (l.23242), —¿Tzet (l.23440, 23443), —¿Mac (l.23441)
+    —Word, count: 216, examples: —José, (l.23233), —Machoj, (l.23275), —Mamin, (l.23416, 23420), —Hoꞌ, (l.23417)
+    —¡Word count: 43, examples: —¡Mamin (l.23439), —¡Huneꞌ (l.23692), —¡Yin̈ (l.23699), —¡Caw (l.23904), —¡Matxa (l.23914)
+    —¡Word! count: 13, examples: —¡Mamin! (l.25798), —¡Bejwej! (l.25984), —¡Machoj! (l.26894), —¡María! (l.26952), —¡Cornelio! (l.27331)
+    —¡Word, count: 1, example: —¡Cꞌanchꞌanexpaxo, (l.25520)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 5, examples: ‘Wal (l.23932), ‘Haꞌ (l.23933), ‘Asiꞌwe (l.23945), ‘Cata (l.25272), ‘Ocan̈ (l.25272)
+    ‘¿Word count: 3, examples: ‘¿Baytuꞌwal (l.25944), ‘¿Mactaxca (l.28262, 28263)
+    ‘Word,’ count: 1, example: ‘Asiꞌ,’ (l.25272)
+    ‘Word, count: 1, example: ‘Mam, (l.25675)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word,’ count: 6, examples: ebnaj,’ (l.23932), tiꞌ,’ (l.23933, 25272), tuꞌ,’ (l.23945), chiwucojan,’ (l.25676)
+    Word?’ count: 2, examples: satcan̈?’ (l.28262), cambal?’ (l.28263)
+    ‘Word,’ count: 1, example: ‘Asiꞌ,’ (l.25272)
+    Word?’” count: 1, example: incuywoman?’” (l.25944)

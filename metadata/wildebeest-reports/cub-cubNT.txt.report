@@ -1,0 +1,213 @@
+OVERVIEW:
+File size: 41899 lines, 1700685 characters
+Letter scripts: 1
+    LATIN (1353577 instances)
+Number scripts: 0
+Other character groups: 4
+    SPACE (211732 instances)
+    ASCII_PUNCTUATION (44455 instances): !(),.:;?
+    COMBINING_DIACRITICAL_MARKS (41784 instances):  ́ ̃ ̶
+    GENERAL_PUNCTUATION (6335 instances): ¡¿—‘’“”
+Non-canonical character combinations: 3
+
+DETAILS:
+Non-canonical character combinations: 3
+    Non-canonical: Ṍ (Õ + ́, count: 10)  Canonical: Ṍ (NFC, Ṍ, count: 0)
+    Non-canonical: ṍ (õ + ́, count: 194)  Canonical: ṍ (NFC, ṍ, count: 0)
+    Non-canonical: ṹ (ũ + ́, count: 3)  Canonical: ṹ (NFC, ṹ, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 163, lines: 23268, 23381, 23390, 23395, 23408
+    ( U+0028 LEFT PARENTHESIS count: 10, lines: 25157, 25669, 26759, 27189, 27432
+    ) U+0029 RIGHT PARENTHESIS count: 10, lines: 25157, 25669, 26759, 27189, 27432
+    , U+002C COMMA count: 20530, lines: 23214, 23224, 23225, 23229, 23230
+    . U+002E FULL STOP count: 20546, lines: 23214, 23215, 23216, 23217, 23218
+    : U+003A COLON count: 2329, lines: 23233, 23235, 23240, 23242, 23243
+    ; U+003B SEMICOLON count: 43, lines: 23488, 24202, 24283, 24361, 25224
+    ? U+003F QUESTION MARK count: 824, lines: 23240, 23242, 23308, 23379, 23389
+GENERAL_PUNCTUATION characters:
+    ¡ U+00A1 INVERTED EXCLAMATION MARK count: 163, lines: 23268, 23381, 23390, 23395, 23408
+    ¿ U+00BF INVERTED QUESTION MARK count: 824, lines: 23240, 23242, 23308, 23379, 23389
+    — U+2014 EM DASH count: 1652, lines: 23233, 23240, 23242, 23243, 23246
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 91, lines: 23334, 23336, 23638, 23707, 23874
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 269, lines: 23272, 23322, 23326, 23328, 23332
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 1668, lines: 23232, 23236, 23238, 23251, 23253
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 1668, lines: 23232, 23236, 23238, 23251, 23253
+SPACE characters:
+      U+0020 SPACE count: 211732, lines: 23214, 23215, 23216, 23217, 23218
+COMBINING_DIACRITICAL_MARKS characters:
+     ́ U+0301 COMBINING ACUTE ACCENT count: 7883, examples: Ʉ̃́tame (l.23214), Ṍre (l.23231), jã́inore (l.23232), ṍre (l.23232), jã́iyede (l.23232)
+     ̃ U+0303 COMBINING TILDE count: 18321, examples: ʉ̃i (l.23214, 23229), Ʉ̃́tame (l.23214), Jʉ̃menijicʉ (l.23229), barejávʉ̃ya (l.23231)
+     ̶ U+0336 COMBINING LONG STROKE OVERLAY count: 15580, examples: barejámed̶a (l.23229, 23232), barejácod̶a (l.23229, 23231), bacod̶ó (l.23231)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 4470, examples: Abraham (l.23214, 23215), Aru (l.23216), Aram (l.23216, 23217)
+    B U+0042 LATIN CAPITAL LETTER B count: 671, examples: Booz (l.23218), Babilonia (l.23224, 23230), Babiloniaita (l.23230), Belén (l.23239)
+    C U+0043 LATIN CAPITAL LETTER C count: 2416, examples: Cristo (l.23229), Cristoi (l.23230), Cʉyoje (l.23232), Caiye (l.23235), Cũinácʉ (l.23240)
+    D U+0044 LATIN CAPITAL LETTER D count: 1044, examples: David (l.23214, 23219, 23230, 23233), Dinʉmʉare (l.23224)
+    E U+0045 LATIN CAPITAL LETTER E count: 597, examples: Esrom (l.23216), Ezequías (l.23222, 23223), Eliaquim (l.23226), Eliud (l.23227)
+    F U+0046 LATIN CAPITAL LETTER F count: 132, examples: Fares (l.23216), Felipe (l.23488), Felipei (l.23669), Filipo (l.23754), Fariseovacavʉ (l.23834)
+    G U+0047 LATIN CAPITAL LETTER G count: 128, example: Galilea (l.23260, 23274, 23290, 23293, 23296)
+    H U+0048 LATIN CAPITAL LETTER H count: 114, examples: Herodes (l.23239, 23242, 23245, 23246), Herodede (l.23244)
+    I U+0049 LATIN CAPITAL LETTER I count: 824, examples: Isaac (l.23215), Isaí (l.23218, 23219), Israecavʉ (l.23219, 23224)
+    J U+004A LATIN CAPITAL LETTER J count: 12799, examples: Jesucristo (l.23214), Jacob (l.23215), Judájã (l.23215), Judá (l.23216), Josafat (l.23221)
+    L U+004C LATIN CAPITAL LETTER L count: 95, examples: Levíde (l.24343), Leví (l.24344, 25118, 25124), Lisanias (l.25095)
+    M U+004D LATIN CAPITAL LETTER M count: 2759, examples: Manasés (l.23223), Matán (l.23228), Maríai (l.23229), María (l.23229, 23231)
+    N U+004E LATIN CAPITAL LETTER N count: 1530, examples: Naasón (l.23217), Na (l.23224, 23225), Nomió (l.23236), Ne (l.23242)
+    O U+004F LATIN CAPITAL LETTER O count: 216, examples: Obed (l.23218), Obediʉjʉa (l.23262), Obedivʉ (l.23266, 23268), Ovejavape (l.23400)
+    P U+0050 LATIN CAPITAL LETTER P count: 1392, examples: Pʉ (l.23272), Põeva (l.23282, 23325), Põecʉ (l.23318), Põevare (l.23324)
+    Q U+0051 LATIN CAPITAL LETTER Q count: 3608, example: Que (l.23230, 23232, 23234, 23237, 23244)
+    R U+0052 LATIN CAPITAL LETTER R count: 85, examples: Rahab (l.23218), Rut (l.23218), Roboam (l.23220), Raquel (l.23255), Ramá (l.23256)
+    S U+0053 LATIN CAPITAL LETTER S count: 767, examples: Salmón (l.23217, 23218), Salomón (l.23219, 23220), Salatiel (l.23225)
+    T U+0054 LATIN CAPITAL LETTER T count: 286, examples: Tamar (l.23216), Torojʉrãjarama (l.23306, 23307, 23308, 23309)
+    U U+0055 LATIN CAPITAL LETTER U count: 4, examples: Urías (l.23219), Uzías (l.23221, 23222), Urbano (l.28413)
+    V U+0056 LATIN CAPITAL LETTER V count: 31, examples: Vorãnʉjara (l.23246), Vorĩ (l.23246), Vobejarã (l.23370), Vore (l.23392), Vaidéjame (l.23731)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 1286, examples: Yʉ (l.23214), Yópe (l.23231, 23235, 23243), Yopedeca (l.23243)
+    Z U+005A LATIN CAPITAL LETTER Z count: 58, examples: Zara (l.23216), Zorobabel (l.23225, 23226), Zabulón (l.23291, 23293)
+    a U+0061 LATIN SMALL LETTER A count: 168360, examples: toivaquijivʉ (l.23214), ina (l.23214), jipocacavʉ (l.23214), bácavʉre (l.23214), jipoca (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 40536, examples: bácavʉre (l.23214), jabocʉ (l.23214), bácʉ (l.23214), bácʉi (l.23214), Abraham (l.23214)
+    c U+0063 LATIN SMALL LETTER C count: 63249, examples: Jesucristo (l.23214), jipocacavʉ (l.23214), bácavʉre (l.23214), jipoca (l.23214), jabocʉ (l.23214)
+    d U+0064 LATIN SMALL LETTER D count: 36746, examples: David (l.23214), Judájã (l.23215), Judá (l.23216), Aminadab (l.23217), Obed (l.23218)
+    e U+0065 LATIN SMALL LETTER E count: 172399, examples: ne (l.23214), ãmiáre (l.23214), Jesucristo (l.23214), bácavʉre (l.23214), põeteivʉ (l.23214)
+    f U+0066 LATIN SMALL LETTER F count: 250, examples: Josafat (l.23221), fariseo (l.23268), Neftalí (l.23291, 23293), fariseova (l.23323)
+    g U+0067 LATIN SMALL LETTER G count: 486, examples: ángele (l.23233, 23234, 23237, 23251), Egipto (l.23251)
+    h U+0068 LATIN SMALL LETTER H count: 799, examples: Abraham (l.23214, 23215, 23230), Rahab (l.23218), d̶aquijichʉvʉ (l.23232)
+    i U+0069 LATIN SMALL LETTER I count: 111632, examples: toivaquijivʉ (l.23214), ãmiáre (l.23214), ina (l.23214), Jesucristo (l.23214), ʉ̃i (l.23214)
+    j U+006A LATIN SMALL LETTER J count: 75522, examples: toivaquijivʉ (l.23214), jipocacavʉ (l.23214), jipoca (l.23214), jabocʉ (l.23214), barejaquémavʉ (l.23215)
+    k U+006B LATIN SMALL LETTER K count: 14, examples: cũinákilometro (l.23344), pʉcakilometros (l.23344), paikilometros (l.26073, 26345), yóbecʉrikilometros (l.26610)
+    l U+006C LATIN SMALL LETTER L count: 1964, examples: Salmón (l.23217, 23218), Salomón (l.23219, 23220), Babilonia (l.23224)
+    m U+006D LATIN SMALL LETTER M count: 61763, examples: ãmiáre (l.23214), Ʉ̃́tame (l.23214), pãramecʉ (l.23214), Abraham (l.23214), mácʉi (l.23214)
+    n U+006E LATIN SMALL LETTER N count: 42808, examples: ne (l.23214), ina (l.23214), népacʉ (l.23215, 23216), népaco (l.23216)
+    o U+006F LATIN SMALL LETTER O count: 47537, examples: toivaquijivʉ (l.23214), Jesucristo (l.23214), jipocacavʉ (l.23214), jipoca (l.23214), jabocʉ (l.23214)
+    p U+0070 LATIN SMALL LETTER P count: 28535, examples: jipocacavʉ (l.23214), jipoca (l.23214), põeteivʉ (l.23214), pãramecʉ (l.23214), pacʉ (l.23215)
+    q U+0071 LATIN SMALL LETTER Q count: 11045, examples: toivaquijivʉ (l.23214), barejaquémavʉ (l.23215, 23216, 23217, 23218)
+    r U+0072 LATIN SMALL LETTER R count: 94810, examples: ãmiáre (l.23214), Jesucristo (l.23214), bácavʉre (l.23214), pãramecʉ (l.23214), aru (l.23214)
+    s U+0073 LATIN SMALL LETTER S count: 11062, examples: Jesucristo (l.23214), Isaac (l.23215), Fares (l.23216), Esrom (l.23216), Naasón (l.23217)
+    t U+0074 LATIN SMALL LETTER T count: 16007, examples: toivaquijivʉ (l.23214), Jesucristo (l.23214), põeteivʉ (l.23214), Ʉ̃́tame (l.23214), Rut (l.23218)
+    u U+0075 LATIN SMALL LETTER U count: 41665, examples: toivaquijivʉ (l.23214), Jesucristo (l.23214), aru (l.23214), barejaquémavʉ (l.23215), Judájã (l.23215)
+    v U+0076 LATIN SMALL LETTER V count: 44236, examples: toivaquijivʉ (l.23214), jipocacavʉ (l.23214), bácavʉre (l.23214), põeteivʉ (l.23214), David (l.23214)
+    x U+0078 LATIN SMALL LETTER X count: 17, examples: Arfaxad (l.25130), Félix (l.27826, 27835, 27837, 27838)
+    y U+0079 LATIN SMALL LETTER Y count: 38281, examples: yóboi (l.23225), paiyajuboa (l.23230), nʉvaiyeta (l.23230), nʉvaiyede (l.23230), põeteiyeta (l.23230)
+    z U+007A LATIN SMALL LETTER Z count: 102, examples: Booz (l.23218), Uzías (l.23221, 23222), Acaz (l.23222), Ezequías (l.23222)
+LATIN_EXTENDED_LETTER characters:
+    Á U+00C1 LATIN CAPITAL LETTER A WITH ACUTE count: 145, example: Ácʉ (l.23322, 23324, 23325, 23331, 23334)
+    Ã U+00C3 LATIN CAPITAL LETTER A WITH TILDE count: 268, examples: Ã́ri (l.23242), Ãmecʉbu (l.23267), Ãrʉmecʉbu (l.23325), Ãmeina (l.23330), Ãmenatamu (l.23386)
+    É U+00C9 LATIN CAPITAL LETTER E WITH ACUTE count: 30, example: Éfeso (l.27645, 27647, 27650, 27653, 27655)
+    Ñ U+00D1 LATIN CAPITAL LETTER N WITH TILDE count: 814, examples: Ñai (l.23219, 23229, 23258, 23261), Ñʉatutarĩ (l.23249)
+    Ó U+00D3 LATIN CAPITAL LETTER O WITH ACUTE count: 4, examples: Órejarejamed̶a (l.24642), Órejarĩ (l.25371), Órejarãjaramu (l.25612), Órejaicõjenejamed̶a (l.27861)
+    Õ U+00D5 LATIN CAPITAL LETTER O WITH TILDE count: 67, examples: Ṍre (l.23231), Õi (l.23429, 23675), Õ (l.23473, 23600)
+    Ú U+00DA LATIN CAPITAL LETTER U WITH ACUTE count: 1, example: Úrure (l.23495)
+    á U+00E1 LATIN SMALL LETTER A WITH ACUTE count: 20699, examples: ãmiáre (l.23214), bácavʉre (l.23214), bácʉ (l.23214), bácʉi (l.23214), mácʉi (l.23214)
+    ã U+00E3 LATIN SMALL LETTER A WITH TILDE count: 17121, examples: ãmiáre (l.23214), pãramecʉ (l.23214), Judájã (l.23215), Jeconíajã (l.23224), ãmicʉrõcavʉ (l.23224)
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 4592, examples: barejaquémavʉ (l.23215, 23216), népacʉ (l.23215, 23216), népaco (l.23216)
+    í U+00ED LATIN SMALL LETTER I WITH ACUTE count: 4127, examples: jípaco (l.23218, 23219), Isaí (l.23218, 23219), Urías (l.23219)
+    ñ U+00F1 LATIN SMALL LETTER N WITH TILDE count: 5626, examples: ñai (l.23214, 23230, 23231), ñecu (l.23221), néñecu (l.23224)
+    ó U+00F3 LATIN SMALL LETTER O WITH ACUTE count: 7444, examples: Naasón (l.23217), Salmón (l.23217, 23218), Salomón (l.23219, 23220)
+    õ U+00F5 LATIN SMALL LETTER O WITH TILDE count: 11202, examples: põeteivʉ (l.23214), ãmicʉrõcavʉ (l.23224, 23230), ãmicʉrõita (l.23224), põeteiyeta (l.23230)
+    ú U+00FA LATIN SMALL LETTER U WITH ACUTE count: 4189, examples: Jesúi (l.23229), Jesús (l.23229, 23234, 23238, 23239)
+LATIN_EXTENDED_A characters:
+    Ĩ U+0128 LATIN CAPITAL LETTER I WITH TILDE count: 20, examples: Ĩmarejaimad̶a (l.23299), Ĩmaroi (l.23497), Ĩni (l.23638, 23794), Ĩjara (l.24105)
+    ĩ U+0129 LATIN SMALL LETTER I WITH TILDE count: 8679, examples: bʉorĩ (l.23224, 23225, 23230), jʉed̶ojĩcʉre (l.23232), coreóvarĩ (l.23232)
+    Ũ U+0168 LATIN CAPITAL LETTER U WITH TILDE count: 19, examples: Ũcuri (l.23883, 24695), Ũcuidore (l.24150, 24846), Ũiyʉvʉ (l.25595)
+    ũ U+0169 LATIN SMALL LETTER U WITH TILDE count: 3773, examples: Josécapũravʉ (l.23232), cũinácʉ (l.23233, 23235), cũinátʉrʉ (l.23235), Cũinácʉ (l.23240)
+LATIN_EXTENDED_B characters:
+    Ʉ U+0244 LATIN CAPITAL LETTER U BAR count: 2715, examples: Ʉ̃́tame (l.23214), Ʉbenita (l.23232), Ʉ̃i (l.23233), Ʉ̃mʉ (l.23234), Ʉ̃ (l.23234)
+LATIN characters:
+    ʉ U+0289 LATIN SMALL LETTER U BAR count: 114888, examples: Yʉ (l.23214), toivaquijivʉ (l.23214), ʉ̃i (l.23214), jipocacavʉ (l.23214), bácavʉre (l.23214)
+LATIN_EXTENDED_ADDITIONAL characters:
+    Ẽ U+1EBC LATIN CAPITAL LETTER E WITH TILDE count: 6, examples: Ẽcarʉcavʉ (l.24512), Ẽnoa (l.26277), Ẽcarʉi (l.26976), Ẽmeni (l.27381), Ẽmecʉyʉme (l.29723)
+    ẽ U+1EBD LATIN SMALL LETTER E WITH TILDE count: 2011, examples: jẽniari (l.23240, 23242), Jerusalẽ́cavʉ (l.23241), Belẽ́cavʉ (l.23255), ẽcarʉacavʉ (l.23266)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 144, examples: mearape! (l.23268), apevʉre! (l.23268), Jʉ̃menijicʉre! (l.23381), mʉja! (l.23390), ãmevʉ! (l.23395)
+    Word!” count: 11, examples: jocarĩ!” (l.23408, 25614), yʉre!” (l.23824), Cristo!” (l.24049, 24807)
+    ¡Word! count: 4, examples: ¡Yaijácʉrĩ! (l.26909), ¡Alelúya! (l.31087, 31090, 31092)
+    ¡Word!” count: 2, example: ¡Yaijácʉrĩ!” (l.23879, 24690)
+    —¡Word! count: 2, examples: —¡Yaijácʉrĩ! (l.26909), —¡Alelúya! (l.31089)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 18913, examples: bácavʉre, (l.23214), pãramecʉ, (l.23214), Dinʉmʉare, (l.23224), cʉrinʉmʉare, (l.23224), yóboi, (l.23225)
+    Word”, count: 1047, examples: cʉbi”, (l.23236), jocarĩ”, (l.23253), bacʉyʉ́me”, (l.23261), mʉjare”, (l.23264), maja”, (l.23270)
+    —Word, count: 299, examples: —Mʉ, (l.23233, 23416), —Coedarĩ, (l.23251, 23258), —Cũiná, (l.23418)
+    “Word, count: 99, examples: “Borocʉrĩ, (l.23336), “mʉ, (l.23406), “Mʉ, (l.23407, 23635, 23822)
+    Word’, count: 51, examples: coyʉiyepe’, (l.23336), jívʉi’, (l.23638), Jʉ̃menijicʉre’, (l.23707), mʉre’, (l.23874), cari’, (l.23945)
+    “Word”, count: 43, examples: “Nʉjara”, (l.23251), “Jímaramu”, (l.23312), “Jʉ̃menijicʉque”, (l.23920), “põevaque”, (l.23921), “Nʉiyʉbevʉ”, (l.23924)
+    —¡Word, count: 21, examples: —¡Mʉ, (l.23439, 23696, 23763), —¡Mʉja, (l.23549, 24024)
+    ’Word, count: 15, examples: ’Mʉjare, (l.23507), ’Yʉ, (l.23649), ’Mʉja, (l.24001, 24002, 24003)
+    ¡Word, count: 12, examples: ¡Mʉja, (l.23592, 25445, 25584), ¡Bi, (l.28065, 28090)
+    ”, count: 8, lines: 25676, 25695, 25696, 26136, 27858
+    ’¡Word, count: 4, example: ’¡Mʉja, (l.24020, 25516, 25517, 25526)
+    “¡Word, count: 4, examples: “¡Mʉ, (l.25547), “¡Jã́jacʉ, (l.25741), “¡Bi, (l.28062)
+    ¿Word, count: 3, examples: ¿Santiago, (l.24479), ¿Yʉre, (l.26388), ¿Aru, (l.26812)
+    ‘Word’, count: 3, examples: ‘jímacʉ’, (l.25678), ‘Jʉ̃menijicʉque’, (l.25853), ‘põevaque’, (l.25854)
+    —“Word”, count: 2, examples: —“Jarʉvacʉdayʉbe”, (l.23320), —“Dajacʉrĩ”, (l.24706)
+    ¿“Word”, count: 2, example: ¿“Yécʉbebu”, (l.24596, 25388)
+    ‘Word, count: 2, examples: ‘Mʉ, (l.25675), ‘mʉ, (l.28269)
+    “¿Word, count: 1, example: “¿Cristo, (l.25109)
+    —¿Word, count: 1, example: —¿Aru, (l.27346)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 20375, examples: bácavʉre. (l.23214), máre. (l.23214), barejaquémavʉ. (l.23215, 23216, 23217)
+    Word”. count: 105, examples: yʉ́que”. (l.23457), mʉja”. (l.23545), Bautistabe”. (l.23755), Jʉ̃menijicʉ”. (l.23835), jã́inore”. (l.23836)
+    —Word. count: 32, examples: —Jã́jara. (l.23502), —Jã́jacʉ. (l.23560, 24353), —Jápiajarã. (l.24245), —Corejarã. (l.24247)
+    “Word. count: 12, examples: “Bítamu. (l.23637), “Jã́jara. (l.24049, 24052, 24083, 24807)
+    Word.) count: 10, examples: apʉcʉra.) (l.25157), ʉ̃.) (l.25669, 26759), Caldea.) (l.27189), barejaquémavʉ.) (l.27432)
+    “Word”. count: 8, examples: “Elíabe”. (l.23755, 24597), “Jeremíame”. (l.23755), “Jesújãmu”. (l.24509), “Efata”. (l.24566)
+    ’Word. count: 2, examples: ’Jápiajarã. (l.27719), ’Jã́jacʉ. (l.30834)
+    Word’. count: 1, example: teiyede’. (l.27390)
+    ”. count: 1, line: 28099
+TOKENS WITH : (U+003A COLON):
+    Word: count: 2329, examples: ʉ̃́re: (l.23233, 23243), Jʉ̃menijicʉ: (l.23235), jã́rejaimad̶a: (l.23240), jabocʉ: (l.23242)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 43, examples: yócʉ; (l.23488), Juan; (l.23488), Bartolomé; (l.23488), bácʉ; (l.23488), Tadeo; (l.23488)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 643, examples: ʉ̃? (l.23240), Cristo? (l.23242), dorãjiyede? (l.23379), cʉ̃rabore? (l.23394), ãd̶are? (l.23395)
+    Word?” count: 157, examples: ñʉja?” (l.23308, 23636), yacorʉi?” (l.23389), náre?” (l.23505), yʉ?” (l.23557)
+    Word?’ count: 12, examples: ãquitucubʉ?’ (l.24837, 25944), ʉ̃́re?’ (l.25853), cʉrõi?’ (l.28262), bárica?’ (l.28462)
+    ¿Word? count: 6, examples: ¿Mʉ́carĩ? (l.24145, 24148, 24842, 26428), ¿Coreóvabenarʉ? (l.24550)
+    Word”? count: 3, examples: jipocai”? (l.23779, 24618), ʉ̃”? (l.28064)
+    —¿Word? count: 1, example: —¿Yéde? (l.26079)
+    “¿Word?” count: 1, example: “¿Jãrajidica?” (l.27952)
+    Word’? count: 1, example: boje’? (l.28242)
+TOKENS WITH ¡ (U+00A1 INVERTED EXCLAMATION MARK):
+    ¡Word count: 66, examples: ¡Aru (l.23268), ¡Mʉja (l.23381), ¡Jʉjovaivʉtamu (l.23390), ¡Que (l.23395, 23408)
+    —¡Word count: 38, examples: —¡Mʉja (l.23268), —¡Põe (l.23692), —¡Nácacʉ (l.24193, 24195), —¡Jãveneca (l.24197)
+    —¡Word, count: 21, examples: —¡Mʉ, (l.23439, 23696, 23763), —¡Mʉja, (l.23549, 24024)
+    ¡Word, count: 12, examples: ¡Mʉja, (l.23592, 25445, 25584), ¡Bi, (l.28065, 28090)
+    “¡Word count: 8, examples: “¡Mi (l.23824), “¡Ãmecʉ (l.23828), “¡Boarĩ́ (l.23879, 24690), “¡Ãñʉrecabe (l.24049)
+    ’¡Word, count: 4, example: ’¡Mʉja, (l.24020, 25516, 25517, 25526)
+    “¡Word, count: 4, examples: “¡Mʉ, (l.25547), “¡Jã́jacʉ, (l.25741), “¡Bi, (l.28062)
+    ¡Word! count: 4, examples: ¡Yaijácʉrĩ! (l.26909), ¡Alelúya! (l.31087, 31090, 31092)
+    ¡Word!” count: 2, example: ¡Yaijácʉrĩ!” (l.23879, 24690)
+    ’¡Word count: 2, example: ’¡Ãmeno (l.25518, 25521)
+    —¡Word! count: 2, examples: —¡Yaijácʉrĩ! (l.26909), —¡Alelúya! (l.31089)
+TOKENS WITH — (U+2014 EM DASH):
+    —Word count: 981, examples: —Belén (l.23243), —Vorãnʉjara (l.23246), —Chĩori (l.23263), —Yʉre (l.23275), —Yópe (l.23276)
+    —Word, count: 299, examples: —Mʉ, (l.23233, 23416), —Coedarĩ, (l.23251, 23258), —Cũiná, (l.23418)
+    —¿Word count: 265, examples: —¿Mʉja (l.23240, 23394), —¿Ã́ri (l.23242), —¿Aipe (l.23440), —¿Yécʉba (l.23441)
+    —¡Word count: 38, examples: —¡Mʉja (l.23268), —¡Põe (l.23692), —¡Nácacʉ (l.24193, 24195), —¡Jãveneca (l.24197)
+    —Word. count: 32, examples: —Jã́jara. (l.23502), —Jã́jacʉ. (l.23560, 24353), —Jápiajarã. (l.24245), —Corejarã. (l.24247)
+    —¡Word, count: 21, examples: —¡Mʉ, (l.23439, 23696, 23763), —¡Mʉja, (l.23549, 24024)
+    —“Word count: 4, examples: —“Ʉjacʉ (l.23978), —“Barrabáre (l.24906), —“Yʉ (l.26901), —“Ãiyʉbevʉ (l.27343)
+    —“Word”, count: 2, examples: —“Jarʉvacʉdayʉbe”, (l.23320), —“Dajacʉrĩ”, (l.24706)
+    —“Word” count: 2, example: —“Ãmenatamu” (l.23386, 25252)
+    —¿“Word count: 2, examples: —¿“Jocʉcʉ (l.26163), —¿“Mʉre (l.26737)
+    —“¿Word count: 2, examples: —“¿Ã́rocacʉba (l.26539), —“¿Ácʉba (l.26723)
+    —¡Word! count: 2, examples: —¡Yaijácʉrĩ! (l.26909), —¡Alelúya! (l.31089)
+    —¿Word? count: 1, example: —¿Yéde? (l.26079)
+    —¿Word, count: 1, example: —¿Aru, (l.27346)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 73, examples: ‘Mʉre (l.23334, 23707), ‘Jãve (l.23336), ‘Mamarʉmʉ (l.23638), ‘Cũinájãravʉ (l.23874)
+    ‘¿Word count: 12, examples: ‘¿Átucubʉba (l.24837, 25944), ‘¿Aipe (l.25853), ‘¿Ñame (l.28262), ‘¿Meacʉ (l.28462)
+    ‘Word’, count: 3, examples: ‘jímacʉ’, (l.25678), ‘Jʉ̃menijicʉque’, (l.25853), ‘põevaque’, (l.25854)
+    ‘Word, count: 2, examples: ‘Mʉ, (l.25675), ‘mʉ, (l.28269)
+    ‘Word’ count: 1, example: ‘Ãradajarã’ (l.25639)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    ’Word count: 155, examples: ’Yʉ (l.23272), ’Ʉbenina (l.23322), ’Que (l.23326, 23332), ’Apecʉ (l.23328)
+    Word’, count: 51, examples: coyʉiyepe’, (l.23336), jívʉi’, (l.23638), Jʉ̃menijicʉre’, (l.23707), mʉre’, (l.23874), cari’, (l.23945)
+    Word’ count: 22, examples: yʉ’ (l.23334), coyʉipõecʉ’ (l.25284), mʉre’ (l.25676), bajura’ (l.25695, 25696)
+    ’Word, count: 15, examples: ’Mʉjare, (l.23507), ’Yʉ, (l.23649), ’Mʉja, (l.24001, 24002, 24003)
+    Word?’ count: 12, examples: ãquitucubʉ?’ (l.24837, 25944), ʉ̃́re?’ (l.25853), cʉrõi?’ (l.28262), bárica?’ (l.28462)
+    ’¡Word, count: 4, example: ’¡Mʉja, (l.24020, 25516, 25517, 25526)
+    ‘Word’, count: 3, examples: ‘jímacʉ’, (l.25678), ‘Jʉ̃menijicʉque’, (l.25853), ‘põevaque’, (l.25854)
+    ’¡Word count: 2, example: ’¡Ãmeno (l.25518, 25521)
+    ’Word. count: 2, examples: ’Jápiajarã. (l.27719), ’Jã́jacʉ. (l.30834)
+    ‘Word’ count: 1, example: ‘Ãradajarã’ (l.25639)
+    Word’. count: 1, example: teiyede’. (l.27390)
+    Word’? count: 1, example: boje’? (l.28242)
