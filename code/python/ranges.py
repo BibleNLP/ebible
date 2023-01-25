@@ -146,6 +146,18 @@ def report_short_files(files_info, verses_threshold) -> None:
             print(short_file.name)
 
 
+def get_last_line(file) -> Tuple[int, int,str]:
+
+    with open(file, "r", encoding="utf-8") as f_in:
+        lines = f_in.readlines()
+    
+    for line_number, line in reversed(list(enumerate(lines,1))):
+        if line.strip() != '':
+            return len(lines), line_number, line.strip()
+        
+    return len(lines), line_number, line.strip()
+
+
 def report_details(files_info,output_folder) -> None:
 
     files_with_empty_ranges = {
@@ -153,12 +165,27 @@ def report_details(files_info,output_folder) -> None:
     }
 
     if len(files_with_empty_ranges) > 0:
-        cli = cmd.Cmd()
-        filenames = [file_with_empty_range.name for file_with_empty_range in files_with_empty_ranges]
+        
+        # cli used to output files in columns
+        #cli = cmd.Cmd()
+
+        #filenames = [file_with_empty_range.name for file_with_empty_range in files_with_empty_ranges]
+        input_files = [file_with_empty_range for file_with_empty_range in files_with_empty_ranges]
+
         print(f"\nThese {len(files_with_empty_ranges)} files have empty ranges:")
 
         # import and use shutil.get_terminal_size().columns to adjust columns automatically.
-        cli.columnize(filenames, displaywidth=80)
+        # cli.columnize(filenames, displaywidth=80)
+
+        for input_file in input_files:
+            output_file = output_folder / input_file.name
+
+            total_lines_in, last_lineno_in, last_line_in = get_last_line(input_file)
+            total_lines_out, last_lineno_out, last_line_out = get_last_line(output_file)
+            print(input_file, output_file)
+            print(total_lines_in, last_lineno_in, last_line_in[:75])
+            print(total_lines_out, last_lineno_out, last_line_out[:75],"\n")
+
         print(f"\nModified versions without the empty ranges were saved in {output_folder.parent.resolve()}")
     else:
         print(f"\nThere were no files found containing empty ranges.")
@@ -166,7 +193,6 @@ def report_details(files_info,output_folder) -> None:
 
     total = get_totals(files_info)
     total["files"] = len(files_info)
-
     print(f"\nThe totals are:")
     for k, v in total.most_common():
         key = k.replace("_", " ")
@@ -175,6 +201,8 @@ def report_details(files_info,output_folder) -> None:
     print(f"{total['ranges']/total['verses'] * 100:>5.4f}% of verses are ranges")
     print(f"{total['empty_ranges']/total['verses'] * 100:>5.4f}% of verses are empty_ranges")
     print(f"{total['empty_ranges']/total['ranges'] * 100:>5.4f}% of ranges are empty_ranges.")
+
+
 
 
 def main():
