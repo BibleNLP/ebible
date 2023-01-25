@@ -2,13 +2,11 @@
 The fix_file function iterates though a file and removes lines that consist of only '<range>' or '...' where the line before is  empty. """
 
 import argparse
-import cmd
 from collections import Counter
 import multiprocessing as mp
 import os
 from pathlib import Path
-from statistics import multimode
-from typing import Tuple, List, OrderedDict
+from typing import Tuple, OrderedDict
 
 global deletable_lines
 deletable_lines = set(["<range>", "..."])
@@ -132,6 +130,25 @@ def get_totals(verse_and_range_counts) -> Counter:
 
     return total
 
+def report_empty_files(files_info) -> None:
+
+    empty_files = {
+        file: counts for file, counts in files_info.items() if "verses" not in counts
+    }
+
+    # print(f"These are the empty_files: {empty_files}")
+    if empty_files:
+        print(f"These empty files, have no verse text.")
+        for file, counts in empty_files.items():
+            print(file.name)
+        print(
+            f"There are {len(empty_files)} empty files without verse text.\nYou might like to check that they really are empty."
+        )
+        if choose_yes_no(f"Delete all the empty files? y/n"):
+            delete_empty_files(empty_files)
+    else: 
+        print(f"\nThere were no files without some verse text.")
+
 
 def report_short_files(files_info, verses_threshold) -> None:
 
@@ -170,16 +187,9 @@ def report_details(files_info,output_folder) -> None:
 
     if len(files_with_empty_ranges) > 0:
         
-        # cli used to output files in columns
-        #cli = cmd.Cmd()
-
-        #filenames = [file_with_empty_range.name for file_with_empty_range in files_with_empty_ranges]
         input_files = [file_with_empty_range for file_with_empty_range in files_with_empty_ranges]
 
         print(f"\nThese {len(files_with_empty_ranges)} files have empty ranges:")
-
-        # import and use shutil.get_terminal_size().columns to adjust columns automatically.
-        # cli.columnize(filenames, displaywidth=80)
 
         for input_file in input_files:
             output_file = output_folder / input_file.name
@@ -188,7 +198,7 @@ def report_details(files_info,output_folder) -> None:
             total_lines_out, last_lineno_out, last_line_out = get_last_line(output_file)
             print(input_file, output_file)
             print(total_lines_in, last_lineno_in, last_line_in[:75])
-            print(total_lines_out, last_lineno_out, last_line_out[:75],"\n")
+            print(total_lines_out, last_lineno_out, last_line_out[:75])
 
         print(f"\nModified versions without the empty ranges were saved in {output_folder.parent.resolve()}")
     else:
@@ -229,22 +239,7 @@ def main():
 
     files_info = fix_files(files, output_folder)
 
-    empty_files = {
-        file: counts for file, counts in files_info.items() if "verses" not in counts
-    }
-    # print(f"These are the empty_files: {empty_files}")
-    if empty_files:
-        print(f"These empty files, have no verse text.")
-        for file, counts in empty_files.items():
-            print(file.name)
-        print(
-            f"There are {len(empty_files)} empty files without verse text.\nYou might like to check that they really are empty."
-        )
-        if choose_yes_no(f"Delete all the empty files? y/n"):
-            delete_empty_files(empty_files)
-    else: 
-        print(f"\nThere were no files without some verse text.")
-    
+    report_empty_files(files_info)    
 
     report_details(files_info,output_folder)
 
