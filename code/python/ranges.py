@@ -10,6 +10,9 @@ from pathlib import Path
 from statistics import multimode
 from typing import Tuple, List, OrderedDict
 
+global deletable_lines
+deletable_lines = set(["<range>", "..."])
+
 
 def choose_yes_no(prompt: str) -> bool:
 
@@ -32,8 +35,6 @@ def fix_file(params) -> Tuple[Path, Counter]:
     count = Counter()
     # Can't initialise a counter to zero, since zero and negative values
     # Are automatically removed.  "ranges", "verses", "empty_ranges", "lines"
-
-    deletable_lines = set(["<range>", "..."])
 
     with open(file, "r", encoding="utf-8") as f_in:
         lines = f_in.readlines()
@@ -147,15 +148,18 @@ def report_short_files(files_info, verses_threshold) -> None:
 
 
 def get_last_line(file) -> Tuple[int, int,str]:
+    """ Get the number of lines in the file. Ignoring ranges and empty lines,
+    get the line number and text of the last line."""
 
     with open(file, "r", encoding="utf-8") as f_in:
         lines = f_in.readlines()
     
     for line_number, line in reversed(list(enumerate(lines,1))):
-        if line.strip() != '':
-            return len(lines), line_number, line.strip()
+        line = line.strip()
+        if line != '' and line not in deletable_lines:
+            return len(lines), line_number, line
         
-    return len(lines), line_number, line.strip()
+    return len(lines), line_number, line
 
 
 def report_details(files_info,output_folder) -> None:
@@ -203,15 +207,13 @@ def report_details(files_info,output_folder) -> None:
     print(f"{total['empty_ranges']/total['ranges'] * 100:>5.4f}% of ranges are empty_ranges.")
 
 
-
-
 def main():
     parser = argparse.ArgumentParser(description="Removes empty ranges from extracts.")
     parser.add_argument("input", type=Path, help="The extract folder.")
     parser.add_argument("output", type=Path, help="The folder for modified files.")
 
     args = parser.parse_args()
-
+    
     input_folder = Path(args.input)
     if not input_folder.is_dir():
         print(f"Can't find the input folder {input_folder}")
