@@ -118,17 +118,19 @@ def delete_empty_files(file_info) -> None:
                 print(f"Attempted to delete empty file: {file} but the attempt failed.")
 
 
-def get_totals(verse_and_range_counts) -> Counter:
+def get_totals(verse_and_range_counts) -> Tuple[Counter, Counter]:
 
     total = Counter()
+    file_lengths = Counter()
 
     for file, count in verse_and_range_counts.items():
         total["verses"] += count["verses"]
         total["ranges"] += count["ranges"]
         total["empty_ranges"] += count["empty_ranges"]
         total["lines"] += count["lines"]
+        file_lengths[count["lines"]] += 1
 
-    return total
+    return total, file_lengths
 
 def report_empty_files(files_info) -> None:
 
@@ -179,33 +181,35 @@ def get_last_line(file) -> Tuple[int, int,str]:
     return len(lines), line_number, line
 
 
-def report_details(files_info,output_folder) -> None:
+def report_details(input_folder,output_folder, files_info) -> None:
 
-    files_with_empty_ranges = {
-        file: counts for file, counts in files_info.items() if counts["empty_ranges"]
-    }
+    output_files = [file for file in output_folder.glob("*." + "txt")]
 
-    if len(files_with_empty_ranges) > 0:
-        
-        input_files = [file_with_empty_range for file_with_empty_range in files_with_empty_ranges]
-
-        print(f"\nThese {len(files_with_empty_ranges)} files have empty ranges:")
+    if output_files:
+        outfile_lengths = Counter()
+        input_files =  [input_folder / file.name for file in output_files]
+    
+        print(f"\nThese {len(output_files)} files had empty ranges:")
 
         for input_file in input_files:
             output_file = output_folder / input_file.name
 
             total_lines_in, last_lineno_in, last_line_in = get_last_line(input_file)
             total_lines_out, last_lineno_out, last_line_out = get_last_line(output_file)
+            outfile_lengths[total_lines_out] += 1
+
             print(input_file, output_file)
             print(total_lines_in, last_lineno_in, last_line_in[:75])
-            print(total_lines_out, last_lineno_out, last_line_out[:75])
-
-        print(f"\nModified versions without the empty ranges were saved in {output_folder.parent.resolve()}")
+            print(total_lines_out, last_lineno_out, last_line_out[:75],"\n")
+        
+        
+        print(f"Modified versions without the empty ranges were found in {output_folder.parent.resolve()}")
+        
     else:
         print(f"\nThere were no files found containing empty ranges.")
+    
 
-
-    total = get_totals(files_info)
+    total, infile_lengths = get_totals(files_info)
     total["files"] = len(files_info)
     print(f"\nThe totals are:")
     for k, v in total.most_common():
@@ -215,7 +219,8 @@ def report_details(files_info,output_folder) -> None:
     print(f"{total['ranges']/total['verses'] * 100:>5.4f}% of verses are ranges")
     print(f"{total['empty_ranges']/total['verses'] * 100:>5.4f}% of verses are empty_ranges")
     print(f"{total['empty_ranges']/total['ranges'] * 100:>5.4f}% of ranges are empty_ranges.")
-
+    print(f"\nThese are the lengths of the files in {input_folder}\n {infile_lengths}")
+    print(f"These are the lengths of the files in {output_folder}\n {outfile_lengths}")
 
 def main():
     parser = argparse.ArgumentParser(description="Removes empty ranges from extracts.")
@@ -241,7 +246,8 @@ def main():
 
     report_empty_files(files_info)    
 
-    report_details(files_info,output_folder)
+    report_details(input_folder, output_folder, files_info)
+
 
 if __name__ == "__main__":
     main()
