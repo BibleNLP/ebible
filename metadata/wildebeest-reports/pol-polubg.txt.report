@@ -1,0 +1,166 @@
+OVERVIEW:
+File size: 41899 lines, 3652433 characters
+Letter scripts: 2
+    LATIN (2937218 instances)
+    HEBREW (21 instances): בגדהוזחטיכלמנסעפצקרשת
+Number scripts: 0
+Other character groups: 3
+    SPACE (553118 instances)
+    ASCII_PUNCTUATION (118735 instances): !(),-.:;?
+    GENERAL_PUNCTUATION (1442 instances): –”„
+
+DETAILS:
+Non-canonical character combinations: 0
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 703, lines: 416, 450, 467, 476, 549
+    ( U+0028 LEFT PARENTHESIS count: 72, lines: 249, 478, 3279, 4709, 4960
+    ) U+0029 RIGHT PARENTHESIS count: 72, lines: 249, 478, 3279, 4712, 4963
+    , U+002C COMMA count: 66283, lines: 2, 4, 5, 7, 8
+    - U+002D HYPHEN-MINUS count: 517, lines: 342, 344, 496, 528, 545
+    . U+002E FULL STOP count: 33544, lines: 1, 2, 3, 4, 5
+    : U+003A COLON count: 8546, lines: 3, 6, 9, 11, 14
+    ; U+003B SEMICOLON count: 5800, lines: 17, 26, 27, 28, 33
+    ? U+003F QUESTION MARK count: 3198, lines: 57, 65, 67, 69, 86
+GENERAL_PUNCTUATION characters:
+    – U+2013 EN DASH count: 1398, lines: 10, 29, 42, 44, 45
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 22, lines: 28762, 28885, 28886, 28887, 28888
+    „ U+201E DOUBLE LOW-9 QUOTATION MARK count: 22, lines: 28762, 28885, 28886, 28887, 28888
+SPACE characters:
+      U+0020 SPACE count: 553118, lines: 1, 2, 3, 4, 5
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 18214, examples: A (l.2), PAN (l.35, 36, 38), Ale (l.37)
+    B U+0042 LATIN CAPITAL LETTER B count: 7659, examples: Bóg (l.1, 3, 4, 5), Boży (l.2)
+    C U+0043 LATIN CAPITAL LETTER C count: 3996, examples: Chawila (l.42), Chiddekel (l.45), Czy (l.57, 67), Co (l.69)
+    D U+0044 LATIN CAPITAL LETTER D count: 3510, examples: Duch (l.2), Dla (l.51), Dlatego (l.55), Do (l.73), Dlaczego (l.86)
+    E U+0045 LATIN CAPITAL LETTER E count: 3135, examples: Edenie (l.39), Edenu (l.41), Eufrat (l.45), Eden (l.46), Ewa (l.76)
+    F U+0046 LATIN CAPITAL LETTER F count: 396, examples: Filistyni (l.249), Faraon (l.317), Filistynów (l.546, 548, 694)
+    G U+0047 LATIN CAPITAL LETTER G count: 2449, examples: Gichon (l.44), Gdzie (l.65, 89), Głos (l.90), Gdy (l.92)
+    H U+0048 LATIN CAPITAL LETTER H count: 658, examples: Henocha (l.97, 124, 125), Henoch (l.97), Henochowi (l.98)
+    I U+0049 LATIN CAPITAL LETTER I count: 8578, lines: 3, 4, 5, 7, 8
+    J U+004A LATIN CAPITAL LETTER J count: 8499, examples: Jeśli (l.87, 104), Jabala (l.100), Jego (l.101), Jubal (l.101)
+    K U+004B LATIN CAPITAL LETTER K count: 2508, examples: Kusz (l.44), Kto (l.67), Kobieta (l.68), Kaina (l.81), Kain (l.82)
+    L U+004C LATIN CAPITAL LETTER L count: 1877, examples: Lecz (l.85), Lameka (l.98, 103), Lamek (l.99, 103)
+    M U+004D LATIN CAPITAL LETTER M count: 3979, examples: Możesz (l.47), Możemy (l.58), Mechujaela (l.98), Mechujael (l.98), Matuszaela (l.98)
+    N U+004E LATIN CAPITAL LETTER N count: 10818, examples: Na (l.1), Niech (l.3, 6, 9, 11)
+    O U+004F LATIN CAPITAL LETTER O count: 3185, examples: Oto (l.29, 78), On (l.66), Ono (l.71), Ona (l.74)
+    P U+0050 LATIN CAPITAL LETTER P count: 12831, example: Potem (l.6, 9, 11, 14, 20)
+    R U+0052 LATIN CAPITAL LETTER R count: 1019, examples: Rifat (l.238), Rama (l.242), Ramy (l.242), Rechobot (l.246), Resan (l.247)
+    S U+0053 LATIN CAPITAL LETTER S count: 5291, examples: Stworzył (l.27), Spletli (l.63), Silla (l.99, 102), Siostrą (l.102)
+    T U+0054 LATIN CAPITAL LETTER T count: 3590, examples: Tak (l.32), Takie (l.35), Tam (l.43), To (l.54), Twoje (l.72)
+    U U+0055 LATIN CAPITAL LETTER U count: 1315, examples: Uczyńmy (l.26), Usłyszałem (l.66), PANU (l.83), Ustanowię (l.217), Us (l.258)
+    W U+0057 LATIN CAPITAL LETTER W count: 4713, examples: W (l.33), Wszelkie (l.36), Wtedy (l.38, 52, 64)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 1, example: KTÓRY (l.1594)
+    Z U+005A LATIN CAPITAL LETTER Z count: 2357, examples: Z (l.83), Zbyt (l.93), Zaprawdę (l.95), Zbudował (l.97), Zgładzę (l.145)
+    a U+0061 LATIN SMALL LETTER A count: 238021, examples: Na (l.1), ziemia (l.2), była (l.2), bezkształtna (l.2), pusta (l.2)
+    b U+0062 LATIN SMALL LETTER B count: 51164, examples: niebo (l.1), była (l.2, 4), bezkształtna (l.2), głębią (l.2)
+    c U+0063 LATIN SMALL LETTER C count: 105410, examples: początku (l.1), ciemność (l.2), Duch (l.2), Niech (l.3), ciemności (l.4)
+    d U+0064 LATIN SMALL LETTER D count: 112658, examples: nad (l.2), wodami (l.2), powiedział (l.3), widział (l.4), dobra (l.4)
+    e U+0065 LATIN SMALL LETTER E count: 231649, examples: niebo (l.1), ziemię (l.1), ziemia (l.2), bezkształtna (l.2), ciemność (l.2)
+    f U+0066 LATIN SMALL LETTER F count: 3871, examples: firmament (l.6, 7, 8), firmamentem (l.7), firmamencie (l.14)
+    g U+0067 LATIN SMALL LETTER G count: 48974, examples: Bóg (l.1, 3, 4, 5), głębią (l.2)
+    h U+0068 LATIN SMALL LETTER H count: 32001, examples: Duch (l.2), Niech (l.3, 6, 9), niech (l.6)
+    i U+0069 LATIN SMALL LETTER I count: 280180, examples: niebo (l.1), i (l.1, 2), ziemię (l.1), ziemia (l.2)
+    j U+006A LATIN SMALL LETTER J count: 58547, examples: jednym (l.9), miejscu (l.9), wydające (l.11), urodzajne (l.11), rodzaju (l.11)
+    k U+006B LATIN SMALL LETTER K count: 68192, examples: początku (l.1), bezkształtna (l.2), poranek (l.5), pośrodku (l.6), które (l.7)
+    l U+006C LATIN SMALL LETTER L count: 56481, examples: oddzielił (l.4, 7), oddzieli (l.6), rośliny (l.11, 12)
+    m U+006D LATIN SMALL LETTER M count: 92150, examples: ziemię (l.1), ziemia (l.2), ciemność (l.2), wodami (l.2), ciemności (l.4)
+    n U+006E LATIN SMALL LETTER N count: 125893, examples: niebo (l.1), bezkształtna (l.2), ciemność (l.2), nad (l.2), unosił (l.2)
+    o U+006F LATIN SMALL LETTER O count: 212079, examples: początku (l.1), stworzył (l.1), niebo (l.1), ciemność (l.2), Boży (l.2)
+    p U+0070 LATIN SMALL LETTER P count: 66944, examples: początku (l.1), pusta (l.2), powiedział (l.3), poranek (l.5), pierwszy (l.5)
+    r U+0072 LATIN SMALL LETTER R count: 107653, examples: stworzył (l.1), dobra (l.4), wieczór (l.5), poranek (l.5), pierwszy (l.5)
+    s U+0073 LATIN SMALL LETTER S count: 122268, examples: stworzył (l.1), bezkształtna (l.2), pusta (l.2), unosił (l.2), się (l.2)
+    t U+0074 LATIN SMALL LETTER T count: 92764, examples: początku (l.1), stworzył (l.1), bezkształtna (l.2), pusta (l.2), stanie (l.3)
+    u U+0075 LATIN SMALL LETTER U count: 57865, examples: początku (l.1), pusta (l.2), Duch (l.2), unosił (l.2), pośrodku (l.6)
+    w U+0077 LATIN SMALL LETTER W count: 128873, examples: stworzył (l.1), wodami (l.2), powiedział (l.3), światłość (l.3), widział (l.4)
+    y U+0079 LATIN SMALL LETTER Y count: 108792, examples: stworzył (l.1), była (l.2, 4), Boży (l.2), pierwszy (l.5)
+    z U+007A LATIN SMALL LETTER Z count: 175714, examples: początku (l.1), stworzył (l.1), ziemię (l.1), ziemia (l.2), bezkształtna (l.2)
+LATIN_EXTENDED_LETTER characters:
+    Ó U+00D3 LATIN CAPITAL LETTER O WITH ACUTE count: 266, examples: KTÓRY (l.1594), Ów (l.2227), Ósmego (l.3122, 3183, 3439)
+    ó U+00F3 LATIN SMALL LETTER O WITH ACUTE count: 36864, examples: Bóg (l.1, 3, 4, 5), wieczór (l.5)
+LATIN_EXTENDED_A characters:
+    Ą U+0104 LATIN CAPITAL LETTER A WITH OGONEK count: 2, examples: NASZĄ (l.19559), SPRAWIEDLIWOŚCIĄ (l.19559)
+    ą U+0105 LATIN SMALL LETTER A WITH OGONEK count: 30078, examples: początku (l.1), głębią (l.2), nocą (l.5), są (l.7), zbiorą (l.9)
+    Ć U+0106 LATIN CAPITAL LETTER C WITH ACUTE count: 3, examples: Ćwiczy (l.8640, 14165), Ćwiczenie (l.29822)
+    ć U+0107 LATIN SMALL LETTER C WITH ACUTE count: 11431, examples: ciemność (l.2, 5), światłość (l.3, 4, 5)
+    ę U+0119 LATIN SMALL LETTER E WITH OGONEK count: 43579, examples: ziemię (l.1), głębią (l.2), się (l.2, 3, 6)
+    Ł U+0141 LATIN CAPITAL LETTER L WITH STROKE count: 74, examples: Łączyły (l.2669), Łabędź (l.3016), Łuki (l.7246), Łagodnie (l.8486), Łatwo (l.10112)
+    ł U+0142 LATIN SMALL LETTER L WITH STROKE count: 71709, examples: stworzył (l.1), była (l.2), bezkształtna (l.2), głębią (l.2), unosił (l.2)
+    ń U+0144 LATIN SMALL LETTER N WITH ACUTE count: 3654, example: dzień (l.5, 8, 13, 14, 19)
+    Ś U+015A LATIN CAPITAL LETTER S WITH ACUTE count: 311, examples: Śnił (l.1093, 1181, 1211), Śniło (l.1182), Święto (l.1834)
+    ś U+015B LATIN SMALL LETTER S WITH ACUTE count: 22838, examples: ciemność (l.2), światłość (l.3, 4, 5), ciemności (l.4)
+    Ź U+0179 LATIN CAPITAL LETTER Z WITH ACUTE count: 9, examples: Źle (l.1330), Źródło (l.5840), Źródła (l.12325), Źródlanej (l.12326), Źródlaną (l.12347)
+    ź U+017A LATIN SMALL LETTER Z WITH ACUTE count: 2920, examples: Bądźcie (l.22, 28), nieprzyjaźń (l.71), weźmiesz (l.159), Wejdź (l.161)
+    Ż U+017B LATIN CAPITAL LETTER Z WITH DOT ABOVE count: 418, examples: Żałował (l.144), Że (l.360), BOŻE (l.363, 369), Żyjącego (l.396)
+    ż U+017C LATIN SMALL LETTER Z WITH DOT ABOVE count: 24341, examples: Boży (l.2), że (l.4, 10, 12), ukaże (l.9)
+HEBREW characters:
+‎    ב U+05D1 HEBREW LETTER BET count: 1, line: 15974
+‎    ג U+05D2 HEBREW LETTER GIMEL count: 1, line: 15982
+‎    ד U+05D3 HEBREW LETTER DALET count: 1, line: 15990
+‎    ה U+05D4 HEBREW LETTER HE count: 1, line: 15998
+‎    ו U+05D5 HEBREW LETTER VAV count: 1, line: 16006
+‎    ז U+05D6 HEBREW LETTER ZAYIN count: 1, line: 16014
+‎    ח U+05D7 HEBREW LETTER HET count: 1, line: 16022
+‎    ט U+05D8 HEBREW LETTER TET count: 1, line: 16030
+‎    י U+05D9 HEBREW LETTER YOD count: 1, line: 16038
+‎    כ U+05DB HEBREW LETTER KAF count: 1, line: 16046
+‎    ל U+05DC HEBREW LETTER LAMED count: 1, line: 16054
+‎    מ U+05DE HEBREW LETTER MEM count: 1, line: 16062
+‎    נ U+05E0 HEBREW LETTER NUN count: 1, line: 16070
+‎    ס U+05E1 HEBREW LETTER SAMEKH count: 1, line: 16078
+‎    ע U+05E2 HEBREW LETTER AYIN count: 1, line: 16086
+‎    פ U+05E4 HEBREW LETTER PE count: 1, line: 16094
+‎    צ U+05E6 HEBREW LETTER TSADI count: 1, line: 16102
+‎    ק U+05E7 HEBREW LETTER QOF count: 1, line: 16110
+‎    ר U+05E8 HEBREW LETTER RESH count: 1, line: 16118
+‎    ש U+05E9 HEBREW LETTER SHIN count: 1, line: 16126
+‎    ת U+05EA HEBREW LETTER TAV count: 1, line: 16134
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 703, examples: obliczem! (l.416), ciebie! (l.450), się! (l.467), Panie! (l.476), Abrahamie! (l.549)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 66063, examples: głębią, (l.2), widział, (l.4), dniem, (l.5), poranek, (l.5), firmament, (l.7)
+    Word-Word, count: 188, examples: Asztarot-Karnaim, (l.342), En-Miszpat, (l.344), Beer-Szeba, (l.545), Kiriat-Arba, (l.574), Aram-Naharaim, (l.602)
+    Word), count: 17, examples: zazdrosnym), (l.5103), niewoli), (l.5279), człowieka), (l.5448), ramieniu), (l.9030), chciał), (l.9065)
+    „Word”, count: 9, examples: „Amen”, (l.28762, 28888), „nie”, (l.28887), „Dzisiaj”, (l.30075, 30088)
+    „Word, count: 2, examples: „tak, (l.28885), „nie, (l.28885)
+    Word?), count: 1, example: małe?), (l.478)
+    Word-Word), count: 1, example: Kiriat-Arba), (l.6521)
+    Word-Word-Word, count: 1, example: Abel-Bet-Maaka, (l.9958)
+    (Word, count: 1, example: (biada, (l.20854)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word, count: 188, examples: Asztarot-Karnaim, (l.342), En-Miszpat, (l.344), Beer-Szeba, (l.545), Kiriat-Arba, (l.574), Aram-Naharaim, (l.602)
+    Word-Word count: 174, examples: Beer-Szebie (l.547), Beer-Szeba (l.726), Beer-Szeby (l.784), Kibrot-Hattaawy (l.4060), Ijje-Haabarim (l.4352)
+    Word-Word. count: 108, examples: Chasason-Tamar. (l.344), Ben-Ammi. (l.496), Beer-Szeby. (l.528, 567), Beer-Szebie. (l.546)
+    Word-Word; count: 22, examples: Szawe-Kiriataim; (l.342), Paddan-Aram; (l.781), Ebel-Misraim; (l.1518), Bet-Araba; (l.6210), Bet-Pelet; (l.6231)
+    Word-Word: count: 10, examples: En-Gedi: (l.6266), Bet-Szemesz: (l.6361), Jabesz-Gilead: (l.7456), Ben-Hadad: (l.9413, 9416)
+    Word-Word-Word; count: 3, examples: Baszan-Chawot-Jair; (l.4991), Bet-Baal-Meon; (l.6173), Elon-Bet-Chanan; (l.8856)
+    Word-Word? count: 2, example: Ramot-Gilead? (l.9487, 11550)
+    Word-Word), count: 1, example: Kiriat-Arba), (l.6521)
+    Word-Word-Word count: 1, example: Abel-Bet-Maaka (l.9272)
+    Word-Word-Word. count: 1, example: Gat-ha-Chefer. (l.9925)
+    Word-Word-Word, count: 1, example: Abel-Bet-Maaka, (l.9958)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 33413, examples: ziemię. (l.1), wodami. (l.2), światłość. (l.3), dobra. (l.4), ciemności. (l.4)
+    Word-Word. count: 108, examples: Chasason-Tamar. (l.344), Ben-Ammi. (l.496), Beer-Szeby. (l.528, 567), Beer-Szebie. (l.546)
+    Word). count: 16, examples: osób). (l.4712), miejscu). (l.4963), Sanirem). (l.4986), Edomie). (l.9127), wodą). (l.9348)
+    Word.) count: 3, examples: dziękczynienie.) (l.26349), widzenie.) (l.28952), zbawienia.) (l.28968)
+    „Word”. count: 3, examples: „nie”. (l.28886), „tak”. (l.28887), „biada”. (l.30954)
+    Word-Word-Word. count: 1, example: Gat-ha-Chefer. (l.9925)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 8533, example: powiedział: (l.3, 6, 9, 11, 14)
+    Word-Word: count: 10, examples: En-Gedi: (l.6266), Bet-Szemesz: (l.6361), Jabesz-Gilead: (l.7456), Ben-Hadad: (l.9413, 9416)
+    Word): count: 3, examples: dniach): (l.7084), imię): (l.22726), mówimy): (l.28067)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 5752, examples: ziemią; (l.17), podobieństwa; (l.26), stworzył; (l.27), poddaną; (l.28), uczynił; (l.33)
+    Word-Word; count: 22, examples: Szawe-Kiriataim; (l.342), Paddan-Aram; (l.781), Ebel-Misraim; (l.1518), Bet-Araba; (l.6210), Bet-Pelet; (l.6231)
+    Word); count: 22, examples: skalana); (l.3279), żniwa); (l.5910), Egipcie); (l.9156), Maaka); (l.10554), trąbach); (l.11285)
+    Word-Word-Word; count: 3, examples: Baszan-Chawot-Jair; (l.4991), Bet-Baal-Meon; (l.6173), Elon-Bet-Chanan; (l.8856)
+    Word;) count: 1, example: drżę;) (l.30300)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 3193, examples: ogrodu? (l.57), jesteś? (l.65), nagi? (l.67), jeść? (l.67), zrobiłaś? (l.69)
+    Word-Word? count: 2, example: Ramot-Gilead? (l.9487, 11550)
+    Word?), count: 1, example: małe?), (l.478)
+    Word?) count: 1, example: długo?) (l.22823)
+    Word”? count: 1, example: nie”? (l.28885)
+TOKENS WITH – (U+2013 EN DASH):
+    – count: 1398, lines: 10, 29, 42, 44, 45

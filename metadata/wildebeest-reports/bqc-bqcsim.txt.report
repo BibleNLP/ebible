@@ -1,0 +1,272 @@
+OVERVIEW:
+File size: 41899 lines, 2923217 characters
+Letter scripts: 2
+    LATIN (1689696 instances)
+    ARCHAIC_CLAUDIAN_LETTER (142696 instances): ↄ
+Number scripts: 1
+    ASCII_DIGIT (2119 instances): 0123456789
+Other character groups: 4
+    SPACE (533944 instances)
+    COMBINING_DIACRITICAL_MARKS (408298 instances):  ̀ ́ ̃
+    ASCII_PUNCTUATION (103247 instances): !'(),.:?
+    SPACING_MODIFIER_LETTERS (16 instances): ʼ
+Non-canonical character combinations: 35
+Words with characters from multiple scripts: 1 category, 12815 unique types, 115223 instances
+
+DETAILS:
+Non-canonical character combinations: 35
+    Non-canonical: À (NFD, A + ̀, count: 3295)  Canonical: À (NFC, À, count: 0)
+    Non-canonical: Á (NFD, A + ́, count: 1308)  Canonical: Á (NFC, Á, count: 0)
+    Non-canonical: Ã (NFD, A + ̃, count: 340)  Canonical: Ã (NFC, Ã, count: 0)
+    Non-canonical: É (NFD, E + ́, count: 19)  Canonical: É (NFC, É, count: 0)
+    Non-canonical: Ì (NFD, I + ̀, count: 326)  Canonical: Ì (NFC, Ì, count: 0)
+    Non-canonical: Í (NFD, I + ́, count: 172)  Canonical: Í (NFC, Í, count: 0)
+    Non-canonical: Ĩ (NFD, I + ̃, count: 51)  Canonical: Ĩ (NFC, Ĩ, count: 0)
+    Non-canonical: Ḿ (NFD, M + ́, count: 64)  Canonical: Ḿ (NFC, Ḿ, count: 0)
+    Non-canonical: Ǹ (NFD, N + ̀, count: 212)  Canonical: Ǹ (NFC, Ǹ, count: 0)
+    Non-canonical: Ń (NFD, N + ́, count: 911)  Canonical: Ń (NFC, Ń, count: 0)
+    Non-canonical: Ò (NFD, O + ̀, count: 1)  Canonical: Ò (NFC, Ò, count: 0)
+    Non-canonical: Ó (NFD, O + ́, count: 13)  Canonical: Ó (NFC, Ó, count: 0)
+    Non-canonical: Ũ (NFD, U + ̃, count: 5)  Canonical: Ũ (NFC, Ũ, count: 0)
+    Non-canonical: à (NFD, a + ̀, count: 45328)  Canonical: à (NFC, à, count: 0)
+    Non-canonical: á (NFD, a + ́, count: 33076)  Canonical: á (NFC, á, count: 0)
+    Non-canonical: ã (NFD, a + ̃, count: 21761)  Canonical: ã (NFC, ã, count: 0)
+    Non-canonical: ã̀ (NFD, a + ̃ + ̀, count: 2579)  Canonical: ã̀ (NFC, ã + ̀, count: 0)
+    Non-canonical: ã́ (NFD, a + ̃ + ́, count: 12184)  Canonical: ã́ (NFC, ã + ́, count: 0)
+    Non-canonical: è (NFD, e + ̀, count: 2852)  Canonical: è (NFC, è, count: 0)
+    Non-canonical: é (NFD, e + ́, count: 961)  Canonical: é (NFC, é, count: 0)
+    Non-canonical: ì (NFD, i + ̀, count: 11005)  Canonical: ì (NFC, ì, count: 0)
+    Non-canonical: í (NFD, i + ́, count: 14394)  Canonical: í (NFC, í, count: 0)
+    Non-canonical: ĩ (NFD, i + ̃, count: 17528)  Canonical: ĩ (NFC, ĩ, count: 0)
+    Non-canonical: ĩ̀ (NFD, i + ̃ + ̀, count: 1292)  Canonical: ĩ̀ (NFC, ĩ + ̀, count: 0)
+    Non-canonical: ĩ́ (NFD, i + ̃ + ́, count: 2779)  Canonical: ĩ́ (NFC, ĩ + ́, count: 0)
+    Non-canonical: ḿ (NFD, m + ́, count: 535)  Canonical: ḿ (NFC, ḿ, count: 0)
+    Non-canonical: ǹ (NFD, n + ̀, count: 927)  Canonical: ǹ (NFC, ǹ, count: 0)
+    Non-canonical: ń (NFD, n + ́, count: 28825)  Canonical: ń (NFC, ń, count: 0)
+    Non-canonical: ò (NFD, o + ̀, count: 8685)  Canonical: ò (NFC, ò, count: 0)
+    Non-canonical: ó (NFD, o + ́, count: 4315)  Canonical: ó (NFC, ó, count: 0)
+    Non-canonical: ù (NFD, u + ̀, count: 4837)  Canonical: ù (NFC, ù, count: 0)
+    Non-canonical: ú (NFD, u + ́, count: 3425)  Canonical: ú (NFC, ú, count: 0)
+    Non-canonical: ũ (NFD, u + ̃, count: 12653)  Canonical: ũ (NFC, ũ, count: 0)
+    Non-canonical: ũ̀ (NFD, u + ̃ + ̀, count: 820)  Canonical: ũ̀ (NFC, ũ + ̀, count: 0)
+    Non-canonical: ṹ (NFD, u + ̃ + ́, count: 1303)  Canonical: ṹ (NFC, ṹ, count: 0)
+Character conflict sets: 0
+WORDS WITH CHARACTERS FROM MULTIPLE SCRIPTS (ARCHAIC_CLAUDIAN_LETTER, LATIN):
+    Aadↄ̃o count: 1, line: 10328
+    Aaìↄ count: 41, lines: 341, 3989, 8292, 8867, 8875
+    Aaliↄ count: 8, lines: 3724, 3730, 10830, 11016, 11018
+    Aamagedↄ̃ count: 1, line: 31039
+    Aamↄni count: 1, line: 8591
+    Aanↄ count: 23, lines: 4354, 4355, 4365, 4367, 4369
+    Aanↄi count: 1, line: 4985
+    Aanↄpi count: 1, line: 4354
+    Aanↄwa count: 1, line: 4964
+    Aapadadeↄ count: 1, line: 20219
+    Aavadideↄ count: 1, line: 21198
+    Aàliↄ count: 3, lines: 3451, 3966, 19507
+    Aàↄ count: 7, lines: 1143, 14873, 22360, 29801, 29802
+    Aaↄ count: 58, lines: 15, 1498, 4311, 5657, 5787
+    Abadↄ̃ count: 2, lines: 6351, 30919
+    Abedↄ̃ count: 6, lines: 6413, 6884, 10532, 10601, 10609
+    Abedↄ̃o count: 1, line: 11958
+    Abialebↄ̃ count: 1, line: 8687
+    Abilaũoↄnɛ count: 1, line: 5216
+    Abinɛɛoↄ count: 1, line: 8083
+    Abinↄaũ count: 4, lines: 6607, 6613, 6626, 6637
+    Abisaloũoↄ count: 2, lines: 8404, 8423
+    Ablahaũwaↄɛ count: 1, line: 28106
+    Abɛlideↄwa count: 1, line: 8575
+    Adadalimↄ count: 1, line: 23125
+    Adadɛzɛɛↄ count: 1, line: 9135
+    Adeↄ count: 3, lines: 21831, 21885, 21953
+    Adidadeↄ count: 2, lines: 12065, 12462
+    Adiɛlioↄ count: 1, line: 8591
+    Adↄ̃o count: 2, lines: 12091, 12486
+    Afaasatadeↄ count: 1, line: 12124
+    Afaasideↄ count: 1, line: 12124
+    Aidepiↄwa count: 1, line: 6025
+    Aideↄ count: 11, lines: 5981, 5982, 6019, 6020, 6024
+    Aideↄwa count: 1, line: 6026
+    Aimↄ count: 1, line: 10484
+    Aimↄo count: 1, line: 10483
+    Ainↄ count: 1, line: 26212
+    Ainↄaũ count: 6, lines: 7560, 7907, 7936, 7986, 8054
+    Ainↄaũoɛ count: 1, line: 10366
+    Aitofɛliↄnɛ count: 1, line: 8449
+    Akazibudeↄ count: 1, line: 22662
+    Akemↄ count: 3, lines: 8664, 10688, 11146
+    Alaũↄ count: 1, line: 10333
+    Alemↄ count: 2, lines: 4808, 4809
+    Alemↄo count: 1, line: 6401
+    Aleopagadepiↄ count: 1, line: 27614
+    Alisↄbu count: 1, line: 28414
+    Aliɛliwaↄ count: 1, line: 18270
+    Aliↄ count: 3, lines: 3456, 3601, 26559
+    Aloedeↄ count: 1, line: 10362
+    Aloeedeↄ count: 1, line: 20168
+    Alɛmↄda count: 2, lines: 261, 10276
+    Amalɛkipiↄwa count: 1, line: 7569
+    Amalɛkiↄ count: 25, lines: 1992, 1993, 1994, 1995, 1998
+    Amalɛkiↄnɛ count: 1, line: 7564
+    Amalɛkiↄwa count: 2, lines: 1997, 7558
+    Amalɛkiↄwao count: 1, line: 7963
+    Amatadeↄ count: 2, lines: 10017, 20219
+    Amfipↄlio count: 1, line: 27593
+    Aminↄ count: 17, lines: 8086, 8321, 8324, 8326, 8327
+    Aminↄpi count: 4, lines: 8323, 8330, 8335, 8337
+    Aminↄpiwa count: 1, line: 8322
+    Aminↄɛo count: 1, line: 8342
+    Ampiↄ count: 29, lines: 1683, 3514, 3771, 4682, 9076
+    Ampiↄn count: 1, line: 11105
+    Amↄ count: 14, lines: 9509, 10141, 10142, 10148, 10379
+    Amↄdooo count: 1, line: 6415
+    Amↄku count: 2, lines: 12635, 12648
+    Amↄle count: 25, lines: 251, 344, 350, 4354, 4366
+    Amↄlepiↄ count: 2, lines: 6078, 6546
+    Amↄleↄ count: 57, lines: 377, 382, 1588, 1597, 1873
+    Amↄleↄnɛ count: 3, lines: 4378, 4921, 5985
+    Amↄleↄwa count: 1, line: 1474
+    Amↄlɛkɛ count: 1, line: 10557
+    Amↄni count: 30, lines: 496, 4365, 4977, 4988, 4993
+    Amↄniↄ count: 80, lines: 4959, 4960, 5505, 6166, 6181
+    Amↄniↄgu count: 1, line: 7458
+    Amↄniↄlɛ count: 2, lines: 8262, 10931
+    Amↄniↄnɛ count: 3, lines: 4961, 6820, 7457
+    Amↄniↄwa count: 5, lines: 6860, 6862, 6867, 8253, 10923
+    Amↄo count: 1, line: 12484
+    Amↄpi count: 1, line: 11938
+    Amↄsi count: 6, lines: 22434, 22541, 22543, 22547, 22552
+    Amↄsipi count: 1, line: 25119
+    Amↄsiɛ count: 1, line: 22545
+    Amↄzu count: 13, lines: 10067, 10085, 10103, 11759, 11900
+    Amↄↄ count: 11, lines: 980, 983, 987, 989, 999
+    Amↄↄowa count: 1, line: 994
+    Anatodeↄ count: 3, lines: 12055, 12452, 17950
+    Anatodeↄwa count: 1, line: 19318
+    Anaũↄ count: 1, line: 10267
+    Andↄniku count: 1, line: 28411
+    Antiↄsi count: 18, lines: 27175, 27396, 27398, 27402, 27403
+    Antiↄsio count: 2, lines: 27395, 27504
+    Anↄki count: 6, lines: 663, 1396, 1670, 4496, 10289
+    Apↄliↄ̃ count: 1, line: 30919
+    Apↄlonio count: 1, line: 27593
+    Asasↄ̃ count: 2, lines: 344, 11594
+    Asedodadeↄ count: 6, lines: 7324, 7327, 7328, 12371, 12698
+    ...
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 1342, lines: 3, 60, 95, 318, 357
+    ' U+0027 APOSTROPHE count: 5597, lines: 22, 24, 25, 26, 28
+    ( U+0028 LEFT PARENTHESIS count: 519, lines: 109, 110, 111, 112, 113
+    ) U+0029 RIGHT PARENTHESIS count: 519, lines: 109, 110, 111, 112, 113
+    , U+002C COMMA count: 46279, lines: 2, 4, 5, 6, 7
+    . U+002E FULL STOP count: 39670, lines: 1, 2, 3, 4, 5
+    : U+003A COLON count: 6059, lines: 3, 6, 9, 11, 14
+    ? U+003F QUESTION MARK count: 3262, lines: 57, 65, 67, 69, 86
+SPACE characters:
+      U+0020 SPACE count: 533944, lines: 1, 2, 3, 4, 5
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 1069, examples: 130 (l.109), 800 (l.110), 930 (l.111), 105 (l.112), 807 (l.113)
+    1 U+0031 DIGIT ONE count: 168, examples: 130 (l.109), 105 (l.112), 912 (l.114), 815 (l.116), 910 (l.120)
+    2 U+0032 DIGIT TWO count: 204, examples: 912 (l.114), 162 (l.124), 962 (l.126), 782 (l.132), 182 (l.134)
+    3 U+0033 DIGIT THREE count: 131, examples: 130 (l.109), 930 (l.111), 830 (l.122), 300 (l.128), 365 (l.129)
+    4 U+0034 DIGIT FOUR count: 110, examples: 840 (l.119), 46 (l.3626), 45 (l.3629), 74 (l.3631), 54 (l.3633)
+    5 U+0035 DIGIT FIVE count: 140, examples: 105 (l.112), 815 (l.116), 905 (l.117), 65 (l.121), 895 (l.123)
+    6 U+0036 DIGIT SIX count: 100, examples: 65 (l.121, 127), 162 (l.124), 962 (l.126), 365 (l.129)
+    7 U+0037 DIGIT SEVEN count: 102, examples: 807 (l.113), 70 (l.118), 187 (l.131), 782 (l.132), 777 (l.137)
+    8 U+0038 DIGIT EIGHT count: 64, examples: 800 (l.110), 807 (l.113), 815 (l.116), 840 (l.119), 830 (l.122)
+    9 U+0039 DIGIT NINE count: 31, examples: 930 (l.111), 912 (l.114), 90 (l.115), 905 (l.117), 910 (l.120)
+COMBINING_DIACRITICAL_MARKS characters:
+     ̀ U+0300 COMBINING GRAVE ACCENT count: 114204, examples: kɛ̀ (l.1), yàakpa (l.2), mɛ̀ (l.3), pù (l.3), è (l.4)
+     ́ U+0301 COMBINING ACUTE ACCENT count: 162536, examples: ń (l.1), zĩ́lɛo (l.1), mɛ́ (l.2), ísiaa (l.2), lɛ́ (l.2)
+     ̃ U+0303 COMBINING TILDE count: 131558, examples: Asĩnizĩ (l.1), zĩ́lɛo (l.1), pãɛ (l.2), ↄ̃ (l.2), Nisĩna (l.2)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 14814, examples: Asĩnizĩ (l.1), A (l.4), À (l.5, 10), Aaↄ (l.15)
+    B U+0042 LATIN CAPITAL LETTER B count: 3923, examples: Bàluma (l.6), Bↄa (l.41), Bↄ́yãi (l.69), Bua (l.74), Bùsutin (l.75)
+    D U+0044 LATIN CAPITAL LETTER D count: 9288, example: Dii (l.35, 36, 38, 39, 40)
+    E U+0045 LATIN CAPITAL LETTER E count: 1371, examples: E (l.33), Edɛni (l.39, 41, 46, 79)
+    F U+0046 LATIN CAPITAL LETTER F count: 872, examples: Felenapi (l.195), Filitɛ̃ↄ (l.249), Falaↄ̃ↄ (l.314), Falaↄ̃ↄɛ (l.314), Falaↄ̃ↄgu (l.316)
+    G U+0047 LATIN CAPITAL LETTER G count: 4584, example: Gu (l.2, 3, 5, 8, 13)
+    H U+0048 LATIN CAPITAL LETTER H count: 227, examples: Haũo (l.138, 148, 173), Haũ (l.224, 228)
+    I U+0049 LATIN CAPITAL LETTER I count: 4089, examples: Í (l.9), Isimagakpaa (l.75), Ĩadamaɛ (l.93), Iladi (l.98), Ì (l.102)
+    K U+004B LATIN CAPITAL LETTER K count: 4701, examples: Kɛ́ (l.38, 52, 62, 64), Kusi (l.44)
+    L U+004C LATIN CAPITAL LETTER L count: 8081, example: Lua (l.1, 2, 3, 6, 9)
+    M U+004D LATIN CAPITAL LETTER M count: 8113, examples: Ma (l.29, 30), Màa (l.32), Musu (l.35), Má (l.49)
+    N U+004E LATIN CAPITAL LETTER N count: 3786, examples: Nisĩna (l.2), Ńyↄ̃ (l.47), Ń (l.65), Nↄɛ (l.68), N (l.72)
+    O U+004F LATIN CAPITAL LETTER O count: 358, examples: Obali (l.263), Ofii (l.264), Onɛ́ (l.312), Oliↄwa (l.343), Omɛɛ (l.615)
+    P U+0050 LATIN CAPITAL LETTER P count: 1207, examples: Pↄgupunaↄ (l.14), Pↄ́ (l.20, 24), Pisↄ̃ (l.42), Pↄ́ku (l.154)
+    S U+0053 LATIN CAPITAL LETTER S count: 3759, examples: Sua (l.37), Swa (l.41), Swapi (l.44, 45), Sian (l.102)
+    T U+0054 LATIN CAPITAL LETTER T count: 3293, examples: Tigilisi (l.45), Tↄ́ (l.50), Tó (l.87, 92), Tiasa (l.91)
+    U U+0055 LATIN CAPITAL LETTER U count: 295, examples: Uflata (l.45), Uzu (l.258), Uzali (l.262), Uluɛ (l.295), Ulu (l.298)
+    V U+0056 LATIN CAPITAL LETTER V count: 202, examples: Vua (l.42), Vĩa (l.791, 936), Vɛ̃ɛlipi (l.1183), Vɛ̃ɛ (l.1485)
+    W U+0057 LATIN CAPITAL LETTER W count: 2538, examples: Wà (l.26, 78, 88), Wàli (l.54), Wá (l.58)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 7177, examples: Yabali (l.100), Yubali (l.101), Yɛlɛdi (l.121, 124), Yafɛtio (l.138)
+    Z U+005A LATIN CAPITAL LETTER Z count: 2037, examples: Zↄ̃go (l.43), Zila (l.99, 102), Zilao (l.103), Za (l.106)
+    a U+0061 LATIN SMALL LETTER A count: 366445, examples: Lua (l.1), da (l.2), pãɛ (l.2), a (l.2), kɛkɛao (l.2)
+    b U+0062 LATIN SMALL LETTER B count: 61744, examples: bàluma (l.7), bàlumapiɛ (l.8), luabɛ (l.8), bↄ (l.9), bↄlɛ (l.11)
+    d U+0064 LATIN SMALL LETTER D count: 41292, examples: da (l.2), dↄ̀ (l.5, 8), plaaden (l.8), gudoũ (l.9)
+    e U+0065 LATIN SMALL LETTER E count: 47555, examples: è (l.4, 10), we (l.5, 8), plaaden (l.8)
+    f U+0066 LATIN SMALL LETTER F count: 7317, examples: fãanɛ (l.5, 14, 16, 18), kɛfɛũ (l.40)
+    g U+0067 LATIN SMALL LETTER G count: 54610, examples: gusia (l.2), gu (l.3), gupuapi (l.4), gupua (l.4), gusiao (l.4)
+    h U+0068 LATIN SMALL LETTER H count: 666, examples: Ablahaũ (l.403, 415), Ablahaũɛ (l.407, 413, 420)
+    i U+0069 LATIN SMALL LETTER I count: 171711, examples: Asĩnizĩ (l.1), zĩ́lɛo (l.1), gusia (l.2), ísiaa (l.2), Nisĩna (l.2)
+    k U+006B LATIN SMALL LETTER K count: 63907, examples: kɛ̀ (l.1), kɛkɛao (l.2), yàakpa (l.2), kɛ̃̀aa (l.4), tↄkpà (l.5)
+    l U+006C LATIN SMALL LETTER L count: 74351, examples: zĩ́lɛo (l.1), lɛ́ (l.2), Bàluma (l.6), bàluma (l.7), bàlumapiɛ (l.8)
+    m U+006D LATIN SMALL LETTER M count: 55340, examples: musu (l.1), mɛ́ (l.2), mɛ̀ (l.3, 6), maa (l.4)
+    n U+006E LATIN SMALL LETTER N count: 92089, examples: Asĩnizĩ (l.1), ń (l.1, 4), Nisĩna (l.2), fãanɛ (l.5)
+    o U+006F LATIN SMALL LETTER O count: 63713, examples: zĩ́lɛo (l.1), kɛkɛao (l.2), gusiao (l.4), zãnguo (l.6), musuo (l.7)
+    p U+0070 LATIN SMALL LETTER P count: 58505, examples: pãɛ (l.2), yàakpa (l.2), ípia (l.2), pu (l.3), pù (l.3)
+    s U+0073 LATIN SMALL LETTER S count: 57723, examples: Asĩnizĩ (l.1), musu (l.1), gusia (l.2), ísiaa (l.2), Nisĩna (l.2)
+    t U+0074 LATIN SMALL LETTER T count: 18745, examples: tↄkpà (l.5, 8, 10), tↄↄlɛ (l.10, 11)
+    u U+0075 LATIN SMALL LETTER U count: 91875, examples: Lua (l.1, 2), musu (l.1), Gu (l.2), gusia (l.2)
+    v U+0076 LATIN SMALL LETTER V count: 7414, examples: vua (l.20), vĩ (l.26, 28), vãio (l.40), Avila (l.42)
+    w U+0077 LATIN SMALL LETTER W count: 42941, examples: gwãasĩna (l.5), we (l.5, 8), kɛ̃kↄ̃wa (l.6), kɛ̃̀kↄ̃wa (l.7)
+    y U+0079 LATIN SMALL LETTER Y count: 20877, examples: yàakpa (l.2), yↄ̃̀ɛyↄ̃ɛ (l.20), yↄ̃̀ɛyↄ̃ɛↄ (l.21), yã́i (l.34), yã́n (l.35)
+    z U+007A LATIN SMALL LETTER Z count: 25762, examples: Asĩnizĩ (l.1), zĩ́lɛo (l.1), zãnguo (l.6), zíɛ (l.7), zĩ́lɛ (l.9)
+LATIN_EXTENDED_B characters:
+    Ɔ U+0186 LATIN CAPITAL LETTER OPEN O count: 5111, example: Ɔ̃ (l.3, 6, 7, 8, 9)
+    Ɛ U+0190 LATIN CAPITAL LETTER OPEN E count: 1493, examples: Ɛva (l.76, 81), Ɛnↄki (l.97, 98), Ɛnↄsi (l.106)
+LATIN characters:
+    ɛ U+025B LATIN SMALL LETTER OPEN E count: 173795, examples: zĩ́lɛo (l.1), kɛ̀ (l.1), pãɛ (l.2), kɛkɛao (l.2), mɛ́ (l.2)
+SPACING_MODIFIER_LETTERS characters:
+    ʼ U+02BC MODIFIER LETTER APOSTROPHE count: 16, example: aafiaʼe (l.13019, 15260, 15264, 15276, 16435)
+ARCHAIC_CLAUDIAN_LETTER characters:
+    ↄ U+2184 LATIN SMALL LETTER REVERSED C count: 142696, examples: ↄ̃ (l.2, 4), tↄkpà (l.5), sↄ̃ (l.5), dↄ̀ (l.5)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    Word! count: 1328, examples: pu! (l.3), seo! (l.60), no! (l.95), kɛ! (l.318), sáaukpa! (l.357)
+    Word'Word! count: 14, examples: Ó'o! (l.748, 18065, 18068), ũma'ũma! (l.15211), gu'e! (l.18568)
+TOKENS WITH ' (U+0027 APOSTROPHE):
+    Word'Word count: 4168, examples: pↄ́taa'onkuawaↄ (l.24, 25, 26, 30), táa'o (l.28)
+    Word'Word, count: 688, examples: nɛ'i, (l.22, 28, 201), i'o, (l.52), kɛ'ĩa, (l.103)
+    Word'Word. count: 534, examples: kɛ'ĩa. (l.71), nɛ'io. (l.297, 383), bùsu'ũfãawa. (l.335), Luapↄima'e. (l.395)
+    Word'Word'Word count: 57, examples: sa'o'ula (l.2203, 2302, 2306, 2309), sa'o'ulapi (l.2300)
+    Word'Word? count: 35, examples: nɛ'ie? (l.415), yã'òa? (l.4062), gó'ilɛnaↄi? (l.6642), yã'ònɛi? (l.9507, 11570)
+    Word'Word! count: 14, examples: Ó'o! (l.748, 18065, 18068), ũma'ũma! (l.15211), gu'e! (l.18568)
+    Word'Word'Word. count: 12, examples: e'e'e. (l.1118, 1416), sa'o'ulapia. (l.2302), sa'o'ulawa. (l.2320), sa'o'ulapiwa. (l.2684)
+    Word'Word: count: 7, examples: yã'o: (l.5600), sa'onaↄnɛ: (l.5901, 9858), sa'òpiɛ: (l.7257), ula'ulɛnaɛ: (l.9819)
+    Word'Word'Word, count: 6, examples: e'e'e, (l.1517), sa'o'ula, (l.2298), sa'o'ulao, (l.2925), tɛ̃́n'ũa'ũannↄ, (l.3083), lɛ́'ɛ'ɛa, (l.13252)
+    Word'Word.) count: 1, example: gu'ena.) (l.7402)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 45489, examples: pãɛ, (l.2), kɛkɛao, (l.2), ísiaa, (l.2), maa, (l.4), fãanɛ, (l.5)
+    Word'Word, count: 688, examples: nɛ'i, (l.22, 28, 201), i'o, (l.52), kɛ'ĩa, (l.103)
+    (Number.Number), count: 61, examples: (600.000), (l.1854, 4046), (1.365), (l.3743), (14.700), (l.4244), (30.000), (l.6007)
+    (Number), count: 31, examples: (800), (l.110), (930), (l.111), (807), (l.113), (912), (l.114), (815), (l.116)
+    Word'Word'Word, count: 6, examples: e'e'e, (l.1517), sa'o'ula, (l.2298), sa'o'ulao, (l.2925), tɛ̃́n'ũa'ũannↄ, (l.3083), lɛ́'ɛ'ɛa, (l.13252)
+    Word), count: 4, examples: mitↄↄnagu), (l.24231), Piɛɛ), (l.24373), loupũnaadeↄ), (l.24374), da), (l.24800)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 38433, examples: kɛ̀. (l.1), ípia. (l.2), pù. (l.3), gusiao. (l.4), gwãasĩna. (l.5)
+    Word'Word. count: 534, examples: kɛ'ĩa. (l.71), nɛ'io. (l.297, 383), bùsu'ũfãawa. (l.335), Luapↄima'e. (l.395)
+    (Number.Number). count: 224, examples: (603.550). (l.2660), (46.500). (l.3626), (59.300). (l.3627), (45.650). (l.3629), (74.600). (l.3631)
+    (Number). count: 98, examples: (350). (l.234), (137). (l.1672, 1676), (133). (l.1674), (675). (l.4703)
+    (Number.Number) count: 63, examples: (10.000) (l.3533, 6599), (186.400) (l.3668), (24.000) (l.4481), (40.000) (l.5925)
+    (Number.Number), count: 61, examples: (600.000), (l.1854, 4046), (1.365), (l.3743), (14.700), (l.4244), (30.000), (l.6007)
+    Word.) count: 15, examples: fɛlɛ.) (l.24474), gbà.) (l.24544), píiɛ.) (l.24551), wɛ̃.) (l.24566), mitↄↄnagu.) (l.24917)
+    Word'Word'Word. count: 12, examples: e'e'e. (l.1118, 1416), sa'o'ulapia. (l.2302), sa'o'ulawa. (l.2320), sa'o'ulapiwa. (l.2684)
+    Word'Word.) count: 1, example: gu'ena.) (l.7402)
+    (Number.Number.Number). count: 1, example: (1.100.000). (l.10944)
+    (Number.Number.Number) count: 1, example: (1.000.000) (l.11489)
+TOKENS WITH : (U+003A COLON):
+    Word: count: 6052, example: mɛ̀: (l.3, 6, 9, 11, 14)
+    Word'Word: count: 7, examples: yã'o: (l.5600), sa'onaↄnɛ: (l.5901, 9858), sa'òpiɛ: (l.7257), ula'ulɛnaɛ: (l.9819)
+TOKENS WITH ? (U+003F QUESTION MARK):
+    Word? count: 3227, examples: bleoɛa? (l.57), ni? (l.65), puiziɛi? (l.67), yã̀? (l.67), màai? (l.69)
+    Word'Word? count: 35, examples: nɛ'ie? (l.415), yã'òa? (l.4062), gó'ilɛnaↄi? (l.6642), yã'ònɛi? (l.9507, 11570)

@@ -1,0 +1,122 @@
+OVERVIEW:
+File size: 41899 lines, 2750452 characters
+Letter scripts: 1
+    LATIN (2338516 instances)
+Number scripts: 1
+    ASCII_DIGIT (1138 instances): 0123456789
+Other character groups: 3
+    SPACE (329802 instances)
+    ASCII_PUNCTUATION (33023 instances): ()*,-.;[]|
+    COMBINING_DIACRITICAL_MARKS (33 instances):  ́ ̱
+Non-canonical character combinations: 2
+
+DETAILS:
+Non-canonical character combinations: 2
+    Non-canonical: é (NFD, e + ́, count: 1)  Canonical: é (NFC, é, count: 0)
+    Non-canonical: ṉ (NFD, n + ̱, count: 1)  Canonical: ṉ (NFC, ṉ, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ( U+0028 LEFT PARENTHESIS count: 229, lines: 76, 99, 196, 228, 417
+    ) U+0029 RIGHT PARENTHESIS count: 229, lines: 76, 99, 196, 228, 417
+    * U+002A ASTERISK count: 1, line: 294
+    , U+002C COMMA count: 3838, lines: 2, 3, 5, 11, 12
+    - U+002D HYPHEN-MINUS count: 1, line: 26893
+    . U+002E FULL STOP count: 28687, lines: 1, 2, 3, 4, 5
+    ; U+003B SEMICOLON count: 1, line: 26055
+    [ U+005B LEFT SQUARE BRACKET count: 16, lines: 23938, 24650, 24652, 24734, 24922
+    ] U+005D RIGHT SQUARE BRACKET count: 17, lines: 23939, 24651, 24653, 24734, 24923
+    | U+007C VERTICAL LINE count: 4, lines: 25587, 26893
+SPACE characters:
+      U+0020 SPACE count: 329802, lines: 1, 2, 3, 4, 5
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 333, examples: 130 (l.109), 800 (l.110), 930 (l.111), 105 (l.112), 807 (l.113)
+    1 U+0031 DIGIT ONE count: 171, examples: 130 (l.109), 105 (l.112), 912 (l.114), 815 (l.116), 910 (l.120)
+    2 U+0032 DIGIT TWO count: 116, examples: 912 (l.114), 162 (l.124), 962 (l.126), 782 (l.132), 82 (l.134)
+    3 U+0033 DIGIT THREE count: 68, examples: 130 (l.109), 930 (l.111), 830 (l.122), 300 (l.128), 365 (l.129)
+    4 U+0034 DIGIT FOUR count: 100, examples: 840 (l.119), 40 (l.164, 172, 177, 190)
+    5 U+0035 DIGIT FIVE count: 81, examples: 105 (l.112), 815 (l.116), 905 (l.117), 65 (l.121), 895 (l.123)
+    6 U+0036 DIGIT SIX count: 79, examples: 6 (l.31), 65 (l.121, 127), 162 (l.124), 962 (l.126)
+    7 U+0037 DIGIT SEVEN count: 124, examples: 7 (l.33, 34, 104), 77 (l.104), 807 (l.113)
+    8 U+0038 DIGIT EIGHT count: 35, examples: 800 (l.110), 807 (l.113), 815 (l.116), 840 (l.119), 830 (l.122)
+    9 U+0039 DIGIT NINE count: 31, examples: 930 (l.111), 912 (l.114), 90 (l.115), 905 (l.117), 910 (l.120)
+COMBINING_DIACRITICAL_MARKS characters:
+     ́ U+0301 COMBINING ACUTE ACCENT count: 1, example: iréenoo (l.1298)
+     ̱ U+0331 COMBINING MACRON BELOW count: 32, examples: qimudao̱o (l.23310, 23549), maaso̱o (l.23502), anaaseeo̱o (l.23730), maqee̱ (l.23736)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 10006, examples: Anutufa (l.1, 3, 5, 6), Anutuna (l.2)
+    B U+0042 LATIN CAPITAL LETTER B count: 358, examples: Baabeera (l.245), Babiroonia (l.245, 269, 295), Babiroonnia (l.276)
+    D U+0044 LATIN CAPITAL LETTER D count: 868, examples: Doo (l.30, 31, 54), Dinni (l.33, 34)
+    E U+0045 LATIN CAPITAL LETTER E count: 741, examples: Eendaki (l.18), Eedeenna (l.39), Eedeena (l.41, 46), Eeufarateesa (l.45)
+    F U+0046 LATIN CAPITAL LETTER F count: 1553, examples: Firaa (l.16, 43), Fasau (l.16), Faiqí (l.27, 36)
+    G U+0047 LATIN CAPITAL LETTER G count: 4, examples: Gareeda (l.921, 922), Gideeoonafa (l.15313), Gireeadana (l.15818)
+    H U+0048 LATIN CAPITAL LETTER H count: 59, examples: Heetafa (l.250), Hifita (l.252), Heeburu (l.256), Huraa (l.258), Heebaroona (l.337)
+    I U+0049 LATIN CAPITAL LETTER I count: 3515, examples: Innaaruna (l.6), Innaarunai (l.14), Inni (l.22, 29), Inniqara (l.28)
+    K U+004B LATIN CAPITAL LETTER K count: 1836, examples: Kambiqafufanoo (l.4), Kaqikaa (l.16), Kadiqa (l.40), Kafaa (l.40), Kafa (l.44)
+    M U+004D LATIN CAPITAL LETTER M count: 9816, examples: Mi (l.2, 3), Miqi (l.5, 7), Mina (l.6)
+    N U+004E LATIN CAPITAL LETTER N count: 884, examples: Nammari (l.10, 41), Narí (l.34), Namasee (l.60), Nimmuru (l.74)
+    O U+004F LATIN CAPITAL LETTER O count: 1565, examples: Oosana (l.1, 157, 158, 168), Oonnamuki (l.221)
+    P U+0050 LATIN CAPITAL LETTER P count: 1128, examples: Pisoona (l.42), Patarusa (l.249), Peereekafa (l.260), Peereekanee (l.260), Peereekana (l.260)
+    Q U+0051 LATIN CAPITAL LETTER Q count: 3046, examples: Quqasoofanoo (l.7), Qaaramoo (l.9), Qinee (l.28, 49), Qafiraa (l.42)
+    R U+0052 LATIN CAPITAL LETTER R count: 782, examples: Rakeemma (l.5), Rameekana (l.98, 102), Rameekafa (l.99, 103)
+    S U+0053 LATIN CAPITAL LETTER S count: 2180, examples: Sakani (l.60, 69), Sia (l.95), Siraa (l.99, 102)
+    T U+0054 LATIN CAPITAL LETTER T count: 439, examples: Taikirisa (l.45), Tubarakaina (l.102), Tubarakainana (l.102), Tubanafa (l.237), Tirasafa (l.237)
+    U U+0055 LATIN CAPITAL LETTER U count: 251, examples: Ufiniuqa (l.21), Ufini (l.191), Uraa (l.295, 298), Usakaseenoo (l.307)
+    W U+0057 LATIN CAPITAL LETTER W count: 16, example: Wasti (l.12715, 12717, 12718, 12721, 12722)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 7901, examples: Yabarana (l.100, 101), Yabarafa (l.101), Yubarafa (l.101), Yaawee (l.106)
+    a U+0061 LATIN SMALL LETTER A count: 661680, examples: Oosana (l.1), kuradoo (l.1), aukuanna (l.1), Anutufa (l.1), sia (l.1)
+    b U+0062 LATIN SMALL LETTER B count: 5522, examples: kambiqanau (l.3), Kambiqafufanoo (l.4), amiqimambinoo (l.4), kambiqaani (l.11), kambiqaanni (l.11)
+    c U+0063 LATIN SMALL LETTER C count: 27, examples: centimetres (l.2206, 2213, 2219, 2221), centimetre (l.2249)
+    d U+0064 LATIN SMALL LETTER D count: 43726, examples: kuradoo (l.1), uqidanoo (l.2), aadu (l.4), eendaki (l.5), indaaru (l.5)
+    e U+0065 LATIN SMALL LETTER E count: 130573, examples: arasee (l.1), oonuree (l.2), aniree (l.2), mariannee (l.3), qafamaseenoo (l.4)
+    f U+0066 LATIN SMALL LETTER F count: 92157, examples: Anutufa (l.1), faqa (l.1), maqafa (l.2), fifau (l.2), faafau (l.2)
+    g U+0067 LATIN SMALL LETTER G count: 320, examples: angiroouqa (l.80), angiroo (l.389), Angiroo (l.391, 392), qangirooqanda (l.459)
+    h U+0068 LATIN SMALL LETTER H count: 573, examples: Reehoobootaira (l.246), Reehaba (l.248), handeereeta (l.519), Sahadutaa (l.921), handareeta (l.935)
+    i U+0069 LATIN SMALL LETTER I count: 269764, examples: sia (l.1), ainainannai (l.1), mirisinnaarunna (l.1), auqinau (l.1), Mi (l.2)
+    k U+006B LATIN SMALL LETTER K count: 49090, examples: kuradoo (l.1), aukuanna (l.1, 2), asukuna (l.2), kaaqa (l.3)
+    l U+006C LATIN SMALL LETTER L count: 17, examples: kilogram (l.2235), kilogramme (l.2377), litre (l.2377), kilograms (l.2406, 2407)
+    m U+006D LATIN SMALL LETTER M count: 137461, examples: maru (l.1), mirisinnaarunna (l.1), maa (l.1, 2), maqana (l.1)
+    n U+006E LATIN SMALL LETTER N count: 235774, examples: Oosana (l.1), aukuanna (l.1), Anutufa (l.1), ainainannai (l.1), mirisinnaarunna (l.1)
+    o U+006F LATIN SMALL LETTER O count: 137621, examples: Oosana (l.1), kuradoo (l.1), oosana (l.1), inoo (l.2), marufanoo (l.2)
+    p U+0070 LATIN SMALL LETTER P count: 4477, examples: kadaapirirana (l.34), apaurirafa (l.36), apauridanoo (l.46), aakapanau (l.47), paqurinau (l.51)
+    q U+0071 LATIN SMALL LETTER Q count: 161371, examples: faqa (l.1), maqana (l.1), auqinau (l.1), maqafa (l.2), rafaaqafinoo (l.2)
+    r U+0072 LATIN SMALL LETTER R count: 131242, examples: kuradoo (l.1), maru (l.1), mirisinnaarunna (l.1), arasee (l.1), marufanoo (l.2)
+    s U+0073 LATIN SMALL LETTER S count: 86032, examples: Oosana (l.1), sia (l.1), mirisinnaarunna (l.1), oosana (l.1), arasee (l.1)
+    t U+0074 LATIN SMALL LETTER T count: 13783, examples: Anutufa (l.1, 3, 5, 6), Anutuna (l.2)
+    u U+0075 LATIN SMALL LETTER U count: 120849, examples: kuradoo (l.1), aukuanna (l.1), Anutufa (l.1), maru (l.1), mirisinnaarunna (l.1)
+    v U+0076 LATIN SMALL LETTER V count: 8, examples: Saavee (l.354), savoorauqa (l.2276, 2637), provinsaki (l.12868), Davidisa (l.14754)
+    w U+0077 LATIN SMALL LETTER W count: 1646, examples: Eewanee (l.76), Eewana (l.77, 81), Eewasa (l.80), Eewafa (l.81)
+    y U+0079 LATIN SMALL LETTER Y count: 307, examples: yaifee (l.65, 89), yafee (l.67, 94, 95)
+LATIN_EXTENDED_LETTER characters:
+    á U+00E1 LATIN SMALL LETTER A WITH ACUTE count: 1122, example: nári (l.63, 140, 173, 229, 241)
+    í U+00ED LATIN SMALL LETTER I WITH ACUTE count: 6425, examples: narí (l.22, 27), faiqí (l.26, 27), Faiqí (l.27)
+    ó U+00F3 LATIN SMALL LETTER O WITH ACUTE count: 1, example: aqoónafa (l.25468)
+TOKENS WITH * (U+002A ASTERISK):
+    * count: 1, line: 294
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 3799, examples: marufanoo, (l.2), qinau, (l.3, 5), kambiqaani, (l.11), kambiqaanni, (l.11)
+    Number,Number count: 19, examples: 600,000 (l.1854), 1,000 (l.2025), 3,000 (l.2467), 3,430 (l.2659), 3,400 (l.2661)
+    (Number,Number) count: 14, examples: (1,000) (l.512, 2021), (4,000) (l.23740, 23751), (5,000) (l.23750)
+    Number, count: 1, example: 603, (l.2659)
+    (WordNumber,Number) count: 1, example: (K50,000) (l.27673)
+    (Number,Number,Number). count: 1, example: (200,000,000). (l.30924)
+    (Number,Number). count: 1, example: (144,000). (l.30996)
+    (Number,Number count: 1, example: (2,400 (l.31138)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word.)Number|Number-Number|Word count: 1, example: iranau.)18|39-40|YOOHANEE (l.26893)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 28514, examples: auqinau. (l.1), imarinau. (l.2), kambiqanau. (l.3), quqanau. (l.4), qinau. (l.5)
+    Word.) count: 138, examples: qidanoo.) (l.76), marinau.) (l.99, 228), qimaqoofanoo.) (l.417), qiqau.) (l.685)
+    Word.] count: 17, examples: riqa.] (l.23939), mariannoo.] (l.24651), qimbaidanoo.] (l.24653), kaimmiannoo.] (l.24734), quqeefaranoo.] (l.24923)
+    Number.Number count: 9, examples: 0.5 (l.154), 2.2 (l.2274, 2291), 1.3 (l.2274), 6.6 (l.2287)
+    Word). count: 3, examples: qiqau). (l.684), amaqanau). (l.12819), maria). (l.17170)
+    Word.)Number|Number|Word count: 1, example: fifaranoo.)12|59|RUKA (l.25587)
+    Word.)Number|Number-Number|Word count: 1, example: iranau.)18|39-40|YOOHANEE (l.26893)
+    Word.Word count: 1, example: anunausa.Akaqausa (l.27029)
+    (Number,Number,Number). count: 1, example: (200,000,000). (l.30924)
+    (Number). count: 1, example: (666). (l.30995)
+    (Number,Number). count: 1, example: (144,000). (l.30996)
+TOKENS WITH ; (U+003B SEMICOLON):
+    Word; count: 1, example: imariqau; (l.26055)
+TOKENS WITH | (U+007C VERTICAL LINE):
+    Word.)Number|Number|Word count: 1, example: fifaranoo.)12|59|RUKA (l.25587)
+    Word.)Number|Number-Number|Word count: 1, example: iranau.)18|39-40|YOOHANEE (l.26893)

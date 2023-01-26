@@ -1,0 +1,194 @@
+OVERVIEW:
+File size: 41899 lines, 1567703 characters
+Letter scripts: 1
+    LATIN (1247093 instances)
+Number scripts: 1
+    ASCII_DIGIT (4 instances): 019
+Other character groups: 4
+    SPACE (234915 instances)
+    ASCII_PUNCTUATION (38493 instances): !(),-.[]
+    GENERAL_PUNCTUATION (4874 instances): ‘’“”
+    COMBINING_DIACRITICAL_MARKS (47 instances):  ̀
+Non-canonical character combinations: 3
+
+DETAILS:
+Non-canonical character combinations: 3
+    Non-canonical: ì (NFD, i + ̀, count: 2)  Canonical: ì (NFC, ì, count: 492)
+    Non-canonical: ẁ (NFD, w + ̀, count: 23)  Canonical: ẁ (NFC, ẁ, count: 0)
+    Non-canonical: ỳ (NFD, y + ̀, count: 22)  Canonical: ỳ (NFC, ỳ, count: 0)
+Character conflict sets: 0
+ASCII_PUNCTUATION characters:
+    ! U+0021 EXCLAMATION MARK count: 8, lines: 23696, 26900, 26952, 27682, 30862
+    ( U+0028 LEFT PARENTHESIS count: 7, lines: 24551, 24800, 26151, 26154, 26155
+    ) U+0029 RIGHT PARENTHESIS count: 7, lines: 24551, 24800, 26151, 26154, 26155
+    , U+002C COMMA count: 13394, lines: 23216, 23217, 23218, 23219, 23220
+    - U+002D HYPHEN-MINUS count: 13426, lines: 23215, 23216, 23218, 23219, 23221
+    . U+002E FULL STOP count: 11643, lines: 23214, 23215, 23216, 23217, 23218
+    [ U+005B LEFT SQUARE BRACKET count: 4, line: 24950
+    ] U+005D RIGHT SQUARE BRACKET count: 4, lines: 24950, 24962
+GENERAL_PUNCTUATION characters:
+    ‘ U+2018 LEFT SINGLE QUOTATION MARK count: 273, lines: 23244, 23264, 23282, 23284, 23285
+    ’ U+2019 RIGHT SINGLE QUOTATION MARK count: 273, lines: 23244, 23264, 23282, 23284, 23285
+    “ U+201C LEFT DOUBLE QUOTATION MARK count: 2166, lines: 23233, 23236, 23240, 23243, 23246
+    ” U+201D RIGHT DOUBLE QUOTATION MARK count: 2162, lines: 23234, 23236, 23240, 23244, 23246
+SPACE characters:
+      U+0020 SPACE count: 234915, lines: 23214, 23215, 23216, 23217, 23218
+ASCII_DIGIT characters:
+    0 U+0030 DIGIT ZERO count: 2, examples: 10 (l.24950), 0 (l.27081)
+    1 U+0031 DIGIT ONE count: 1, example: 10 (l.24950)
+    9 U+0039 DIGIT NINE count: 1, line: 24950
+COMBINING_DIACRITICAL_MARKS characters:
+     ̀ U+0300 COMBINING GRAVE ACCENT count: 47, examples: Aẁ (l.23637, 23681, 23748), kaỳ (l.23695, 23756)
+BASIC_LATIN characters:
+    A U+0041 LATIN CAPITAL LETTER A count: 6893, examples: Arey (l.23214), Abraham (l.23214, 23215), Ah (l.23216, 23217)
+    B U+0042 LATIN CAPITAL LETTER B count: 149, examples: Boaz (l.23218), Babilonia (l.23224, 23225, 23230), Bethlehem (l.23239)
+    C U+0043 LATIN CAPITAL LETTER C count: 1395, examples: Chichato (l.23214), Cristu (l.23214, 23229, 23230), Cha (l.23218)
+    D U+0044 LATIN CAPITAL LETTER D count: 122, examples: David (l.23214, 23219, 23230, 23233), Decapolis (l.23303)
+    E U+0045 LATIN CAPITAL LETTER E count: 674, examples: Esrom (l.23216), Ezekias (l.23222, 23223), Eliakim (l.23226), Eliud (l.23227)
+    F U+0046 LATIN CAPITAL LETTER F count: 268, examples: Fares (l.23216), Fumangon (l.23251, 23258), Fariseo (l.23268), Fafariseo (l.23323)
+    G U+0047 LATIN CAPITAL LETTER G count: 205, example: Galilea (l.23260, 23274, 23290, 23291, 23293)
+    H U+0048 LATIN CAPITAL LETTER H count: 964, examples: Heay (l.23233), Herod (l.23239, 23242), Herodchi (l.23241), Hen (l.23244)
+    I U+0049 LATIN CAPITAL LETTER I count: 383, examples: Isaac (l.23215), Israel (l.23224, 23230, 23244, 23258)
+    J U+004A LATIN CAPITAL LETTER J count: 4053, examples: Jesu (l.23214), Jacob (l.23215), Juda (l.23215, 23216), Jesse (l.23218)
+    K U+004B LATIN CAPITAL LETTER K count: 167, examples: Kafaelana (l.23482), Ka (l.23549), Kaman (l.23603), Kasen (l.23632, 23652)
+    L U+004C LATIN CAPITAL LETTER L count: 132, examples: Lomayaw (l.23288), Lomaylayad (l.23306, 23307, 23308, 23309)
+    M U+004D LATIN CAPITAL LETTER M count: 705, examples: Manasse (l.23223), Matan (l.23228), Maria (l.23229, 23231, 23232)
+    N U+004E LATIN CAPITAL LETTER N count: 1408, examples: Naason (l.23217), Ngém (l.23232, 23233, 23238), Na (l.23235)
+    O U+004F LATIN CAPITAL LETTER O count: 162, examples: Obed (l.23218), Ozias (l.23221, 23222), Oo (l.23285, 23340)
+    P U+0050 LATIN CAPITAL LETTER P count: 880, examples: mamPedro (l.23296), Pachongna (l.23375), Pedro (l.23428), Pangorowan (l.23434), Pakay (l.23440)
+    R U+0052 LATIN CAPITAL LETTER R count: 89, examples: Ram (l.23216, 23217), Rahab (l.23218), Ruth (l.23218), Roboam (l.23220)
+    S U+0053 LATIN CAPITAL LETTER S count: 444, examples: Salmon (l.23217, 23218), Solomon (l.23219, 23220), Sealtiel (l.23225)
+    T U+0054 LATIN CAPITAL LETTER T count: 1588, examples: Tamar (l.23216), Te (l.23269, 23321), Tàén (l.23276), Templo (l.23283)
+    U U+0055 LATIN CAPITAL LETTER U count: 70, examples: Ummanà (l.23215), Urias (l.23219), Uray (l.23315), Umunud (l.23436), Umaleaat (l.23457)
+    W U+0057 LATIN CAPITAL LETTER W count: 2168, example: Wat (l.23230, 23234, 23240, 23242, 23245)
+    Y U+0059 LATIN CAPITAL LETTER Y count: 4622, example: Yag (l.23215, 23218, 23219, 23220, 23224)
+    Z U+005A LATIN CAPITAL LETTER Z count: 48, examples: Zara (l.23216), Zorobabel (l.23225, 23226), Zabulon (l.23291, 23293)
+    a U+0061 LATIN SMALL LETTER A count: 276726, examples: Chichato (l.23214), natontonan (l.23214), nangingganà (l.23214), an (l.23214), way (l.23214)
+    b U+0062 LATIN SMALL LETTER B count: 2403, examples: Abraham (l.23214, 23215), Jacob (l.23215), Aminadab (l.23217), Rahab (l.23218)
+    c U+0063 LATIN SMALL LETTER C count: 53643, examples: Chichato (l.23214), Isaac (l.23215), Jacob (l.23215), cha (l.23215), inyanàcha (l.23216)
+    d U+0064 LATIN SMALL LETTER D count: 13514, examples: David (l.23214), Juda (l.23215, 23216), masosnod (l.23215), Aminadab (l.23217)
+    e U+0065 LATIN SMALL LETTER E count: 64789, examples: hen (l.23214), Jesu (l.23214), Arey (l.23214), nangen (l.23215), enahawana (l.23216)
+    f U+0066 LATIN SMALL LETTER F count: 13461, examples: Josafat (l.23221), fin (l.23231), nafugi (l.23231, 23232), kafaelan (l.23231)
+    g U+0067 LATIN SMALL LETTER G count: 54063, examples: nangingganà (l.23214), ganà (l.23214), nangen (l.23215, 23216), Yag (l.23215)
+    h U+0068 LATIN SMALL LETTER H count: 107242, examples: Chichato (l.23214), hen (l.23214), Abraham (l.23214, 23215), ah (l.23215)
+    i U+0069 LATIN SMALL LETTER I count: 55524, examples: Chichato (l.23214), nangingganà (l.23214), Cristu (l.23214), David (l.23214), inyanàcha (l.23216)
+    j U+006A LATIN SMALL LETTER J count: 15, examples: Alejandro (l.24916, 27097), jesusanchi (l.27101), iyAlejandria (l.27179), Benjamin (l.27452)
+    k U+006B LATIN SMALL LETTER K count: 14629, examples: Ezekias (l.23222, 23223), Angkay (l.23225), Eliakim (l.23226), Akim (l.23227)
+    l U+006C LATIN SMALL LETTER L count: 19645, examples: Salmon (l.23217, 23218), Solomon (l.23219, 23220), Israel (l.23224)
+    m U+006D LATIN SMALL LETTER M count: 54828, examples: Abraham (l.23214, 23215), Ummanà (l.23215), umanà (l.23215), masosnod (l.23215)
+    n U+006E LATIN SMALL LETTER N count: 152440, examples: hen (l.23214), natontonan (l.23214), nangingganà (l.23214), an (l.23214), ganà (l.23214)
+    o U+006F LATIN SMALL LETTER O count: 38026, examples: Chichato (l.23214), natontonan (l.23214), narpon (l.23214), Jacob (l.23215), masosnod (l.23215)
+    p U+0070 LATIN SMALL LETTER P count: 23956, examples: narpon (l.23214), tempo (l.23224), alepan (l.23224), empopostan (l.23229), Apudyus (l.23229)
+    q U+0071 LATIN SMALL LETTER Q count: 1, example: Raquel (l.23256)
+    r U+0072 LATIN SMALL LETTER R count: 22456, examples: Cristu (l.23214), Arey (l.23214), narpon (l.23214), Abraham (l.23214, 23215)
+    s U+0073 LATIN SMALL LETTER S count: 22689, examples: Jesu (l.23214), Cristu (l.23214), Isaac (l.23215), masosnod (l.23215), Fares (l.23216)
+    t U+0074 LATIN SMALL LETTER T count: 49687, examples: Chichato (l.23214), natontonan (l.23214), Cristu (l.23214), wat (l.23215), anat (l.23215)
+    u U+0075 LATIN SMALL LETTER U count: 41039, examples: Jesu (l.23214), Cristu (l.23214), umanà (l.23215), Juda (l.23215, 23216)
+    v U+0076 LATIN SMALL LETTER V count: 222, examples: David (l.23214, 23219, 23230, 23233), provinsiyan (l.23239)
+    w U+0077 LATIN SMALL LETTER W count: 34844, examples: way (l.23214, 23215), wat (l.23215, 23216), enahawana (l.23216)
+    x U+0078 LATIN SMALL LETTER X count: 13, examples: Arfaxad (l.25130), Felix (l.27826, 27827, 27828, 27838)
+    y U+0079 LATIN SMALL LETTER Y count: 67622, examples: way (l.23214, 23215), Arey (l.23214), inyanàcha (l.23216), inyanàna (l.23216)
+    z U+007A LATIN SMALL LETTER Z count: 82, examples: Boaz (l.23218), Ozias (l.23221, 23222), Ahaz (l.23222), Ezekias (l.23222)
+LATIN_EXTENDED_LETTER characters:
+    É U+00C9 LATIN CAPITAL LETTER E WITH ACUTE count: 13, examples: Émméy (l.23262), Éméy (l.23491), Étég (l.23604, 24468), É (l.23774)
+    Ù U+00D9 LATIN CAPITAL LETTER U WITH GRAVE count: 5, examples: Ùfachényu (l.23897, 24711, 25830, 26636), Ùfachém (l.30922)
+    à U+00E0 LATIN SMALL LETTER A WITH GRAVE count: 8297, examples: nangingganà (l.23214), ganà (l.23214), Ummanà (l.23215), anà (l.23215), umanà (l.23215)
+    è U+00E8 LATIN SMALL LETTER E WITH GRAVE count: 657, examples: èngaèngaw (l.23264), hèmatén (l.23284), mètagépfar (l.23327, 23328), mèfat (l.23374)
+    é U+00E9 LATIN SMALL LETTER E WITH ACUTE count: 24870, examples: agé (l.23218, 23230), niyéyan (l.23224, 23230), niyéyancha (l.23230)
+    ê U+00EA LATIN SMALL LETTER E WITH CIRCUMFLEX count: 315, examples: laylaychê (l.23278), mampêchag (l.23284), anê (l.23389), aryê (l.23423), ê (l.23444)
+    ì U+00EC LATIN SMALL LETTER I WITH GRAVE count: 492, examples: achì (l.23272), nìtutùchucha (l.23299), mìya (l.23406), makaì (l.23420), mìlufù (l.23435)
+    ñ U+00F1 LATIN SMALL LETTER N WITH TILDE count: 3, example: España (l.28395, 28399)
+    ò U+00F2 LATIN SMALL LETTER O WITH GRAVE count: 483, examples: faletò (l.23249), arò (l.23256), manòyong (l.23331), nò (l.23377), afurotò (l.23416)
+    ù U+00F9 LATIN SMALL LETTER U WITH GRAVE count: 810, examples: fùnagan (l.23239, 23240), fummùnag (l.23240), tatagù (l.23244), fummùnagan (l.23245)
+TOKENS WITH ! (U+0021 EXCLAMATION MARK):
+    “Word-Word!” count: 4, example: “Fùnag-a!” (l.30862, 30864, 30866, 30868)
+    Word!” count: 3, examples: aranà!” (l.23696), hiya!” (l.26900), Efeso!” (l.27682)
+    “Word!” count: 1, example: “Raboni!” (l.26952)
+TOKENS WITH , (U+002C COMMA):
+    Word, count: 12001, examples: Juda, (l.23216), Fares, (l.23216), Ram, (l.23217), Aminadab, (l.23217), Naason, (l.23217)
+    Word-Word, count: 940, examples: éméy-ayuhchi, (l.23246), Ap-apo, (l.23264), nan-asilib, (l.23268), manlangan-ayu, (l.23368), na-ammaan, (l.23369)
+    “Word, count: 205, examples: “Haén, (l.23272), “Apo, (l.23416, 23420, 23433), “Oo, (l.23417)
+    Word,” count: 95, examples: chàyu,” (l.23539), changrényuto,” (l.23626), a,” (l.23683), kaỳ,” (l.23695), Apo,” (l.23735)
+    Word-Word-Word, count: 48, examples: nan-in-inpana, (l.23251), a-atopàpa-an, (l.23573), chinàcha-ar-o, (l.23607), man-ap-apo, (l.23887), am-ammay-ayu, (l.24015)
+    ‘Word, count: 31, examples: ‘Apo, (l.23407, 23635, 23822), ‘Aẁ, (l.23637), ‘Anào, (l.23923)
+    Word,’ count: 20, examples: sérsérfim,’ (l.23325), fufae,’ (l.23835), Jacob,’ (l.23973), mantoray,’ (l.24049), ahchi,’ (l.24049)
+    “Word,” count: 16, examples: “Apo,” (l.23422), “Oo,” (l.23659), “Aẁ,” (l.23883), “Getsemani,” (l.24159), “Selot,” (l.24375)
+    Word-Word,” count: 12, examples: in-ayu,” (l.23446), a-anakettoy,” (l.23736), tot-owa,” (l.23795, 23842, 25786)
+    “Word-Word, count: 10, examples: “Lomaylayad-ayu, (l.23306, 23308, 25235), “Ayong-ang, (l.23582, 26880)
+    ‘Word-Word, count: 6, examples: ‘Sonod-o, (l.23874), ‘Lomayaw-ayuwat, (l.24118), ‘Lomayaw-a, (l.27188), ‘Fangon-a, (l.27383), ‘Ar-arwachanyu, (l.27472)
+    Word-Word,’ count: 3, examples: chinàcha-ar,’ (l.23706), epa-amma,’ (l.23868), cha-a,’ (l.25142)
+    “Word-Word,” count: 2, examples: “Tot-owaha,” (l.24686), “Ayong-ang,” (l.26184)
+    ‘Word,’ count: 2, examples: ‘Anào,’ (l.25688), ‘Chittakan,’ (l.27221)
+    “Word”, count: 1, example: “Selot”, (l.23490)
+    Word-Word-Word-Word-Word, count: 1, example: ka-ag-a-ag-agaw, (l.29993)
+    Word”, count: 1, example: Tatagu”, (l.30133)
+TOKENS WITH - (U+002D HYPHEN-MINUS):
+    Word-Word count: 9750, examples: nangen-anà (l.23215, 23216, 23218, 23219), hen-ahawa (l.23218)
+    Word-Word, count: 940, examples: éméy-ayuhchi, (l.23246), Ap-apo, (l.23264), nan-asilib, (l.23268), manlangan-ayu, (l.23368), na-ammaan, (l.23369)
+    Word-Word. count: 850, examples: nan-are. (l.23219), nan-alepan. (l.23224), imfarudcha-a. (l.23328), entap-aryu. (l.23332), metap-aranyu. (l.23332)
+    Word-Word-Word count: 539, examples: ham-éham-én (l.23233), nan-in-inpana (l.23233, 23257), man-ap-apo (l.23244), maka-à-arò (l.23256)
+    Word-Word.” count: 199, examples: a-anàcha.” (l.23256), ma-apoyan.” (l.23271), haham-ényu.” (l.23372), a-ammacha.” (l.23405), saket-o.” (l.23468)
+    “Word-Word count: 184, examples: “Fumangon-ayu (l.23251, 23258), “Idchat-o (l.23287), “Lomayaw-aat (l.23288), “Lomaylayad-ayu (l.23307)
+    Word-Word-Word. count: 52, examples: ma-am-ammuwan. (l.23232), chumar-achar-an. (l.23468), ma-am-amongan. (l.23503), ma-at-atoganga. (l.23521), mèay-ayam-ayu. (l.23544)
+    Word-Word-Word, count: 48, examples: nan-in-inpana, (l.23251), a-atopàpa-an, (l.23573), chinàcha-ar-o, (l.23607), man-ap-apo, (l.23887), am-ammay-ayu, (l.24015)
+    Word-Word.’ count: 37, examples: ing-inggana.’ (l.23282), fub-ana.’ (l.23341), laweng-ayu.’ (l.23408), changréncha-a.’ (l.23538), arang-o.’ (l.23638)
+    ‘Word-Word count: 24, examples: ‘Panga-asem (l.23825), ‘An-ag (l.23828, 24103), ‘In-ayu (l.23865), ‘Tot-owa (l.24117)
+    Word-Word-Word-Word count: 16, examples: man-a-atopàpa-an (l.24586), man-ar-arwad-ayu (l.24795, 25435), ma-an-anag-i (l.24798), nan-a-ahhaw-ancha (l.25078)
+    Word-Word,” count: 12, examples: in-ayu,” (l.23446), a-anakettoy,” (l.23736), tot-owa,” (l.23795, 23842, 25786)
+    “Word-Word, count: 10, examples: “Lomaylayad-ayu, (l.23306, 23308, 25235), “Ayong-ang, (l.23582, 26880)
+    Word-Word-Word.” count: 10, examples: chinàcha-ar-o.” (l.23608), man-aheil-antaaw.” (l.24155, 24851), ka-am-amongan.” (l.25269), man-ap-apowam.” (l.25817)
+    Word-Word-Word-Word-Word count: 7, examples: ka-ag-a-ag-agaw (l.28353, 29879), mì-ib-i-ib-ifun (l.28819), na-ad-a-ad-ad (l.30780, 30803)
+    ‘Word-Word, count: 6, examples: ‘Sonod-o, (l.23874), ‘Lomayaw-ayuwat, (l.24118), ‘Lomayaw-a, (l.27188), ‘Fangon-a, (l.27383), ‘Ar-arwachanyu, (l.27472)
+    “Word-Word.” count: 4, examples: “na-awatanni.” (l.23659), “Ginang-aat.” (l.24431), “omenpas-ém.” (l.27127), “Tomàchég-a.” (l.27493)
+    “Word-Word!” count: 4, example: “Fùnag-a!” (l.30862, 30864, 30866, 30868)
+    Word-Word,’ count: 3, examples: chinàcha-ar,’ (l.23706), epa-amma,’ (l.23868), cha-a,’ (l.25142)
+    “Word-Word-Word count: 3, examples: “Mì-inum-ayu (l.24150), “Cha-an-ani (l.25968), “Empacha-an-o (l.26796)
+    Word-Word-Word-Word-Word. count: 2, example: ka-ag-a-ag-agaw. (l.23362, 25477)
+    Word-Word-Word.’ count: 2, examples: nan-amma-amma.’ (l.23873), man-ap-apowam.’ (l.25819)
+    “Word-Word,” count: 2, examples: “Tot-owaha,” (l.24686), “Ayong-ang,” (l.26184)
+    ‘Word-Word’ count: 1, example: ‘in-a’ (l.23423)
+    Word-Word.] count: 1, example: ing-inggana.] (l.24950)
+    Word-Word-Word-Word. count: 1, example: na-a-abfa-ancha. (l.29576)
+    Word-Word-Word-Word-Word, count: 1, example: ka-ag-a-ag-agaw, (l.29993)
+TOKENS WITH . (U+002E FULL STOP):
+    Word. count: 8544, examples: Abraham. (l.23214), Jacob. (l.23215), masosnod. (l.23215), Zara. (l.23216), Ram. (l.23216)
+    Word.” count: 1714, examples: fasoryu.” (l.23234), uwan.” (l.23236), hiya.” (l.23240, 23246), nesosorat.” (l.23244)
+    Word-Word. count: 850, examples: nan-are. (l.23219), nan-alepan. (l.23224), imfarudcha-a. (l.23328), entap-aryu. (l.23332), metap-aranyu. (l.23332)
+    Word.’ count: 202, examples: Israel.’ (l.23244), hamhamàyu.’ (l.23264), fato.’ (l.23284), Apoyu.’ (l.23285), hiya.’ (l.23288)
+    Word-Word.” count: 199, examples: a-anàcha.” (l.23256), ma-apoyan.” (l.23271), haham-ényu.” (l.23372), a-ammacha.” (l.23405), saket-o.” (l.23468)
+    Word-Word-Word. count: 52, examples: ma-am-ammuwan. (l.23232), chumar-achar-an. (l.23468), ma-am-amongan. (l.23503), ma-at-atoganga. (l.23521), mèay-ayam-ayu. (l.23544)
+    Word-Word.’ count: 37, examples: ing-inggana.’ (l.23282), fub-ana.’ (l.23341), laweng-ayu.’ (l.23408), changréncha-a.’ (l.23538), arang-o.’ (l.23638)
+    Word-Word-Word.” count: 10, examples: chinàcha-ar-o.” (l.23608), man-aheil-antaaw.” (l.24155, 24851), ka-am-amongan.” (l.25269), man-ap-apowam.” (l.25817)
+    Word.) count: 7, examples: Apudyus.) (l.24551), aryén.) (l.24800), Mistoro.) (l.26151), mantoray.) (l.26154), fato.) (l.26155)
+    “Word.” count: 6, examples: “Pitu.” (l.24589), “yachi.” (l.25307), “Maria.” (l.26952), “Ananias.” (l.27295), “Cornelio.” (l.27331)
+    Word”. count: 5, examples: kafaelà”. (l.29099), Kowarto”. (l.30174), Apudyus”. (l.30175, 31099), napchitanyu”. (l.30872)
+    “Word-Word.” count: 4, examples: “na-awatanni.” (l.23659), “Ginang-aat.” (l.24431), “omenpas-ém.” (l.27127), “Tomàchég-a.” (l.27493)
+    “Word. count: 3, example: “Pakay. (l.23561, 25589, 26026)
+    Word-Word-Word-Word-Word. count: 2, example: ka-ag-a-ag-agaw. (l.23362, 25477)
+    Word-Word-Word.’ count: 2, examples: nan-amma-amma.’ (l.23873), man-ap-apowam.’ (l.25819)
+    “Word”. count: 2, examples: “Chittakan”. (l.28636), “Tornos”. (l.30133)
+    Word-Word.] count: 1, example: ing-inggana.] (l.24950)
+    Word.] count: 1, example: itudtuchu.] (l.24962)
+    ‘Word.’ count: 1, example: ‘Gachang.’ (l.27296)
+    Word-Word-Word-Word. count: 1, example: na-a-abfa-ancha. (l.29576)
+TOKENS WITH ‘ (U+2018 LEFT SINGLE QUOTATION MARK):
+    ‘Word count: 203, examples: ‘Hen (l.23244), ‘Naway (l.23264), ‘Achi (l.23282), ‘Ifagan (l.23284), ‘Achiyu (l.23285)
+    ‘Word, count: 31, examples: ‘Apo, (l.23407, 23635, 23822), ‘Aẁ, (l.23637), ‘Anào, (l.23923)
+    ‘Word-Word count: 24, examples: ‘Panga-asem (l.23825), ‘An-ag (l.23828, 24103), ‘In-ayu (l.23865), ‘Tot-owa (l.24117)
+    ‘Word-Word, count: 6, examples: ‘Sonod-o, (l.23874), ‘Lomayaw-ayuwat, (l.24118), ‘Lomayaw-a, (l.27188), ‘Fangon-a, (l.27383), ‘Ar-arwachanyu, (l.27472)
+    ‘Word’ count: 4, examples: ‘Oo’ (l.23340), ‘achi’ (l.23340), ‘umalea’ (l.23423), ‘ammaamto’ (l.23423)
+    ‘Word,’ count: 2, examples: ‘Anào,’ (l.25688), ‘Chittakan,’ (l.27221)
+    “‘Word count: 1, example: “‘Amani (l.23360)
+    ‘Word-Word’ count: 1, example: ‘in-a’ (l.23423)
+    ‘Word.’ count: 1, example: ‘Gachang.’ (l.27296)
+TOKENS WITH ’ (U+2019 RIGHT SINGLE QUOTATION MARK):
+    Word.’ count: 202, examples: Israel.’ (l.23244), hamhamàyu.’ (l.23264), fato.’ (l.23284), Apoyu.’ (l.23285), hiya.’ (l.23288)
+    Word-Word.’ count: 37, examples: ing-inggana.’ (l.23282), fub-ana.’ (l.23341), laweng-ayu.’ (l.23408), changréncha-a.’ (l.23538), arang-o.’ (l.23638)
+    Word,’ count: 20, examples: sérsérfim,’ (l.23325), fufae,’ (l.23835), Jacob,’ (l.23973), mantoray,’ (l.24049), ahchi,’ (l.24049)
+    ‘Word’ count: 4, examples: ‘Oo’ (l.23340), ‘achi’ (l.23340), ‘umalea’ (l.23423), ‘ammaamto’ (l.23423)
+    Word-Word,’ count: 3, examples: chinàcha-ar,’ (l.23706), epa-amma,’ (l.23868), cha-a,’ (l.25142)
+    Word-Word-Word.’ count: 2, examples: nan-amma-amma.’ (l.23873), man-ap-apowam.’ (l.25819)
+    ‘Word,’ count: 2, examples: ‘Anào,’ (l.25688), ‘Chittakan,’ (l.27221)
+    Word’ count: 1, example: finutam’ (l.23389)
+    ‘Word-Word’ count: 1, example: ‘in-a’ (l.23423)
+    ‘Word.’ count: 1, example: ‘Gachang.’ (l.27296)
