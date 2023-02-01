@@ -201,7 +201,7 @@ def unzip_files(zip_files, file_suffix, unzip_folder, logfile, dist_type) -> int
         )
 
         for zip_file, unzip_to_folder in unzips:
-            extract.mkdir(parents=True, exist_ok=True)
+            unzip_to_folder.mkdir(parents=True, exist_ok=True)
             log_and_print(logfile, f"Extracting to: {unzip_to_folder}")
             try:
                 shutil.unpack_archive(zip_file, unzip_to_folder)
@@ -286,6 +286,10 @@ def get_download_lists(
     download_folder: Path,
     wont_download: List[str],
 ) -> Tuple[List[Path], List[Path], List[Path], List[Path], List[Path]]:
+
+    # It's actually too soon to decide which files are redistributable and which are not
+    # We should unzip all first, then compare the translations_csv info with that
+    # scraped from the copr.htm files.
 
     # Get filenames
     all_files, redistributable_files = get_redistributable(translations_csv)
@@ -479,7 +483,7 @@ def add_settings_file(project_folder, language_code):
 
 def copy_to_working_directory(project, language_code, ebible_redistributable, rewrite):
     folder = ebible_redistributable / project.name
-    if exists(folder):
+    if folder.is_dir:
         if rewrite:
             shutil.rmtree(folder)
         else:
@@ -790,6 +794,25 @@ def main() -> None:
         "spanblh_usfm.zip",
     ]
 
+    # These are copyright and should be shared.
+    private_zipfiles: List[str] = [
+        'kxw',
+        'big2013',
+        'fad',
+        'nuq-nuq',
+        'ino2013',
+        'kud2014',
+        'bbr2013'
+    ]
+
+    # These can be shared.    
+    public_zipfiles: List[str] = [
+        'bzj',
+        'cmeNT',
+        'cotNT',
+        'urd',
+    ]
+
     (
         all_files,
         redistributable_files,
@@ -800,10 +823,12 @@ def main() -> None:
         translations_csv, file_suffix, downloads_folder, wont_download=wont_download
     )
 
+    redistributable_files += public_zipfiles
     redistributable_zipfiles: List(Path) = sorted(
         [downloads_folder / (file + file_suffix) for file in redistributable_files]
     )
 
+    non_redistributable_files += private_zipfiles
     non_redistributable_zipfiles: List(Path) = sorted(
         [downloads_folder / (file + file_suffix) for file in non_redistributable_files]
     )
@@ -929,21 +954,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-    # Get list of redistributable files from the translations.csv and licence_file
-    # Fix this, the combined file has only the project name in the translationid column.
-    # The licence file has "languagecode-translationid" in the translationid column. So none match on translationid.
-    # redistributable = get_redistributable_projects(translations_csv,licence_file)
-
-    # extracted_files = [entry['ID'][4:] for entry in redistributable]
-    # missing_files = [file + file_suffix for file in sorted(set(all_files) - set(extracted_files))]
-    # unexpectedly_missing = set(missing_files) - set(wont_download)
-
-    # log_and_print(logfile, f"There are {len(unexpectedly_missing)} missing extract folders.")
-
-    # if len(unexpectedly_missing) == 0:
-    #    log_and_print(logfile, f"There are exactly {len(wont_download)} missing redistributable_folder folders. They are the same {len(missing_files)} that we didn't try to download.")
-    # else :
-    #    log_and_print(logfile, f"{len(unexpectedly_missing)} files were not extracted. Upto 50 are shown:")
-    #    for file in sorted(unexpectedly_missing)[:50]:
-    #        log_and_print(logfile, file)
