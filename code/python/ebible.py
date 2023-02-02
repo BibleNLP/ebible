@@ -15,14 +15,15 @@ import os
 import re
 import shutil
 from csv import DictReader, DictWriter
-from datetime import date, datetime
+from datetime import datetime
 from glob import iglob
 from os import listdir
 from pathlib import Path
 from random import randint
 from time import sleep, strftime
 from typing import Dict, List, Tuple
-from .versification import get_versification
+from settings_file import write_settings_files
+
 
 import pandas as pd
 import regex
@@ -701,7 +702,7 @@ def main() -> None:
         log_and_print(logfile, f"There are no changes required to the licence file.")
 
     # Create Settings files for the redistributable projects.
-    new_settings_file_count, exsiting_settings_file_count = create_settings_files(
+    new_settings_file_count, exsiting_settings_file_count = write_settings_files(
         redistributable_folder
     )
 
@@ -711,7 +712,7 @@ def main() -> None:
     )
 
     # Create Settings files for the redistributable projects.
-    new_settings_file_count, exsiting_settings_file_count = create_settings_files(
+    new_settings_file_count, exsiting_settings_file_count = write_settings_files(
         non_redistributable_folder
     )
 
