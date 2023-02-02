@@ -68,14 +68,14 @@ def download_file(url, file, headers=headers):
     return False
 
 
-def download_files(filenames, url, folder, logfile, redownload=False) -> None:
+def download_files(filenames, base_url, folder, logfile, redownload=False) -> None:
 
     downloaded = 0
 
     for i, filename in enumerate(filenames):
 
         # Construct the download url and the local file path.
-        url = url + filename
+        url = base_url + filename
         file = folder / filename
 
         # Skip any missing filenames.
