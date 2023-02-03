@@ -9,10 +9,12 @@ Extract files that have a licence that permits redistibution using SILNLP for th
 
 # Import modules and directory paths
 import argparse
-#import codecs
-#import ntpath
+
+# import codecs
+# import ntpath
 import os
-#import re
+
+# import re
 import shutil
 from csv import DictReader, DictWriter
 from datetime import datetime
@@ -184,7 +186,9 @@ def unzip_entire_folder(source_folder, file_suffix, unzip_folder, logfile) -> in
     return len(extracts)
 
 
-def unzip_files(zip_files, file_suffix, unzip_folder, logfile, dist_type) -> int:
+def unzip_files(
+    zip_files: List[Path], unzip_folder: Path, file_suffix: str, logfile
+) -> int:
 
     # Strip off the file_suffix so that the subfolder name is the project ID.
     unzip_to_folders = [
@@ -232,7 +236,7 @@ def unzip_files(zip_files, file_suffix, unzip_folder, logfile, dist_type) -> int
     else:
         log_and_print(
             logfile,
-            f"All {len(zip_files)} {dist_type} zip files have already been unzipped to {unzip_folder}.",
+            f"All {len(zip_files)} zip files have already been unzipped to {unzip_folder}.",
         )
 
     return unzipped_count
@@ -269,19 +273,12 @@ def norm_name(name: str) -> str:
 
 
 def get_download_lists(
+    all_files: list,
     translations_csv: Path,
     file_suffix: str,
     download_folder: Path,
     dont_download: List[str],
-) -> Tuple[List[Path], List[Path], List[Path], List[Path], List[Path]]:
-
-    # It's actually too soon to decide which files are redistributable and which are not
-    # We should unzip all first, then compare the translations_csv info with that
-    # scraped from the copr.htm files.
-
-    # Get filenames
-    all_files, redistributable_files = get_redistributable(translations_csv)
-    non_redistributable_files = sorted(set(all_files) - set(redistributable_files))
+) -> Tuple[List[Path], List[Path]]:
 
     all_filenames = sorted([file + file_suffix for file in all_files])
 
@@ -301,9 +298,6 @@ def get_download_lists(
     to_download = sorted(set(all_filenames) - set(dont_download))
 
     return (
-        all_files,
-        redistributable_files,
-        non_redistributable_files,
         to_download,
         already_downloaded,
     )
@@ -502,6 +496,9 @@ def main() -> None:
     # The zipped folder is where we download files from eBible.org
     downloads_folder: Path = base / "downloads"
 
+    # The unzipped folder is where we unzip the project folders
+    unzipped_folder: Path = base / "projects"
+
     metadata_folder: Path = base / "metadata"
 
     logs_folder: Path = base / "logs"
@@ -523,6 +520,7 @@ def main() -> None:
 
     all_folders: List = [
         corpus_folder,
+        unzipped_folder,
         redistributable_folder,
         non_redistributable_folder,
         downloads_folder,
@@ -558,34 +556,41 @@ def main() -> None:
         # Download the list of translations.
         log_and_print(
             logfile,
-            f"Downloading list of translations from {translations_csv_url} to: {str(translations_csv)}",zip
+            f"Downloading list of translations from {translations_csv_url} to: {str(translations_csv)}",
+            zip,
         )
         download_file(translations_csv_url, translations_csv)
 
-
     with open("config.yaml", "r") as yamlfile:
         config: Dict = yaml.safe_load(yamlfile)
-    
+
     print("Read config.yaml successful")
     print(f"data is {config}")
-    
-    dont_download = [project + "_usfm.zip" for project in config['No Download']]
-    private_zipfiles = config['Private']
-    public_zipfiles = config['Public']
+
+    dont_download = [project + "_usfm.zip" for project in config["No Download"]]
+    private_zipfiles = config["Private"]
+    public_zipfiles = config["Public"]
 
     print(dont_download)
     print(private_zipfiles)
     print(public_zipfiles)
-    
 
-    (
+    # It's actually too soon to decide which files are redistributable and which are not
+    # We should unzip all first, then compare the translations_csv info with that
+    # scraped from the copr.htm files.
+
+    # Unzip all to the same folder. These aren't pushed to github.
+    # And we don't know the licence until it is read from the copr.html file.
+    # Get filenames
+    all_files, redistributable_files = get_redistributable(translations_csv)
+    non_redistributable_files = sorted(set(all_files) - set(redistributable_files))
+
+    (to_download, already_downloaded,) = get_download_lists(
         all_files,
-        redistributable_files,
-        non_redistributable_files,
-        to_download,
-        already_downloaded,
-    ) = get_download_lists(
-        translations_csv, file_suffix, downloads_folder, dont_download=dont_download
+        translations_csv,
+        file_suffix,
+        downloads_folder,
+        dont_download=dont_download,
     )
 
     redistributable_files += public_zipfiles
@@ -598,6 +603,76 @@ def main() -> None:
         [downloads_folder / (file + file_suffix) for file in non_redistributable_files]
     )
 
+    # Download the required zipped USFM files.
+    download_files(
+        to_download,
+        eBible_url,
+        downloads_folder,
+        logfile,
+        redownload=args.force_download,
+    )
+
+    downloaded_files = [
+        download for download in downloads_folder.glob("*" + file_suffix)
+    ]
+
+    log_and_print(
+        logfile,
+        f"There are {len(downloaded_files)} files ending in {file_suffix} in the downloads folder.",
+    )
+
+    # print(f"Redist files = {redistributable_zipfiles}, {type(redistributable_zipfiles)}")
+    # print(f"Non redist files = {non_redistributable_zipfiles}, {type(non_redistributable_zipfiles)}")
+
+    # Unzip all to the same folder. These aren't pushed to github.
+    # And we don't know the licence until it is read from the copr.html file.
+
+    unzipped_count: int = unzip_files(
+        zip_files=downloaded_files,
+        unzip_folder=unzipped_folder,
+        file_suffix=file_suffix,
+        logfile=logfile,
+    )
+
+    # print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")
+    # Create Settings files for the redistributable projects.
+    new_settings_file_count, exsiting_settings_file_count = write_settings_files(
+        unzipped_folder
+    )
+
+    log_and_print(
+        logfile,
+        f"\nCreated {new_settings_file_count} Settings.xml files folder: {unzipped_folder}. There were {exsiting_settings_file_count} projects with existing settings files.",
+    )
+
+    # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
+    # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
+
+    log_and_print(
+        logfile,
+        f"\nUse this command ONLY if you want to extract the non_redistributable files.",
+    )
+    log_and_print(
+        logfile,
+        f"poetry run python -m silnlp.common.bulk_extract_corpora --input {non_redistributable_folder} --output <OUTPUT_FOLDER>",
+    )
+
+    log_and_print(
+        logfile,
+        f"\nThe files are ready for extracting. Use this command in the SILNLP repo to extract the redistributable files.",
+    )
+    log_and_print(
+        logfile,
+        f"poetry run python -m silnlp.common.bulk_extract_corpora --input {redistributable_folder} --output {corpus_folder} --error-log {extract_log_file}",
+    )
+
+
+if __name__ == "__main__":
+    main()
+
+
+"""
+From line 600 ff
     # print(f"The first redistributable file is {redistributable_files[0]}")
     # print(f"The first non redistributable file is {non_redistributable_files[0]}")
 
@@ -623,41 +698,10 @@ def main() -> None:
     if to_download:
         log_and_print(logfile, f"There are {len(to_download)} files still to download.")
     else:
-        log_and_print(logfile, f"All zip files have already been downloaded.")
+        log_and_print(logfile, f"All zip files have already been downloaded.")"""
 
-    # Download the required zipped USFM files.
-    download_files(
-        to_download,
-        eBible_url,
-        downloads_folder,
-        logfile,
-        redownload=args.force_download,
-    )
 
-    # print(f"Redist files = {redistributable_zipfiles}, {type(redistributable_zipfiles)}")
-    # print(f"Non redist files = {non_redistributable_zipfiles}, {type(non_redistributable_zipfiles)}")
-
-    # Unzip the redistributable downloaded files.
-    redistributable_project_count: int = unzip_files(
-        redistributable_zipfiles,
-        file_suffix,
-        redistributable_folder,
-        logfile,
-        "redistributable",
-    )
-
-    # Unzip the non_redistributable downloaded files to the private_projects folder.
-    unzip_files(
-        non_redistributable_zipfiles,
-        file_suffix,
-        non_redistributable_folder,
-        logfile,
-        "non-redistributable",
-    )
-
-    # print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")
-
-    # Check whether any non_redistributable files are in the redistributable folder and list them.
+"""# Check whether any non_redistributable files are in the redistributable folder and list them.
     incorrect_non_redistributable_folders: List(Path) = [
         redistributable_folder / non_redistributable_file
         for non_redistributable_file in non_redistributable_files
@@ -686,48 +730,4 @@ def main() -> None:
         write_licence_file(licence_file, logfile, redistributable_folder)
     else:
         log_and_print(logfile, f"There are no changes required to the licence file.")
-
-    # Create Settings files for the redistributable projects.
-    new_settings_file_count, exsiting_settings_file_count = write_settings_files(
-        redistributable_folder
-    )
-
-    log_and_print(
-        logfile,
-        f"\nCreated {new_settings_file_count} Settings.xml files folder: {redistributable_folder}. There are {exsiting_settings_file_count} projects with existing settings files.",
-    )
-
-    # Create Settings files for the redistributable projects.
-    new_settings_file_count, exsiting_settings_file_count = write_settings_files(
-        non_redistributable_folder
-    )
-
-    log_and_print(
-        logfile,
-        f"\nCreated {new_settings_file_count} Settings.xml files folder: {non_redistributable_folder}. There are {exsiting_settings_file_count} projects with existing settings files.",
-    )
-
-    # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
-    # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
-
-    log_and_print(
-        logfile,
-        f"\nUse this command ONLY if you want to extract the non_redistributable files.",
-    )
-    log_and_print(
-        logfile,
-        f"poetry run python -m silnlp.common.bulk_extract_corpora --input {non_redistributable_folder} --output <OUTPUT_FOLDER>",
-    )
-
-    log_and_print(
-        logfile,
-        f"\nThe files are ready for extracting. Use this command in the SILNLP repo to extract the redistributable files.",
-    )
-    log_and_print(
-        logfile,
-        f"poetry run python -m silnlp.common.bulk_extract_corpora --input {redistributable_folder} --output {corpus_folder} --error-log {extract_log_file}",
-    )
-
-
-if __name__ == "__main__":
-    main()
+"""

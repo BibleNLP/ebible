@@ -15,6 +15,7 @@ daiquiri = "^3.2.1"
 beautifulsoup4 = "^4.11.1"
 regex = "^2022.10.31"
 isort = "^5.11.4"
+PyYAML = "^6.0"
 
 
 [build-system]
