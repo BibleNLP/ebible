@@ -266,112 +266,111 @@ def improve_column_names(df) -> None:
         .str.replace(" ", "_")
     )
 
+def write_licence_file(licence_file, logfile, folder):
 
-# def write_licence_file(licence_file, logfile, redistributable_folder):
+    csv_headers = [
+        "ID",
+        "Language",
+        "Dialect",
+        "Licence Type",
+        "Licence Version",
+        "CC Licence Link",
+        "Copyright Holder",
+        "Copyright Years",
+        "Translation by",
+    ]
 
-#     csv_headers = [
-#         "ID",
-#         "Language",
-#         "Dialect",
-#         "Licence Type",
-#         "Licence Version",
-#         "CC Licence Link",
-#         "Copyright Holder",
-#         "Copyright Years",
-#         "Translation by",
-#     ]
+    # Get copyright info from eBible projects
 
-#     # Get copyright info from eBible projects
+    data = list()
+    copr_regex = r".*[/\\](?P<id>.*?)[/\\]copr.htm"
 
-#     data = list()
-#     copr_regex = r".*[/\\](?P<id>.*?)[/\\]copr.htm"
+    log_and_print(logfile, "Collecting eBible copyright information...")
 
-#     log_and_print(logfile, "Collecting eBible copyright information...")
+    for i, copyright_file in enumerate(
+        sorted(folder.glob("**/copr.htm"))
+    ):
+        id = str(copyright_file.parents[0].relative_to(folder))
 
-#     for i, copyright_file in enumerate(
-#         sorted(redistributable_folder.glob("**/copr.htm"))
-#     ):
-#         id = str(copyright_file.parents[0].relative_to(redistributable_folder))
+        id_match = regex.match(copr_regex, str(copyright_file))
+        id = id_match["id"]
 
-#         id_match = regex.match(copr_regex, str(copyright_file))
-#         id = id_match["id"]
+        if i % 100 == 0:
+            print(f"Read {i} files. Now reading: {copyright_file} with ID: {id}")
 
-#         if i % 100 == 0:
-#             print(f"Read {i} files. Now reading: {copyright_file} with ID: {id}")
+        entry = dict()
+        entry["ID"] = str(id)
+        entry["File"] = copyright_file
 
-#         entry = dict()
-#         entry["ID"] = str(id)
-#         entry["File"] = copyright_file
+        with open(copyright_file, "r", encoding="utf-8") as copr:
+            html = copr.read()
+            soup = BeautifulSoup(html, "lxml")
 
-#         with open(copyright_file, "r", encoding="utf-8") as copr:
-#             html = copr.read()
-#             soup = BeautifulSoup(html, "lxml")
+        cclink = soup.find(href=regex.compile("creativecommons"))
+        if cclink:
+            ref = cclink.get("href")
+            if ref:
+                entry["CC Licence Link"] = ref
+                cc_match = regex.match(
+                    r".*?/licenses/(?P<type>.*?)/(?P<version>.*)/", ref
+                )
+                if cc_match:
+                    entry["Licence Type"] = cc_match["type"]
+                    entry["Licence Version"] = cc_match["version"]
+                else:
+                    cc_by_match = regex.match(r".*?/licenses/by(?P<version>.*)/", ref)
+                    if cc_by_match:
+                        # print(f'Licence version = {cc_by_match["version"]}')
+                        entry["Licence Type"] = "by"
+                        entry["Licence Version"] = cc_by_match["version"]
 
-#         cclink = soup.find(href=regex.compile("creativecommons"))
-#         if cclink:
-#             ref = cclink.get("href")
-#             if ref:
-#                 entry["CC Licence Link"] = ref
-#                 cc_match = regex.match(
-#                     r".*?/licenses/(?P<type>.*?)/(?P<version>.*)/", ref
-#                 )
-#                 if cc_match:
-#                     entry["Licence Type"] = cc_match["type"]
-#                     entry["Licence Version"] = cc_match["version"]
-#                 else:
-#                     cc_by_match = regex.match(r".*?/licenses/by(?P<version>.*)/", ref)
-#                     if cc_by_match:
-#                         # print(f'Licence version = {cc_by_match["version"]}')
-#                         entry["Licence Type"] = "by"
-#                         entry["Licence Version"] = cc_by_match["version"]
+        cclink = None
 
-#         cclink = None
+        titlelink = soup.find(href=regex.compile(f"https://ebible.org/{id}"))
+        if titlelink:
+            entry["Vernacular Title"] = titlelink.string
+        titlelink = None
 
-#         titlelink = soup.find(href=regex.compile(f"https://ebible.org/{id}"))
-#         if titlelink:
-#             entry["Vernacular Title"] = titlelink.string
-#         titlelink = None
+        copy_strings = [s for s in soup.body.p.stripped_strings]
 
-#         copy_strings = [s for s in soup.body.p.stripped_strings]
+        for i, copy_string in enumerate(copy_strings):
+            if i == 0 and "copyright ©" in copy_string:
+                entry["Copyright Years"] = copy_string
+                entry["Copyright Holder"] = copy_strings[i + 1]
+            if i > 0 and "Language:" in copy_string:
+                entry["Language"] = copy_strings[i + 1]
 
-#         for i, copy_string in enumerate(copy_strings):
-#             if i == 0 and "copyright ©" in copy_string:
-#                 entry["Copyright Years"] = copy_string
-#                 entry["Copyright Holder"] = copy_strings[i + 1]
-#             if i > 0 and "Language:" in copy_string:
-#                 entry["Language"] = copy_strings[i + 1]
+            if "Dialect" in copy_string:
+                descriptions = ["Dialect (if applicable): ", "Dialect: "]
+                for description in descriptions:
+                    if copy_string.startswith(description):
+                        entry["Dialect"] = copy_string[len(description) :]
+                        break
+                    else:
+                        entry["Dialect"] = copy_string
 
-#             if "Dialect" in copy_string:
-#                 descriptions = ["Dialect (if applicable): ", "Dialect: "]
-#                 for description in descriptions:
-#                     if copy_string.startswith(description):
-#                         entry["Dialect"] = copy_string[len(description) :]
-#                         break
-#                     else:
-#                         entry["Dialect"] = copy_string
+            if "Translation by" in copy_string:
+                entry["Translation by"] = copy_string
+            if "Public Domain" in copy_string:
+                entry["Copyright Year"] = ""
+                entry["Copyright Holder"] = "Public Domain"
 
-#             if "Translation by" in copy_string:
-#                 entry["Translation by"] = copy_string
-#             if "Public Domain" in copy_string:
-#                 entry["Copyright Year"] = ""
-#                 entry["Copyright Holder"] = "Public Domain"
+        data.append(entry)
 
-#         data.append(entry)
+    with open(licence_file, "w", encoding="utf-8", newline="") as csv_out:
+        writer = DictWriter(
+            csv_out,
+            csv_headers,
+            restval="",
+            extrasaction="ignore",
+            dialect="excel",
+        )
+        writer.writeheader()
+        writer.writerows(data)
 
-#     with open(licence_file, "w", encoding="utf-8", newline="") as csv_out:
-#         writer = DictWriter(
-#             csv_out,
-#             csv_headers,
-#             restval="",
-#             extrasaction="ignore",
-#             dialect="excel",
-#         )
-#         writer.writeheader()
-#         writer.writerows(data)
-
-#     log_and_print(
-#         logfile, f"Wrote licence info for {len(data)} translations to {licence_file}\n"
-#     )
+    log_and_print(
+        logfile, f"Wrote licence info for {len(data)} translations to {licence_file}\n"
+    )
 
 
 def choose_yes_no(prompt: str) -> bool:
@@ -588,8 +587,12 @@ def main() -> None:
 
 
     # Write the licence file.
-    write_licence_file(licence_file, logfile, unzip_ebible)
-
+    write_licence_file(licence_file, logfile, projects_folder)
+    
+    log_and_print(
+        logfile,
+        f"Wrote the licences.tsv file to the metadata folder."
+    )
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
