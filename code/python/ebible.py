@@ -1,10 +1,11 @@
 """ebible.py contains functions to:
 Download zipped Bibles in USFM format from ebible.org to the 'downloads' folder.
 Unzip the downloaded files to the 'projects' folder.
-Check the licence data contained in the copr.htm files in the redistributable_folder folders. Write that as a csv file.
+Check the licence data contained in the copr.htm files in each project folder.
+Write the licence information as a csv file.
 Check the existence of verses in certain chapters in order to guess the versification. Add that to a Settings.xml in each project.
-The Settings.xml file is necessary for silnlp.common.extract_corpora.
-Extract files that have a licence that permits redistibution using SILNLP for the extraction.
+A Settings.xml file is necessary for silnlp.common.extract_corpora.
+Extract all the files saving those that have an open licence to the 'corpus' folder and those that don't to the private_corpus folder.
 """
 
 # Import modules and directory paths
@@ -68,13 +69,13 @@ def download_file(url, file, headers=headers):
             # Write out the content of the page.
             out_file.write(r.content)
 
-        return True
-    return False
+        return file
+    return None
 
 
-def download_files(filenames, base_url, folder, logfile, redownload=False) -> None:
+def download_files(filenames, base_url, folder, logfile, redownload=False) -> list:
 
-    downloaded = 0
+    downloaded_files = []
 
     for i, filename in enumerate(filenames):
 
@@ -95,34 +96,32 @@ def download_files(filenames, base_url, folder, logfile, redownload=False) -> No
 
             if redownload:
                 log_and_print(logfile, f"{i+1}: Redownloading from {url} to {file}.")
-                done = download_file(url, file)
-
-                if done:
-                    downloaded += 1
+                if downloaded_file := download_file(url, file):
+                    downloaded_files.append(downloaded_file)
+                    
                     log_and_print(logfile, f"Saved {url} as {file}\n")
                     # Pause for a random number of miliseconds
-                    pause = randint(1, 5000) / 1000
-                    sleep(pause)
+                    sleep(randint(1, 5000) / 1000)
             continue
 
         else:
             log_and_print(logfile, f"{i+1}: Downloading from {url} to {file}.")
-            done = download_file(url, file)
+            if downloaded_file := download_file(url, file):
+                downloaded_files.append(downloaded_file)
 
-            if done:
-                downloaded += 1
                 log_and_print(logfile, f"Saved {url} as {file}\n")
+                
                 # Pause for a random number of miliseconds
-                pause = randint(1, 5000) / 1000
-                sleep(pause)
+                sleep(randint(1, 5000) / 1000)
 
             else:
                 log_and_print(logfile, f"Could not download {url}\n")
 
     log_and_print(
         logfile,
-        f"\nFinished downloading. Downloaded {downloaded} zip files from eBbile.org",
+        f"\nFinished downloading. Downloaded {len(downloaded_files)} zip files from eBbile.org",
     )
+    return downloaded_files
 
 
 def get_tree_size(path) -> int:
@@ -260,7 +259,6 @@ def get_redistributable(translations_csv: Path) -> Tuple[List[Path], List[Path]]
 
 # Define methods for creating the copyrights file
 
-
 def norm_name(name: str) -> str:
     if len(name) < 3:
         return None
@@ -270,37 +268,6 @@ def norm_name(name: str) -> str:
         return name
     else:
         return f"{name[:3]}-{name}"
-
-
-def get_download_lists(
-    all_files: list,
-    translations_csv: Path,
-    file_suffix: str,
-    download_folder: Path,
-    dont_download: List[str],
-) -> Tuple[List[Path], List[Path]]:
-
-    all_filenames = sorted([file + file_suffix for file in all_files])
-
-    # Find which files have already been downloaded.
-    already_downloaded = sorted(
-        [file.name for file in download_folder.glob("*" + file_suffix)]
-    )
-
-    # For downloading we need to maintain the eBible names e.g. aai_usfm.zip
-    # print(all_filenames[:3])
-    # print(already_downloaded[:3])
-    # print(dont_download[:3])
-    # print(resticted_filenames[:3])
-    # exit()
-
-    dont_download = set(already_downloaded).union(set(dont_download))
-    to_download = sorted(set(all_filenames) - set(dont_download))
-
-    return (
-        to_download,
-        already_downloaded,
-    )
 
 
 # Define functions to calculate versification and write the settings file.
@@ -318,111 +285,111 @@ def improve_column_names(df) -> None:
     )
 
 
-def write_licence_file(licence_file, logfile, redistributable_folder):
+# def write_licence_file(licence_file, logfile, redistributable_folder):
 
-    csv_headers = [
-        "ID",
-        "Language",
-        "Dialect",
-        "Licence Type",
-        "Licence Version",
-        "CC Licence Link",
-        "Copyright Holder",
-        "Copyright Years",
-        "Translation by",
-    ]
+#     csv_headers = [
+#         "ID",
+#         "Language",
+#         "Dialect",
+#         "Licence Type",
+#         "Licence Version",
+#         "CC Licence Link",
+#         "Copyright Holder",
+#         "Copyright Years",
+#         "Translation by",
+#     ]
 
-    # Get copyright info from eBible projects
+#     # Get copyright info from eBible projects
 
-    data = list()
-    copr_regex = r".*[/\\](?P<id>.*?)[/\\]copr.htm"
+#     data = list()
+#     copr_regex = r".*[/\\](?P<id>.*?)[/\\]copr.htm"
 
-    log_and_print(logfile, "Collecting eBible copyright information...")
+#     log_and_print(logfile, "Collecting eBible copyright information...")
 
-    for i, copyright_file in enumerate(
-        sorted(redistributable_folder.glob("**/copr.htm"))
-    ):
-        id = str(copyright_file.parents[0].relative_to(redistributable_folder))
+#     for i, copyright_file in enumerate(
+#         sorted(redistributable_folder.glob("**/copr.htm"))
+#     ):
+#         id = str(copyright_file.parents[0].relative_to(redistributable_folder))
 
-        id_match = regex.match(copr_regex, str(copyright_file))
-        id = id_match["id"]
+#         id_match = regex.match(copr_regex, str(copyright_file))
+#         id = id_match["id"]
 
-        if i % 100 == 0:
-            print(f"Read {i} files. Now reading: {copyright_file} with ID: {id}")
+#         if i % 100 == 0:
+#             print(f"Read {i} files. Now reading: {copyright_file} with ID: {id}")
 
-        entry = dict()
-        entry["ID"] = str(id)
-        entry["File"] = copyright_file
+#         entry = dict()
+#         entry["ID"] = str(id)
+#         entry["File"] = copyright_file
 
-        with open(copyright_file, "r", encoding="utf-8") as copr:
-            html = copr.read()
-            soup = BeautifulSoup(html, "lxml")
+#         with open(copyright_file, "r", encoding="utf-8") as copr:
+#             html = copr.read()
+#             soup = BeautifulSoup(html, "lxml")
 
-        cclink = soup.find(href=regex.compile("creativecommons"))
-        if cclink:
-            ref = cclink.get("href")
-            if ref:
-                entry["CC Licence Link"] = ref
-                cc_match = regex.match(
-                    r".*?/licenses/(?P<type>.*?)/(?P<version>.*)/", ref
-                )
-                if cc_match:
-                    entry["Licence Type"] = cc_match["type"]
-                    entry["Licence Version"] = cc_match["version"]
-                else:
-                    cc_by_match = regex.match(r".*?/licenses/by(?P<version>.*)/", ref)
-                    if cc_by_match:
-                        # print(f'Licence version = {cc_by_match["version"]}')
-                        entry["Licence Type"] = "by"
-                        entry["Licence Version"] = cc_by_match["version"]
+#         cclink = soup.find(href=regex.compile("creativecommons"))
+#         if cclink:
+#             ref = cclink.get("href")
+#             if ref:
+#                 entry["CC Licence Link"] = ref
+#                 cc_match = regex.match(
+#                     r".*?/licenses/(?P<type>.*?)/(?P<version>.*)/", ref
+#                 )
+#                 if cc_match:
+#                     entry["Licence Type"] = cc_match["type"]
+#                     entry["Licence Version"] = cc_match["version"]
+#                 else:
+#                     cc_by_match = regex.match(r".*?/licenses/by(?P<version>.*)/", ref)
+#                     if cc_by_match:
+#                         # print(f'Licence version = {cc_by_match["version"]}')
+#                         entry["Licence Type"] = "by"
+#                         entry["Licence Version"] = cc_by_match["version"]
 
-        cclink = None
+#         cclink = None
 
-        titlelink = soup.find(href=regex.compile(f"https://ebible.org/{id}"))
-        if titlelink:
-            entry["Vernacular Title"] = titlelink.string
-        titlelink = None
+#         titlelink = soup.find(href=regex.compile(f"https://ebible.org/{id}"))
+#         if titlelink:
+#             entry["Vernacular Title"] = titlelink.string
+#         titlelink = None
 
-        copy_strings = [s for s in soup.body.p.stripped_strings]
+#         copy_strings = [s for s in soup.body.p.stripped_strings]
 
-        for i, copy_string in enumerate(copy_strings):
-            if i == 0 and "copyright ©" in copy_string:
-                entry["Copyright Years"] = copy_string
-                entry["Copyright Holder"] = copy_strings[i + 1]
-            if i > 0 and "Language:" in copy_string:
-                entry["Language"] = copy_strings[i + 1]
+#         for i, copy_string in enumerate(copy_strings):
+#             if i == 0 and "copyright ©" in copy_string:
+#                 entry["Copyright Years"] = copy_string
+#                 entry["Copyright Holder"] = copy_strings[i + 1]
+#             if i > 0 and "Language:" in copy_string:
+#                 entry["Language"] = copy_strings[i + 1]
 
-            if "Dialect" in copy_string:
-                descriptions = ["Dialect (if applicable): ", "Dialect: "]
-                for description in descriptions:
-                    if copy_string.startswith(description):
-                        entry["Dialect"] = copy_string[len(description) :]
-                        break
-                    else:
-                        entry["Dialect"] = copy_string
+#             if "Dialect" in copy_string:
+#                 descriptions = ["Dialect (if applicable): ", "Dialect: "]
+#                 for description in descriptions:
+#                     if copy_string.startswith(description):
+#                         entry["Dialect"] = copy_string[len(description) :]
+#                         break
+#                     else:
+#                         entry["Dialect"] = copy_string
 
-            if "Translation by" in copy_string:
-                entry["Translation by"] = copy_string
-            if "Public Domain" in copy_string:
-                entry["Copyright Year"] = ""
-                entry["Copyright Holder"] = "Public Domain"
+#             if "Translation by" in copy_string:
+#                 entry["Translation by"] = copy_string
+#             if "Public Domain" in copy_string:
+#                 entry["Copyright Year"] = ""
+#                 entry["Copyright Holder"] = "Public Domain"
 
-        data.append(entry)
+#         data.append(entry)
 
-    with open(licence_file, "w", encoding="utf-8", newline="") as csv_out:
-        writer = DictWriter(
-            csv_out,
-            csv_headers,
-            restval="",
-            extrasaction="ignore",
-            dialect="excel",
-        )
-        writer.writeheader()
-        writer.writerows(data)
+#     with open(licence_file, "w", encoding="utf-8", newline="") as csv_out:
+#         writer = DictWriter(
+#             csv_out,
+#             csv_headers,
+#             restval="",
+#             extrasaction="ignore",
+#             dialect="excel",
+#         )
+#         writer.writeheader()
+#         writer.writerows(data)
 
-    log_and_print(
-        logfile, f"Wrote licence info for {len(data)} translations to {licence_file}\n"
-    )
+#     log_and_print(
+#         logfile, f"Wrote licence info for {len(data)} translations to {licence_file}\n"
+#     )
 
 
 def choose_yes_no(prompt: str) -> bool:
@@ -434,6 +401,33 @@ def choose_yes_no(prompt: str) -> bool:
         return True
     elif choice == "n":
         return False
+
+
+def check_folders_exist(folders: list, base: Path, logfile):
+    missing_folders: List = [folder for folder in folders if not folder.is_dir()]
+
+    # Don't log_and_print until we've checked that the log folder exists.
+    print(f"The base folder is : {base}")
+    # base = r"F:/GitHub/davidbaines/eBible"
+
+    if missing_folders:
+        print(
+            "The following {len(missing_folders)} folders are required and will be created if you continue."
+        )
+        for folder in missing_folders:
+            print(folder)
+
+        print(f"\n\nAre you sure this is the right folder:    {base} ")
+        if choose_yes_no(f"Enter Y to continue or N to Quit."):
+
+            # Create the required directories
+            make_directories(missing_folders)
+            log_and_print(logfile, f"All the required folders were created at {base}\n")
+        else:
+            exit()
+
+    else:
+        log_and_print(logfile, f"All the required folders exist at {base}\n")
 
 
 def main() -> None:
@@ -482,27 +476,30 @@ def main() -> None:
     eBible_url: str = r"https://ebible.org/Scriptures/"
     file_suffix: str = "_usfm.zip"
 
+    # Process outline is:
+    #  Download the translation.csv file to the 'metadata' folder.
+    #  Read it to see which files need to be downloaded.
+    #  Download to 'downloads'
+    #  Unzip to 'projects'
+    #  Write Settings.xml for each project.
+    #  Read licence for each project
+    #  Write out a licence.tsv file to the 'metadata' folder.
+    #  SILNLP Extract the shareable projects to the 'corpus' folder.
+    #  SILNLP Extract the non-shareable projects to the 'private_corpus' folder.
+
     # The corpus folder is for the verse aligned text files.
+
     corpus_folder: Path = base / "corpus"
-
-    # The redistributable_folder folder is for the redistributable_folder downloaded files.
-    # To this folder we add a settings.xml file that we create.
-    # The settings.xml file is required for the extraction process.
-    redistributable_folder: Path = base / "projects"
-
-    # Folder for the non-redistributable projects.
-    non_redistributable_folder: Path = base / "private_projects"
-
-    # The zipped folder is where we download files from eBible.org
     downloads_folder: Path = base / "downloads"
-
-    # The unzipped folder is where we unzip the project folders
-    unzipped_folder: Path = base / "projects"
-
+    private_corpus_folder: Path = base / "private_corpus"
+    projects_folder: Path = base / "projects"
     metadata_folder: Path = base / "metadata"
-
     logs_folder: Path = base / "logs"
 
+    # The csv file to download from eBible.org
+    translations_csv: Path = metadata_folder / "translations.csv"
+
+    # Date stamp for the log file.
     year, month, day, hour, minute = map(int, strftime("%Y %m %d %H %M").split())
     log_suffix: str = f"_{year}_{month}_{day}-{hour}_{minute}.log"
     log_filename: str = "ebible" + log_suffix
@@ -512,45 +509,20 @@ def main() -> None:
     # This helps to keep the datestamps of the two logs in sync.
     extract_log_file: Path = logs_folder / ("extract" + log_suffix)
 
-    # The file to download from eBible.org
-    translations_csv: Path = metadata_folder / "translations.csv"
-
     # The file we will save that contains the licence information for each file.
     licence_file: Path = metadata_folder / "licences.tsv"
 
-    all_folders: List = [
-        corpus_folder,
-        unzipped_folder,
-        redistributable_folder,
-        non_redistributable_folder,
-        downloads_folder,
-        metadata_folder,
-        logs_folder,
-    ]
-    missing_folders: List = [folder for folder in all_folders if not folder.is_dir()]
-
-    # Don't log_and_print until we've checked that the log folder exists.
-    print(f"The base folder is : {base}")
-    # base = r"F:/GitHub/davidbaines/eBible"
-
-    if missing_folders:
-        print(
-            "The following {len(missing_folders)} folders are required and will be created if you continue."
-        )
-        for folder in missing_folders:
-            print(folder)
-
-        print(f"\n\nAre you sure this is the right folder:    {base} ")
-        if choose_yes_no(f"Enter Y to continue or N to Quit."):
-
-            # Create the required directories
-            make_directories(missing_folders)
-            log_and_print(logfile, f"All the required folders were created at {base}\n")
-        else:
-            exit()
-
-    else:
-        log_and_print(logfile, f"All the required folders exist at {base}\n")
+    check_folders_exist(
+        [
+            corpus_folder,
+            downloads_folder,
+            private_corpus_folder,
+            projects_folder,
+            metadata_folder,
+            logs_folder,
+        ],
+        base, logfile
+    )
 
     if not translations_csv.is_file() or args.force_download:
         # Download the list of translations.
@@ -564,16 +536,16 @@ def main() -> None:
     with open("config.yaml", "r") as yamlfile:
         config: Dict = yaml.safe_load(yamlfile)
 
-    print("Read config.yaml successful")
-    print(f"data is {config}")
+    #print("Read config.yaml successful")
+    #print(f"data is {config}")
 
     dont_download = [project + "_usfm.zip" for project in config["No Download"]]
-    private_zipfiles = config["Private"]
-    public_zipfiles = config["Public"]
+    private = config["Private"]
+    public = config["Public"]
 
-    print(dont_download)
-    print(private_zipfiles)
-    print(public_zipfiles)
+    #print(dont_download)
+    #print(private)
+    #print(public)
 
     # It's actually too soon to decide which files are redistributable and which are not
     # We should unzip all first, then compare the translations_csv info with that
@@ -582,45 +554,40 @@ def main() -> None:
     # Unzip all to the same folder. These aren't pushed to github.
     # And we don't know the licence until it is read from the copr.html file.
     # Get filenames
+
     all_files, redistributable_files = get_redistributable(translations_csv)
-    non_redistributable_files = sorted(set(all_files) - set(redistributable_files))
+    # non_redistributable_files = sorted(set(all_files) - set(redistributable_files))
 
-    (to_download, already_downloaded,) = get_download_lists(
-        all_files,
-        translations_csv,
-        file_suffix,
-        downloads_folder,
-        dont_download=dont_download,
+    all_filenames = sorted([file + file_suffix for file in all_files])
+
+    # Find which files have already been downloaded.
+    already_downloaded = sorted(
+        [file.name for file in downloads_folder.glob("*" + file_suffix)]
     )
+    
+    dont_download = set(already_downloaded).union(set(dont_download))
+    do_download = sorted(set(all_filenames) - set(dont_download))
+    print(do_download)
 
-    redistributable_files += public_zipfiles
-    redistributable_zipfiles: List(Path) = sorted(
-        [downloads_folder / (file + file_suffix) for file in redistributable_files]
-    )
-
-    non_redistributable_files += private_zipfiles
-    non_redistributable_zipfiles: List(Path) = sorted(
-        [downloads_folder / (file + file_suffix) for file in non_redistributable_files]
-    )
-
-    # Download the required zipped USFM files.
-    download_files(
-        to_download,
+    # Download the zip files.
+    downloaded_files = download_files(
+        do_download,
         eBible_url,
         downloads_folder,
         logfile,
         redownload=args.force_download,
     )
 
-    downloaded_files = [
-        download for download in downloads_folder.glob("*" + file_suffix)
-    ]
-
     log_and_print(
         logfile,
         f"There are {len(downloaded_files)} files ending in {file_suffix} in the downloads folder.",
     )
 
+    for downloaded_file in downloaded_files:
+        log_and_print(
+        logfile,
+        downloaded_file.name)
+  
     # print(f"Redist files = {redistributable_zipfiles}, {type(redistributable_zipfiles)}")
     # print(f"Non redist files = {non_redistributable_zipfiles}, {type(non_redistributable_zipfiles)}")
 
@@ -629,20 +596,20 @@ def main() -> None:
 
     unzipped_count: int = unzip_files(
         zip_files=downloaded_files,
-        unzip_folder=unzipped_folder,
+        unzip_folder=projects_folder,
         file_suffix=file_suffix,
         logfile=logfile,
     )
-
+    exit()
     # print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")
     # Create Settings files for the redistributable projects.
     new_settings_file_count, exsiting_settings_file_count = write_settings_files(
-        unzipped_folder
+        projects_folder
     )
 
     log_and_print(
         logfile,
-        f"\nCreated {new_settings_file_count} Settings.xml files folder: {unzipped_folder}. There were {exsiting_settings_file_count} projects with existing settings files.",
+        f"\nCreated {new_settings_file_count} Settings.xml files folder: {projects_folder}. There were {exsiting_settings_file_count} projects with existing settings files.",
     )
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
@@ -695,8 +662,8 @@ From line 600 ff
     log_and_print(
         logfile, f"There are {len(dont_download)} files that usually fail to download."
     )
-    if to_download:
-        log_and_print(logfile, f"There are {len(to_download)} files still to download.")
+    if do_download:
+        log_and_print(logfile, f"There are {len(do_download)} files still to download.")
     else:
         log_and_print(logfile, f"All zip files have already been downloaded.")"""
 
