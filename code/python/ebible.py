@@ -33,7 +33,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pandas.core.groupby import groupby
 
-from settings_file import write_settings_files
+from settings_file import write_settings_file
 
 global headers
 headers: Dict[str, str] = {
@@ -73,35 +73,28 @@ def download_file(url, file, headers=headers):
     return None
 
 
-def download_files(filenames, base_url, folder, logfile, redownload=False) -> list:
+def download_files(files, base_url, folder, logfile, redownload=False) -> list:
 
     downloaded_files = []
 
-    for i, filename in enumerate(filenames):
+    for i, file in enumerate(files):
 
         # Construct the download url and the local file path.
-        url = base_url + filename
-        file = folder / filename
-
-        # Skip any missing filenames.
-        if filename == "":
-            continue
+        url = base_url + file.name
+        file = folder / file.name
 
         # Skip existing files that contain data.
-        elif file.exists() and file.stat().st_size > 100:
-            log_and_print(
-                logfile,
-                f"{i+1}: {file} already exists and contains {file.stat().st_size} bytes.",
-            )
+        if file.exists() and file.stat().st_size > 100:
 
             if redownload:
                 log_and_print(logfile, f"{i+1}: Redownloading from {url} to {file}.")
                 if downloaded_file := download_file(url, file):
                     downloaded_files.append(downloaded_file)
-                    
+
                     log_and_print(logfile, f"Saved {url} as {file}\n")
                     # Pause for a random number of miliseconds
                     sleep(randint(1, 5000) / 1000)
+            
             continue
 
         else:
@@ -110,7 +103,7 @@ def download_files(filenames, base_url, folder, logfile, redownload=False) -> li
                 downloaded_files.append(downloaded_file)
 
                 log_and_print(logfile, f"Saved {url} as {file}\n")
-                
+
                 # Pause for a random number of miliseconds
                 sleep(randint(1, 5000) / 1000)
 
@@ -135,7 +128,7 @@ def get_tree_size(path) -> int:
     return total
 
 
-def unzip_ebible(source_file, dest_folder) -> None:
+def unzip_ebible(source_file, dest_folder, logfile) -> None:
 
     if dest_folder.is_dir():
         log_and_print(logfile, f"Extracting {source_file} to: {dest_folder}")
@@ -187,7 +180,7 @@ def unzip_entire_folder(source_folder, file_suffix, unzip_folder, logfile) -> in
 
 def unzip_files(
     zip_files: List[Path], unzip_folder: Path, file_suffix: str, logfile
-) -> int:
+) -> List[Path]:
 
     # Strip off the file_suffix so that the subfolder name is the project ID.
     unzip_to_folders = [
@@ -198,13 +191,14 @@ def unzip_files(
         )
         for zip_file in zip_files
     ]
+    
     unzips = [
         (zip_file, folder)
         for zip_file, folder in unzip_to_folders
         if not folder.exists()
     ]
 
-    unzipped_count: int = len(unzips)
+    unzipped = []
 
     if unzips:
         log_and_print(
@@ -217,28 +211,15 @@ def unzip_files(
             log_and_print(logfile, f"Extracting to: {unzip_to_folder}")
             try:
                 shutil.unpack_archive(zip_file, unzip_to_folder)
+                unzipped.append(unzip_to_folder)
             except shutil.ReadError:
-                unzipped_count -= 1
                 log_and_print(logfile, f"ReadError: While trying to unzip: {zip_file}")
             except FileNotFoundError:
-                unzipped_count -= 1
                 log_and_print(
                     logfile, f"FileNotFoundError: While trying to unzip: {zip_file}"
                 )
 
-        log_and_print(
-            logfile,
-            f"Sucessfully unzipped {unzipped_count} eBible files to {unzip_folder}",
-        )
-        return unzipped_count
-
-    else:
-        log_and_print(
-            logfile,
-            f"All {len(zip_files)} zip files have already been unzipped to {unzip_folder}.",
-        )
-
-    return unzipped_count
+    return unzipped
 
 
 def get_redistributable(translations_csv: Path) -> Tuple[List[Path], List[Path]]:
@@ -258,6 +239,7 @@ def get_redistributable(translations_csv: Path) -> Tuple[List[Path], List[Path]]
 
 
 # Define methods for creating the copyrights file
+
 
 def norm_name(name: str) -> str:
     if len(name) < 3:
@@ -427,7 +409,7 @@ def check_folders_exist(folders: list, base: Path, logfile):
             exit()
 
     else:
-        log_and_print(logfile, f"All the required folders exist at {base}\n")
+        log_and_print(logfile, f"All the required folders exist in {base}")
 
 
 def main() -> None:
@@ -521,103 +503,100 @@ def main() -> None:
             metadata_folder,
             logs_folder,
         ],
-        base, logfile
+        base,
+        logfile,
     )
 
+    # Download the list of translations if necessary.
     if not translations_csv.is_file() or args.force_download:
-        # Download the list of translations.
         log_and_print(
             logfile,
             f"Downloading list of translations from {translations_csv_url} to: {str(translations_csv)}",
-            zip,
         )
         download_file(translations_csv_url, translations_csv)
+    else:
+        log_and_print(
+            logfile, f"translations.csv file already exists in: {str(translations_csv)}"
+        )
 
+    # Get the exceptions from the config.yaml file.
     with open("config.yaml", "r") as yamlfile:
         config: Dict = yaml.safe_load(yamlfile)
 
-    #print("Read config.yaml successful")
-    #print(f"data is {config}")
-
-    dont_download = [project + "_usfm.zip" for project in config["No Download"]]
+    dont_download_filenames = [project + "_usfm.zip" for project in config["No Download"]]
+    dont_download_files = [downloads_folder / dont_download_filename for dont_download_filename in dont_download_filenames]
     private = config["Private"]
     public = config["Public"]
 
-    #print(dont_download)
-    #print(private)
-    #print(public)
+    # Get download file IDs from translations.csv file.
+    ebible_file_ids, redistributable_files = get_redistributable(translations_csv)
+    ebible_filenames = [file_id + file_suffix for file_id in ebible_file_ids]
+    ebible_files = [downloads_folder / ebible_filename for ebible_filename in ebible_filenames ]
+    existing_ebible_files = [ebible_file for ebible_file in ebible_files if ebible_file.is_file()]    
+    previous_ebible_files = [file for file in downloads_folder.glob("*" + file_suffix) if file not in ebible_files]
+    files_to_download = set(ebible_files) - set(existing_ebible_files) - set(dont_download_files)
+    print(files_to_download)
 
-    # It's actually too soon to decide which files are redistributable and which are not
-    # We should unzip all first, then compare the translations_csv info with that
-    # scraped from the copr.htm files.
+    # Presumably any other files used to be in eBible and are no longer
 
-    # Unzip all to the same folder. These aren't pushed to github.
-    # And we don't know the licence until it is read from the copr.html file.
-    # Get filenames
+    print(f"Of {len(ebible_files)} ebible files, {len(existing_ebible_files)} are already downloaded and {len(dont_download_files)} are excluded.")
+    if previous_ebible_files:
+        print(f"These {len(previous_ebible_files)} files are already in the download folder, but are no longer listed in translations.csv:")
+        for i, previous_ebible_file in enumerate(previous_ebible_files, 1):
+            print(f"{i:>4}   {previous_ebible_file.name}")
+    else: 
+        print(f"All the expected eBible files are already downloaded.")
 
-    all_files, redistributable_files = get_redistributable(translations_csv)
-    # non_redistributable_files = sorted(set(all_files) - set(redistributable_files))
-
-    all_filenames = sorted([file + file_suffix for file in all_files])
-
-    # Find which files have already been downloaded.
-    already_downloaded = sorted(
-        [file.name for file in downloads_folder.glob("*" + file_suffix)]
-    )
-    
-    dont_download = set(already_downloaded).union(set(dont_download))
-    do_download = sorted(set(all_filenames) - set(dont_download))
-    print(do_download)
-
-    # Download the zip files.
-    downloaded_files = download_files(
-        do_download,
-        eBible_url,
-        downloads_folder,
-        logfile,
-        redownload=args.force_download,
-    )
-
-    log_and_print(
-        logfile,
-        f"There are {len(downloaded_files)} files ending in {file_suffix} in the downloads folder.",
-    )
-
-    for downloaded_file in downloaded_files:
+    if files_to_download:
         log_and_print(
-        logfile,
-        downloaded_file.name)
-  
-    # print(f"Redist files = {redistributable_zipfiles}, {type(redistributable_zipfiles)}")
-    # print(f"Non redist files = {non_redistributable_zipfiles}, {type(non_redistributable_zipfiles)}")
+            logfile,
+            f"Downloading {len(files_to_download)} eBible files to {downloads_folder}.",
+        )
 
-    # Unzip all to the same folder. These aren't pushed to github.
-    # And we don't know the licence until it is read from the copr.html file.
+        # Download the zip files.
+        newly_downloaded_files = download_files(
+            files_to_download,
+            eBible_url,
+            downloads_folder,
+            logfile,
+            redownload=args.force_download,
+        )
+            
+        
+        # Downloading complete.
+        new_projects= unzip_files(
+            zip_files=newly_downloaded_files,
+            unzip_folder=projects_folder,
+            file_suffix=file_suffix,
+            logfile=logfile,
+        )
+        
+        # Note how many settings files already exist
+        existing_settings_file_count = len([settings_file for settings_file in projects_folder.rglob("Settings.xml")])
 
-    unzipped_count: int = unzip_files(
-        zip_files=downloaded_files,
-        unzip_folder=projects_folder,
-        file_suffix=file_suffix,
-        logfile=logfile,
-    )
-    exit()
-    # print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")
-    # Create Settings files for the redistributable projects.
-    new_settings_file_count, exsiting_settings_file_count = write_settings_files(
-        projects_folder
-    )
+        # Add a Settings.xml file to each new project folder in a list of folders.
+        settings_files = [write_settings_file(project) for project in new_projects]
+    
 
-    log_and_print(
-        logfile,
-        f"\nCreated {new_settings_file_count} Settings.xml files folder: {projects_folder}. There were {exsiting_settings_file_count} projects with existing settings files.",
-    )
+        log_and_print(
+            logfile,
+            f"\nCreated {len(settings_files)} Settings.xml files. There were {existing_settings_file_count} projects with existing settings files.",
+        )
+
+    else:
+        log_and_print(logfile, f"All eBible files are already downloaded.")
+
+
+    # Write the licence file.
+    write_licence_file(licence_file, logfile, unzip_ebible)
+
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
 
     log_and_print(
         logfile,
-        f"\nUse this command ONLY if you want to extract the non_redistributable files.",
+        f"\nUse this command to extract the non_redistributable files.",
     )
     log_and_print(
         logfile,
@@ -692,9 +671,24 @@ From line 600 ff
                 )
                 shutil.rmtree(incorrect_non_redistributable_folder, ignore_errors=True)
 
-    if redistributable_project_count:
-        # Write the licence file.
-        write_licence_file(licence_file, logfile, redistributable_folder)
-    else:
-        log_and_print(logfile, f"There are no changes required to the licence file.")
 """
+# print("Read config.yaml successful")
+# print(f"data is {config}")
+# print(dont_download)
+# print(private)
+# print(public)
+
+# It's actually too soon to decide which files are redistributable and which are not
+# We should unzip all first, then compare the translations_csv info with that
+# scraped from the copr.htm files.
+
+# Unzip all to the same folder. These aren't pushed to github.
+# And we don't know the licence until it is read from the copr.html file.
+# non_redistributable_files = sorted(set(all_files) - set(redistributable_files))
+
+# print(f"Redist files = {redistributable_zipfiles}, {type(redistributable_zipfiles)}")
+# print(f"Non redist files = {non_redistributable_zipfiles}, {type(non_redistributable_zipfiles)}")
+
+# Unzip all to the same folder. These aren't pushed to github.
+# And we don't know the licence until it is read from the copr.html file.
+# print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")
