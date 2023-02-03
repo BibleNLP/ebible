@@ -68,12 +68,14 @@ def download_file(url, file, headers=headers):
     return False
 
 
-def download_files(filenames, url, folder, logfile, redownload=False) -> None:
+def download_files(filenames, base_url, folder, logfile, redownload=False) -> None:
+
+    downloaded = 0
 
     for i, filename in enumerate(filenames):
 
         # Construct the download url and the local file path.
-        url = url + filename
+        url = base_url + filename
         file = folder / filename
 
         # Skip any missing filenames.
@@ -92,6 +94,7 @@ def download_files(filenames, url, folder, logfile, redownload=False) -> None:
                 done = download_file(url, file)
 
                 if done:
+                    downloaded += 1
                     log_and_print(logfile, f"Saved {url} as {file}\n")
                     # Pause for a random number of miliseconds
                     pause = randint(1, 5000) / 1000
@@ -103,6 +106,7 @@ def download_files(filenames, url, folder, logfile, redownload=False) -> None:
             done = download_file(url, file)
 
             if done:
+                downloaded += 1
                 log_and_print(logfile, f"Saved {url} as {file}\n")
                 # Pause for a random number of miliseconds
                 pause = randint(1, 5000) / 1000
@@ -111,7 +115,10 @@ def download_files(filenames, url, folder, logfile, redownload=False) -> None:
             else:
                 log_and_print(logfile, f"Could not download {url}\n")
 
-    # log_and_print(logfile, f"Finished downloading eBible files\n")
+    log_and_print(
+        logfile,
+        f"\nFinished downloading. Downloaded {downloaded} zip files from eBbile.org",
+    )
 
 
 def get_tree_size(path) -> int:
@@ -201,7 +208,7 @@ def unzip_files(zip_files, file_suffix, unzip_folder, logfile, dist_type) -> int
         )
 
         for zip_file, unzip_to_folder in unzips:
-            extract.mkdir(parents=True, exist_ok=True)
+            unzip_to_folder.mkdir(parents=True, exist_ok=True)
             log_and_print(logfile, f"Extracting to: {unzip_to_folder}")
             try:
                 shutil.unpack_archive(zip_file, unzip_to_folder)
@@ -214,7 +221,10 @@ def unzip_files(zip_files, file_suffix, unzip_folder, logfile, dist_type) -> int
                     logfile, f"FileNotFoundError: While trying to unzip: {zip_file}"
                 )
 
-        log_and_print(logfile, f"Sucessfully unzipped {unzipped_count} eBible files to {unzip_folder}")
+        log_and_print(
+            logfile,
+            f"Sucessfully unzipped {unzipped_count} eBible files to {unzip_folder}",
+        )
         return unzipped_count
 
     else:
@@ -256,36 +266,16 @@ def norm_name(name: str) -> str:
         return f"{name[:3]}-{name}"
 
 
-# def path_leaf(path):
-#    head, tail = ntpath.split(path)
-#    return tail or ntpath.basename(head)
-
-
-# def read_list_from_file(f_in):
-#    lines = list()
-#    with open(f_in, "r", encoding="utf-8") as infile:
-#        for line in infile.read().splitlines():
-#            lines.append(line)
-#    return lines
-
-
-# def get_copyright_from_url(url: str) -> str:
-#    r = requests.get(url)
-#    # If the status is OK continue
-#    if r.status_code == requests.codes.ok:
-#        soup = BeautifulSoup(r.content, "lxml")
-#        cr_item = soup.find("td", colspan="3")
-#        return cr_item.string
-#    else:
-#        return None
-
-
 def get_download_lists(
     translations_csv: Path,
     file_suffix: str,
     download_folder: Path,
     wont_download: List[str],
 ) -> Tuple[List[Path], List[Path], List[Path], List[Path], List[Path]]:
+
+    # It's actually too soon to decide which files are redistributable and which are not
+    # We should unzip all first, then compare the translations_csv info with that
+    # scraped from the copr.htm files.
 
     # Get filenames
     all_files, redistributable_files = get_redistributable(translations_csv)
@@ -330,6 +320,7 @@ def improve_column_names(df) -> None:
         .str.replace(")", "")
         .str.replace(" ", "_")
     )
+
 
 def get_extracted_projects(dir_extracted):
 
@@ -477,46 +468,6 @@ def add_settings_file(project_folder, language_code):
         settings.write(setting_file_stub)
 
 
-def copy_to_working_directory(project, language_code, ebible_redistributable, rewrite):
-    folder = ebible_redistributable / project.name
-    if exists(folder):
-        if rewrite:
-            shutil.rmtree(folder)
-        else:
-            return 0
-    log_and_print(f"copying {project.name} to {ebible_redistributable}")
-    shutil.copytree(project, folder)
-    add_settings_file(folder, language_code)
-    return 1
-
-
-def get_redistributable_projects(translations_csv, licences_csv):
-
-    ok_copyrights = ["by-nc-nd", "by-nd", "by-sa"]
-    redistributable = {}
-    translations_info = pd.read_csv(translations_csv)
-    print(type(translations_info))
-    exit()
-    licence_info = pd.read_csv(licences_csv)
-    improve_column_names(translations_info)
-    improve_column_names(licence_info)
-    licence_info.rename(columns={"id": "translationid"}, inplace=True)
-    # print(f"licence info is\n{licence_info}")
-    # print(f"licence info columns are\n{licence_info.columns}")
-
-    combined = pd.merge(translations_info, licence_info, on="translationid", how="left")
-    # print(f"Combined is\n{combined}")
-
-    for index, row in combined.iterrows():
-        if row["redistributable"] and (
-            row["licence_type"] in ok_copyrights
-            or row["copyright_holder"] == "Public Domain"
-        ):
-            redistributable[row["translationid"]] = row["languagecode"]
-
-    return redistributable
-
-
 def write_licence_file(licence_file, logfile, redistributable_folder):
 
     csv_headers = [
@@ -623,24 +574,26 @@ def write_licence_file(licence_file, logfile, redistributable_folder):
         logfile, f"Wrote licence info for {len(data)} translations to {licence_file}\n"
     )
 
+
 def choose_yes_no(prompt: str) -> bool:
 
     choice: str = " "
-    while choice not in ["n","y"]:
+    while choice not in ["n", "y"]:
         choice: str = input(prompt).strip()[0].lower()
     if choice == "y":
         return True
     elif choice == "n":
         return False
 
-def create_settings_files(base_folder) -> Tuple[int,int]:
+
+def create_settings_files(base_folder) -> Tuple[int, int]:
 
     # Now add the Settings.xml file to each project folder.
     # print(f"Files extracted. ")
     project_folders: dict[Path:str] = {
         folder: str(folder.name)[:3]
         for folder in base_folder.glob("*")
-        if folder.is_dir() 
+        if folder.is_dir()
     }
     # print(project_folders, len(project_folders))
 
@@ -658,6 +611,7 @@ def create_settings_files(base_folder) -> Tuple[int,int]:
             add_settings_file(project_folder, language_code)
 
     return count_new_settings_files, count_existing_settings_files
+
 
 def main() -> None:
 
@@ -728,7 +682,7 @@ def main() -> None:
     log_filename: str = "ebible" + log_suffix
     logfile: Path = logs_folder / log_filename
 
-    # Only used in the final command hint shown to the user. 
+    # Only used in the final command hint shown to the user.
     # This helps to keep the datestamps of the two logs in sync.
     extract_log_file: Path = logs_folder / ("extract" + log_suffix)
 
@@ -753,7 +707,9 @@ def main() -> None:
     # base = r"F:/GitHub/davidbaines/eBible"
 
     if missing_folders:
-        print("The following {len(missing_folders)} folders are required and will be created if you continue.")
+        print(
+            "The following {len(missing_folders)} folders are required and will be created if you continue."
+        )
         for folder in missing_folders:
             print(folder)
 
@@ -763,7 +719,7 @@ def main() -> None:
             # Create the required directories
             make_directories(missing_folders)
             log_and_print(logfile, f"All the required folders were created at {base}\n")
-        else :
+        else:
             exit()
 
     else:
@@ -790,6 +746,25 @@ def main() -> None:
         "spanblh_usfm.zip",
     ]
 
+    # These are copyright and should be shared.
+    private_zipfiles: List[str] = [
+        "kxw",
+        "big2013",
+        "fad",
+        "nuq-nuq",
+        "ino2013",
+        "kud2014",
+        "bbr2013",
+    ]
+
+    # These can be shared.
+    public_zipfiles: List[str] = [
+        "bzj",
+        "cmeNT",
+        "cotNT",
+        "urd",
+    ]
+
     (
         all_files,
         redistributable_files,
@@ -800,10 +775,12 @@ def main() -> None:
         translations_csv, file_suffix, downloads_folder, wont_download=wont_download
     )
 
+    redistributable_files += public_zipfiles
     redistributable_zipfiles: List(Path) = sorted(
         [downloads_folder / (file + file_suffix) for file in redistributable_files]
     )
 
+    non_redistributable_files += private_zipfiles
     non_redistributable_zipfiles: List(Path) = sorted(
         [downloads_folder / (file + file_suffix) for file in non_redistributable_files]
     )
@@ -819,10 +796,10 @@ def main() -> None:
         logfile,
         f"The translations csv file lists {len(non_redistributable_files)} non redistributable translations.",
     )
-    #log_and_print(
+    # log_and_print(
     #    logfile,
     #    f"{len(non_redistributable_files)} + {len(redistributable_files)} = {len(non_redistributable_files) + len(redistributable_files)}",
-    #)
+    # )
     log_and_print(
         logfile,
         f"There are {len(already_downloaded)} files with the suffix {file_suffix} already in {downloads_folder}",
@@ -849,12 +826,20 @@ def main() -> None:
 
     # Unzip the redistributable downloaded files.
     redistributable_project_count: int = unzip_files(
-        redistributable_zipfiles, file_suffix, redistributable_folder, logfile, "redistributable",
+        redistributable_zipfiles,
+        file_suffix,
+        redistributable_folder,
+        logfile,
+        "redistributable",
     )
 
     # Unzip the non_redistributable downloaded files to the private_projects folder.
     unzip_files(
-        non_redistributable_zipfiles, file_suffix, non_redistributable_folder, logfile, "non-redistributable",
+        non_redistributable_zipfiles,
+        file_suffix,
+        non_redistributable_folder,
+        logfile,
+        "non-redistributable",
     )
 
     # print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")
@@ -890,15 +875,19 @@ def main() -> None:
         log_and_print(logfile, f"There are no changes required to the licence file.")
 
     # Create Settings files for the redistributable projects.
-    new_settings_file_count, exsiting_settings_file_count = create_settings_files(redistributable_folder)
+    new_settings_file_count, exsiting_settings_file_count = create_settings_files(
+        redistributable_folder
+    )
 
     log_and_print(
         logfile,
         f"\nCreated {new_settings_file_count} Settings.xml files folder: {redistributable_folder}. There are {exsiting_settings_file_count} projects with existing settings files.",
     )
 
-       # Create Settings files for the redistributable projects.
-    new_settings_file_count, exsiting_settings_file_count = create_settings_files(non_redistributable_folder)
+    # Create Settings files for the redistributable projects.
+    new_settings_file_count, exsiting_settings_file_count = create_settings_files(
+        non_redistributable_folder
+    )
 
     log_and_print(
         logfile,
@@ -929,21 +918,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-    # Get list of redistributable files from the translations.csv and licence_file
-    # Fix this, the combined file has only the project name in the translationid column.
-    # The licence file has "languagecode-translationid" in the translationid column. So none match on translationid.
-    # redistributable = get_redistributable_projects(translations_csv,licence_file)
-
-    # extracted_files = [entry['ID'][4:] for entry in redistributable]
-    # missing_files = [file + file_suffix for file in sorted(set(all_files) - set(extracted_files))]
-    # unexpectedly_missing = set(missing_files) - set(wont_download)
-
-    # log_and_print(logfile, f"There are {len(unexpectedly_missing)} missing extract folders.")
-
-    # if len(unexpectedly_missing) == 0:
-    #    log_and_print(logfile, f"There are exactly {len(wont_download)} missing redistributable_folder folders. They are the same {len(missing_files)} that we didn't try to download.")
-    # else :
-    #    log_and_print(logfile, f"{len(unexpectedly_missing)} files were not extracted. Upto 50 are shown:")
-    #    for file in sorted(unexpectedly_missing)[:50]:
-    #        log_and_print(logfile, file)
