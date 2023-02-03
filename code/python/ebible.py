@@ -9,10 +9,10 @@ Extract files that have a licence that permits redistibution using SILNLP for th
 
 # Import modules and directory paths
 import argparse
-import codecs
-import ntpath
+#import codecs
+#import ntpath
 import os
-import re
+#import re
 import shutil
 from csv import DictReader, DictWriter
 from datetime import datetime
@@ -22,14 +22,15 @@ from pathlib import Path
 from random import randint
 from time import sleep, strftime
 from typing import Dict, List, Tuple
-from settings_file import write_settings_files
-
 
 import pandas as pd
 import regex
 import requests
+import yaml
 from bs4 import BeautifulSoup
 from pandas.core.groupby import groupby
+
+from settings_file import write_settings_files
 
 global headers
 headers: Dict[str, str] = {
@@ -39,9 +40,8 @@ headers: Dict[str, str] = {
     "User-Agent": "Mozilla/5.0",
 }
 
+
 # Define methods for downloading and unzipping eBibles
-
-
 def log_and_print(file, s, type="Info") -> None:
 
     with open(file, "a") as log:
@@ -272,7 +272,7 @@ def get_download_lists(
     translations_csv: Path,
     file_suffix: str,
     download_folder: Path,
-    wont_download: List[str],
+    dont_download: List[str],
 ) -> Tuple[List[Path], List[Path], List[Path], List[Path], List[Path]]:
 
     # It's actually too soon to decide which files are redistributable and which are not
@@ -293,11 +293,11 @@ def get_download_lists(
     # For downloading we need to maintain the eBible names e.g. aai_usfm.zip
     # print(all_filenames[:3])
     # print(already_downloaded[:3])
-    # print(wont_download[:3])
+    # print(dont_download[:3])
     # print(resticted_filenames[:3])
     # exit()
 
-    dont_download = set(already_downloaded).union(set(wont_download))
+    dont_download = set(already_downloaded).union(set(dont_download))
     to_download = sorted(set(all_filenames) - set(dont_download))
 
     return (
@@ -442,7 +442,6 @@ def choose_yes_no(prompt: str) -> bool:
         return False
 
 
-
 def main() -> None:
 
     parser: argparse.ArgumentParser = argparse.ArgumentParser(
@@ -559,41 +558,25 @@ def main() -> None:
         # Download the list of translations.
         log_and_print(
             logfile,
-            f"Downloading list of translations from {translations_csv_url} to: {str(translations_csv)}",
+            f"Downloading list of translations from {translations_csv_url} to: {str(translations_csv)}",zip
         )
         download_file(translations_csv_url, translations_csv)
 
-    # These wont download usually.
-    wont_download: List[str] = [
-        "due_usfm.zip",
-        "engamp_usfm.zip",
-        "engnasb_usfm.zip",
-        "khm-h_usfm.zip",
-        "khm_usfm.zip",
-        "sancol_usfm.zip",
-        "sankan_usfm.zip",
-        "spaLBLA_usfm.zip",
-        "spanblh_usfm.zip",
-    ]
 
-    # These are copyright and should be shared.
-    private_zipfiles: List[str] = [
-        "bbr2013",
-        "big2013",
-        "fad",
-        "ino2013",
-        "kud2014",
-        "kxw",
-        "nuq-nuq",
-    ]
+    with open("config.yaml", "r") as yamlfile:
+        config: Dict = yaml.safe_load(yamlfile)
+    
+    print("Read config.yaml successful")
+    print(f"data is {config}")
+    
+    dont_download = [project + "_usfm.zip" for project in config['No Download']]
+    private_zipfiles = config['Private']
+    public_zipfiles = config['Public']
 
-    # These can be shared.
-    public_zipfiles: List[str] = [
-        "bzj",
-        "cmeNT",
-        "cotNT",
-        "urd",
-    ]
+    print(dont_download)
+    print(private_zipfiles)
+    print(public_zipfiles)
+    
 
     (
         all_files,
@@ -602,7 +585,7 @@ def main() -> None:
         to_download,
         already_downloaded,
     ) = get_download_lists(
-        translations_csv, file_suffix, downloads_folder, wont_download=wont_download
+        translations_csv, file_suffix, downloads_folder, dont_download=dont_download
     )
 
     redistributable_files += public_zipfiles
@@ -635,7 +618,7 @@ def main() -> None:
         f"There are {len(already_downloaded)} files with the suffix {file_suffix} already in {downloads_folder}",
     )
     log_and_print(
-        logfile, f"There are {len(wont_download)} files that usually fail to download."
+        logfile, f"There are {len(dont_download)} files that usually fail to download."
     )
     if to_download:
         log_and_print(logfile, f"There are {len(to_download)} files still to download.")
