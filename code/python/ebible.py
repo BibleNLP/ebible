@@ -68,12 +68,14 @@ def download_file(url, file, headers=headers):
     return False
 
 
-def download_files(filenames, url, folder, logfile, redownload=False) -> None:
+def download_files(filenames, base_url, folder, logfile, redownload=False) -> None:
 
     for i, filename in enumerate(filenames):
 
         # Construct the download url and the local file path.
-        url = url + filename
+        url = base_url + filename
+        #print(url)
+        #print('')
         file = folder / filename
 
         # Skip any missing filenames.
@@ -166,7 +168,8 @@ def unzip_entire_folder(source_folder, file_suffix, unzip_folder, logfile) -> in
     )
 
     for zip_file, extract in extracts:
-        extract.mkdir(parents=True, exist_ok=True)
+        #extract.mkdir(parents=True, exist_ok=True)
+        Path(extract).mkdir(parents=True, exist_ok=True)
         log_and_print(logfile, f"Extracting to: {extract}")
         shutil.unpack_archive(zip_file, extract)
 
@@ -201,11 +204,12 @@ def unzip_files(zip_files, file_suffix, unzip_folder, logfile, dist_type) -> int
         )
 
         for zip_file, unzip_to_folder in unzips:
-            extract.mkdir(parents=True, exist_ok=True)
+            Path(unzip_to_folder).mkdir(parents=True, exist_ok=True)
             log_and_print(logfile, f"Extracting to: {unzip_to_folder}")
             try:
                 shutil.unpack_archive(zip_file, unzip_to_folder)
-            except shutil.ReadError:
+            except shutil.ReadError as e:
+                raise(e)
                 unzipped_count -= 1
                 log_and_print(logfile, f"ReadError: While trying to unzip: {zip_file}")
             except FileNotFoundError:
@@ -273,7 +277,8 @@ def norm_name(name: str) -> str:
 #    r = requests.get(url)
 #    # If the status is OK continue
 #    if r.status_code == requests.codes.ok:
-#        soup = BeautifulSoup(r.content, "lxml")
+#        #soup = BeautifulSoup(r.content, "lxml")
+        soup = BeautifulSoup(r.content, 'html')
 #        cr_item = soup.find("td", colspan="3")
 #        return cr_item.string
 #    else:
@@ -555,7 +560,8 @@ def write_licence_file(licence_file, logfile, redistributable_folder):
 
         with open(copyright_file, "r", encoding="utf-8") as copr:
             html = copr.read()
-            soup = BeautifulSoup(html, "lxml")
+            #soup = BeautifulSoup(html, "lxml")
+            soup = BeautifulSoup(html, 'html')
 
         cclink = soup.find(href=regex.compile("creativecommons"))
         if cclink:
