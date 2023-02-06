@@ -45,13 +45,22 @@ headers: Dict[str, str] = {
 
 
 # Define methods for downloading and unzipping eBibles
-def log_and_print(file, s, type="Info") -> None:
+def log_and_print(file, messages, type="Info") -> None:
 
-    with open(file, "a") as log:
-        log.write(
-            f"{type.upper()}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} {s}\n"
-        )
-    print(s)
+    if isinstance(messages, str):
+        with open(file, "a") as log:
+            log.write(
+                f"{type.upper()}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} {messages}\n"
+            )
+            print(messages)
+
+    if isinstance(messages, list):
+        with open(file, "a") as log:
+            for message in messages:
+                log.write(
+                    f"{type.upper()}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} {message}\n"
+                )
+                print(message)
 
 
 def make_directories(dirs_to_create) -> None:
@@ -94,7 +103,7 @@ def download_files(files, base_url, folder, logfile, redownload=False) -> list:
                     log_and_print(logfile, f"Saved {url} as {file}\n")
                     # Pause for a random number of miliseconds
                     sleep(randint(1, 5000) / 1000)
-            
+
             continue
 
         else:
@@ -191,7 +200,7 @@ def unzip_files(
         )
         for zip_file in zip_files
     ]
-    
+
     unzips = [
         (zip_file, folder)
         for zip_file, folder in unzip_to_folders
@@ -266,6 +275,7 @@ def improve_column_names(df) -> None:
         .str.replace(" ", "_")
     )
 
+
 def write_licence_file(licence_file, logfile, folder):
 
     csv_headers = [
@@ -287,9 +297,7 @@ def write_licence_file(licence_file, logfile, folder):
 
     log_and_print(logfile, "Collecting eBible copyright information...")
 
-    for i, copyright_file in enumerate(
-        sorted(folder.glob("**/copr.htm"))
-    ):
+    for i, copyright_file in enumerate(sorted(folder.glob("**/copr.htm"))):
         id = str(copyright_file.parents[0].relative_to(folder))
 
         id_match = regex.match(copr_regex, str(copyright_file))
@@ -522,28 +530,47 @@ def main() -> None:
     with open("config.yaml", "r") as yamlfile:
         config: Dict = yaml.safe_load(yamlfile)
 
-    dont_download_filenames = [project + "_usfm.zip" for project in config["No Download"]]
-    dont_download_files = [downloads_folder / dont_download_filename for dont_download_filename in dont_download_filenames]
+    dont_download_filenames = [
+        project + "_usfm.zip" for project in config["No Download"]
+    ]
+    dont_download_files = [
+        downloads_folder / dont_download_filename
+        for dont_download_filename in dont_download_filenames
+    ]
     private = config["Private"]
     public = config["Public"]
 
     # Get download file IDs from translations.csv file.
     ebible_file_ids, redistributable_files = get_redistributable(translations_csv)
     ebible_filenames = [file_id + file_suffix for file_id in ebible_file_ids]
-    ebible_files = [downloads_folder / ebible_filename for ebible_filename in ebible_filenames ]
-    existing_ebible_files = [ebible_file for ebible_file in ebible_files if ebible_file.is_file()]    
-    previous_ebible_files = [file for file in downloads_folder.glob("*" + file_suffix) if file not in ebible_files]
-    files_to_download = set(ebible_files) - set(existing_ebible_files) - set(dont_download_files)
+    ebible_files = [
+        downloads_folder / ebible_filename for ebible_filename in ebible_filenames
+    ]
+    existing_ebible_files = [
+        ebible_file for ebible_file in ebible_files if ebible_file.is_file()
+    ]
+    previous_ebible_files = [
+        file
+        for file in downloads_folder.glob("*" + file_suffix)
+        if file not in ebible_files
+    ]
+    files_to_download = (
+        set(ebible_files) - set(existing_ebible_files) - set(dont_download_files)
+    )
     print(files_to_download)
 
     # Presumably any other files used to be in eBible and are no longer
 
-    print(f"Of {len(ebible_files)} ebible files, {len(existing_ebible_files)} are already downloaded and {len(dont_download_files)} are excluded.")
+    print(
+        f"Of {len(ebible_files)} ebible files, {len(existing_ebible_files)} are already downloaded and {len(dont_download_files)} are excluded."
+    )
     if previous_ebible_files:
-        print(f"These {len(previous_ebible_files)} files are already in the download folder, but are no longer listed in translations.csv:")
+        print(
+            f"These {len(previous_ebible_files)} files are already in the download folder, but are no longer listed in translations.csv:"
+        )
         for i, previous_ebible_file in enumerate(previous_ebible_files, 1):
             print(f"{i:>4}   {previous_ebible_file.name}")
-    else: 
+    else:
         print(f"All the expected eBible files are already downloaded.")
 
     if files_to_download:
@@ -560,59 +587,105 @@ def main() -> None:
             logfile,
             redownload=args.force_download,
         )
-            
-        
+
         # Downloading complete.
-        new_projects= unzip_files(
+        new_projects = unzip_files(
             zip_files=newly_downloaded_files,
             unzip_folder=projects_folder,
             file_suffix=file_suffix,
             logfile=logfile,
         )
-        
+
         # Note how many settings files already exist
-        existing_settings_file_count = len([settings_file for settings_file in projects_folder.rglob("Settings.xml")])
+        existing_settings_file_count = len(
+            [settings_file for settings_file in projects_folder.rglob("Settings.xml")]
+        )
 
         # Add a Settings.xml file to each new project folder in a list of folders.
         settings_files = [write_settings_file(project) for project in new_projects]
-    
 
         log_and_print(
             logfile,
             f"\nCreated {len(settings_files)} Settings.xml files. There were {existing_settings_file_count} projects with existing settings files.",
         )
 
+        # Write the licence file.
+        write_licence_file(licence_file, logfile, projects_folder)
+
+        log_and_print(logfile, f"Wrote the licences.tsv file to the metadata folder.")
+
     else:
         log_and_print(logfile, f"All eBible files are already downloaded.")
 
+    # Load-in the extracted licenses.tsv file
+    licenses_df = pd.read_csv(licence_file, dtype=str)
 
-    # Write the licence file.
-    write_licence_file(licence_file, logfile, projects_folder)
-    
+    # Manually fix invalid rows:
+    # https://ebible.org/Bible/details.php?id=engwmb
+    # https://ebible.org/Bible/details.php?id=engwmbb
+
+    licenses_df.loc[
+        licenses_df["ID"].str.contains("engwmb"), "Copyright Holder"
+    ] = "Public Domain"
+
+    # Correctly set 'public domain' in License Type
+    # pd.set_option('display.max_rows', 10)
+    licenses_df.loc[
+        licenses_df["Copyright Holder"].str.contains("Public") == True, "Licence Type"
+    ] = "public"
+
+    # Correctly set values for 'unknown' Licence Type
+    licenses_df.loc[licenses_df["Licence Type"].isna(), "Licence Type"] = "unknown"
+
+    # Show counts
+    log_and_print(logfile, "These are the different licences.")
+    log_and_print(logfile, licenses_df["Licence Type"].value_counts())
+
+    # Check if the corpus includes any 'unknown' licensed projects
+
+    # or if any known licensed projects have been excluded
+    known_licensed_set = set(
+        licenses_df[~(licenses_df["Licence Type"].str.contains("unknown"))]["ID"]
+        .apply(
+            lambda x: f"{x[:3]}-{x}.txt"
+            if "-" not in x
+            else f'{x.split("-")[0]}-{x}.txt'
+        )
+        .to_list()
+    )
+    log_and_print(
+        logfile, f"Number of projects with known licenses = {len(known_licensed_set)}"
+    )
+
+    current_corpus_set = set([f"{project.name}" for project in corpus_folder.iterdir()])
     log_and_print(
         logfile,
-        f"Wrote the licences.tsv file to the metadata folder."
+        f"Number of projects currently in the corpus = {len(current_corpus_set)}",
+    )
+
+    log_and_print(
+        logfile,
+        f"\nProjects with an unknown license currently included in the corpus: \n{current_corpus_set - known_licensed_set}",
+    )
+    log_and_print(
+        logfile,
+        f"\nProjects with known license currently excluded from the corpus: \n{known_licensed_set - current_corpus_set}",
     )
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
 
-    log_and_print(
-        logfile,
-        f"\nUse this command to extract the non_redistributable files.",
-    )
-    log_and_print(
-        logfile,
-        f"poetry run python -m silnlp.common.bulk_extract_corpora --input {non_redistributable_folder} --output <OUTPUT_FOLDER>",
-    )
+    # log_and_print(
+    #     logfile,
+    #     f"\nUse this command to extract the non_redistributable files.",
+    # )
 
     log_and_print(
         logfile,
-        f"\nThe files are ready for extracting. Use this command in the SILNLP repo to extract the redistributable files.",
-    )
-    log_and_print(
-        logfile,
-        f"poetry run python -m silnlp.common.bulk_extract_corpora --input {redistributable_folder} --output {corpus_folder} --error-log {extract_log_file}",
+        [
+            f"\nUse this command to extract the all the projects to the private_corpus.",
+            f"poetry run python -m silnlp.common.bulk_extract_corpora --input {projects_folder} --output {private_corpus_folder} --error-log {extract_log_file}",
+        ],
     )
 
 
