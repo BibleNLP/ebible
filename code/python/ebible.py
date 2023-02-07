@@ -634,8 +634,8 @@ def main() -> None:
     licenses_df.loc[licenses_df["Licence Type"].isna(), "Licence Type"] = "unknown"
 
     # Show counts
-    log_and_print(logfile, "These are the different licences.")
-    log_and_print(logfile, licenses_df["Licence Type"].value_counts())
+    #log_and_print(logfile, "These are the different licences.")
+    #log_and_print(logfile, licenses_df["Licence Type"].value_counts())
 
     # Check if the corpus includes any 'unknown' licensed projects
 
@@ -655,7 +655,7 @@ def main() -> None:
         logfile,
         f"There are {len(redistributable_files)} files with permissive licenses.",
     )
-    
+
     for redistributable_filename in redistributable_filenames:
         source_file = private_corpus_folder / redistributable_filename
         dest_file = corpus_folder / redistributable_filename
