@@ -8,15 +8,11 @@ A Settings.xml file is necessary for silnlp.common.extract_corpora.
 Extract all the files saving those that have an open licence to the 'corpus' folder and those that don't to the private_corpus folder.
 """
 
-# Import modules and directory paths
 import argparse
-
-# import codecs
-# import ntpath
 import os
-
-# import re
 import shutil
+
+# Import modules and directory paths
 from csv import DictReader, DictWriter
 from datetime import datetime
 from glob import iglob
@@ -644,33 +640,62 @@ def main() -> None:
     # Check if the corpus includes any 'unknown' licensed projects
 
     # or if any known licensed projects have been excluded
-    known_licensed_set = set(
-        licenses_df[~(licenses_df["Licence Type"].str.contains("unknown"))]["ID"]
-        .apply(
-            lambda x: f"{x[:3]}-{x}.txt"
-            if "-" not in x
-            else f'{x.split("-")[0]}-{x}.txt'
+    redistributable_filenames = sorted(
+        set(
+            licenses_df[~(licenses_df["Licence Type"].str.contains("unknown"))]["ID"]
+            .apply(
+                lambda x: f"{x[:3]}-{x}.txt"
+                if "-" not in x
+                else f'{x.split("-")[0]}-{x}.txt'
+            )
+            .to_list()
         )
-        .to_list()
     )
     log_and_print(
-        logfile, f"Number of projects with known licenses = {len(known_licensed_set)}"
+        logfile,
+        f"There are {len(redistributable_files)} files with permissive licenses.",
+    )
+    
+    for redistributable_filename in redistributable_filenames:
+        source_file = private_corpus_folder / redistributable_filename
+        dest_file = corpus_folder / redistributable_filename
+
+        shutil.move(source_file, dest_file)
+        # print(f"Moving {source_file} to {dest_file}")
+    exit()
+
+    current_corpus_files = set(
+        [f"{corpus_file.name}" for corpus_file in corpus_folder.iterdir()]
+    )
+    log_and_print(
+        logfile,
+        f"Number of projects currently in the corpus = {len(current_corpus_files)}",
     )
 
-    current_corpus_set = set([f"{project.name}" for project in corpus_folder.iterdir()])
-    log_and_print(
-        logfile,
-        f"Number of projects currently in the corpus = {len(current_corpus_set)}",
+    corpus_files_with_unknown_license = sorted(
+        current_corpus_files - redistributable_files
     )
+    # print(corpus_files_with_unknown_license)
 
-    log_and_print(
-        logfile,
-        f"\nProjects with an unknown license currently included in the corpus: \n{current_corpus_set - known_licensed_set}",
-    )
-    log_and_print(
-        logfile,
-        f"\nProjects with known license currently excluded from the corpus: \n{known_licensed_set - current_corpus_set}",
-    )
+    if corpus_files_with_unknown_license:
+        log_and_print(
+            logfile,
+            f"\nThese {len(corpus_files_with_unknown_license)}  projects with an unknown license are currently in the corpus:",
+        )
+        for corpus_file_with_unknown_license in corpus_files_with_unknown_license:
+
+            shutil.move(
+                corpus_file_with_unknown_license, "path/to/new/destination/for/file.foo"
+            )
+            log_and_print(
+                logfile,
+                f"{corpus_file_with_unknown_license}",
+            )
+    else:
+        log_and_print(
+            logfile,
+            f"\nAll {len(corpus_files_with_unknown_license)}  projects with an unknown license are currently in the corpus:",
+        )
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
