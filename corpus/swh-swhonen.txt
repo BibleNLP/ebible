@@ -233,11 +233,11 @@ Pia akasema, “Abarikiwe Bwana, Mungu wa Shemu! Kanaani na awe mtumwa wa Shemu.
 Mungu na apanue mipaka ya Yafethi; Yafethi na aishi katika mahema ya Shemu, na Kanaani na awe mtumwa wake.”
 Baada ya gharika Noa aliishi miaka 350.
 Noa alikuwa na jumla ya miaka 950, ndipo akafa.
-Hawa ndio wazao wa Noa: Shemu, Hamu na Yafethi, ambao walizaa wana baada ya gharika. Wazao Wa Yafethi
+Hawa ndio wazao wa Noa: Shemu, Hamu na Yafethi, ambao walizaa wana baada ya gharika.
 Wana wa Yafethi walikuwa: Gomeri, Magogu, Madai, Yavani, Tubali, Mesheki na Tirasi.
 Wana wa Gomeri walikuwa: Ashkenazi, Rifathi na Togarma.
 Wana wa Yavani walikuwa: Elisha, Tarshishi, Kitimu na Rodanimu.
-(Kutokana na hawa mataifa ya Pwani yalienea katika nchi zao, kwa koo zao katika mataifa yao, kila moja kwa lugha yake.) Wazao Wa Hamu
+(Kutokana na hawa mataifa ya Pwani yalienea katika nchi zao, kwa koo zao katika mataifa yao, kila moja kwa lugha yake.)
 Wana wa Hamu walikuwa: Kushi, Misraimu, Putu na Kanaani.
 Wana wa Kushi walikuwa: Seba, Havila, Sabta, Raama na Sabteka. Wana wa Raama walikuwa: Sheba na Dedani.
 Kushi akamzaa Nimrodi, ambaye alikua akawa mtu shujaa duniani.
@@ -252,7 +252,7 @@ Wayebusi, Waamori, Wagirgashi,
 Wahivi, Waariki, Wasini,
 Waarvadi, Wasemari na Wahamathi. Baadaye koo za Wakanaani zilitawanyika,
 na mipaka ya Kanaani ilienea kutoka Sidoni kuelekea Gerari hadi Gaza, kisha kuelekea Sodoma, Gomora, Adma na Seboimu, hadi kufikia Lasha.
-Hawa ni wana wa Hamu kwa koo zao na lugha zao, katika nchi zao na mataifa yao. Wazao Wa Shemu
+Hawa ni wana wa Hamu kwa koo zao na lugha zao, katika nchi zao na mataifa yao.
 Shemu ambaye ni ndugu mkubwa wa Yafethi, kwake kulizaliwa wana pia. Shemu alikuwa baba wa wana wote wa Eberi.
 Wana wa Shemu walikuwa: Elamu, Ashuru, Arfaksadi, Ludi na Aramu.
 Wana wa Aramu walikuwa: Usi, Huli, Getheri na Mesheki.
@@ -10257,10 +10257,10 @@ Siku kwa siku mfalme alimpa Yehoyakini posho siku zote za maisha yake.
 Adamu, Sethi, Enoshi,
 Kenani, Mahalaleli, Yaredi,
 Enoki, Methusela, Lameki, Noa.
-Wana wa Noa walikuwa: Shemu, Hamu na Yafethi. Wana Wa Yafethi
+Wana wa Noa walikuwa: Shemu, Hamu na Yafethi.
 Wana wa Yafethi walikuwa: Gomeri, Magogu, Madai, Yavani, Tubali, Mesheki na Tirasi.
 Wana wa Gomeri walikuwa: Ashkenazi, Rifathi na Togarma.
-Wana wa Yavani walikuwa: Elisha, Tarshishi, Kitimu na Rodanimu. Wana Wa Hamu
+Wana wa Yavani walikuwa: Elisha, Tarshishi, Kitimu na Rodanimu.
 Wana wa Hamu walikuwa: Kushi, Misraimu, Putu na Kanaani.
 Wana wa Kushi walikuwa: Seba, Havila, Sabta, Raama na Sabteka. Wana wa Raama walikuwa: Sheba na Dedani.
 Kushi akamzaa Nimrodi, ambaye alikua akawa mtu shujaa katika nchi.
@@ -10269,7 +10269,7 @@ Wapathrusi, Wakasluhi (hao ndio asili ya Wafilisti) na Wakaftori.
 Wana wa Kanaani walikuwa: Sidoni, mzaliwa wake wa kwanza, na Hethi,
 Wayebusi, Waamori, Wagirgashi,
 Wahivi, Waariki, Wasini,
-Waarvadi, Wasemari na Wahamathi. Wana Wa Shemu
+Waarvadi, Wasemari na Wahamathi.
 Wana wa Shemu walikuwa: Elamu, Ashuru, Arfaksadi, Ludi na Aramu. Wana wa Aramu walikuwa: Usi, Huli, Getheri na Mesheki.
 Arfaksadi akamzaa Shela, Shela akamzaa Eberi.
 Eberi alipata wana wawili: Mmoja wao aliitwa Pelegi, kwa kuwa wakati wake dunia iligawanyika; nduguye aliitwa Yoktani.
@@ -10281,12 +10281,12 @@ Wana wa Shemu walikuwa Arfaksadi, Shela,
 Eberi, Pelegi, Reu,
 Serugi, Nahori, Tera,
 Tera akamzaa Abramu (yaani, Abrahamu).
-Abrahamu alikuwa na wana wawili: Isaki na Ishmaeli. Wazao Wa Hagari
+Abrahamu alikuwa na wana wawili: Isaki na Ishmaeli.
 Hawa ndio waliokuwa wazao wa Hagari: Nebayothi mzaliwa wa kwanza wa Ishmaeli, Kedari, Adbeeli, Mibsamu,
 Mishma, Duma, Masa, Hadadi, Tema,
-Yeturi, Nafishi na Kedema. Hao ndio wana wa Ishmaeli. Wazao Wa Ketura
+Yeturi, Nafishi na Kedema. Hao ndio wana wa Ishmaeli.
 Wana waliozaliwa na Ketura suria wa Abrahamu walikuwa: Zimrani, Yokshani, Medani, Midiani, Ishbaki na Shua. Wana wa Yokshani walikuwa: Sheba na Dedani.
-Wana wa Midiani walikuwa: Efa, Eferi, Hanoki, Abida na Eldaa. Wote hao walikuwa wa uzao wa Ketura. Wazao Wa Sara
+Wana wa Midiani walikuwa: Efa, Eferi, Hanoki, Abida na Eldaa. Wote hao walikuwa wa uzao wa Ketura.
 Abrahamu alikuwa baba wa Isaki. Wana wa Isaki walikuwa: Esau na Israeli.
 Wana wa Esau walikuwa: Elifazi, Reueli, Yeushi, Yalamu na Kora.
 Wana wa Elifazi walikuwa: Temani, Omari, Sefo, Gatamu na Kenazi; Elifazi kwa Timna akamzaa Amaleki.
@@ -10295,7 +10295,7 @@ Wana wa Seiri walikuwa: Lotani, Shobali, Sibeoni, Ana, Dishoni, Eseri na Dishani
 Wana wa Lotani walikuwa wawili: Hori na Homamu. Lotani alikuwa na dada yake aliyeitwa Timna.
 Wana wa Shobali walikuwa: Alvani, Manahathi, Ebali, Shefo na Onamu. Wana wa Sibeoni walikuwa: Aiya na Ana.
 Mwana wa Ana alikuwa: Dishoni. Nao wana wa Dishoni walikuwa: Hemdani, Eshbani, Ithrani na Kerani.
-Wana wa Eseri walikuwa: Bilhani, Zaavani na Akani. Wana wa Dishani walikuwa: Usi na Arani. Watawala Wa Edomu
+Wana wa Eseri walikuwa: Bilhani, Zaavani na Akani. Wana wa Dishani walikuwa: Usi na Arani.
 Hawa ndio wafalme waliotawala Edomu kabla hajatawala mfalme yeyote wa Waisraeli: Bela mwana wa Beori, ambaye mji wake ni Dinhaba.
 Bela alipofariki, Yobabu mwana wa Zera kutoka Bosra akawa mfalme baada yake.
 Yobabu alipofariki, Hushamu kutoka nchi ya Watemani akawa mfalme baada yake.
@@ -10309,14 +10309,14 @@ Oholibama, Ela, Pinoni,
 Kenazi, Temani, Mibsari,
 Magdieli na Iramu. Hao ndio wakuu wa makabila ya Edomu.
 Hawa ndio waliokuwa wana wa Israeli: Reubeni, Simeoni, Lawi, Yuda, Isakari, Zabuloni,
-Dani, Yosefu, Benyamini, Naftali, Gadi na Asheri. Hadi Wana Wa Hesroni
+Dani, Yosefu, Benyamini, Naftali, Gadi na Asheri.
 Wana wa Yuda walikuwa: Eri, Onani na Shela. Hawa watatu walizaliwa kwake na mkewe Mkanaani, binti wa Shua. Eri, mzaliwa wa kwanza wa Yuda, alikuwa mwovu machoni pa Bwana, kwa hiyo Bwana alimuua.
 Tamari, mkwewe Yuda, alimzalia wana wawili: Peresi na Zera. Yuda alikuwa na jumla ya wana watano.
 Wana wa Peresi walikuwa: Hesroni na Hamuli.
 Wana wa Zera walikuwa: Zimri, Ethani, Hemani, Kalkoli na Dara. Jumla ya wana wa Zera walikuwa watano.
 Mwana wa Karmi alikuwa: Akari, ambaye alileta taabu kwa Waisraeli kwa kukiuka onyo la kutokuchukua vitu vilivyokuwa vimewekwa wakfu.
 Mwana wa Ethani alikuwa: Azariya.
-Wana wa Hesroni walikuwa: Yerameeli, Ramu na Kalebu. Kuanzia Ramu Mwana Wa Hesroni
+Wana wa Hesroni walikuwa: Yerameeli, Ramu na Kalebu.
 Ramu alimzaa Aminadabu, na Aminadabu akamzaa Nashoni, kiongozi wa kabila la Yuda.
 Nashoni akamzaa Salmoni, Salmoni akamzaa Boazi,
 Boazi akamzaa Obedi, Obedi akamzaa Yese.
@@ -10324,14 +10324,14 @@ Yese akawazaa Eliabu mwanawe wa kwanza; wa pili Abinadabu, wa tatu Shimea,
 wa nne Nethaneli, wa tano Radai,
 wa sita Osemu, na wa saba Daudi.
 Dada zao walikuwa Seruya na Abigaili. Wana wa Seruya walikuwa watatu: Abishai, Yoabu na Asaheli.
-Abigaili alikuwa mama yake Amasa, ambaye baba yake alikuwa Yetheri, Mwishmaeli. Kalebu Mwana Wa Hesroni
+Abigaili alikuwa mama yake Amasa, ambaye baba yake alikuwa Yetheri, Mwishmaeli.
 Kalebu mwana wa Hesroni akazaa wana na mkewe Azuba (na pia na Yeriothi). Hawa ndio wana Azuba aliomzalia Kalebu: Yesheri, Shobabu na Ardoni.
 Azuba alipofariki, Kalebu akamwoa Efrathi, ambaye alimzalia Huri.
 Huri akamzaa Uri, Uri akamzaa Bezaleli.
 Hatimaye, Hesroni akakutana kimwili na binti wa Makiri babaye Gileadi (ambaye alimwoa alipokuwa na umri wa miaka sitini), naye akamzaa Segubu.
 Segubu akamzaa Yairi, ambaye alitawala miji ishirini na mitatu katika Gileadi.
 (Lakini Geshuri na Aramu wakateka miji ya Hawoth-Yairi, pamoja na Kenathi na viunga vyake; jumla ilikuwa miji sitini.) Wote hawa walikuwa wazao wa Makiri babaye Gileadi.
-Baada ya Hesroni kufa huko Efrathi, Abiya mjane wa Hesroni akamzalia Ashuru, aliye baba wa Tekoa. Yerameeli Mwana Wa Hesroni
+Baada ya Hesroni kufa huko Efrathi, Abiya mjane wa Hesroni akamzalia Ashuru, aliye baba wa Tekoa.
 Wana wa Yerameeli mzaliwa wa kwanza wa Hesroni walikuwa: Ramu mzaliwa wake wa kwanza, Buna, Oreni, Osemu na Ahiya.
 Yerameeli alikuwa na mke mwingine, aliyeitwa Atara, aliyekuwa mama yake Onamu.
 Wana wa Ramu mzaliwa wa kwanza wa Yerameeli walikuwa: Maasi, Yamini na Ekeri.
@@ -10348,7 +10348,7 @@ Zabadi akamzaa Eflali, Eflali akamzaa Obedi,
 Obedi akamzaa Yehu, Yehu akamzaa Azaria,
 Azaria akamzaa Helesi, Helesi akamzaa Eleasa,
 Eleasa akamzaa Sismai, Sismai akamzaa Shalumu,
-Shalumu akamzaa Yekamia, naye Yekamia akamzaa Elishama. Koo Za Kalebu
+Shalumu akamzaa Yekamia, naye Yekamia akamzaa Elishama.
 Wana wa Kalebu nduguye Yerameeli walikuwa: Mesha mzaliwa wake wa kwanza alimzaa Zifu, naye mwanawe Maresha akamzaa Hebroni.
 Hebroni alikuwa na wana wanne: Kora, Tapua, Rekemu na Shema.
 Shema alikuwa baba yake Rahamu na Rahamu alikuwa baba wa Yorkeamu na Rekemu alikuwa baba wa Shamai.
@@ -10371,14 +10371,14 @@ nao hawa ndio watoto wa Daudi waliozaliwa huko Yerusalemu: mkewe Bathsheba, bint
 Pia kulikuwa na wana wengine: Ibihari, Elishua, Elifeleti,
 Noga, Nefegi, Yafia,
 Elishama, Eliada na Elifeleti; wote walikuwa tisa.
-Hawa wote walikuwa wana wa Daudi, mbali na wale wana waliozaliwa na masuria. Naye Tamari alikuwa dada yao. Wafalme Wa Yuda
+Hawa wote walikuwa wana wa Daudi, mbali na wale wana waliozaliwa na masuria. Naye Tamari alikuwa dada yao.
 Mwana wa Solomoni alikuwa Rehoboamu, mwanawe huyo alikuwa Abiya, mwanawe huyo alikuwa Yehoshafati, mwanawe huyo alikuwa Asa,
 mwanawe huyo alikuwa Yehoramu, mwanawe huyo alikuwa Ahazia, mwanawe huyo alikuwa Yoashi,
 mwanawe huyo alikuwa Amazia, mwanawe huyo alikuwa Azaria, mwanawe huyo alikuwa Yothamu,
 mwanawe huyo alikuwa Ahazi, mwanawe huyo alikuwa Hezekia, mwanawe huyo alikuwa Manase,
 mwanawe huyo alikuwa Amoni na mwanawe huyo alikuwa Yosia.
 Wana wa Yosia walikuwa: Yohanani mzaliwa wake wa kwanza, Yehoyakimu mwanawe wa pili, wa tatu Sedekia, wa nne Shalumu.
-Walioingia mahali pa Yehoyakimu kama wafalme ni: Yekonia mwanawe, na Sedekia. Ukoo Wa Kifalme Baada Ya Uhamisho
+Walioingia mahali pa Yehoyakimu kama wafalme ni: Yekonia mwanawe, na Sedekia.
 Hawa ndio waliokuwa wazao wa Yekonia aliyekuwa mateka: Shealtieli mwanawe,
 Malkiramu, Pedaya, Shenasari, Yekamia, Hoshama na Nedabia.
 Wana wa Pedaya walikuwa: Zerubabeli na Shimei. Wana wa Zerubabeli walikuwa: Meshulamu na Hanania. Shelomithi alikuwa dada yao.
@@ -10485,7 +10485,7 @@ Ahimothi akamzaa Elikana, Elikana akamzaa Sofai, Sofai akamzaa Nahathi,
 Nahathi akamzaa Eliabu, Eliabu akamzaa Yerohamu, Yerohamu akamzaa Elikana, Elikana akamzaa Samweli.
 Wana wa Samweli walikuwa: Yoeli mzaliwa wake wa kwanza, na Abiya mwanawe wa pili.
 Wafuatao ndio wazao wa Merari: Merari akamzaa Mahli, Mahli akamzaa Libni, Libni akamzaa Shimei, Shimei akamzaa Uza,
-Uza akamzaa Shimea, Shimea akamzaa Hagia, Hagia akamzaa Asaya. Waimbaji Wa Hekalu
+Uza akamzaa Shimea, Shimea akamzaa Hagia, Hagia akamzaa Asaya.
 Hawa ndio watu ambao Daudi aliwaweka kuwa viongozi wa uimbaji katika nyumba ya Bwana, baada ya Sanduku la Agano kuletwa ili kukaa huko.
 Walihudumu kwa kuimba mbele ya Maskani, Hema la Kukutania, mpaka hapo Mfalme Solomoni alipojenga Hekalu la Bwana huko Yerusalemu. Walitimiza wajibu wao kulingana na taratibu walizokuwa wamewekewa.
 Wafuatao ni watu waliohudumu pamoja na wana wao: Kutoka ukoo wa Kohathi walikuwa: Hemani, mpiga kinanda, alikuwa mwana wa Yoeli, mwana wa Samweli,
@@ -10619,20 +10619,20 @@ Wana wa Esheki, nduguye Aseli, walikuwa: Mzaliwa wake wa kwanza alikuwa Ulamu, w
 Wana wa Ulamu walikuwa mashujaa hodari walioweza kutumia upinde. Alikuwa na wana wengi na wajukuu, jumla yao 150. Hawa wote ndio walikuwa wazao wa Benyamini.
 Waisraeli wote waliorodheshwa katika koo zilizoandikwa kwenye kitabu cha wafalme wa Israeli. Watu wa Yuda walichukuliwa mateka kwenda Babeli kwa sababu ya kukosa uaminifu kwa Mungu.
 Basi watu wa kwanza kurudi kukaa kwenye milki zao katika miji yao walikuwa baadhi ya Waisraeli, makuhani, Walawi na watumishi wa Hekalu.
-Wale waliotoka Yuda, Benyamini, Efraimu na Manase ambao waliishi Yerusalemu walikuwa: Jamaa Za Yuda
+Wale waliotoka Yuda, Benyamini, Efraimu na Manase ambao waliishi Yerusalemu walikuwa:
 Uthai mwana wa Amihudi, mwana wa Omri, mwana wa Imri, mwana wa Bani, wa wana wa Peresi, mwana wa Yuda.
 Wazao wa Washiloni waliorudi ni: Asaya mzaliwa wa kwanza na wanawe.
-Kwa wana wa Zera: Yeueli. Watu wa Yuda jumla yao walikuwa watu 690. Jamaa Za Benyamini
+Kwa wana wa Zera: Yeueli. Watu wa Yuda jumla yao walikuwa watu 690.
 Kwa Benyamini walikuwa: Salu mwana wa Meshulamu, mwana wa Hodavia, mwana wa Hasenua;
 Ibneya mwana wa Yerohamu, Ela mwana wa Uzi, mwana wa Mikri; na Meshulamu mwana wa Shefatia, mwana wa Reueli, mwana wa Ibniya.
-Watu kutoka Benyamini kama walivyoorodheshwa katika koo zao jumla yao ni 956. Watu hawa wote walikuwa viongozi wa jamaa zao. Jamaa Za Makuhani
+Watu kutoka Benyamini kama walivyoorodheshwa katika koo zao jumla yao ni 956. Watu hawa wote walikuwa viongozi wa jamaa zao.
 Wa jamaa za makuhani walikuwa: Yedaya, Yehoyaribu na Yakini;
 Azaria mwana wa Hilkia, mwana wa Meshulamu, mwana wa Sadoki, mwana wa Merayothi, mwana wa Ahitubu aliyekuwa afisa kiongozi wa nyumba ya Mungu.
 Adaya mwana wa Yerohamu, mwana wa Pashuri, mwana wa Malkiya; Maasai, mwana wa Adieli, mwana wa Yahzera, mwana wa Meshulamu, mwana wa Meshilemithi, mwana wa Imeri.
-Makuhani waliokuwa viongozi wa jamaa zao walikuwa 1,760. Walikuwa watu wenye uwezo, waliowajibika kuhudumu katika nyumba ya Mungu. Jamaa Za Walawi
+Makuhani waliokuwa viongozi wa jamaa zao walikuwa 1,760. Walikuwa watu wenye uwezo, waliowajibika kuhudumu katika nyumba ya Mungu.
 Jamaa za Walawi walikuwa: Shemaya, mwana wa Hashubu, mwana wa Azrikamu, mwana wa Hashabia, wa wana wa Merari.
 Bakbakari, Hereshi, Galali na Matania mwana wa Mika, mwana wa Zikri, mwana wa Asafu.
-Obadia mwana wa Shemaya, mwana wa Galali, mwana wa Yeduthuni. Berekia mwana wa Asa, mwana wa Elikana, ambao waliishi katika vijiji vya Wanetofathi. Jamaa Za Mabawabu
+Obadia mwana wa Shemaya, mwana wa Galali, mwana wa Yeduthuni. Berekia mwana wa Asa, mwana wa Elikana, ambao waliishi katika vijiji vya Wanetofathi.
 Mabawabu katika Hekalu la Bwana waliorudi walikuwa: Shalumu, Akubu, Talmoni, Ahimani na ndugu zao. Shalumu alikuwa mlinzi wao mkuu.
 Walikuwa wamewekwa katika lango la mfalme lililokuwa upande wa mashariki, mpaka wakati huu. Hawa walikuwa mabawabu wa kutoka kwenye kambi ya Walawi.
 Shalumu mwana wa Kore, mwana wa Ebiasafu, mwana wa Kora, pamoja na mabawabu wenzake kutoka jamaa yake ya Kora waliwajibika kulinda malango ya Hema, kama vile baba zao walivyokuwa wamewajibika kulinda ingilio la Maskani ya Bwana.
@@ -15971,7 +15971,7 @@ Umetoa maagizo yako ili tuyatii kwa ukamilifu.
 Laiti mwenendo wangu ungekuwa imara katika kuyatii maagizo yako!
 Hivyo mimi sitaaibishwa ninapozingatia amri zako zote.
 Nitakusifu kwa moyo mnyofu ninapojifunza sheria zako za haki.
-Nitayatii maagizo yako; usiniache kabisa. Kutii Sheria Ya Bwana
+Nitayatii maagizo yako; usiniache kabisa.
 Kijana aifanye njia yake kuwa safi jinsi gani? Ni kwa kutii, akilifuata neno lako.
 Ninakutafuta kwa moyo wangu wote, usiniache niende mbali na amri zako.
 Nimelificha neno lako moyoni mwangu ili nisikutende dhambi.
@@ -15979,7 +15979,7 @@ Sifa ni zako, Ee Bwana, nifundishe maagizo yako.
 Kwa midomo yangu nitasimulia sheria zote zinazotoka katika kinywa chako.
 Ninafurahia kufuata sheria zako kama mtu afurahiaye mali nyingi.
 Ninatafakari maagizo yako na kuziangalia njia zako.
-Ninafurahia maagizo yako, wala sitalipuuza neno lako. Furaha Katika Sheria Ya Bwana
+Ninafurahia maagizo yako, wala sitalipuuza neno lako.
 Mtendee mema mtumishi wako, nami nitaishi; nitalitii neno lako.
 Yafungue macho yangu nipate kuona mambo ya ajabu katika sheria yako.
 Mimi ni mgeni duniani, usinifiche amri zako.
@@ -15987,7 +15987,7 @@ Nafsi yangu inataabika kwa shauku kubwa juu ya sheria zako wakati wote.
 Unawakemea wenye majivuno, waliolaaniwa waendao mbali na amri zako.
 Niondolee dharau na dhihaka, kwa kuwa ninazishika sheria zako.
 Ingawa watawala huketi pamoja na kunisingizia, mtumishi wako atatafakari juu ya maagizo yako.
-Sheria zako ni furaha yangu, nazo ni washauri wangu. Kuamua Kuitii Sheria Ya Bwana
+Sheria zako ni furaha yangu, nazo ni washauri wangu.
 Nimelazwa chini mavumbini, yahifadhi maisha yangu sawasawa na neno lako.
 Nilikueleza njia zangu ukanijibu, nifundishe sheria zako.
 Nijulishe mafundisho ya mausia yako, nami nitatafakari maajabu yako.
@@ -15995,7 +15995,7 @@ Nafsi yangu imechakazwa kwa huzuni, uniimarishe sawasawa na neno lako.
 Niepushe na njia za udanganyifu, kwa neema unifundishe sheria zako.
 Nimechagua njia ya kweli, nimekaza moyo wangu katika sheria zako.
 Nimengʼangʼania sheria zako, Ee Bwana, usiniache niaibishwe.
-Nakimbilia katika njia ya maagizo yako, kwa kuwa umeuweka moyo wangu huru. Maombi Ili Kupata Ufahamu Wa Sheria
+Nakimbilia katika njia ya maagizo yako, kwa kuwa umeuweka moyo wangu huru.
 Ee Bwana, nifundishe kuyafuata maagizo yako, nami nitayashika mpaka mwisho.
 Nipe ufahamu, nami nitaishika sheria yako na kuitii kwa moyo wangu wote.
 Niongoze kwenye njia ya amri zako, kwa kuwa huko napata furaha.
@@ -16003,7 +16003,7 @@ Ugeuze moyo wangu kuelekea sheria zako, na siyo kwenye mambo ya ubinafsi.
 Geuza macho yangu kutoka kwenye mambo yasiyofaa, uyahifadhi maisha yangu sawasawa na neno lako.
 Mtimizie mtumishi wako ahadi yako, ili upate kuogopwa.
 Niondolee aibu ninayoiogopa, kwa kuwa sheria zako ni njema.
-Tazama jinsi ninavyoonea shauku mausia yako! Hifadhi maisha yangu katika haki yako. Kuitumainia Sheria Ya Bwana
+Tazama jinsi ninavyoonea shauku mausia yako! Hifadhi maisha yangu katika haki yako.
 Ee Bwana, upendo wako usiokoma unijie, wokovu wako sawasawa na ahadi yako,
 ndipo nitakapomjibu anayenidhihaki, kwa kuwa ninalitumainia neno lako.
 Usilinyakue neno la kweli kutoka kinywani mwangu, kwa kuwa nimeweka tumaini langu katika amri zako.
@@ -16011,7 +16011,7 @@ Nitaitii amri yako daima, naam, milele na milele.
 Nitatembea nikiwa huru, kwa kuwa nimejifunza mausia yako.
 Nitasema sheria zako mbele za wafalme wala sitaaibishwa,
 kwa kuwa ninazifurahia amri zako kwa sababu ninazipenda.
-Ninaziinulia amri zako ambazo ninazipenda mikono yangu, nami ninatafakari juu ya maagizo yako. Matumaini Katika Sheria Ya Bwana
+Ninaziinulia amri zako ambazo ninazipenda mikono yangu, nami ninatafakari juu ya maagizo yako.
 Kumbuka neno lako kwa mtumishi wako, kwa sababu umenipa tumaini.
 Faraja yangu katika mateso yangu ni hii: Ahadi yako inahifadhi maisha yangu.
 Wenye majivuno wamenisimanga bila kuchoka, hata hivyo sitaiacha sheria yako.
@@ -16019,7 +16019,7 @@ Ee Bwana, ninazikumbuka sheria zako za zamani, nazo zinanifariji.
 Nimeshikwa sana na ghadhabu kwa ajili ya waovu, ambao wameacha sheria yako.
 Maagizo yako ni kiini cha nyimbo zangu popote ninapoishi.
 Ee Bwana, wakati wa usiku ninalikumbuka jina lako, nami nitatii sheria yako.
-Hili limekuwa zoezi langu: nami ninayatii mausia yako. Kujitolea Katika Sheria Ya Bwana
+Hili limekuwa zoezi langu: nami ninayatii mausia yako.
 Ee Bwana, wewe ni fungu langu, nimeahidi kuyatii maneno yako.
 Nimetafuta uso wako kwa moyo wangu wote, nihurumie sawasawa na ahadi yako.
 Nimezifikiri njia zangu na nimeelekeza hatua zangu katika mausia yako.
@@ -16027,7 +16027,7 @@ Nitafanya haraka bila kuchelewa kuzitii amri zako.
 Hata waovu wanifunge kwa kamba, sitasahau sheria yako.
 Usiku wa manane ninaamka kukushukuru kwa sababu ya sheria zako za haki.
 Mimi ni rafiki kwa wale wote wakuchao, kwa wote wanaofuata mausia yako.
-Ee Bwana, dunia imejaa upendo wako, nifundishe maagizo yako. Thamani Ya Sheria Ya Bwana
+Ee Bwana, dunia imejaa upendo wako, nifundishe maagizo yako.
 Mtendee wema mtumishi wako Ee Bwana, sawasawa na neno lako.
 Nifundishe maarifa na uamuzi mzuri, kwa kuwa ninaamini amri zako.
 Kabla sijapata shida nilipotea njia, lakini sasa ninalitii neno lako.
@@ -16035,7 +16035,7 @@ Wewe ni mwema, unalotenda ni jema, nifundishe maagizo yako.
 Ingawa wenye majivuno wamenisingizia uongo, nitafuata mausia yako kwa moyo wangu wote.
 Mioyo yao ni katili na migumu, bali mimi napendezwa na sheria yako.
 Ilikuwa vyema mimi kupata shida ili nipate kujifunza maagizo yako.
-Sheria inayotoka kinywani mwako ina thamani kubwa kwangu kuliko maelfu ya vipande vya fedha na dhahabu. Haki Ya Sheria Ya Bwana
+Sheria inayotoka kinywani mwako ina thamani kubwa kwangu kuliko maelfu ya vipande vya fedha na dhahabu.
 Mikono yako ilinifanya na kuniumba, nipe ufahamu niweze kujifunza amri zako.
 Wakuchao wafurahie wanaponiona, kwa kuwa nimeweka tumaini langu katika neno lako.
 Ee Bwana, ninajua kwamba sheria zako ni za haki, katika uaminifu wako umeniadhibu.
@@ -16043,7 +16043,7 @@ Upendo wako usiokoma uwe faraja yangu, sawasawa na ahadi yako kwa mtumishi wako.
 Huruma yako na inijie ili nipate kuishi, kwa kuwa naifurahia sheria yako.
 Wenye majivuno na waaibishwe kwa kunikosea mimi bila sababu, lakini mimi nitatafakari juu ya mausia yako.
 Wale wakuchao na wanigeukie mimi, hao ambao wanazielewa sheria zako.
-Moyo wangu usiwe na lawama katika kutii maagizo yako, ili nisiaibishwe. Maombi Kwa Ajili Ya Kuokolewa
+Moyo wangu usiwe na lawama katika kutii maagizo yako, ili nisiaibishwe.
 Nafsi yangu inazimia kwa kutamani wokovu wako, lakini nimeweka tumaini langu katika neno lako.
 Macho yangu yamefifia, nikingoja ahadi yako; ninasema, “Utanifajiri lini?”
 Ingawa nimekuwa kama kiriba kwenye moshi, bado sijasahau maagizo yako.
@@ -16051,7 +16051,7 @@ Mtumishi wako itampasa angoje mpaka lini? Ni lini utawaadhibu washtaki wangu?
 Wenye majivuno wananichimbia mashimo, kinyume na sheria yako.
 Amri zako zote ni za kuaminika; unisaidie, kwa sababu watu wananishtaki bila sababu.
 Walikaribia kabisa kunifuta kutoka uso wa dunia, lakini sijaacha mausia yako.
-Yahifadhi maisha yangu sawasawa na upendo wako, nami nitatii sheria za kinywa chako. Imani Katika Sheria Ya Bwana
+Yahifadhi maisha yangu sawasawa na upendo wako, nami nitatii sheria za kinywa chako.
 Ee Bwana, neno lako ni la milele, linasimama imara mbinguni.
 Uaminifu wako unaendelea kwa vizazi vyote, umeiumba dunia, nayo inadumu.
 Sheria zako zinadumu hadi leo, kwa kuwa vitu vyote vinakutumikia.
@@ -16059,7 +16059,7 @@ Kama nisingefurahia sheria yako, ningeangamia katika taabu zangu.
 Sitasahau mausia yako kamwe, kwa maana kwayo umehifadhi maisha yangu.
 Uniokoe, kwa maana mimi ni wako, kwa kuwa nimetafuta mausia yako.
 Waovu wanangojea kuniangamiza, bali mimi ninatafakari sheria zako.
-Katika ukamilifu wote ninaona mna kikomo, lakini amri zako hazina mpaka. Kuipenda Sheria Ya Bwana
+Katika ukamilifu wote ninaona mna kikomo, lakini amri zako hazina mpaka.
 Aha! Tazama, sheria yako naipenda mno ajabu. Ninaitafakari mchana kutwa.
 Amri zako zimenipa hekima zaidi kuliko adui zangu, kwa kuwa nimezishika daima.
 Nina akili zaidi kuliko walimu wangu wote, kwa kuwa ninatafakari juu ya sheria zako.
@@ -16067,7 +16067,7 @@ Nina ufahamu zaidi kuliko wazee, kwa kuwa ninayatii mausia yako.
 Nimezuia miguu yangu isiende kwenye kila njia mbaya, ili niweze kutii neno lako.
 Sijaziacha sheria zako, kwa kuwa umenifundisha wewe mwenyewe.
 Tazama jinsi maneno yako yalivyo matamu kwangu, matamu kuliko asali katika kinywa changu!
-Ninapata ufahamu kutoka mausia yako, kwa hiyo ninachukia kila njia ya upotovu. Nuru Kutoka Kwenye Sheria Ya Bwana
+Ninapata ufahamu kutoka mausia yako, kwa hiyo ninachukia kila njia ya upotovu.
 Neno lako ni taa ya miguu yangu na mwanga katika njia yangu.
 Nimeapa na nimethibitisha, kwamba nitafuata sheria zako za haki.
 Nimeteseka sana, uhifadhi maisha yangu, Ee Bwana, sawasawa na neno lako.
@@ -16075,7 +16075,7 @@ Ee Bwana, pokea sifa za hiari za kinywa changu, nifundishe sheria zako.
 Ingawa maisha yangu yako hatarini siku zote, sitasahau sheria yako.
 Waovu wamenitegea mtego, lakini sijayakiuka maagizo yako.
 Sheria zako ni urithi wangu milele, naam ni furaha ya moyo wangu.
-Nimekusudia moyoni mwangu kuyafuata maagizo yako mpaka mwisho. Usalama Ndani Ya Sheria Ya Bwana
+Nimekusudia moyoni mwangu kuyafuata maagizo yako mpaka mwisho.
 Ninachukia watu wa nia mbili, lakini ninapenda sheria yako.
 Wewe ni kimbilio langu na ngao yangu, nimeweka tumaini langu katika neno lako.
 Ondokeni kwangu, ninyi mtendao mabaya, ili niweze kushika amri za Mungu wangu!
@@ -16083,7 +16083,7 @@ Nihifadhi sawasawa na ahadi yako, nami nitaishi; usiache matumaini yangu yakavun
 Nitegemeze, nami nitaokolewa, nami daima nitayaheshimu maagizo yako.
 Unawakataa wote wanaoyaasi maagizo yako, kwa maana udanganyifu wao ni bure.
 Waovu wa nchi unawatupa kama takataka, kwa hivyo nazipenda sheria zako.
-Mwili wangu unatetemeka kwa kukuogopa wewe, ninaziogopa sheria zako. Kuitii Sheria Ya Bwana
+Mwili wangu unatetemeka kwa kukuogopa wewe, ninaziogopa sheria zako.
 Nimetenda yaliyo haki na sawa, usiniache mikononi mwa watesi wangu.
 Mhakikishie mtumishi wako usalama, usiache wenye kiburi wanionee.
 Macho yangu yamefifia, yakitazamia wokovu wako, na kuitazamia ahadi yako ya kweli.
@@ -16091,7 +16091,7 @@ Mfanyie mtumishi wako kulingana na upendo wako na unifundishe maagizo yako.
 Mimi ni mtumishi wako; nipe ufahamu ili niweze kuelewa sheria zako.
 Ee Bwana, wakati wako wa kutenda umewadia, kwa kuwa sheria yako inavunjwa.
 Kwa sababu nazipenda amri zako zaidi ya dhahabu, naam, zaidi ya dhahabu safi,
-na kwa sababu naona maagizo yako yote ni adili, nachukia kila njia potovu. Shauku Ya Kuitii Sheria Ya Bwana
+na kwa sababu naona maagizo yako yote ni adili, nachukia kila njia potovu.
 Sheria zako ni za ajabu, hivyo ninazitii.
 Kuingia kwa maneno yako kunaleta nuru, kunampa mjinga ufahamu.
 Nimefungua kinywa changu na kuhema, nikitamani amri zako.
@@ -16099,7 +16099,7 @@ Nigeukie na unihurumie, kama uwafanyiavyo siku zote wale wanaolipenda jina lako.
 Ongoza hatua zangu kulingana na neno lako, usiache dhambi yoyote initawale.
 Niokoe na uonevu wa wanadamu, ili niweze kutii mausia yako.
 Mwangazie mtumishi wako uso wako na unifundishe amri zako.
-Chemchemi za machozi zinatiririka kutoka machoni yangu, kwa kuwa sheria yako haifuatwi. Haki Ya Sheria Ya Bwana
+Chemchemi za machozi zinatiririka kutoka machoni yangu, kwa kuwa sheria yako haifuatwi.
 Ee Bwana, wewe ni mwenye haki, sheria zako ni sahihi.
 Sheria ulizoziweka ni za haki, ni za kuaminika kikamilifu.
 Jitihada yangu imenidhoofisha, kwa kuwa adui zangu wanayapuuza maneno yako.
@@ -16107,7 +16107,7 @@ Ahadi zako zimejaribiwa kikamilifu, mtumishi wako anazipenda.
 Ingawa ni mdogo na ninadharauliwa, sisahau mausia yako.
 Haki yako ni ya milele, na sheria yako ni kweli.
 Shida na dhiki zimenipata, lakini amri zako ni furaha yangu.
-Sheria zako ni sahihi milele, hunipa ufahamu ili nipate kuishi. Maombi Kwa Ajili Ya Kuokolewa
+Sheria zako ni sahihi milele, hunipa ufahamu ili nipate kuishi.
 Ee Bwana, ninakuita kwa moyo wangu wote, nami nitayatii maagizo yako.
 Ninakuita; niokoe nami nitazishika sheria zako.
 Ninaamka asubuhi na mapema na kukuomba msaada; nimeweka tumaini langu katika neno lako.
@@ -16115,7 +16115,7 @@ Sikufumba macho yangu usiku kucha, ili niweze kutafakari juu ya ahadi zako.
 Usikie sauti yangu sawasawa na upendo wako, Ee Bwana, uyahifadhi maisha yangu, sawasawa na sheria zako.
 Wale wanaopanga mipango miovu wako karibu nami, lakini wako mbali na sheria yako.
 Ee Bwana, hata hivyo wewe u karibu, na amri zako zote ni za kweli.
-Tangu zamani nimejifunza kutoka shuhuda zako kwamba umezithibitisha ili zidumu milele. Maombi Kwa Ajili Ya Msaada
+Tangu zamani nimejifunza kutoka shuhuda zako kwamba umezithibitisha ili zidumu milele.
 Yaangalie mateso yangu, uniokoe, kwa kuwa sijasahau sheria yako.
 Nitetee katika hali hii yangu na unikomboe, uyahifadhi maisha yangu sawasawa na ahadi yako.
 Wokovu uko mbali na waovu, kwa kuwa hawatafuti maagizo yako.
@@ -16123,7 +16123,7 @@ Ee Bwana, huruma zako ni kuu, uyahifadhi maisha yangu sawasawa na sheria zako.
 Adui wanaonitesa ni wengi, lakini mimi sitaziacha sheria zako.
 Ninawatazama wasioamini kwa chuki, kwa kuwa hawalitii neno lako.
 Tazama jinsi ninavyopenda mausia yako; Ee Bwana, uyahifadhi maisha yangu, sawasawa na upendo wako.
-Maneno yako yote ni kweli, sheria zako zote za haki ni za milele. Kujiweka Wakfu Kwa Sheria Ya Bwana
+Maneno yako yote ni kweli, sheria zako zote za haki ni za milele.
 Watawala wamenitesa bila sababu, lakini moyo wangu unatetemeka kwa neno lako.
 Nafurahia ahadi zako kama mtu aliyepata mateka mengi.
 Ninachukia na kuchukizwa sana na uongo, lakini napenda sheria yako.
@@ -16131,7 +16131,7 @@ Ninakusifu mara saba kwa siku, kwa ajili ya sheria zako za haki.
 Wanaopenda sheria yako wana amani tele, wala hakuna kitu kinachoweza kuwakwaza.
 Ee Bwana, ninangojea wokovu wako, nami ninafuata amri zako,
 Ninazitii sheria zako, kwa sababu ninazipenda mno.
-Nimetii mausia yako na sheria zako, kwa kuwa njia zangu zote zinajulikana kwako. Kuomba Msaada
+Nimetii mausia yako na sheria zako, kwa kuwa njia zangu zote zinajulikana kwako.
 Ee Bwana, kilio changu na kifike mbele zako, nipe ufahamu sawasawa na neno lako.
 Maombi yangu na yafike mbele zako, niokoe sawasawa na ahadi yako.
 Midomo yangu na ibubujike sifa, kwa kuwa unanifundisha maagizo yako.

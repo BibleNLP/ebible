@@ -3603,60 +3603,60 @@ Junga kujaju. Parrangkaju, kalarla mangkurdu wapirrija Kaluku Tarrukukuju. Munga
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+...
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
 
 
 
@@ -6545,13 +6545,13 @@ Ngula-jangka, wati yangka maralypikingarduyu Yalijaralku palija. Nyanunguju Yaru
 
 
 
-
-
-
-
-
-
-
+...
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
 …Jajuwa, yangka Nuunuku kaja-nyanu kala nyinaja YAAWIYI-kirlangu warrkini. YAAWIYI ngulaju yirdi Kaatu. Kujarla 110-pala yulyurrpu rdipija, ngula walku-jarrija.
 Ngulalu Yijirali-pinkirli milyingka yirrarnu ngurrangka yirdingkaju Timinata Yirijarla nyanungu-nyangurla ngurrararla. Karrijalpa wararrarla yirdingkaju Yipirayimirla yatijarra wararra-karirla yirdingkaju Karrjarla.
 Jajuwa manu yangka ngalya-kari purlka-patu, ngulajulu walku-jarrija muku. Nyanungurra-nyangu kurdukurdujulu muku wiri-jarrijalku. Kulalpalu milya-pungu YAAWIYI-ji, manulu wajawaja-manu kuja kala-jana warrarda warrawarra-kangu nyanungurrakupalangu manu warringiyi-nyanurlangu yangka Yijirali-pinki yapa.
