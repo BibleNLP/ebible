@@ -243,23 +243,6 @@ def get_redistributable(translations_csv: Path) -> Tuple[List[Path], List[Path]]
 
         return all_files, redistributable_files
 
-
-# Define methods for creating the copyrights file
-
-
-# def norm_name(name: str) -> str:
-#     if len(name) < 3:
-#         return None
-#     elif len(name) == 3:
-#         return f"{name[:3]}-{name}"
-#     elif len(name) >= 7 and name[3] == "-" and name[0:3] == name[4:7]:
-#         return name
-#     else:
-#         return f"{name[:3]}-{name}"
-
-
-# Define functions to calculate versification and write the settings file.
-
 # Columns are easier to use if they are valid python identifiers:
 def improve_column_names(df) -> None:
     df.columns = (
@@ -548,6 +531,7 @@ def main() -> None:
         log_and_print(
             logfile,
             f"Downloading list of translations from {translations_csv_url} to: {str(translations_csv)}",
+            zip,
         )
         download_file(translations_csv_url, translations_csv)
     else:
