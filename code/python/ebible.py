@@ -1,18 +1,28 @@
-"""ebible.py contains functions to:
+"""ebible.py contains functions for downloading and processing data from eBible.org.
+The normal pipeline is to check whether a file exists before downloading it
+It is only downloaded or unzipped if it doesn't already exist.
+First download translations.csv from https://ebible.org/Scriptures/translations.csv
+Read the list of available files from translations.csv
 Download zipped Bibles in USFM format from ebible.org to the 'downloads' folder.
 Unzip the downloaded files to the 'projects' folder.
-Check the licence data contained in the copr.htm files in each project folder.
-Write the licence information as a csv file.
+Check the licence data contained in the copr.htm files in the redistributable_folder folders. Write that as a csv file.
 Check the existence of verses in certain chapters in order to guess the versification. Add that to a Settings.xml in each project.
-A Settings.xml file is necessary for silnlp.common.extract_corpora.
-Extract all the files saving those that have an open licence to the 'corpus' folder and those that don't to the private_corpus folder.
+The Settings.xml file is necessary for silnlp.common.extract_corpora.
+Move any private projects (complete with Settings.xml file) from the projects folder to the private_projects folder.
+Print out the two commands necessary for extracting from the projects folder to the corpus folder,
+and from the private_projects folder to the private_corpus folder.
+The user then needs to use SILNLP https://github.com/sillsdev/silnlp to extract the files into the one-verse-per-line format.
 """
 
-import argparse
-import os
-import shutil
-
 # Import modules and directory paths
+import argparse
+
+# import codecs
+# import ntpath
+import os
+
+# import re
+import shutil
 from csv import DictReader, DictWriter
 from datetime import datetime
 from glob import iglob
@@ -184,34 +194,25 @@ def unzip_entire_folder(source_folder, file_suffix, unzip_folder, logfile) -> in
 
 
 def unzip_files(
-    zip_files: List[Path], unzip_folder: Path, file_suffix: str, logfile
+    zip_files: List[Path],
+    unzip_folder: Path,
+    also_check: Path,
+    file_suffix: str,
+    logfile,
 ) -> List[Path]:
 
-    # Strip off the file_suffix so that the subfolder name is the project ID.
-    unzip_to_folders = [
-        (
-            zip_file,
-            unzip_folder
-            / f"{zip_file.name[0: (len(zip_file.name) - len(file_suffix))]}",
-        )
-        for zip_file in zip_files
-    ]
-
-    unzips = [
-        (zip_file, folder)
-        for zip_file, folder in unzip_to_folders
-        if not folder.exists()
-    ]
-
+    # Keep track of which files were unzipped
     unzipped = []
-
-    if unzips:
-        log_and_print(
-            logfile,
-            f"Found {len(unzips)} files that haven't been unzipped to {unzip_folder}",
+    # Strip off the file_suffix so that the unzip folder name is the project ID.
+    for zip_file in zip_files:
+        project_foldername = (
+            f"{zip_file.name[0: (len(zip_file.name) - len(file_suffix))]}"
         )
+        unzip_to_folder = unzip_folder / project_foldername
+        also_check_folder = also_check / project_foldername
+        if not unzip_to_folder.exists() and not also_check_folder.exists():
+            # The file still needs to be unzipped.
 
-        for zip_file, unzip_to_folder in unzips:
             unzip_to_folder.mkdir(parents=True, exist_ok=True)
             log_and_print(logfile, f"Extracting to: {unzip_to_folder}")
             try:
@@ -246,15 +247,15 @@ def get_redistributable(translations_csv: Path) -> Tuple[List[Path], List[Path]]
 # Define methods for creating the copyrights file
 
 
-def norm_name(name: str) -> str:
-    if len(name) < 3:
-        return None
-    elif len(name) == 3:
-        return f"{name[:3]}-{name}"
-    elif len(name) >= 7 and name[3] == "-" and name[0:3] == name[4:7]:
-        return name
-    else:
-        return f"{name[:3]}-{name}"
+# def norm_name(name: str) -> str:
+#     if len(name) < 3:
+#         return None
+#     elif len(name) == 3:
+#         return f"{name[:3]}-{name}"
+#     elif len(name) >= 7 and name[3] == "-" and name[0:3] == name[4:7]:
+#         return name
+#     else:
+#         return f"{name[:3]}-{name}"
 
 
 # Define functions to calculate versification and write the settings file.
@@ -272,12 +273,14 @@ def improve_column_names(df) -> None:
     )
 
 
-def write_licence_file(licence_file, logfile, folder):
+def get_licence_details(logfile, folder) -> List:
 
-    csv_headers = [
+    column_headers = [
         "ID",
+        "File",
         "Language",
         "Dialect",
+        "Vernacular Title",
         "Licence Type",
         "Licence Version",
         "CC Licence Link",
@@ -291,89 +294,109 @@ def write_licence_file(licence_file, logfile, folder):
     data = list()
     copr_regex = r".*[/\\](?P<id>.*?)[/\\]copr.htm"
 
-    log_and_print(logfile, "Collecting eBible copyright information...")
+    log_and_print(
+        logfile, "Collecting eBible copyright information from projects in {folder}"
+    )
 
     for i, copyright_file in enumerate(sorted(folder.glob("**/copr.htm"))):
-        id = str(copyright_file.parents[0].relative_to(folder))
+        entry = dict.fromkeys(column_headers)
+        entry["ID"] = str(copyright_file.parents[0].relative_to(folder))
 
         id_match = regex.match(copr_regex, str(copyright_file))
-        id = id_match["id"]
 
-        if i % 100 == 0:
-            print(f"Read {i} files. Now reading: {copyright_file} with ID: {id}")
+        if not id_match:
+            print(f"Can't match {copr_regex} to str{copyright_file}.")
+            exit()
 
-        entry = dict()
-        entry["ID"] = str(id)
-        entry["File"] = copyright_file
+        else:
+            id = id_match["id"]
 
-        with open(copyright_file, "r", encoding="utf-8") as copr:
-            html = copr.read()
-            soup = BeautifulSoup(html, "lxml")
+            if i % 250 == 0:
+                print(f"Read {i} files. Now reading: {copyright_file} with ID: {id}")
 
-        cclink = soup.find(href=regex.compile("creativecommons"))
-        if cclink:
-            ref = cclink.get("href")
-            if ref:
-                entry["CC Licence Link"] = ref
-                cc_match = regex.match(
-                    r".*?/licenses/(?P<type>.*?)/(?P<version>.*)/", ref
-                )
-                if cc_match:
-                    entry["Licence Type"] = cc_match["type"]
-                    entry["Licence Version"] = cc_match["version"]
-                else:
-                    cc_by_match = regex.match(r".*?/licenses/by(?P<version>.*)/", ref)
-                    if cc_by_match:
-                        # print(f'Licence version = {cc_by_match["version"]}')
-                        entry["Licence Type"] = "by"
-                        entry["Licence Version"] = cc_by_match["version"]
+            entry["ID"] = str(id)
+            entry["File"] = copyright_file
 
-        cclink = None
+            with open(copyright_file, "r", encoding="utf-8") as copr:
+                html = copr.read()
+                soup = BeautifulSoup(html, "lxml")
 
-        titlelink = soup.find(href=regex.compile(f"https://ebible.org/{id}"))
-        if titlelink:
-            entry["Vernacular Title"] = titlelink.string
-        titlelink = None
-
-        copy_strings = [s for s in soup.body.p.stripped_strings]
-
-        for i, copy_string in enumerate(copy_strings):
-            if i == 0 and "copyright ©" in copy_string:
-                entry["Copyright Years"] = copy_string
-                entry["Copyright Holder"] = copy_strings[i + 1]
-            if i > 0 and "Language:" in copy_string:
-                entry["Language"] = copy_strings[i + 1]
-
-            if "Dialect" in copy_string:
-                descriptions = ["Dialect (if applicable): ", "Dialect: "]
-                for description in descriptions:
-                    if copy_string.startswith(description):
-                        entry["Dialect"] = copy_string[len(description) :]
-                        break
+            cclink = soup.find(href=regex.compile("creativecommons"))
+            if cclink:
+                ref = cclink.get("href")
+                if ref:
+                    entry["CC Licence Link"] = ref
+                    cc_match = regex.match(
+                        r".*?/licenses/(?P<type>.*?)/(?P<version>.*)/", ref
+                    )
+                    if cc_match:
+                        entry["Licence Type"] = cc_match["type"]
+                        entry["Licence Version"] = cc_match["version"]
                     else:
-                        entry["Dialect"] = copy_string
+                        cc_by_match = regex.match(
+                            r".*?/licenses/by(?P<version>.*)/", ref
+                        )
+                        if cc_by_match:
+                            # print(f'Licence version = {cc_by_match["version"]}')
+                            entry["Licence Type"] = "by"
+                            entry["Licence Version"] = cc_by_match["version"]
 
-            if "Translation by" in copy_string:
-                entry["Translation by"] = copy_string
-            if "Public Domain" in copy_string:
-                entry["Copyright Year"] = ""
-                entry["Copyright Holder"] = "Public Domain"
+            cclink = None
 
-        data.append(entry)
+            titlelink = soup.find(href=regex.compile(f"https://ebible.org/{id}"))
+            if titlelink:
+                entry["Vernacular Title"] = titlelink.string
+            titlelink = None
 
-    with open(licence_file, "w", encoding="utf-8", newline="") as csv_out:
-        writer = DictWriter(
-            csv_out,
-            csv_headers,
-            restval="",
-            extrasaction="ignore",
-            dialect="excel",
-        )
-        writer.writeheader()
-        writer.writerows(data)
+            copy_strings = [s for s in soup.body.p.stripped_strings]
+
+            for i, copy_string in enumerate(copy_strings):
+                if i == 0 and "copyright ©" in copy_string:
+                    entry["Copyright Years"] = copy_string
+                    entry["Copyright Holder"] = copy_strings[i + 1]
+                if i > 0 and "Language:" in copy_string:
+                    entry["Language"] = copy_strings[i + 1]
+
+                if "Dialect" in copy_string:
+                    descriptions = ["Dialect (if applicable): ", "Dialect: "]
+                    for description in descriptions:
+                        if copy_string.startswith(description):
+                            entry["Dialect"] = copy_string[len(description) :]
+                            break
+                        else:
+                            entry["Dialect"] = copy_string
+
+                if "Translation by" in copy_string:
+                    entry["Translation by"] = copy_string
+                if "Public Domain" in copy_string:
+                    entry["Copyright Years"] = ""
+                    entry["Copyright Holder"] = "Public Domain"
+
+            data.append(entry)
+
+    return data
+
+
+def write_licence_file(licence_file, logfile, df):
+
+    # df.columns = [
+    #     "ID",
+    #     "File",
+    #     "Language",
+    #     "Dialect",
+    #     "Vernacular Title",
+    #     "Licence Type",
+    #     "Licence Version",
+    #     "CC Licence Link",
+    #     "Copyright Holder",
+    #     "Copyright Years",
+    #     "Translation by",
+    # ]
+
+    df.to_csv(licence_file, sep="\t", index=False)
 
     log_and_print(
-        logfile, f"Wrote licence info for {len(data)} translations to {licence_file}\n"
+        logfile, f"Wrote licence info for {len(df)} translations to {licence_file}\n"
     )
 
 
@@ -413,6 +436,26 @@ def check_folders_exist(folders: list, base: Path, logfile):
 
     else:
         log_and_print(logfile, f"All the required folders exist in {base}")
+
+
+def move_projects(projects_to_move: List, parent_source_folder:Path, parent_dest_folder: Path) -> List[Path]:
+
+    moved = []
+    for project_to_move in projects_to_move:
+        source_folder =  parent_source_folder / project_to_move
+        dest_folder = parent_dest_folder / project_to_move
+        # print(
+        #     f"{source_folder} exists: {source_folder.exists()}   Dest: {dest_folder} exists: {dest_folder.exists()}  Move: {source_folder.exists() and not dest_folder.exists()}"
+        # )
+        
+        if source_folder.exists() and not dest_folder.exists():
+           shutil.move(str(source_folder), str(dest_folder))
+           assert not source_folder.exists()
+           assert dest_folder.exist()
+           moved.append(project_to_move)
+
+    return moved
+
 
 
 def main() -> None:
@@ -461,28 +504,17 @@ def main() -> None:
     eBible_url: str = r"https://ebible.org/Scriptures/"
     file_suffix: str = "_usfm.zip"
 
-    # Process outline is:
-    #  Download the translation.csv file to the 'metadata' folder.
-    #  Read it to see which files need to be downloaded.
-    #  Download to 'downloads'
-    #  Unzip to 'projects'
-    #  Write Settings.xml for each project.
-    #  Read licence for each project
-    #  Write out a licence.tsv file to the 'metadata' folder.
-    #  SILNLP Extract the shareable projects to the 'corpus' folder.
-    #  SILNLP Extract the non-shareable projects to the 'private_corpus' folder.
-
-    # The corpus folder is for the verse aligned text files.
-
     corpus_folder: Path = base / "corpus"
     downloads_folder: Path = base / "downloads"
     private_corpus_folder: Path = base / "private_corpus"
+    private_projects_folder: Path = base / "private_projects"
     projects_folder: Path = base / "projects"
     metadata_folder: Path = base / "metadata"
     logs_folder: Path = base / "logs"
 
     # The csv file to download from eBible.org
     translations_csv: Path = metadata_folder / "translations.csv"
+    settings_filename = "Settings.xml"
 
     # Date stamp for the log file.
     year, month, day, hour, minute = map(int, strftime("%Y %m %d %H %M").split())
@@ -492,7 +524,8 @@ def main() -> None:
 
     # Only used in the final command hint shown to the user.
     # This helps to keep the datestamps of the two logs in sync.
-    extract_log_file: Path = logs_folder / ("extract" + log_suffix)
+    public_extract_log: Path = logs_folder / ("extract_public" + log_suffix)
+    private_extract_log: Path = logs_folder / ("extract_private" + log_suffix)
 
     # The file we will save that contains the licence information for each file.
     licence_file: Path = metadata_folder / "licences.tsv"
@@ -553,70 +586,94 @@ def main() -> None:
     files_to_download = (
         set(ebible_files) - set(existing_ebible_files) - set(dont_download_files)
     )
-    print(files_to_download)
 
-    # Presumably any other files used to be in eBible and are no longer
+    # Presumably any other files used to be in eBible but have been removed
+    # Note these in the log file, but don't remove them.
 
-    print(
-        f"Of {len(ebible_files)} ebible files, {len(existing_ebible_files)} are already downloaded and {len(dont_download_files)} are excluded."
+    log_and_print(
+        logfile,
+        f"Of {len(ebible_files)} ebible files, {len(existing_ebible_files)} are already downloaded and {len(dont_download_files)} are excluded.",
     )
-    if previous_ebible_files:
-        print(
-            f"These {len(previous_ebible_files)} files are already in the download folder, but are no longer listed in translations.csv:"
+    if len(previous_ebible_files) > 0:
+        log_and_print(
+            logfile,
+            f"These {len(previous_ebible_files)} files are already in the download folder that are no longer listed in translations.csv:",
         )
         for i, previous_ebible_file in enumerate(previous_ebible_files, 1):
-            print(f"{i:>4}   {previous_ebible_file.name}")
+            log_and_print(logfile, f"{i:>4}   {previous_ebible_file.name}")
     else:
-        print(f"All the expected eBible files are already downloaded.")
-
-    if files_to_download:
         log_and_print(
             logfile,
-            f"Downloading {len(files_to_download)} eBible files to {downloads_folder}.",
+            f"All the files in the download folder are listed in the translations.csv file.",
         )
 
-        # Download the zip files.
-        newly_downloaded_files = download_files(
-            files_to_download,
-            eBible_url,
-            downloads_folder,
-            logfile,
-            redownload=args.force_download,
-        )
+    # Download the zip files.
+    downloaded_files = download_files(
+        files_to_download,
+        eBible_url,
+        downloads_folder,
+        logfile,
+        redownload=args.force_download,
+    )
 
-        # Downloading complete.
-        new_projects = unzip_files(
-            zip_files=newly_downloaded_files,
-            unzip_folder=projects_folder,
-            file_suffix=file_suffix,
-            logfile=logfile,
-        )
-
-        # Note how many settings files already exist
-        existing_settings_file_count = len(
-            [settings_file for settings_file in projects_folder.rglob("Settings.xml")]
-        )
-
-        # Add a Settings.xml file to each new project folder in a list of folders.
-        settings_files = [write_settings_file(project) for project in new_projects]
-
+    if downloaded_files:
         log_and_print(
             logfile,
-            f"\nCreated {len(settings_files)} Settings.xml files. There were {existing_settings_file_count} projects with existing settings files.",
+            f"Downloaded {len(downloaded_files)} eBible files to {downloads_folder}.",
         )
-
-        # Write the licence file.
-        write_licence_file(licence_file, logfile, projects_folder)
-
-        log_and_print(logfile, f"Wrote the licences.tsv file to the metadata folder.")
+    # Downloading complete.
 
     else:
         log_and_print(logfile, f"All eBible files are already downloaded.")
 
-    # Load-in the extracted licenses.tsv file
-    licenses_df = pd.read_csv(licence_file, dtype=str)
+    # Unzip all the zipfiles in the download folder to the projects_folder
+    # Unless they have already been unzipped to either the projects_folder or private projects_folder
+    new_projects = unzip_files(
+        zip_files=[zipfile for zipfile in downloads_folder.glob("*" + file_suffix)],
+        unzip_folder=projects_folder,
+        also_check=private_projects_folder,
+        file_suffix=file_suffix,
+        logfile=logfile,
+    )
 
-    # Manually fix invalid rows:
+    project_folders = [project_folder for project_folder in projects_folder.iterdir()]
+    project_foldernames = [project_folder.name for project_folder in project_folders]
+
+    private_project_folders = [
+        private_project_folder
+        for private_project_folder in private_projects_folder.iterdir()
+    ]
+    private_project_foldernames = [
+        private_project_folder.name
+        for private_project_folder in private_project_folders
+    ]
+
+    for private_project_folder in private_project_folders:
+        # Add a Settings.xml file if necessary
+        write_settings_file(private_project_folder)
+
+    for project_folder in project_folders:
+        # Add a Settings.xml file if necessary
+        write_settings_file(project_folder)
+
+    # Get projects licence details
+    data = get_licence_details(logfile, projects_folder)
+
+    # Get private_projects licence details
+    data.extend(get_licence_details(logfile, private_projects_folder))
+
+    #data_keys = set(k  for project in data for k,v in project.items())
+    #print(data_keys)
+    #exit()
+
+    # Don't write and Load-in the extracted licenses.tsv file
+    # Instead convert to DataFrame, fix up and write out.
+    # licenses_df = pd.read_csv(licence_file, dtype=str)
+
+    # Load the licenses data into a pandas dataframe
+    licenses_df = pd.DataFrame.from_records(data)
+
+    # Fix invalid rows:
     # https://ebible.org/Bible/details.php?id=engwmb
     # https://ebible.org/Bible/details.php?id=engwmbb
 
@@ -628,168 +685,71 @@ def main() -> None:
     # pd.set_option('display.max_rows', 10)
     licenses_df.loc[
         licenses_df["Copyright Holder"].str.contains("Public") == True, "Licence Type"
-    ] = "public"
+    ] = "Public Domain"
 
-    # Correctly set values for 'unknown' Licence Type
-    licenses_df.loc[licenses_df["Licence Type"].isna(), "Licence Type"] = "unknown"
+    # Correctly set values for 'Unknown' Licence Type
+    licenses_df.loc[licenses_df["Licence Type"].isna(), "Licence Type"] = "Unknown"
+
+    # Write the licence file.
+    write_licence_file(licence_file, logfile, licenses_df)
 
     # Show counts
-    #log_and_print(logfile, "These are the different licences.")
-    #log_and_print(logfile, licenses_df["Licence Type"].value_counts())
+    log_and_print(logfile, "These are the numbers of files with each type of licence:")
+    log_and_print(logfile, f"{licenses_df['Licence Type'].value_counts()}")
 
-    # Check if the corpus includes any 'unknown' licensed projects
+    # Get lists of public and private projects from the licences
+    public_projects_in_licence_file = [project_id for project_id in 
+        licenses_df[~(licenses_df["Licence Type"].str.contains("Unknown"))]["ID"]
+    ]
 
-    # or if any known licensed projects have been excluded
-    redistributable_filenames = sorted(
-        set(
-            licenses_df[~(licenses_df["Licence Type"].str.contains("unknown"))]["ID"]
-            .apply(
-                lambda x: f"{x[:3]}-{x}.txt"
-                if "-" not in x
-                else f'{x.split("-")[0]}-{x}.txt'
-            )
-            .to_list()
-        )
-    )
-    log_and_print(
-        logfile,
-        f"There are {len(redistributable_files)} files with permissive licenses.",
-    )
+    private_projects_in_licence_file = [project_id for project_id in licenses_df[
+        licenses_df["Licence Type"].str.contains("Unknown")
+    ]["ID"]]
 
-    for redistributable_filename in redistributable_filenames:
-        source_file = private_corpus_folder / redistributable_filename
-        dest_file = corpus_folder / redistributable_filename
+    # Move any redistributable projects for the private_projects to the public_projects folder.
+    moved_public_projects = move_projects(public_projects_in_licence_file, parent_source_folder = private_projects_folder, parent_dest_folder = project_folder)
+    for moved_public_project in moved_public_projects:
+        log_and_print(logfile, f"Moved redistributable project {moved_public_project} to {project_folder}")
+    
+    # Move the non-redistributable projects to the private_projects folder.
+    moved_private_projects = move_projects(private_projects_in_licence_file, parent_source_folder = project_folder,  parent_dest_folder = private_projects_folder)
+    for moved_private_project in moved_private_projects:
+        log_and_print(logfile, f"Moved redistributable project {moved_private_project} to {private_project_folder}")
+    
 
-        shutil.move(source_file, dest_file)
-        # print(f"Moving {source_file} to {dest_file}")
-    exit()
+    # for private_project_in_licence_file in private_projects_in_licence_file:
+    #     source_folder = projects_folder / private_project_in_licence_file
+    #     dest_folder = private_projects_folder / private_project_in_licence_file
+    #     print(
+    #         f"{source_folder} exists: {source_folder.exists()}   Dest: {dest_folder} exists: {dest_folder.exists()}  Move: {source_folder.exists() and not dest_folder.exists()}"
+    #     )
+        
+    #     if source_folder.exists() and not dest_folder.exists():
+    #        print(f"Moving {source_folder} to {dest_folder}.")
+    #        shutil.move(str(source_folder), str(dest_folder))
+    #        assert not source_folder.exists()
+    #        assert dest_folder.exist()
 
-    current_corpus_files = set(
-        [f"{corpus_file.name}" for corpus_file in corpus_folder.iterdir()]
-    )
-    log_and_print(
-        logfile,
-        f"Number of projects currently in the corpus = {len(current_corpus_files)}",
-    )
-
-    corpus_files_with_unknown_license = sorted(
-        current_corpus_files - redistributable_files
-    )
-    # print(corpus_files_with_unknown_license)
-
-    if corpus_files_with_unknown_license:
-        log_and_print(
-            logfile,
-            f"\nThese {len(corpus_files_with_unknown_license)}  projects with an unknown license are currently in the corpus:",
-        )
-        for corpus_file_with_unknown_license in corpus_files_with_unknown_license:
-
-            shutil.move(
-                corpus_file_with_unknown_license, "path/to/new/destination/for/file.foo"
-            )
-            log_and_print(
-                logfile,
-                f"{corpus_file_with_unknown_license}",
-            )
-    else:
-        log_and_print(
-            logfile,
-            f"\nAll {len(corpus_files_with_unknown_license)}  projects with an unknown license are currently in the corpus:",
-        )
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
 
-    # log_and_print(
-    #     logfile,
-    #     f"\nUse this command to extract the non_redistributable files.",
-    # )
+    log_and_print(
+        logfile,
+        [
+            f"\nUse this command to extract the private_projects to the private_corpus.",
+            f"poetry run python -m silnlp.common.bulk_extract_corpora --input {private_projects_folder} --output {private_corpus_folder} --error-log {private_extract_log}",
+        ],
+    )
 
     log_and_print(
         logfile,
         [
-            f"\nUse this command to extract the all the projects to the private_corpus.",
-            f"poetry run python -m silnlp.common.bulk_extract_corpora --input {projects_folder} --output {private_corpus_folder} --error-log {extract_log_file}",
+            f"\nUse this command to extract the public_projects to the public_corpus.",
+            f"poetry run python -m silnlp.common.bulk_extract_corpora --input {projects_folder} --output {corpus_folder} --error-log {public_extract_log}",
         ],
     )
 
 
 if __name__ == "__main__":
     main()
-
-
-"""
-From line 600 ff
-    # print(f"The first redistributable file is {redistributable_files[0]}")
-    # print(f"The first non redistributable file is {non_redistributable_files[0]}")
-
-    log_and_print(
-        logfile,
-        f"The translations csv file lists {len(all_files)} translations and {len(redistributable_files)} are redistributable.",
-    )
-    log_and_print(
-        logfile,
-        f"The translations csv file lists {len(non_redistributable_files)} non redistributable translations.",
-    )
-    # log_and_print(
-    #    logfile,
-    #    f"{len(non_redistributable_files)} + {len(redistributable_files)} = {len(non_redistributable_files) + len(redistributable_files)}",
-    # )
-    log_and_print(
-        logfile,
-        f"There are {len(already_downloaded)} files with the suffix {file_suffix} already in {downloads_folder}",
-    )
-    log_and_print(
-        logfile, f"There are {len(dont_download)} files that usually fail to download."
-    )
-    if do_download:
-        log_and_print(logfile, f"There are {len(do_download)} files still to download.")
-    else:
-        log_and_print(logfile, f"All zip files have already been downloaded.")"""
-
-
-"""# Check whether any non_redistributable files are in the redistributable folder and list them.
-    incorrect_non_redistributable_folders: List(Path) = [
-        redistributable_folder / non_redistributable_file
-        for non_redistributable_file in non_redistributable_files
-    ]
-    incorrect_non_redistributable_folders: List(Path) = [
-        folder for folder in incorrect_non_redistributable_folders if folder.is_dir()
-    ]
-    if incorrect_non_redistributable_folders:
-        log_and_print(
-            logfile,
-            f"There are {len(incorrect_non_redistributable_folders)} non_redistributable projects in the redistributable project folder: {redistributable_folder}",
-        )
-
-        if choose_yes_no("Delete them?  Y / N ?"):
-            for (
-                incorrect_non_redistributable_folder
-            ) in incorrect_non_redistributable_folders:
-                log_and_print(
-                    logfile,
-                    f"Deleting {len(incorrect_non_redistributable_folders)} non_redistributable projects from the redistributable project folder.",
-                )
-                shutil.rmtree(incorrect_non_redistributable_folder, ignore_errors=True)
-
-"""
-# print("Read config.yaml successful")
-# print(f"data is {config}")
-# print(dont_download)
-# print(private)
-# print(public)
-
-# It's actually too soon to decide which files are redistributable and which are not
-# We should unzip all first, then compare the translations_csv info with that
-# scraped from the copr.htm files.
-
-# Unzip all to the same folder. These aren't pushed to github.
-# And we don't know the licence until it is read from the copr.html file.
-# non_redistributable_files = sorted(set(all_files) - set(redistributable_files))
-
-# print(f"Redist files = {redistributable_zipfiles}, {type(redistributable_zipfiles)}")
-# print(f"Non redist files = {non_redistributable_zipfiles}, {type(non_redistributable_zipfiles)}")
-
-# Unzip all to the same folder. These aren't pushed to github.
-# And we don't know the licence until it is read from the copr.html file.
-# print(f"{non_redistributable_files[0]} , {type(non_redistributable_files)}")

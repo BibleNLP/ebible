@@ -157,7 +157,7 @@ def add_settings_file(project_folder, language_code):
         settings.write(setting_file_stub)
 
 
-def write_settings_file(project_folder: Path) -> Path:
+def write_settings_file(project_folder: Path):
 
     # Now add a Settings.xml file to a project folder.
     if project_folder.is_dir():
