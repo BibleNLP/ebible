@@ -4,7 +4,7 @@ import re
 from glob import iglob
 from os import listdir
 from pathlib import Path
-from typing import Tuple
+from typing import List, Tuple
 
 # Should not need to duplicate this function in ebible.py and here.
 def log_and_print(file, s, type="Info") -> None:
@@ -157,7 +157,7 @@ def add_settings_file(project_folder, language_code):
         settings.write(setting_file_stub)
 
 
-def write_settings_file(project_folder: Path) -> int:
+def write_settings_file(project_folder: Path):
 
     # Now add a Settings.xml file to a project folder.
     if project_folder.is_dir():
@@ -165,7 +165,7 @@ def write_settings_file(project_folder: Path) -> int:
         settings_file = project_folder / "Settings.xml"
         
         if settings_file.is_file():
-            return 0
+            return None
         else:
             # print(f"Adding Settings.xml to {project_folder}")
             versification = get_versification(project_folder)
@@ -178,10 +178,10 @@ def write_settings_file(project_folder: Path) -> int:
     
             with open(settings_file, "w") as settings:
                 settings.write(setting_file_text)
-            return 1
+            return settings_file
 
 
-def write_settings_files(base_folder: Path) -> Tuple[int, int]:
+def write_settings_files_orig(base_folder: Path) -> Tuple[int, int]:
 
     # Add a Settings.xml file to each project folder in a base folder.
     project_folders = [project_folder for project_folder in base_folder.glob("*") if project_folder.is_dir()]
@@ -189,5 +189,3 @@ def write_settings_files(base_folder: Path) -> Tuple[int, int]:
     count_existing_settings_files = len(project_folders) - count_new_settings_files    
 
     return count_new_settings_files, count_existing_settings_files
-
-
