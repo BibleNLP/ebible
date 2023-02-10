@@ -546,6 +546,10 @@ def main() -> None:
     dont_download_filenames = [
         project + "_usfm.zip" for project in config["No Download"]
     ]
+
+    # These files have fewer than 400 lines of text in January 2023
+    dont_download_filenames.extend([ project + "_usfm.zip" for project in config["Short"]])
+
     dont_download_files = [
         downloads_folder / dont_download_filename
         for dont_download_filename in dont_download_filenames
