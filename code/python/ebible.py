@@ -146,12 +146,12 @@ def get_tree_size(path) -> int:
 def unzip_ebible(source_file, dest_folder, logfile) -> None:
 
     if dest_folder.is_dir():
-        log_and_print(logfile, f"Extracting {source_file} to: {dest_folder}")
+        log_and_print(logfile, f"Unzipping from {source_file} to: {dest_folder}")
         shutil.unpack_archive(source_file, dest_folder)
-        # log_and_print(f"Extracted {source_file} to: {dest_folder}")
+        # log_and_print(f"Unzipped {source_file} to: {dest_folder}")
 
     else:
-        log_and_print(logfile, f"Can't extract, {dest_folder} doesn't exist.")
+        log_and_print(logfile, f"Can't unzip, the destination folder: {dest_folder} doesn't exist.")
 
 
 def unzip_entire_folder(source_folder, file_suffix, unzip_folder, logfile) -> int:
@@ -278,7 +278,7 @@ def get_licence_details(logfile, folder) -> List:
     copr_regex = r".*[/\\](?P<id>.*?)[/\\]copr.htm"
 
     log_and_print(
-        logfile, "Collecting eBible copyright information from projects in {folder}"
+        logfile, f"\nCollecting eBible copyright information from projects in {folder}"
     )
 
     for i, copyright_file in enumerate(sorted(folder.glob("**/copr.htm"))):
@@ -439,7 +439,10 @@ def move_projects(projects_to_move: List, parent_source_folder:Path, parent_dest
 
     return moved
 
-
+def is_dir(folder):
+    if folder.is_dir():
+        return folder
+    return False
 
 def main() -> None:
 
@@ -660,6 +663,7 @@ def main() -> None:
         private_project_folder
         for private_project_folder in private_projects_folder.iterdir()
     ]
+
     private_project_foldernames = [
         private_project_folder.name
         for private_project_folder in private_project_folders
@@ -678,10 +682,6 @@ def main() -> None:
 
     # Get private_projects licence details
     data.extend(get_licence_details(logfile, private_projects_folder))
-
-    #data_keys = set(k  for project in data for k,v in project.items())
-    #print(data_keys)
-    #exit()
 
     # Don't write and Load-in the extracted licenses.tsv file
     # Instead convert to DataFrame, fix up and write out.
@@ -714,7 +714,7 @@ def main() -> None:
     log_and_print(logfile, "These are the numbers of files with each type of licence:")
     log_and_print(logfile, f"{licenses_df['Licence Type'].value_counts()}")
 
-    # Get lists of public and private projects from the licences
+    # Get lists of public and private projects from the licences (Note the ~ for NOT!)
     public_projects_in_licence_file = [project_id for project_id in 
         licenses_df[~(licenses_df["Licence Type"].str.contains("Unknown"))]["ID"]
     ]
@@ -723,15 +723,32 @@ def main() -> None:
         licenses_df["Licence Type"].str.contains("Unknown")
     ]["ID"]]
 
-    # Move any redistributable projects for the private_projects to the public_projects folder.
-    moved_public_projects = move_projects(public_projects_in_licence_file, parent_source_folder = private_projects_folder, parent_dest_folder = project_folder)
-    for moved_public_project in moved_public_projects:
-        log_and_print(logfile, f"Moved redistributable project {moved_public_project} to {project_folder}")
     
-    # Move the non-redistributable projects to the private_projects folder.
-    moved_private_projects = move_projects(private_projects_in_licence_file, parent_source_folder = project_folder,  parent_dest_folder = private_projects_folder)
-    for moved_private_project in moved_private_projects:
-        log_and_print(logfile, f"Moved redistributable project {moved_private_project} to {private_project_folder}")
+    public_projects = public_projects_in_licence_file.copy()
+    public_projects.extend(config["Public"])
+    for public_project in public_projects:
+        misplaced_public_project = private_projects_folder / public_project
+        if misplaced_public_project.is_dir(): 
+            dest = projects_folder / misplaced_public_project.name
+            log_and_print(logfile, f"This project is redistributable and will be moved to the projects folder: {dest}")
+            shutil.move(str(misplaced_public_project), str(dest))
+
+
+    private_projects = private_projects_in_licence_file.copy()
+    private_projects.extend(config["Private"])
+    for private_project in private_projects:
+        misplaced_private_project = projects_folder / private_project
+        if misplaced_private_project.is_dir():
+            dest = private_projects_folder / misplaced_private_project.name
+            log_and_print(logfile, f"This project is not redistributable and will be moved to the private projects folder: {dest}")
+            shutil.move(str(misplaced_private_project), str(dest))
+
+
+    # Move any redistributable projects for the private_projects to the public_projects folder.
+    #moved_public_projects = move_projects(public_projects_in_licence_file, parent_source_folder = private_projects_folder, parent_dest_folder = project_folder)
+    #for moved_public_project in moved_public_projects:
+    #    log_and_print(logfile, f"Moved redistributable project {moved_public_project} to {project_folder}")
+    
     
 
     # for private_project_in_licence_file in private_projects_in_licence_file:
