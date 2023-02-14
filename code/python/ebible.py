@@ -474,6 +474,12 @@ def main() -> None:
         action="store_true",
         help="Set this flag to overwrite the licences.tsv file.",
     )
+    parser.add_argument(
+        "--try-download",
+        default=False,
+        action="store_true",
+        help="Set this flag to try and download only the non-downloadable exceptions specified in the config.yaml file.",
+    )
     parser.add_argument("folder", help="The base folder where others will be created.")
 
     args: argparse.Namespace = parser.parse_args()
@@ -540,12 +546,35 @@ def main() -> None:
         )
 
     # Get the exceptions from the config.yaml file.
-    with open("config.yaml", "r") as yamlfile:
+    with open(Path(__file__).with_name("config.yaml"), "r") as yamlfile:
         config: Dict = yaml.safe_load(yamlfile)
 
     dont_download_filenames = [
         project + "_usfm.zip" for project in config["No Download"]
     ]
+
+    if args.try_download:
+        print("Try to download the exceptions in the config.yaml file.")
+        ebible_filenames = [ project + "_usfm.zip" for project in config["No Download"]]
+        ebible_files = [downloads_folder / ebible_filename for ebible_filename in ebible_filenames ]
+
+        # Download the zip files.
+        downloaded_files = download_files(
+        ebible_files,
+        eBible_url,
+        downloads_folder,
+        logfile,
+        redownload=args.force_download,
+        )
+
+        if downloaded_files:
+            log_and_print(
+                logfile,
+                f"Downloaded {len(downloaded_files)} eBible files to {downloads_folder}.",
+            )
+        # Downloading complete.
+        exit()
+
 
     # These files have fewer than 400 lines of text in January 2023
     dont_download_filenames.extend([ project + "_usfm.zip" for project in config["Short"]])
