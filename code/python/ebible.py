@@ -51,12 +51,12 @@ headers: Dict[str, str] = {
 
 
 # Define methods for downloading and unzipping eBibles
-def log_and_print(file, messages, type="Info") -> None:
+def log_and_print(file, messages, log_type="Info") -> None:
 
     if isinstance(messages, str):
         with open(file, "a") as log:
             log.write(
-                f"{type.upper()}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} {messages}\n"
+                f"{log_type}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} {messages}\n"
             )
             print(messages)
 
@@ -64,7 +64,7 @@ def log_and_print(file, messages, type="Info") -> None:
         with open(file, "a") as log:
             for message in messages:
                 log.write(
-                    f"{type.upper()}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} {message}\n"
+                    f"{log_type}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} {message}\n"
                 )
                 print(message)
 
