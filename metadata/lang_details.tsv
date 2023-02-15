@@ -12,7 +12,6 @@ acr-acr-acc.txt	acr	Achi	Mayan	Guatemala
 acr-acrNNT.txt	acr	Achi	Mayan	Guatemala
 acr-acrTNT.txt	acr	Achi	Mayan	Guatemala
 acu-acuNT.txt	acu	Achuar-Shiwiar	Jivaroan	Ecuador
-adt-adt.txt	adt	Adnyamathanha	Australian	Australia
 adz-adz.txt	adz	Adzera	Austronesian	Papua New Guinea
 aer-aer.txt	aer	Arrernte, Eastern	Australian	Australia
 aey-aey.txt	aey	Amele	Trans-New Guinea	Papua New Guinea
@@ -25,6 +24,7 @@ agt-agt.txt	agt	Agta, Central Cagayan	Austronesian	Philippines
 agu-aguBl.txt	agu	Awakateko	Mayan	Guatemala
 aia-aia.txt	aia	Arosi	Austronesian	Solomon Islands
 aii-aii.txt	aii	Assyrian Neo-Aramaic	Afro-Asiatic	Iraq
+aka-aka.txt	aka	Akan	Niger-Congo	Ghana
 ake-akeNT.txt	ake	Akawaio	Cariban	Guyana
 alp-alpNT.txt	alp	Alune	Austronesian	Indonesia
 alq-alqALGNT.txt	alq	Algonquin	Algic	Canada
@@ -55,7 +55,6 @@ apn-apnNT.txt	apn	Apinayé	Jean	Brazil
 apr-apr.txt	apr	Arop-Lokep	Austronesian	Papua New Guinea
 apu-apuNT.txt	apu	Apurinã	Maipurean	Brazil
 apw-apwNT.txt	apw	Apache, Western	Eyak-Athabaskan	United States
-apy-apyNT.txt	apy	Apalaí	Cariban	Brazil
 apz-apz.txt	apz	Safeyoka	Trans-New Guinea	Papua New Guinea
 arb-arb-vd.txt	arb	Arabic, Standard	Afro-Asiatic	Saudi Arabia
 arb-arbnav.txt	arb	Arabic, Standard	Afro-Asiatic	Saudi Arabia
@@ -90,6 +89,7 @@ bdd-bdd.txt	bdd	Bunama	Austronesian	Papua New Guinea
 bea-bea.txt	bea	Beaver	Eyak-Athabaskan	Canada
 bef-bef.txt	bef	Benabena	Trans-New Guinea	Papua New Guinea
 bel-bel.txt	bel	Belarusian	Indo-European	Belarus
+bel-beln.txt	bel	Belarusian	Indo-European	Belarus
 ben-ben2017.txt	ben	Bengali	Indo-European	Bangladesh
 beo-beo.txt	beo	Bedamuni	Trans-New Guinea	Papua New Guinea
 beu-beu.txt	beu	Blagar	Trans-New Guinea	Indonesia
@@ -234,7 +234,6 @@ dhg-dhgduwadha.txt	dhg	Dhangu-Djangu	Australian	Australia
 dif-dif.txt	dif	Diyari	Australian	Australia
 dik-dikNT.txt	dik	Dinka, Southwestern	Nilo-Saharan	South Sudan
 dji-dji.txt	dji	Djinang	Australian	Australia
-djj-djj.txt	djj	Djeebbana	Australian	Australia
 djk-djkNT.txt	djk	Aukan	Creole	Suriname
 djr-djr.txt	djr	Djambarrpuyngu	Australian	Australia
 dob-dob.txt	dob	Dobu	Austronesian	Papua New Guinea
@@ -281,6 +280,7 @@ eng-engoebus.txt	eng	English	Indo-European	United Kingdom
 eng-engoke.txt	eng	English	Indo-European	United Kingdom
 eng-engourb.txt	eng	English	Indo-European	United Kingdom
 eng-engPEV.txt	eng	English	Indo-European	United Kingdom
+eng-engtcent.txt	eng	English	Indo-European	United Kingdom
 eng-engtnt.txt	eng	English	Indo-European	United Kingdom
 eng-engULB.txt	eng	English	Indo-European	United Kingdom
 eng-engwebp.txt	eng	English	Indo-European	United Kingdom
@@ -323,7 +323,6 @@ gfk-gfk.txt	gfk	Patpatar	Austronesian	Papua New Guinea
 gfk-gfkh.txt	gfk	Patpatar	Austronesian	Papua New Guinea
 gfk-gfks.txt	gfk	Patpatar	Austronesian	Papua New Guinea
 ghs-ghs.txt	ghs	Guhu-Samane	Trans-New Guinea	Papua New Guinea
-gia-gia.txt	gia	Kija	Australian	Australia
 glk-glk.txt	glk	Gilaki	Indo-European	Iran, Islamic Republic of
 gmv-gmvNT.txt	gmv	Gamo	Afro-Asiatic	Ethiopia
 gmv-gmvRNT.txt	gmv	Gamo	Afro-Asiatic	Ethiopia
@@ -337,10 +336,10 @@ grc-grcbrent.txt	grc	Greek, Ancient	Indo-European	Greece
 grc-grcbyz.txt	grc	Greek, Ancient	Indo-European	Greece
 grc-grcf35.txt	grc	Greek, Ancient	Indo-European	Greece
 grc-grcmt.txt	grc	Greek, Ancient	Indo-European	Greece
+grc-grcsr.txt	grc	Greek, Ancient	Indo-European	Greece
 grc-grctcgnt.txt	grc	Greek, Ancient	Indo-European	Greece
 grc-grctr.txt	grc	Greek, Ancient	Indo-European	Greece
 gub-gubBl.txt	gub	Guajajára	Tupian	Brazil
-gue-gue.txt	gue	Gurindji	Australian	Australia
 guh-guh.txt	guh	Guahibo	Guajiboan	Colombia
 gui-guiNT.txt	gui	Guaraní, Eastern Bolivian	Tupian	Bolivia, Plurinational State of
 guj-guj2017.txt	guj	Gujarati	Indo-European	India
@@ -349,7 +348,7 @@ gum-gum.txt	gum	Misak	Paezan	Colombia
 gun-gun.txt	gun	Guaraní, Mbyá	Tupian	Brazil
 guo-guoNT.txt	guo	Guayabero	Guajiboan	Colombia
 gup-gup.txt	gup	Gunwinggu	Australian	Australia
-gup-gupk.txt	gup	Gunwinggu	Australian	Australia
+gux-gux.txt	gux	Gourmanchéma	Niger-Congo	Burkina Faso
 gux-guxg.txt	gux	Gourmanchéma	Niger-Congo	Burkina Faso
 gvc-gvc.txt	gvc	Wanano	Tucanoan	Brazil
 gvf-gvf.txt	gvf	Golin	Trans-New Guinea	Papua New Guinea
@@ -432,7 +431,6 @@ kgk-kgkNT.txt	kgk	Kaiwá	Tupian	Brazil
 kgp-kgpNT.txt	kgp	Kaingang	Jean	Brazil
 khs-khs.txt	khs	Kasua	Trans-New Guinea	Papua New Guinea
 khz-khz.txt	khz	Keapara	Austronesian	Papua New Guinea
-kij-kij.txt	kij	Kilivila	Austronesian	Papua New Guinea
 kik-kik.txt	kik	Gikuyu	Niger-Congo	Kenya
 kiw-kiw.txt	kiw	Kiwai, Northeast	Trans-New Guinea	Papua New Guinea
 kiz-kiz.txt	kiz	Kisi	Niger-Congo	Tanzania, United Republic of
@@ -441,7 +439,6 @@ kjn-kjn.txt	kjn	Kunjen	Australian	Australia
 kjs-kjs.txt	kjs	Kewapi, East	Trans-New Guinea	Papua New Guinea
 kkc-kkc.txt	kkc	Odoodee	Trans-New Guinea	Papua New Guinea
 kkl-kkl.txt	kkl	Yale, Kosarek	Trans-New Guinea	Indonesia
-kky-kky.txt	kky	Guugu Yimidhirr	Australian	Australia
 klt-klt.txt	klt	Nukna	Trans-New Guinea	Papua New Guinea
 klv-klv.txt	klv	Maskelynes	Austronesian	Vanuatu
 kmg-kmg.txt	kmg	Kâte	Trans-New Guinea	Papua New Guinea
@@ -476,7 +473,6 @@ kto-kto.txt	kto	Kuot	Language isolate	Papua New Guinea
 kud-kud.txt	kud	’Auhelawa	Austronesian	Papua New Guinea
 kue-kue.txt	kue	Kuman	Trans-New Guinea	Papua New Guinea
 kup-kup.txt	kup	Kunimaipa	Trans-New Guinea	Papua New Guinea
-kux-kux.txt	kux	Kukatja	Australian	Australia
 kvg-kvg.txt	kvg	Kuni-Boazi	Trans-New Guinea	Papua New Guinea
 kvn-kvnNT.txt	kvn	Kuna, Border	Chibchan	Colombia
 kwd-kwd.txt	kwd	Kwaio	Austronesian	Solomon Islands
@@ -614,6 +610,7 @@ nch-nchBl.txt	nch	Nahuatl, Central Huasteca	Uto-Aztecan	Mexico
 ncj-ncjNT.txt	ncj	Nahuatl, Northern Puebla	Uto-Aztecan	Mexico
 ncl-nclNT.txt	ncl	Nahuatl, Michoacán	Uto-Aztecan	Mexico
 ncu-ncuNT.txt	ncu	Chumburung	Niger-Congo	Ghana
+ndg-ndg.txt	ndg	Ndengereko	Niger-Congo	Tanzania, United Republic of
 ndj-ndj.txt	ndj	Ndamba	Niger-Congo	Tanzania, United Republic of
 nfa-nfa.txt	nfa	Dhao	Austronesian	Indonesia
 ngp-ngp.txt	ngp	Ngulu	Niger-Congo	Tanzania, United Republic of
@@ -694,6 +691,7 @@ pon-pon.txt	pon	Pohnpeian	Austronesian	Micronesia, Federated States of
 pon-pon2006.txt	pon	Pohnpeian	Austronesian	Micronesia, Federated States of
 pon-pon2006a.txt	pon	Pohnpeian	Austronesian	Micronesia, Federated States of
 por-porblt.txt	por	Portuguese	Indo-European	Portugal
+por-porbr2018.txt	por	Portuguese	Indo-European	Portugal
 por-porbrbsl.txt	por	Portuguese	Indo-European	Portugal
 por-portft.txt	por	Portuguese	Indo-European	Portugal
 poy-poy.txt	poy	Pogolo	Niger-Congo	Tanzania, United Republic of
@@ -726,9 +724,12 @@ rai-rai.txt	rai	Ramoaaina	Austronesian	Papua New Guinea
 reg-reg.txt	reg	Kara	Niger-Congo	Tanzania, United Republic of
 rgu-rgu.txt	rgu	Rikou	Austronesian	Indonesia
 rkb-rkbNT.txt	rkb	Rikbaktsa	Language isolate	Brazil
-rmb-rmb.txt	rmb	Rembarrnga	Australian	Australia
 rmc-rmc.txt	rmc	Romani, Carpathian	Indo-European	Slovakia
+rmy-rmyArli.txt	rmy	Romani, Vlax	Indo-European	Romania
+rmy-rmyChergash.txt	rmy	Romani, Vlax	Indo-European	Romania
+rmy-rmyGurbet.txt	rmy	Romani, Vlax	Indo-European	Romania
 ron-ron1924.txt	ron	Romanian	Indo-European	Romania
+ron-ronBayash.txt	ron	Romanian	Indo-European	Romania
 ron-ronlsb.txt	ron	Romanian	Indo-European	Romania
 ron-ronludari.txt	ron	Romanian	Indo-European	Romania
 roo-roo.txt	roo	Rotokas	North Bougainville	Papua New Guinea
@@ -762,6 +763,8 @@ san-santib.txt	san	Sanskrit	Indo-European	India
 san-sanurd.txt	san	Sanskrit	Indo-European	India
 san-sanvel.txt	san	Sanskrit	Indo-European	India
 sbe-sbe.txt	sbe	Saliba	Austronesian	Papua New Guinea
+sbk-sbk.txt	sbk	Safwa	Niger-Congo	Tanzania, United Republic of
+sbs-sbs.txt	sbs	Kuhane	Niger-Congo	Namibia
 seh-seh.txt	seh	Sena	Niger-Congo	Mozambique
 sey-seyNT.txt	sey	Paicoca	Tucanoan	Ecuador
 sgb-sgb.txt	sgb	Ayta, Mag-antsi	Austronesian	Philippines
@@ -781,6 +784,7 @@ sny-sny.txt	sny	Saniyo-Hiyewe	Sepik	Papua New Guinea
 som-som.txt	som	Somali	Afro-Asiatic	Somalia
 soq-soq.txt	soq	Kanasi	Trans-New Guinea	Papua New Guinea
 soy-soy.txt	soy	Miyobe	Niger-Congo	Benin
+spa-spabes.txt	spa	Spanish	Indo-European	Spain
 spa-spablm.txt	spa	Spanish	Indo-European	Spain
 spa-spapddpt.txt	spa	Spanish	Indo-European	Spain
 spa-spaRV1909.txt	spa	Spanish	Indo-European	Spain
@@ -838,6 +842,7 @@ tgl-tglulb.txt	tgl	Tagalog	Austronesian	Philippines
 tgo-tgo.txt	tgo	Sudest	Austronesian	Papua New Guinea
 tgp-tgp.txt	tgp	Tangoa	Austronesian	Vanuatu
 tha-thaKJV.txt	tha	Thai	Kra-Dai	Thailand
+thd-thd.txt	thd	Kuuk Thayorre	Australian	Australia
 tif-tif.txt	tif	Tifal	Trans-New Guinea	Papua New Guinea
 tim-tim.txt	tim	Timbe	Trans-New Guinea	Papua New Guinea
 tiw-tiw.txt	tiw	Tiwi	Australian	Australia
@@ -876,7 +881,6 @@ tuf-tuf.txt	tuf	Tunebo, Central	Chibchan	Colombia
 tuo-tuoNT.txt	tuo	Tucano	Tucanoan	Brazil
 tur-turev.txt	tur	Turkish	Turkic	Turkey
 tvk-tvk.txt	tvk	Ambrym, Southeast	Austronesian	Vanuatu
-twi-aka.txt	twi	Twi	Niger-Congo	Ghana
 twi-twi.txt	twi	Twi	Niger-Congo	Ghana
 txq-txq.txt	txq	Tii	Austronesian	Indonesia
 txu-txuNT.txt	txu	Kayapó	Jean	Brazil
@@ -930,7 +934,6 @@ wer-wer.txt	wer	Amam	Trans-New Guinea	Papua New Guinea
 wim-wim.txt	wim	Wik-Mungkan	Australian	Australia
 wiu-wiu.txt	wiu	Witu	Trans-New Guinea	Papua New Guinea
 wiv-wiv.txt	wiv	Vitu	Austronesian	Papua New Guinea
-wlg-wlg.txt	wlg	Kunbarlang	Australian	Australia
 wmt-wmt.txt	wmt	Walmajarri	Australian	Australia
 wmw-wmw.txt	wmw	Mwani	Niger-Congo	Mozambique
 wnc-wnc.txt	wnc	Wantoat	Trans-New Guinea	Papua New Guinea
@@ -981,18 +984,19 @@ zai-zaiNT.txt	zai	Zapotec, Isthmus	Otomanguean	Mexico
 zaj-zaj.txt	zaj	Zaramo	Niger-Congo	Tanzania, United Republic of
 zam-zamNT.txt	zam	Zapotec, Miahuatlán	Otomanguean	Mexico
 zao-zaoNT.txt	zao	Zapotec, Ozolotepec	Otomanguean	Mexico
+zap-zapNT.txt	zap			
 zar-zarNT.txt	zar	Zapotec, Rincón	Otomanguean	Mexico
 zas-zasNT.txt	zas	Zapotec, Santo Domingo Albarradas	Otomanguean	Mexico
 zat-zatNTps.txt	zat	Zapotec, Tabaa	Otomanguean	Mexico
 zav-zavNT.txt	zav	Zapotec, Yatzachi	Otomanguean	Mexico
 zaw-zawNT.txt	zaw	Zapotec, Mitla	Otomanguean	Mexico
 zca-zcaNT.txt	zca	Zapotec, Coatecas Altas	Otomanguean	Mexico
+zga-zgam.txt	zga	Kinga	Niger-Congo	Tanzania, United Republic of
 zia-zia.txt	zia	Zia	Trans-New Guinea	Papua New Guinea
 ziw-ziw.txt	ziw	Zigula	Niger-Congo	Tanzania, United Republic of
 zlm-zlmKSZI.txt	zlm	Malay	Austronesian	Malaysia
 zos-zosNT.txt	zos	Zoque, Francisco León	Mixe-Zoquean	Mexico
 zpc-zpcNT.txt	zpc	Zapotec, Choapan	Otomanguean	Mexico
-zpi-zapNT.txt	zpi	Zapotec, Santa María Quiegolani	Otomanguean	Mexico
 zpl-zplNT.txt	zpl	Zapotec, Lachixío	Otomanguean	Mexico
 zpm-zpmNT.txt	zpm	Zapotec, Mixtepec	Otomanguean	Mexico
 zpo-zpoNT.txt	zpo	Zapotec, Amatlán	Otomanguean	Mexico
