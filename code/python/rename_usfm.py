@@ -253,45 +253,68 @@ def rename_files(renames):
                 f"Didn't rename {source_file.name} to {destination_file.name} because the destination file aleady exists."
             )
         else:
-            shutil.move(source_file, destination_file)
-            print(f"Renamed {source_file.name} to {destination_file.name}")
+            # shutil.move(source_file, destination_file)
+            print(f"Pretended to rename {source_file.name} to {destination_file.name}")
 
 
-# import machine.scripture.canon
-root_folder = Path("E:/Work/eBible/projects")
-root_folder = Path("E:/Work/eBible/private_projects")
-source_folders = [source_folder for source_folder in root_folder.iterdir()]
-print(f"Found {len(source_folders)} source folders")
+def get_usfm_files(folder):
+    return [
+            usfm_file
+            for usfm_file in folder.iterdir()
+            if usfm_file.is_file()
+            and usfm_file.name[2] == "-"
+            #and usfm_file.suffix.lower() == ".usfm"
+            #and usfm_file.name[3:6] in ALL_BOOK_IDS
+        ]
 
-for source_folder in source_folders:
-    source_files = [
-        source_file
-        for source_file in source_folder.iterdir()
-        if source_file.is_file()
-        and source_file.name[2] == "-"
-        and source_file.suffix.lower() == ".usfm"
-        and source_file.name[3:6] in ALL_BOOK_IDS
-    ]
-    if source_files:
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Rename eBible usfm files."
+    )
+    parser.add_argument(
+        "source",
+        type=Path,
+        help="Folder to search for usfm files to rename.",
+    )
+    args = parser.parse_args()
+
+    root_folder = args.source
+#    root_folder = Path("E:/Work/eBible/projects")
+#    root_folder = Path("E:/Work/eBible/private_projects")
+    source_folders = [source_folder for source_folder in root_folder.iterdir() if source_folder.is_dir()]
+    
+    # If there are no folders, look for files.
+    if not source_folders:
+        usfm_files = get_usfm_files(root_folder)
+        print(f"Found {len(usfm_files)} usfm_files in the folder: {root_folder}")
+    else:
+        usfm_files = []
+        for source_folder in source_folders:
+           usfm_files.extend(get_usfm_files(source_folder))
+        print(f"Found {len(usfm_files)} usfm_files in subfolders of the folder: {root_folder}")
+
+    if usfm_files:
         renames = sorted(
             [
-                (source_file, get_destination_file(source_file))
-                for source_file in source_files
+                (usfm_file, get_destination_file(usfm_file))
+                for usfm_file in usfm_files
             ]
         )
 
-        if renames:
-            source_file, destination_file = renames[0]
+    if renames:
+        source_file, destination_file = renames[0]
+        print(
+            f"Example rename from :  {source_file.name}   to   {destination_file.name}"
+        )
+        if not choose_yes_no("Continue with renaming? y/n?"):
+            exit()
 
-            print(f"Found {len(renames)} files to rename in {source_folder}.")
-            print(
-                f"Example rename from :  {source_file.name}   to   {destination_file.name}"
-            )
-            # if not choose_yes_no("Continue with renaming? y/n?"):
-            #    exit()
+        for source_file, destination_file in renames:
+            shutil.move(source_file, destination_file)
+            print(f"Renamed {source_file.name} to {destination_file.name}")
+        print(f"Renamed {len(renames)} files.")
+        
 
-            for source_file, destination_file in renames:
-                shutil.move(source_file, destination_file)
-            #    print(f"Renamed {source_file.name} to {destination_file.name}")
-            print(f"Renamed {len(renames)} files in {source_folder}.")
-            renames = []
+if __name__ == "__main__":
+    main()
