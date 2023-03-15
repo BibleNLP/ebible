@@ -246,15 +246,16 @@ def lower_extension(file):
         return file
 
 
-def rename_files(renames):
+def rename_files(folder):
+
     for source_file, destination_file in renames:
         if destination_file.is_file():
             print(
                 f"Didn't rename {source_file.name} to {destination_file.name} because the destination file aleady exists."
             )
         else:
-            # shutil.move(source_file, destination_file)
-            print(f"Pretended to rename {source_file.name} to {destination_file.name}")
+            shutil.move(source_file, destination_file)
+            #print(f"Pretended to rename {source_file.name} to {destination_file.name}")
 
 
 def get_usfm_files(folder):
@@ -286,14 +287,14 @@ def main():
     
     # If there are no folders, look for files.
     if not source_folders:
-        usfm_files = get_usfm_files(root_folder)
+        source_folders = [root_folder]    
         print(f"Found {len(usfm_files)} usfm_files in the folder: {root_folder}")
     else:
-        usfm_files = []
-        for source_folder in source_folders:
-           usfm_files.extend(get_usfm_files(source_folder))
-        print(f"Found {len(usfm_files)} usfm_files in subfolders of the folder: {root_folder}")
+        print(f"Found {len(source_folders)} folders in folder: {root_folder}")
 
+usfm_files = get_usfm_files(root_folder)
+
+    
     if usfm_files:
         renames = sorted(
             [
