@@ -51,7 +51,7 @@ def create_folders(
     """
     path = os.path.realpath(__file__)
     dir = os.path.dirname(path)
-    dir = dir.replace("code/python", "")
+    dir = dir.replace("code\python", "")
     os.chdir(dir)
     if not base_str:
         base: Path = Path("output")
