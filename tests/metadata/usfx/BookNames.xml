@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookNames>
+  <book code="MAT" abbr="Mat" short="Matthew" long="Matthew Tur Gewasin Kikirum" alt="" />
+  <book code="MRK" abbr="Mak" short="Mark" long="Mark Tur Gewasin Kikirum" alt="" />
+  <book code="LUK" abbr="Luk" short="Luke" long="Luke Tur Gewasin Kikirum" alt="" />
+  <book code="JHN" abbr="Jn" short="John" long="John Tur Gewasin Kikirum" alt="" />
+  <book code="ACT" abbr="Act" short="Acts" long="Tur Abarayah Hai Bowabow" alt="" />
+  <book code="ROM" abbr="Rom" short="Romans" long="Paul Ana Fef Rome Isah" alt="" />
+  <book code="1CO" abbr="1Cor" short="1 Corinthians" long="Paul Ana Fef Wantoro’ot Corinth Isah" alt="" />
+  <book code="2CO" abbr="2Cor" short="2 Corinthians" long="Paul Ana Fef Bairou’abin Corinth Isah" alt="" />
+  <book code="GAL" abbr="Gal" short="Galatians" long="Paul Ana Fef Galatia Isah" alt="" />
+  <book code="EPH" abbr="Eph" short="Ephesians" long="Paul Ana Fef Ephesis Isah" alt="" />
+  <book code="PHP" abbr="Php" short="Philippians" long="Paul Ana Fef Philippai Isah" alt="" />
+  <book code="COL" abbr="Col" short="Colossians" long="Paul Ana Fef Colossia isah" alt="" />
+  <book code="1TH" abbr="1Th" short="1 Thessalonians" long="Paul Ana Fef Thesalonika Isah" alt="" />
+  <book code="2TH" abbr="2Th" short="2 Thessalonians" long="Paul ana fef bairou’abin Thessalonika isah" alt="" />
+  <book code="1TI" abbr="1Tim" short="1 Timothy" long="1 Timothy" alt="" />
+  <book code="2TI" abbr="2Tim" short="2 Timothy" long="2 Timothy" alt="" />
+  <book code="TIT" abbr="Tit" short="Titus" long="Titus" alt="" />
+  <book code="PHM" abbr="Phm" short="Philemon" long="Paul Ana Fef Philemon Isan" alt="" />
+  <book code="HEB" abbr="Heb" short="Hebrews" long="Iti Fef I Hebrew Sabuw Isah" alt="" />
+  <book code="JAS" abbr="Jas" short="James" long="James Ana Fef" alt="" />
+  <book code="1PE" abbr="1Pet" short="1 Peter" long="1 Peter" alt="" />
+  <book code="2PE" abbr="2Pet" short="2 Peter" long="2 Peter" alt="" />
+  <book code="1JN" abbr="1Jn" short="1 John" long="1 John" alt="" />
+  <book code="2JN" abbr="2Jn" short="2 John" long="2 John" alt="" />
+  <book code="3JN" abbr="3Jn" short="3 John" long="3 John" alt="" />
+  <book code="JUD" abbr="Jud" short="Jude" long="Jude" alt="" />
+  <book code="REV" abbr="Rev" short="Revelation" long="Revelation" alt="" />
+</BookNames>
