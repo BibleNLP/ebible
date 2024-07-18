@@ -1,0 +1,539 @@
+dublin_core:
+  conformsto: 'rc0.2'
+  contributor:
+    - "Abera Wolde"
+    - "Andarge Arega"
+    - "Barnabas"
+    - "Burje Duro"
+    - "Dagmawi Wube"
+    - "Daniel"
+    - "Dereje"
+    - "Deresse"
+    - "Ermias Gezahegn"
+    - "Feben Alemayehu"
+    - "Fekadu"
+    - "Fikerte"
+    - "Fitehamlak"
+    - "Getachew Wolde Amanuel"
+    - "Getachew Yohannes"
+    - "girso"
+    - "Girum"
+    - "Kaleab Getachew"
+    - "LD"
+    - "Mene"
+    - "Mesfin Tesfaye"
+    - "Minas"
+    - "Negassa"
+    - "Pr. Ashebir"
+    - "Rev. Endale Awgichew"
+    - "Tekalign Shiferaw Demissie"
+    - "Tensae Amdeyesus"
+    - "Tersit Zewde"
+    - "Tizita M"
+    - "Tizita Zenebe"
+    - "Worku"
+    - "Zekarias"
+    - "Zelalem Assefa"
+    - "ዘላለም ቸርነት"
+  creator: 'Door43 World Missions Community'
+  description: 'An unrestricted literal Bible'
+  format: 'text/usfm'
+  identifier: 'ulb'
+  issued: '2020-12-27'
+  language:
+    identifier: 'am'
+    title: 'Amharic'
+    direction: 'ltr'
+  modified: '2020-12-27'
+  publisher: 'Door43'
+  relation:
+    - 'am/obs'
+    - 'am/obs-tn'
+    - 'am/obs-tq'
+    - 'am/tn'
+    - 'am/ta'
+    - 'am/tq'
+    - 'am/tw'
+  rights: 'CC BY-SA 4.0'
+  source:
+    -
+      identifier: 'ulb'
+      language: 'en'
+      version: '7'
+  subject: 'Bible'
+  title: 'Unlocked Literal Bible'
+  type: 'bundle'
+  version: '7.2'
+
+checking:
+  checking_entity:
+    - 'Dr. Woyta Woza'
+    - 'Getachew Yohannes'
+    - 'Worku Ejere'
+    - 'Girma Getahun'
+    - 'Simon Zekewos'
+  checking_level: '3'
+
+projects:
+  -
+    title: 'ኦሪት ዘፍጥረት'
+    versification: 'ufw'
+    identifier: 'gen'
+    sort: 1
+    path: './01-GEN.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ዘጸአት'
+    versification: 'ufw'
+    identifier: 'exo'
+    sort: 2
+    path: './02-EXO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ኦሪት ዘሌዋውያን'
+    versification: 'ufw'
+    identifier: 'lev'
+    sort: 3
+    path: './03-LEV.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ዘኁልቁ'
+    versification: 'ufw'
+    identifier: 'num'
+    sort: 4
+    path: './04-NUM.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ኦሪት ዘዳግም'
+    versification: 'ufw'
+    identifier: 'deu'
+    sort: 5
+    path: './05-DEU.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ኢያሱ'
+    versification: 'ufw'
+    identifier: 'jos'
+    sort: 6
+    path: './06-JOS.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'መሳፍንት'
+    versification: 'ufw'
+    identifier: 'jdg'
+    sort: 7
+    path: './07-JDG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ሩት'
+    versification: 'ufw'
+    identifier: 'rut'
+    sort: 8
+    path: './08-RUT.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '1ኛ ሳሙኤል'
+    versification: 'ufw'
+    identifier: '1sa'
+    sort: 9
+    path: './09-1SA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '2ኛ ሳሙኤል'
+    versification: 'ufw'
+    identifier: '2sa'
+    sort: 10
+    path: './10-2SA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '1ኛ ነገስት'
+    versification: 'ufw'
+    identifier: '1ki'
+    sort: 11
+    path: './11-1KI.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '2ተኛ ነገስት'
+    versification: 'ufw'
+    identifier: '2ki'
+    sort: 12
+    path: './12-2KI.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '1ኛ ዜና'
+    versification: 'ufw'
+    identifier: '1ch'
+    sort: 13
+    path: './13-1CH.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ሁለተኛ ዜና'
+    versification: 'ufw'
+    identifier: '2ch'
+    sort: 14
+    path: './14-2CH.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ዕዝራ'
+    versification: 'ufw'
+    identifier: 'ezr'
+    sort: 15
+    path: './15-EZR.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ነህምያ'
+    versification: 'ufw'
+    identifier: 'neh'
+    sort: 16
+    path: './16-NEH.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'አስቴር'
+    versification: 'ufw'
+    identifier: 'est'
+    sort: 17
+    path: './17-EST.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ኢዮብ'
+    versification: 'ufw'
+    identifier: 'job'
+    sort: 18
+    path: './18-JOB.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'መጽሐፈ መዝሙር'
+    versification: 'ufw'
+    identifier: 'psa'
+    sort: 19
+    path: './19-PSA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ምሳሌ'
+    versification: 'ufw'
+    identifier: 'pro'
+    sort: 20
+    path: './20-PRO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'መክብብ'
+    versification: 'ufw'
+    identifier: 'ecc'
+    sort: 21
+    path: './21-ECC.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'መኃልየ መኃልይ ዘሰለሞን'
+    versification: 'ufw'
+    identifier: 'sng'
+    sort: 22
+    path: './22-SNG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ኢሳይያስ'
+    versification: 'ufw'
+    identifier: 'isa'
+    sort: 23
+    path: './23-ISA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Jeremiah'
+    versification: 'ufw'
+    identifier: 'jer'
+    sort: 24
+    path: './24-JER.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ሰቆቃው ኤርሚያስ'
+    versification: 'ufw'
+    identifier: 'lam'
+    sort: 25
+    path: './25-LAM.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ሕዝቅኤል'
+    versification: 'ufw'
+    identifier: 'ezk'
+    sort: 26
+    path: './26-EZK.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ዳንኤል'
+    versification: 'ufw'
+    identifier: 'dan'
+    sort: 27
+    path: './27-DAN.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ሆሴዕ'
+    versification: 'ufw'
+    identifier: 'hos'
+    sort: 28
+    path: './28-HOS.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ትንቢተ ኢዩኤል'
+    versification: 'ufw'
+    identifier: 'jol'
+    sort: 29
+    path: './29-JOL.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'አሞጽ'
+    versification: 'ufw'
+    identifier: 'amo'
+    sort: 30
+    path: './30-AMO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ትንቢተ አብድዩ'
+    versification: 'ufw'
+    identifier: 'oba'
+    sort: 31
+    path: './31-OBA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ዮናስ'
+    versification: 'ufw'
+    identifier: 'jon'
+    sort: 32
+    path: './32-JON.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ትንቢተ ሚክያስ'
+    versification: 'ufw'
+    identifier: 'mic'
+    sort: 33
+    path: './33-MIC.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ትንቢተ ናሆም'
+    versification: 'ufw'
+    identifier: 'nam'
+    sort: 34
+    path: './34-NAM.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ዕንባቆም'
+    versification: 'ufw'
+    identifier: 'hab'
+    sort: 35
+    path: './35-HAB.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ሶፎንያስ'
+    versification: 'ufw'
+    identifier: 'zep'
+    sort: 36
+    path: './36-ZEP.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ሐጌ'
+    versification: 'ufw'
+    identifier: 'hag'
+    sort: 37
+    path: './37-HAG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ዘካርያስ'
+    versification: 'ufw'
+    identifier: 'zec'
+    sort: 38
+    path: './38-ZEC.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ትንቢተ ሚልክያስ'
+    versification: 'ufw'
+    identifier: 'mal'
+    sort: 39
+    path: './39-MAL.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'የማቴዎስ'
+    versification: ufw
+    identifier: 'mat'
+    sort: 40
+    path: './41-MAT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ማርቆስ'
+    versification: ufw
+    identifier: 'mrk'
+    sort: 41
+    path: './42-MRK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ሉቃስ'
+    versification: ufw
+    identifier: 'luk'
+    sort: 42
+    path: './43-LUK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ዮሐንስ'
+    versification: ufw
+    identifier: 'jhn'
+    sort: 43
+    path: './44-JHN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'የሐዋርያት ሥራ'
+    versification: ufw
+    identifier: 'act'
+    sort: 44
+    path: './45-ACT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ሮሜ'
+    versification: ufw
+    identifier: 'rom'
+    sort: 45
+    path: './46-ROM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1ኛ ቆሮንቶስ'
+    versification: ufw
+    identifier: '1co'
+    sort: 46
+    path: './47-1CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ቆሮንቶስ'
+    versification: ufw
+    identifier: '2co'
+    sort: 47
+    path: './48-2CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ገላቲያ'
+    versification: ufw
+    identifier: 'gal'
+    sort: 48
+    path: './49-GAL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ኤፌሶን'
+    versification: ufw
+    identifier: 'eph'
+    sort: 49
+    path: './50-EPH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ፊልጵስዩስ'
+    versification: ufw
+    identifier: 'php'
+    sort: 50
+    path: './51-PHP.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ቆላስይስ'
+    versification: ufw
+    identifier: 'col'
+    sort: 51
+    path: './52-COL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 ተሰሎንቄ'
+    versification: ufw
+    identifier: '1th'
+    sort: 52
+    path: './53-1TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ተሰሎንቄ'
+    versification: ufw
+    identifier: '2th'
+    sort: 53
+    path: './54-2TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 ጢሞቴዎስ'
+    versification: ufw
+    identifier: '1ti'
+    sort: 54
+    path: './55-1TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 ጢሞቴዎስ'
+    versification: ufw
+    identifier: '2ti'
+    sort: 55
+    path: './56-2TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ቲቶ'
+    versification: ufw
+    identifier: 'tit'
+    sort: 56
+    path: './57-TIT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ፊልሞና'
+    versification: ufw
+    identifier: 'phm'
+    sort: 57
+    path: './58-PHM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ዕብራዊያን'
+    versification: ufw
+    identifier: 'heb'
+    sort: 58
+    path: './59-HEB.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ያዕቆብ'
+    versification: ufw
+    identifier: 'jas'
+    sort: 59
+    path: './60-JAS.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1ኛ ጴጥሮስ'
+    versification: ufw
+    identifier: '1pe'
+    sort: 60
+    path: './61-1PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ጴጥሮስ'
+    versification: ufw
+    identifier: '2pe'
+    sort: 61
+    path: './62-2PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1ኛ ዬሐንስ'
+    versification: ufw
+    identifier: '1jn'
+    sort: 62
+    path: './63-1JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ዮሐንስ'
+    versification: ufw
+    identifier: '2jn'
+    sort: 63
+    path: './64-2JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '3ኛ ዮሐንስ'
+    versification: ufw
+    identifier: '3jn'
+    sort: 64
+    path: './65-3JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ይሁዳ'
+    versification: ufw
+    identifier: 'jud'
+    sort: 65
+    path: './66-JUD.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'የዮሐንስ ራእይ'
+    versification: ufw
+    identifier: 'rev'
+    sort: 66
+    path: './67-REV.usfm'
+    categories: [ 'bible-nt' ]
