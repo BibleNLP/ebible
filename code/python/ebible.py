@@ -41,7 +41,9 @@ EXCLUDE_ALPHANUMERICS = r"[^\w]"
 POST_PART = r"[a-z].+"
 
 
-def create_folders(base_str: str = "") -> tuple[Path, Path, Path, Path, Path]:
+def create_folders(
+    base_str: str = "",
+) -> tuple[Path, Path, Path, Path, Path, Path, Path, Path, Path, Path, Path]:
     """
     creates all the neccessary folders to download the catalog
     param base_str: the name of the base folder
@@ -49,7 +51,7 @@ def create_folders(base_str: str = "") -> tuple[Path, Path, Path, Path, Path]:
     """
     path = os.path.realpath(__file__)
     dir = os.path.dirname(path)
-    dir = dir.replace("code\python", "")
+    dir = dir.replace("code/python", "")
     os.chdir(dir)
     if not base_str:
         base: Path = Path("output")
@@ -104,7 +106,7 @@ def get_vrs_diffs() -> dict[str, dict[int, dict[int, list[str]]]]:
     gets the differences in versifications from vrs_difs.yaml
     return: the versification differences
     """
-    with open("code\python\\vrs_diffs.yaml", "r") as file:
+    with open("code/python/vrs_diffs.yaml", "r") as file:
         try:
             vrs_difs = yaml.safe_load(file)
         except yaml.YAMLError as exc:
@@ -148,6 +150,7 @@ def download_usfx(lang_code: str, temp: Path) -> bool:
     downloads the usfx file
     param lang_code: the language code of the bible
     param temp: the temporary folder
+    return: true if the download was successfull, false otherwise
     """
     r = requests.get(f"https://ebible.org/scriptures/{lang_code}_usfx.zip")
     if r.status_code == requests.codes.ok:
