@@ -1,0 +1,7 @@
+<ScriptureText>
+            <Versification>4</Versification>
+            <LanguageIsoCode>pes:::</LanguageIsoCode>
+            <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
+            <Naming BookNameForm="MAT" PostPart=".usfm" PrePart="" />
+            <DeterminedVersification>True</DeterminedVersification>
+            </ScriptureText>

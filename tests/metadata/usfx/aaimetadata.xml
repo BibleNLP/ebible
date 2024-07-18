@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DBLMetadata id="06aba17553566fe2" type="text" typeVersion="1.5">
+  <identification>
+    <name>Minaifia NT</name>
+    <nameLocal>TUR GEWASIN O BAIBASIT BOUBUN</nameLocal>
+    <abbreviation>aai</abbreviation>
+    <abbreviationLocal>AAI</abbreviationLocal>
+    <scope>NT</scope>
+    <description>The New Testament in the Miniafia Language of Oro Province, Papua New Guinea</description>
+    <dateCompleted>2009</dateCompleted>
+    <systemId fullname="Minaifia NT" name="" type="paratext" />
+    <bundleProducer />
+  </identification>
+  <confidential>false</confidential>
+  <language>
+    <iso>aai</iso>
+    <name>Miniafia</name>
+    <nameLocal>Miniafia</nameLocal>
+    <ldml />
+    <rod />
+    <script>Latin</script>
+    <scriptDirection>LTR</scriptDirection>
+    <numerals>Arabic</numerals>
+  </language>
+  <country>
+    <iso>PG</iso>
+    <name>Papua New Guinea</name>
+  </country>
+  <type>
+    <translationType>New</translationType>
+    <audience>Common</audience>
+  </type>
+  <bookNames>
+    <book code="MAT">
+      <long>Matthew Tur Gewasin Kikirum</long>
+      <short>Matthew</short>
+      <abbr>Mat</abbr>
+    </book>
+    <book code="MRK">
+      <long>Mark Tur Gewasin Kikirum</long>
+      <short>Mark</short>
+      <abbr>Mak</abbr>
+    </book>
+    <book code="LUK">
+      <long>Luke Tur Gewasin Kikirum</long>
+      <short>Luke</short>
+      <abbr>Luk</abbr>
+    </book>
+    <book code="JHN">
+      <long>John Tur Gewasin Kikirum</long>
+      <short>John</short>
+      <abbr>Jn</abbr>
+    </book>
+    <book code="ACT">
+      <long>Tur Abarayah Hai Bowabow</long>
+      <short>Acts</short>
+      <abbr>Act</abbr>
+    </book>
+    <book code="ROM">
+      <long>Paul Ana Fef Rome Isah</long>
+      <short>Romans</short>
+      <abbr>Rom</abbr>
+    </book>
+    <book code="1CO">
+      <long>Paul Ana Fef Wantoro’ot Corinth Isah</long>
+      <short>1 Corinthians</short>
+      <abbr>1Cor</abbr>
+    </book>
+    <book code="2CO">
+      <long>Paul Ana Fef Bairou’abin Corinth Isah</long>
+      <short>2 Corinthians</short>
+      <abbr>2Cor</abbr>
+    </book>
+    <book code="GAL">
+      <long>Paul Ana Fef Galatia Isah</long>
+      <short>Galatians</short>
+      <abbr>Gal</abbr>
+    </book>
+    <book code="EPH">
+      <long>Paul Ana Fef Ephesis Isah</long>
+      <short>Ephesians</short>
+      <abbr>Eph</abbr>
+    </book>
+    <book code="PHP">
+      <long>Paul Ana Fef Philippai Isah</long>
+      <short>Philippians</short>
+      <abbr>Php</abbr>
+    </book>
+    <book code="COL">
+      <long>Paul Ana Fef Colossia isah</long>
+      <short>Colossians</short>
+      <abbr>Col</abbr>
+    </book>
+    <book code="1TH">
+      <long>Paul Ana Fef Thesalonika Isah</long>
+      <short>1 Thessalonians</short>
+      <abbr>1Th</abbr>
+    </book>
+    <book code="2TH">
+      <long>Paul ana fef bairou’abin Thessalonika isah</long>
+      <short>2 Thessalonians</short>
+      <abbr>2Th</abbr>
+    </book>
+    <book code="1TI">
+      <long>1 Timothy</long>
+      <short>1 Timothy</short>
+      <abbr>1Tim</abbr>
+    </book>
+    <book code="2TI">
+      <long>2 Timothy</long>
+      <short>2 Timothy</short>
+      <abbr>2Tim</abbr>
+    </book>
+    <book code="TIT">
+      <long>Titus</long>
+      <short>Titus</short>
+      <abbr>Tit</abbr>
+    </book>
+    <book code="PHM">
+      <long>Paul Ana Fef Philemon Isan</long>
+      <short>Philemon</short>
+      <abbr>Phm</abbr>
+    </book>
+    <book code="HEB">
+      <long>Iti Fef I Hebrew Sabuw Isah</long>
+      <short>Hebrews</short>
+      <abbr>Heb</abbr>
+    </book>
+    <book code="JAS">
+      <long>James Ana Fef</long>
+      <short>James</short>
+      <abbr>Jas</abbr>
+    </book>
+    <book code="1PE">
+      <long>1 Peter</long>
+      <short>1 Peter</short>
+      <abbr>1Pet</abbr>
+    </book>
+    <book code="2PE">
+      <long>2 Peter</long>
+      <short>2 Peter</short>
+      <abbr>2Pet</abbr>
+    </book>
+    <book code="1JN">
+      <long>1 John</long>
+      <short>1 John</short>
+      <abbr>1Jn</abbr>
+    </book>
+    <book code="2JN">
+      <long>2 John</long>
+      <short>2 John</short>
+      <abbr>2Jn</abbr>
+    </book>
+    <book code="3JN">
+      <long>3 John</long>
+      <short>3 John</short>
+      <abbr>3Jn</abbr>
+    </book>
+    <book code="JUD">
+      <long>Jude</long>
+      <short>Jude</short>
+      <abbr>Jud</abbr>
+    </book>
+    <book code="REV">
+      <long>Revelation</long>
+      <short>Revelation</short>
+      <abbr>Rev</abbr>
+    </book>
+    <book code="GLO">
+      <long>Tur afa hai yabih</long>
+      <short>glossary</short>
+      <abbr>glossary</abbr>
+    </book>
+  </bookNames>
+  <contents>
+    <bookList default="true" id="1">
+      <name>Minaifia NT</name>
+      <nameLocal>TUR GEWASIN O BAIBASIT BOUBUN</nameLocal>
+      <abbreviation>aai</abbreviation>
+      <abbreviationLocal>AAI</abbreviationLocal>
+      <description>common</description>
+      <descriptionLocal />
+      <books>
+        <book code="MAT" />
+        <book code="MRK" />
+        <book code="LUK" />
+        <book code="JHN" />
+        <book code="ACT" />
+        <book code="ROM" />
+        <book code="1CO" />
+        <book code="2CO" />
+        <book code="GAL" />
+        <book code="EPH" />
+        <book code="PHP" />
+        <book code="COL" />
+        <book code="1TH" />
+        <book code="2TH" />
+        <book code="1TI" />
+        <book code="2TI" />
+        <book code="TIT" />
+        <book code="PHM" />
+        <book code="HEB" />
+        <book code="JAS" />
+        <book code="1PE" />
+        <book code="2PE" />
+        <book code="1JN" />
+        <book code="2JN" />
+        <book code="3JN" />
+        <book code="JUD" />
+        <book code="REV" />
+        <book code="GLO" />
+      </books>
+    </bookList>
+  </contents>
+  <contact>
+    <rightsHolder>anonymous</rightsHolder>
+    <rightsHolderLocal>anonymous</rightsHolderLocal>
+    <rightsHolderAbbreviation>A</rightsHolderAbbreviation>
+    <rightsHolderURL />
+    <rightsHolderFacebook />
+  </contact>
+  <copyright>
+    <statement contentType="xhtml">
+      <p>Copyright © 2009. 
+
+</p>
+    </statement>
+  </copyright>
+  <promotion>
+    <promoVersionInfo contentType="xhtml">
+      <p>Copyright © 2009. 
+
+
+This work is made available to you under the terms of the Creative Commons Attribution-Noncommercial-No Derivative Works license at https://creativecommons.org/licenses/by-nc-nd/4.0/.
+</p>
+    </promoVersionInfo>
+    <promoEmail contentType="xhtml">Thank you for downloading TUR GEWASIN O BAIBASIT BOUBUN! Now you'll have anytime, anywhere access to God's Word on your mobile device—even if 
+you're outside of service coverage or not connected to the Internet. It also means faster service whenever you read that version since it's 
+stored on your device. Enjoy! This download was made possible by anonymous. We really appreciate their passion for making the Bible available to millions of people around the world. Because of 
+their generosity, people like you can open up the Bible and hear from God no matter where you are. You can learn more about them at .</promoEmail>
+  </promotion>
+  <archiveStatus>
+    <archivistName />
+    <dateArchived />
+    <dateUpdated />
+    <comments />
+  </archiveStatus>
+  <format>text/xml</format>
+</DBLMetadata>

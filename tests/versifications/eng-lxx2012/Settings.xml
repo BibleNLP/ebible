@@ -1,0 +1,7 @@
+<ScriptureText>
+            <Versification>2</Versification>
+            <LanguageIsoCode>eng-lxx2012:::</LanguageIsoCode>
+            <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
+            <Naming BookNameForm="46-MAT" PostPart="eng-lxx2012.usfm" PrePart="" />
+            <DeterminedVersification>True</DeterminedVersification>
+            </ScriptureText>
