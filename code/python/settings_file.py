@@ -239,9 +239,7 @@ def check_vref(
 def get_book_names(project_folder: Path) -> list[str]:
     """
     gets the book names from the specified bible
-    param lang_code: the language code of the bible
-    param include_file_names: indicates whether to include file names in the list or not
-    param projects: the projects folder
+    param project_folder: the path to the project folder
     return: a list of book names with their corresponding file names
     """
     names = []
@@ -257,18 +255,15 @@ def get_book_names(project_folder: Path) -> list[str]:
 def write_temp_settings_file(project_folder: Path) -> None:
     """
     writes a temporary settings file as a place holder to be able to determine the versification
-    param lang_code: the language code of the bible
-    param projects: the projects folder
+    param project_folder: the path to the project folder
     """
-    if not "Settings.xml" in listdir(project_folder):
-        with open(project_folder / "Settings.xml", "w", encoding="utf-8") as set_file:
-            lang_code = str(project_folder).split("\\")[-1]
-            set_file.write(
-                f"""<ScriptureText>
-                <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
-                <Naming BookNameForm="46-MAT" PostPart="{lang_code}.usfm" PrePart="" />
-                </ScriptureText>"""
-            )
+    with open(project_folder / "Settings.xml", "w", encoding="utf-8") as set_file:
+        set_file.write(
+            f"""<ScriptureText>
+            <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
+            <Naming BookNameForm="46-MAT" PostPart="{project_folder.name}.usfm" PrePart="" />
+            </ScriptureText>"""
+        )
 
 
 def get_corpus(
@@ -276,9 +271,8 @@ def get_corpus(
 ) -> list[tuple[str, VerseRef, VerseRef]]:
     """
     creates a corpus of books found in vrs_diffs
-    param lang_code: the language code of the bible
+    param project_folder: the path to the project folder
     param vrs_diffs: the list of differences in the versifications
-    param projects: the projects folder
     return: the corpus from the available books in the specified bible
     """
     vrs_path = project_folder / "versification"
@@ -287,8 +281,7 @@ def get_corpus(
     for name in book_names:
         if name[0] in vrs_diffs.keys():
             shutil.copyfile(project_folder / name[1], vrs_path / name[1])
-    write_temp_settings_file(project_folder)
-    shutil.copyfile(project_folder / "Settings.xml", vrs_path / "Settings.xml")
+    write_temp_settings_file(vrs_path)
     corpus = ParatextTextCorpus(vrs_path)
     lines = list(extract_scripture_corpus(corpus, corpus))
     shutil.rmtree(vrs_path)
@@ -298,13 +291,11 @@ def get_corpus(
 def get_versification(
     project_folder: Path,
     vrs_diffs: dict[str, dict[int, dict[int, list[str]]]],
-) -> tuple[str, list[str]]:
+) -> str:
     """
     gets the versification of the given bible
-    param lang_code: the language code of the bible
+    param project_folder: the path to the project folder
     param vrs_diffs: the list of differences in the versifications
-    param log: the list of information about downloads
-    param projects: the projects folder
     return: the versification of the given bible
     """
     lines = get_corpus(project_folder, vrs_diffs)
