@@ -533,6 +533,7 @@ def main() -> None:
             corpus_folder,
             downloads_folder,
             private_corpus_folder,
+            private_projects_folder,
             projects_folder,
             metadata_folder,
             logs_folder,
