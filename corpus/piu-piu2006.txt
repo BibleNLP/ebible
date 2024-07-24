@@ -926,7 +926,6 @@ Tjikupalu kuliṉu yara, palumpa watjirra tjuṯangku watjaṉutjangka. Yalatjiy
 <range>
 <range>
 <range>
-<range>
 Tjikupanyangarri yankula ngururrpa munga maṉkurrpa ngarrirra, paluru waarrkana maṉkurrpa watjara wantirriyaṉu, palumpa kaaka Yitjuwunya watjantjaku. Waarrkana maṉkurrpaya maa tjarrparra maḻaku parrpaṯu yanu Tjikupala watjalkitja. “Yitjuwunyangarri ngalya yananyi pikaku tjilirratjarra tjuṯa, yantaṯa puupala.” Tjikupanyangarri kulira nguḻurringu. Palunyatjanu Tjikupalu tjapiṉu, Katutjanya, “Katutja, nyuntuṉin watjaṉu ngayuku ngurrakutu maḻaku yankunytjaku. Yiltaṉin ngampuṯu yaṉṯayaṉṯalku? Ngayuluṉanta nguḻulu tjapiṉi, ngayuku kaakalu pungkupayingka. Panyapaṉin yirriṯi watjaṉu, nyuntulanyatjun yaṉṯayaṉṯantjaku, ngayuku walytja ngaṉṯitja tjuṯa nyinanytjaku ngurra Kayinanala, palya. Kanalalanyatju mirri pungkupayingka, maama tjuṯa anta pipirri tjuṯa!” Mungangkaya ngarrirra Tjikupalu pakara nanikuta tjuṯa kapuṯura wantingu, tuu yantaṯan tuuntiyi, Yitjuwuku wantirriyalkitjalu. Paluru palumpa waarrkana tjuṯa yaḻṯirra watjaṉu, “Nanikuta ngaanpanyaya kati yurrunpa!, ngayuluṉa ngaangka nyinanyingka. Yitjuwulu nyurranya nyakula yalatjilu tjapilku, ‘Nanikuta ngaan tjuṯa nganaku? Yaalytjikutunyurra katinyi?’ Yalatjiluya watjala! ‘Ngaa tjuṯa yinytjanulunta yiyaṉu, nyuntupa waarrkanalu, Tjikupalu. Paluru maḻawana ngalya yananyi.’” Palunyatjanu Tjikupalu waarrkana kutjupa tjuṯanya yaḻṯirra watjaṉu, “Nanikuta tjuṯaya katingu. Ngaṉṯiwanaluya tjiipi tjuṯa kati!, tuu yantaṯan tuuntiyi. Ngayuluṉa nyinanyi. Yitjuwulu nyurranya nyakula yalatjilu tjapilku, ‘Tjiipi ngaan tjuṯa nganaku? Yaalytjikutunyurra katinyi?’ Yalatjiluya watjala!, ‘Ngaa tjuṯa yinytjanulunta yiyaṉu, nyuntupa waarrkanalu, Tjikupalu. Paluru maḻawana ngalya yananyi.’” Palulanguru piyuku paluru wantirriyaṉu kamula wiima tjaatiyipala anta puluka pipitiyipala, tuungkiyi tjaatiyipala. Tjikupalu kulira wantirriyaṉura, “Yitjuwulu kuka tjuṯa nyakula tjingurutju kalyparriku, yirriṯiṉa ngayulu ngunytjilyinutjangka.”
 <range>
 <range>
@@ -959,6 +958,7 @@ Tjikupalu tjananya watjara iyaṉu palumpa walytja tjuṯanya yurrunpa yankunytj
 <range>
 <range>
 <range>
+
 Tjikupalu tjananya nyangu waṉmanguru Yitjuwunyangarri ngalya yananyingka, tjilirratjarra tjuṯa. Palulanguru nyakula kungka waarrkana palunya kutjarra maamararranpa tjananya Tjikupalu yurrunpa ngaratjunu. Ngaṉṯiwana tjananya ngaratjunu Liiyanya anta Riitjilanya, pipirri tjuṯatjarra. Tjikupalu tjananya ngaratjunkula maa wayintarrirra Yitjuwukutu maa yankula tjaṉṯarrngarala pupakatingu, tjapanpalangara. Yalatjiya yurrunpa palyalpayi yunngurrirraya pakalpayi, mayutju tiṉa ngalya yananyingka. Yitjuwulu nuumilara ngalya tjalkaḻungkula Tjikupanya yampura nyunytjuṉu. Yampurapula yulangi. Yitjuwulu nyakula tjapiṉu, “Ngananyangarri nyarratja?” Tjikupalu watjaṉu, “Mayutju Kututjaluṉi yungu pipirri nyarra tjuṯa.” Palunyatjanupula rawa wangkangi. Yitjuwunyalpi wangkangu, “Katikulatju nyurranya ngayuku ngurrakutu, kutjupa tjuṯalu nyurranya pungkutjipingkamarra.” Tjikupalu watjaṉu, “Wiya, nganaṉatju maḻawana maa yankuku, purinypa. Nyurrangarri yurrunpa maa yarra!” Palunyatjanu Tjikupanyangarri ngaṉṯiwana paṉa Kayinanalakutu maa anangi. Yankulaya ngurra Tjakutjala nyinangi. Palunyatjanu yankulaya tawunu Tjikimala yila nguwanpa nyinangi.
 <range>
 <range>
@@ -1709,6 +1709,10 @@ Mayutju Katutjalu Muutjalakutu yalatji watjaṉu, “Mayutju tiṉa paluru yilta
 <range>
 <range>
 <range>
+
+
+
+
 Mayutju Katutjalu Muutjangka yalatji wangkangu, “Mayutju Piirulakutu yankula watjala yalatjingku!, ‘Ngayuku walytja tjuṯa tjananya kanyilwiyangku wantirriyala!, yankulaya ngayunya waḻkuntjaku. Nyuntu kutu tjananya kanyiṉi yitjipungkula wantirriyalwiyangku. Ngayulu nyurrangarrimpa wantirriyalku ngaṉngi tjuṯa, Yitjipinya ngurrara tjuṯakuṉa waaḻawana, ngurra kutjupa kutjupawanaṯarra. Karruwana waaḻa tjuṯawana nyuntupa waaḻawana, yinytjamiwana kaṉilpa tjuṯawanaṯarra. Ngurra kutjupa kutjupawana ngaṉngi maa tjuṯarringku.’” Katutjalu Muutjanya piyuku watjaṉu Yiranalu palumpa watiya katura kanyintjaku kapi tjuṯangka. Yalatji kanyiṉingka ngaṉngi tjuṯalingkuya mantanguru ngurra Yitjipila nyinarra waṉingi. Palulanguru mayutju Piirululpi pulanya Muutjanyakamu Yirananya yaḻṯingu. Ngalya yankulapula ngaranytjala, mayutju paluru pulanya watjaṉu, “Nyuntupa mayutju tiṉanyapula tjapila!, ngaṉngi tjuṯanya yiyantjaku, ngurra waṉmalingku katirra wiyantjaku. Ngayuluṉa wantirriyalku nyupalimpa walytja tjuṯanya, tjana yankula kunaṯinpa pungkula yungkunytjaku.” Muutjalu Katutjanya tjapiṉu ngaṉngi tjuṯa tjanampa wiyantjaku. Ngaṉngi tjuṯa wiyarringutjangka nyakula mayutju paluru kutu tjananya kanyiṉingi, waarrkana waarrkarrinytjaku, Yitjurilaku walytja ngaṉṯitja tjuṯanya. Piirulu Muutjakukamu Yiranaku wangka wiya kuliṉu.
 <range>
 <range>
@@ -1729,10 +1733,6 @@ Mayutju Katutjalu Muutjala yalatji wangkangu, “Yirananya yalatji watjala!, pal
 <range>
 <range>
 Mayutju Katutjalu Muutjanya yalatji watjaṉu, “Karrukutu Piirunya paltjilkitja yananyingka, tjiṉṯungka nyuntu yankula tjungurriwa! Tjungurrira yalatji wangka!, ‘Ngayuku walytja tjuṯa tjananya kanyilwiyangku wantirriyala!, tjana ngayunya yankula waḻkuntjaku. Nyuntu tjananya kutu kanyiṉingka ngayulu nyurrangarrimpa yiyalku muungu tjuṯalingku. Paluru tjana tjarrpaku waaḻawana kutjupa kutjupawanaṯarra parra nyinaku. Ngurra waaḻangka yunngu tjarrparra puularriku, kanya ngayuku walytja tjuṯaku ngurrangka wiya. Tjiṉṯungka yatjikiluṉa muungu tjuṯa wantirriyalku. Manta Yitjipilawana muungu tjuṯarriku, nyakulanyurra kulilku ngayulu kuṉpu tiṉatjarrangku wantirriyantja. Ngayulu tjananya ngayuku walytja tjuṯa purinypalu kanyilku. Ngayuku walytja Yitjurilaku ngaṉṯitja tjuṯaṉa kanyiṉingka wiyaya muungutjarra nyinaku.’” Palulanguru Muutjalu yankula Piirula Katutjaku wangka tjakultjunu. Palulanguru Katutjalu muungu tjuṯalingku wantirriyaṉu. Nyarra palula Yitjipila nyinarra ruunytjarringu. Puṯu kulira Piirulu Muutjanyakamu Yirananya yaḻṯirra watjaṉu, “Palyanyurra manta ngaangka yila yankula kunaṯinpara yungkunytjaku, nyurrangarrimpa mayutju tiṉa.” Muutjalukamu Yiranalupula watjaṉu, “Wiyalatju paṉa ngaangka kunaṯinpa pungkunytjaku, Yitjipinya ngurralulanya nyakula ngurrira pungkupayingka. Nganaṉatju ngurra kutjupangka waṉma yankula kunaṯinpa pungkunytjaku, mayutju Katutjalu watjaṉutjangka.” Mayutju Piirulu watjaṉu, “Katutjanya tjapila!, muungu tjuṯa katirra wiyantjaku. Palyanyurra ngurra kutjupakutu yankunytjaku, waṉmawiya. Yilanyurra kunaṯinpa pungkula waḻkuntjaku.” Yilta Muutjalu tjapiṉu Katutjanya muungu tjuṯa wiyantjaku, palulanguru muungu tjuṯaya wiyarringu, kanya Piirulu tjananya ngunytji watjara militjitjingku kanyiṉingi, Yitjurilaku ngaṉṯitja tjuṯa.
-<range>
-<range>
-<range>
-<range>
 <range>
 <range>
 <range>
@@ -4228,21 +4228,6 @@ Palunyatjanuya yaṉangu tjuṯangku palunya tjuṯaku ngurra wantirra yankula w
 <range>
 <range>
 <range>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Mayutju Katutjalu Muutjanya watjaṉu, “Yaṉangu tjuṯaya walytjararranpa tuwalpala nyinarra waṉinyi. Walytjararranpa Ruupinaku ngaṉṯitja tjuṯa nyinanyi, mayutju tiṉa tjanampa. Walytjararranpa kutjupa Tjuutaku ngaṉṯitja tjuṯaku nyinanyi mayutju tiṉa kutjupa. Yalatjiya mayutju tuwalpala nyinanyi walytjararranpa tuwalpalakuṉu. Tjana watiya katiyankupayi, kaḻi nguwanpa. Nyuntu mayutju palunya tjuṯangka tjananya watjala!, tjanaya watiya palunya ngalya katirra nyuntunya yungkunytjaku. Mayutju kutjungkunta watiya yunganyingka, mantjira nyuntu watiya palula yini wakala!, mayutju palunya. Mayutju kutjupangkunta watiya yunganyingka, nyuntu mantjira watiya palula yini wakala!, mayutju palunya. Yalatji watiya tuwalpalangka mayutju yini tuwalpala wakala! Wakara watiya palunya tjuṯa katirra tjaatji kalikingka tjarrparra pukutju palula yila paṉangka tjurra!, puḻi wirulypa kutjarratjarrangka, watiya kutju ngarrirra yukiritjarrarrinytjaku. Yukiritjarrarrinytja yininyurra nyakula nintingku kulilku, mayutju ngayuluṉa nyinatjunutja.” Palunyatjanu Muutjalu watiya tjuṯa tjanampa mantjira yini wakaṉingi, watiya kutjuṯu kutjuṯungka, Yiranakuṉu watiyangkaṯarra. Watiya walytjangka Muutjalu mantjira wakalwiyangku wantingu. Mayutju kutjupa tjuṯaku kutju tjanampa watiya tjuṯangka wakara katirra tjunu. Mungawinki Muutjalu yankula tjaatji kalikingka tjarrpangu, watiya palunya tjuṯa ngurrtjalkitja. Paluru nyangu watiya kutju yukiritjarrarrirra ngarringitja, mayi yuṉmitjarra. Nyakula yini Yirananyalpi nyangu. Watiya tuwalpala palunya mantjira katirra Muutjalu tjananya nintiṉu, yaṉangu tjuṯa tjungu ngaranytjala. Watiya mangarritjarra nyakulaya yini Yirananyatjarra mayutju lipinpala paluru watiya walytjangku walytjangkuyanku mantjira kanyira waṉingi. Mayutju Katutjalu Muutjanya yalatji watjaṉu, “Yiranaku watiya mantjira maḻaku katirra tjaatji kalikingka tjurra!, pukutju palula, kutu ngarrinytjaku. Puṯu kulilpayi tjuṯangku watiya palunya mangarritjarra nyakula kulintjaku, ngayunya panypurangkuwiyangku.” Muutjalu watiya palunya mantjira katirra pakutju palula tjunkula wantingu.
 <range>
 <range>
@@ -4255,6 +4240,21 @@ Mayutju Katutjalu Muutjanya watjaṉu, “Yaṉangu tjuṯaya walytjararranpa tu
 <range>
 <range>
 <range>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Mayutju Katutjalu Yirananya yalatji watjaṉu, “Ngayuku tuḻkungka nyinarranyurra tjukarurru kaliki ngaangka palyantjaku. Wiyawanangkunyurra palyaṉingka ngayulu nyurrangarrinya pungku. Nyuntu Yirana kulila!, nyuntu, nyuntupa katja tjuṯaṯarra Lipayiku ngulytju ngaṉṯitja tjuṯa nyinanyi, kutjupa tjuṯaṯarraraya palumpa ngulytju ngaṉṯitja nyinanyi Lipayiku. Nyuntu tjananya yaḻṯi!, kalikiwanaya ngalya yankula waarrkarrinytjaku. Kalikingka yila kutjuya waarrkarrinytjaku, unnguwiya, yurilta kutju. Tuḻkuku mayutju tjuṯa kutjunyurra kalikingka yunngu waarrkarrinytjaku, yulytja palunya tjuṯawana. Tjawirrilyi kutjalpayiwanaṯarra nyurrangarri tuḻkuku mayutju tjuṯa waarrkarrinytjaku, wiya tjanaya Lipayiku ngaṉṯitja kutjupa tjuṯa palulawana waarrkarrinytjaku. Tjinguru Lipayiku ngaṉṯitja kutju waṯawaṯarringkula yulytja palulawana waarrkarrinyingka mirri pungkutjipingkaṉa. Paluru tjana kapi, waru yulytja kutjupaṯarra mantjira katirra kalikingka yurilta ila tjunkula waarrkarrinytjaku. Tjinguru yaṉangu kutjupangku ilarringkula kaliki palula ngayuku yulytja tjuṯa pampuṉingka, mirriṉa pungkutjipingka.”
 <range>
@@ -7772,7 +7772,6 @@ Tjuulalu Tapitanya aḻṯirra watjaṉu, “Nyuntu ngayuku ngurrangka waarrkarr
 
 
 
-
 (18:6-30; 19:; 21:; 23:; 24:; 26:) Tjuulalungarriya kuḻaṯatjarra tjuṯa Pilitjiyanya ngurrara tjuṯa mirri pungutjatjanu Tjarutjalumakutu maḻaku anangi. Yitjurilaku walytja kungka ngaṉṯitja tjuṯangku tawunu tjuṯatjanulu tjakulpa kulira pukuḻarrirra wanaṉu tjananya waḻkuntjakitjangku. Tjilirratjarra tjuṯangka ilawana taanytjirrirra inkayinangi. Alatji tjana inkayinangi, “Tjuulalungarri tjananya tjilirratjarra tjawutjuna kutju iluntanangi, kanya Tapitalungarri tjananya tjilirratjarra tjawutjuna tjuṯa iluntanangi. Tapitanya palyalingku.” Alatjiya ngunytji watjaṉu Tapitanya puḻkapungkunyingka kulira, Tjuulalu Tapitaku kuyarringkula alatji kuliṉu, “Tapitakuya puntura yunyparringanyi. Tjinguru Tapitanyalpiya mayutju tiṉa nyinatjunku ngayunyaṉiya wantirra, aṉangu tjuṯangku.” Palunyatjanu Tjuulanya Tapitaku kutu kuyarringkupayira. Palunyatjanu Tjuulaku ngurrangka Tapitalu kiitawu nguwanpa wangkatjingalpayi, Tjuulanya ataṉmankukitjangku. Palunyangka Tjuulalu Tapitaku mirrpaṉtjungku manguḻṯa wakara iluntankukitjangku puṯaṉu. Tapitalu nyakula tjirrkaṉu. Piyuku Tjuulalu manguḻpa palunya mantjira Tapitanya wakalkitjangku puṯaṉu, piyuku tjirrkantjala. Palunyatjanu Tjuulalu Tapitanya ngurra kutjupakutu wantirriyaṉu. Wantirriyara tjuṯaku mayutju nyinatjunu tjawutjuna kutjuku, ngurra waṉma Tapitanya kutu nyinanytjaku. Tapitalu tjananya pika tjuṯakutu katipayi. Tapitaku waarrkana tjuṯangku tjananya pikangku pungkula nguḻutjingara wantirriyalpayi, kutjupa ngurrara tjuṯa. Mayutju palya nyinanytjala, aṉangu minga Tapitaku yunypa nyinangi, Yitjurilaku walytja ngaṉṯitja tjuṯa, kanya Tjuulanya unytjuwiya nyinangi kutu. Tjuulalu yurrunpa watjaṉu palumpa yuṉṯalpa yurruntitja Tapitaku ungkukitjangku miiṯararrapula nyinanytjaku, Kulayitjanya Tapitalu iluntanutjangka. Tapitaku ungkukitjangku ngunytji tjangkura wati kutjupalpi ungu. Palunyatjanu Tjuulaku yuṉṯalpa kutjupa ini Maakulanya Tapitaku yunytjura nyinangi. Palunyatjanu Tjuulalu Tapitanyaya Pilitjiyanya ngurrara tjuṯangku iluntankunytjaku kuliṉu. Kulira waarrkanangka watjaṉu Tapitangka ankula alatji tjakultjunkunytjaku, “Nyuntu ngayuku waputju nyinaku yuṉṯalpa Maakulanyaṉanta unganyingka. Nyuntu Pilitjiyanya ngurrara antaṯa kutju mirri wakara ilytjanpa kuntara ngalya katinytjaku. Ngalya katirraṉin ungkunyangka uṉṯalpaṉanta ungku.” Tjuulalu kuliṉu, “Tapitalu kutjungku tjananya mirri punganyingka, Pilitjiyanya ngurrara tjuṯangkuya ngururrtjura ngaparrtjingku mirri pungkunytjaku.” Tjuulaku wangka uṉṯalpa ungkukitjalu watjantja waarrkanalu tjakultjunanyingka, Tapitalu kulira yunyparringu. Palunyatjanu Tapitalu tjananya palumpa kuḻaṯatjarra tjuṯa katingu Pilitjiyanya ngurrara tjuṯa pikangku pungkunytjaku. Paluru tjana tuu antaṯa tjuṯa tjananya wakara iluntara ilytjanpa kuntara mantjiṉangi. Ilytjanpa palunya tjuṯa ngalya katirra Tjuulala kurungka kaantamilara ungu. Palunyangka Tapitanya piyuku uti nyakula puṯu kuliṉu. Yalatji palurulpi kuliṉingi, “Katutjalukampa Tapitanya yaṉṯayaṉṯara kanaṉingi.” Palulanguru Tjuulalulpi palumpa uṉṯalpa Maakulanya Tapitanya ungu. Tjuulalu tjananya watjaṉu palumpa waarrkana tjuṯangka, Tjaanatjangkaṯarra, Tapitanya mirri pungkukitjangku. Tjaanatjalu Tjuulanya marrkuṉu wantinytjaku, palunyangka Tjuulanyara yaḻṯururrirra pungkuwiyangku wantikitjangku watjaṉu. Tapitanya piyuku yankula Tjuulaku waaḻangka waarrkarriyankupayi. Mamu panyapangku Tjuulanya nguḻutjingaṉingka, Tapitalu ataṉmankukitjangku mutjika wangkatjingaṉingi. Panyapa Tjuulalu marangku manguḻpa kanyira Tapitanya aṉangu yuti wakalkitjangku puṯaṉu. Tapitanya nguḻu tjirrkara pakara tjalkaḻungu. Tjuulalu piyuku aṉangu uti wakalpayingkamarra, Tapitanyaṯarraya palumpa waarrkanaṯarra tjuṯa tjalkaḻungu tawunu Naapakutu. Ngurra ngaa palula tjaatji ngarangi. Tjaatjiku mayutju tiṉangku ini Yayimalikalu kanyilpayi. Tapitalu Yayimalikangka ngatjiṉu mangarriku, kanya Yayimalikalu watjaṉu, “Mangarri ngayukuṉu walytjawiyaṉa kanyiṉi. Mangarri tjaati kutju ngarrinyi tjaatjingka ngarripayi. Luwu alatji ngaranyingka, miiṯangkanyurra kuwarri ngarrinytjawiyalu palya ngalkunytjaku.” Tapitalu watjaṉu, “Wiyalatju kuwarri miiṯawana ngarringi.” Palunyatjanu Yayimalikalu palumpa ngurrangka tjarrparra puriiti tjaati tjaatjingka tjunkula wantinytjatjanu mantjirara Tapitaku yungu. Tapitanya maralpa nguḻu ngalyankula tjaatji palulakutu yanu, Tjuulalamarra. Paluru Yayimalikanya tjapiṉu, “Kuḻaṯa, tjuuḻan kanyiṉi?” Yayimalikalu Kulayitjaku tjuuḻa waṯawara tjaatjingka ngaratjunkula wantingutja mantjira Tapitaku yungu. Palunyatjanu Tapitanyaṯarraya tawunu Kaatjakutu ankula nyinangi. Tapitanya ngunytji rama nguwanpa nyinangi, Pilitjiyanya ngurrara tjuṯangku mirri pungkupayingkamarra. Palunyatjanu Tapitaṯarraya tawunu Kaatja wantirra ankula kuḻpingka nyinangi. Palumpa kaaka tjuṯaya Tjuulakuṯarra nguḻurrirra Tapitakutu tjungurringu. Tjuṯarringkulaya nyinangi. Palunyatjanuya manta Muwapakutu ankula nyinayinu. Palunyatjanuya tawunu Kiilakutu ankula tjananya pikalu pungu, Pilitjiyanya ngurrara tjuṯa. Alatji tjananya pikangku pungkulaya wantirriyara Kiilanya ngurrara tjuṯa kanaṉu. Palunyatjanu Tapitanyaṯarraya Kiilangka nyinangi. Palunyangka Tjuulalu palumpa tjilirratjarra tjuṯa aḻṯingu, Tapitanyaṯarra tjananya wanaraya pungkukitjangku. Tjuulanyaṯarraya ngalya yananyingka, Tapitalungarriya tjakulpa kulira kurranyu anu puḻi murrpuwana nyinakitja. Palunyatjanu Tjuulaluṯarra tjanampa puṯu ngurriraya maḻaku anu ngurrakutu. Alatji Tjuulalungarriya Tapitanyaṯarra mirri pungkukitjangku tjuṯangara wanalpayi. Tjuulaluṯarra tjananya pungkukitjangkuya wanarankula ngururrpa ngarripayi, puliinangka ngururrpa, yurilta. Kutjarrangara Tapitalu Tjuulanya urilta, kuḻpingkaṯarra ngarriyananyingka wantingu, mirri pungkuwiyalu. Katutjalu mayutju nyinatjunkunytja kulira wantipayi mirri pungkuwiyangku. Tjuulalamarraya Tapitanyangarriya ngurra kutjupawana nyinayinangi.
 <range>
 <range>
@@ -7811,34 +7810,6 @@ Tjuulalu Tapitanya aḻṯirra watjaṉu, “Nyuntu ngayuku ngurrangka waarrkarr
 
 
 
-(18:6-30; 19:; 21:; 23:; 24:; 26:) Tjuulalungarriya kuḻaṯatjarra tjuṯa Pilitjiyanya ngurrara tjuṯa mirri pungutjatjanu Tjarutjalumakutu maḻaku anangi. Yitjurilaku walytja kungka ngaṉṯitja tjuṯangku tawunu tjuṯatjanulu tjakulpa kulira pukuḻarrirra wanaṉu tjananya waḻkuntjakitjangku. Tjilirratjarra tjuṯangka ilawana taanytjirrirra inkayinangi. Alatji tjana inkayinangi, “Tjuulalungarri tjananya tjilirratjarra tjawutjuna kutju iluntanangi, kanya Tapitalungarri tjananya tjilirratjarra tjawutjuna tjuṯa iluntanangi. Tapitanya palyalingku.” Alatjiya ngunytji watjaṉu Tapitanya puḻkapungkunyingka kulira, Tjuulalu Tapitaku kuyarringkula alatji kuliṉu, “Tapitakuya puntura yunyparringanyi. Tjinguru Tapitanyalpiya mayutju tiṉa nyinatjunku ngayunyaṉiya wantirra, aṉangu tjuṯangku.” Palunyatjanu Tjuulanya Tapitaku kutu kuyarringkupayira. Palunyatjanu Tjuulaku ngurrangka Tapitalu kiitawu nguwanpa wangkatjingalpayi, Tjuulanya ataṉmankukitjangku. Palunyangka Tjuulalu Tapitaku mirrpaṉtjungku manguḻṯa wakara iluntankukitjangku puṯaṉu. Tapitalu nyakula tjirrkaṉu. Piyuku Tjuulalu manguḻpa palunya mantjira Tapitanya wakalkitjangku puṯaṉu, piyuku tjirrkantjala. Palunyatjanu Tjuulalu Tapitanya ngurra kutjupakutu wantirriyaṉu. Wantirriyara tjuṯaku mayutju nyinatjunu tjawutjuna kutjuku, ngurra waṉma Tapitanya kutu nyinanytjaku. Tapitalu tjananya pika tjuṯakutu katipayi. Tapitaku waarrkana tjuṯangku tjananya pikangku pungkula nguḻutjingara wantirriyalpayi, kutjupa ngurrara tjuṯa. Mayutju palya nyinanytjala, aṉangu minga Tapitaku yunypa nyinangi, Yitjurilaku walytja ngaṉṯitja tjuṯa, kanya Tjuulanya unytjuwiya nyinangi kutu. Tjuulalu yurrunpa watjaṉu palumpa yuṉṯalpa yurruntitja Tapitaku ungkukitjangku miiṯararrapula nyinanytjaku, Kulayitjanya Tapitalu iluntanutjangka. Tapitaku ungkukitjangku ngunytji tjangkura wati kutjupalpi ungu. Palunyatjanu Tjuulaku yuṉṯalpa kutjupa ini Maakulanya Tapitaku yunytjura nyinangi. Palunyatjanu Tjuulalu Tapitanyaya Pilitjiyanya ngurrara tjuṯangku iluntankunytjaku kuliṉu. Kulira waarrkanangka watjaṉu Tapitangka ankula alatji tjakultjunkunytjaku, “Nyuntu ngayuku waputju nyinaku yuṉṯalpa Maakulanyaṉanta unganyingka. Nyuntu Pilitjiyanya ngurrara antaṯa kutju mirri wakara ilytjanpa kuntara ngalya katinytjaku. Ngalya katirraṉin ungkunyangka uṉṯalpaṉanta ungku.” Tjuulalu kuliṉu, “Tapitalu kutjungku tjananya mirri punganyingka, Pilitjiyanya ngurrara tjuṯangkuya ngururrtjura ngaparrtjingku mirri pungkunytjaku.” Tjuulaku wangka uṉṯalpa ungkukitjalu watjantja waarrkanalu tjakultjunanyingka, Tapitalu kulira yunyparringu. Palunyatjanu Tapitalu tjananya palumpa kuḻaṯatjarra tjuṯa katingu Pilitjiyanya ngurrara tjuṯa pikangku pungkunytjaku. Paluru tjana tuu antaṯa tjuṯa tjananya wakara iluntara ilytjanpa kuntara mantjiṉangi. Ilytjanpa palunya tjuṯa ngalya katirra Tjuulala kurungka kaantamilara ungu. Palunyangka Tapitanya piyuku uti nyakula puṯu kuliṉu. Yalatji palurulpi kuliṉingi, “Katutjalukampa Tapitanya yaṉṯayaṉṯara kanaṉingi.” Palulanguru Tjuulalulpi palumpa uṉṯalpa Maakulanya Tapitanya ungu. Tjuulalu tjananya watjaṉu palumpa waarrkana tjuṯangka, Tjaanatjangkaṯarra, Tapitanya mirri pungkukitjangku. Tjaanatjalu Tjuulanya marrkuṉu wantinytjaku, palunyangka Tjuulanyara yaḻṯururrirra pungkuwiyangku wantikitjangku watjaṉu. Tapitanya piyuku yankula Tjuulaku waaḻangka waarrkarriyankupayi. Mamu panyapangku Tjuulanya nguḻutjingaṉingka, Tapitalu ataṉmankukitjangku mutjika wangkatjingaṉingi. Panyapa Tjuulalu marangku manguḻpa kanyira Tapitanya aṉangu yuti wakalkitjangku puṯaṉu. Tapitanya nguḻu tjirrkara pakara tjalkaḻungu. Tjuulalu piyuku aṉangu uti wakalpayingkamarra, Tapitanyaṯarraya palumpa waarrkanaṯarra tjuṯa tjalkaḻungu tawunu Naapakutu. Ngurra ngaa palula tjaatji ngarangi. Tjaatjiku mayutju tiṉangku ini Yayimalikalu kanyilpayi. Tapitalu Yayimalikangka ngatjiṉu mangarriku, kanya Yayimalikalu watjaṉu, “Mangarri ngayukuṉu walytjawiyaṉa kanyiṉi. Mangarri tjaati kutju ngarrinyi tjaatjingka ngarripayi. Luwu alatji ngaranyingka, miiṯangkanyurra kuwarri ngarrinytjawiyalu palya ngalkunytjaku.” Tapitalu watjaṉu, “Wiyalatju kuwarri miiṯawana ngarringi.” Palunyatjanu Yayimalikalu palumpa ngurrangka tjarrparra puriiti tjaati tjaatjingka tjunkula wantinytjatjanu mantjirara Tapitaku yungu. Tapitanya maralpa nguḻu ngalyankula tjaatji palulakutu yanu, Tjuulalamarra. Paluru Yayimalikanya tjapiṉu, “Kuḻaṯa, tjuuḻan kanyiṉi?” Yayimalikalu Kulayitjaku tjuuḻa waṯawara tjaatjingka ngaratjunkula wantingutja mantjira Tapitaku yungu. Palunyatjanu Tapitanyaṯarraya tawunu Kaatjakutu ankula nyinangi. Tapitanya ngunytji rama nguwanpa nyinangi, Pilitjiyanya ngurrara tjuṯangku mirri pungkupayingkamarra. Palunyatjanu Tapitaṯarraya tawunu Kaatja wantirra ankula kuḻpingka nyinangi. Palumpa kaaka tjuṯaya Tjuulakuṯarra nguḻurrirra Tapitakutu tjungurringu. Tjuṯarringkulaya nyinangi. Palunyatjanuya manta Muwapakutu ankula nyinayinu. Palunyatjanuya tawunu Kiilakutu ankula tjananya pikalu pungu, Pilitjiyanya ngurrara tjuṯa. Alatji tjananya pikangku pungkulaya wantirriyara Kiilanya ngurrara tjuṯa kanaṉu. Palunyatjanu Tapitanyaṯarraya Kiilangka nyinangi. Palunyangka Tjuulalu palumpa tjilirratjarra tjuṯa aḻṯingu, Tapitanyaṯarra tjananya wanaraya pungkukitjangku. Tjuulanyaṯarraya ngalya yananyingka, Tapitalungarriya tjakulpa kulira kurranyu anu puḻi murrpuwana nyinakitja. Palunyatjanu Tjuulaluṯarra tjanampa puṯu ngurriraya maḻaku anu ngurrakutu. Alatji Tjuulalungarriya Tapitanyaṯarra mirri pungkukitjangku tjuṯangara wanalpayi. Tjuulaluṯarra tjananya pungkukitjangkuya wanarankula ngururrpa ngarripayi, puliinangka ngururrpa, yurilta. Kutjarrangara Tapitalu Tjuulanya urilta, kuḻpingkaṯarra ngarriyananyingka wantingu, mirri pungkuwiyalu. Katutjalu mayutju nyinatjunkunytja kulira wantipayi mirri pungkuwiyangku. Tjuulalamarraya Tapitanyangarriya ngurra kutjupawana nyinayinangi.
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
 
 (18:6-30; 19:; 21:; 23:; 24:; 26:) Tjuulalungarriya kuḻaṯatjarra tjuṯa Pilitjiyanya ngurrara tjuṯa mirri pungutjatjanu Tjarutjalumakutu maḻaku anangi. Yitjurilaku walytja kungka ngaṉṯitja tjuṯangku tawunu tjuṯatjanulu tjakulpa kulira pukuḻarrirra wanaṉu tjananya waḻkuntjakitjangku. Tjilirratjarra tjuṯangka ilawana taanytjirrirra inkayinangi. Alatji tjana inkayinangi, “Tjuulalungarri tjananya tjilirratjarra tjawutjuna kutju iluntanangi, kanya Tapitalungarri tjananya tjilirratjarra tjawutjuna tjuṯa iluntanangi. Tapitanya palyalingku.” Alatjiya ngunytji watjaṉu Tapitanya puḻkapungkunyingka kulira, Tjuulalu Tapitaku kuyarringkula alatji kuliṉu, “Tapitakuya puntura yunyparringanyi. Tjinguru Tapitanyalpiya mayutju tiṉa nyinatjunku ngayunyaṉiya wantirra, aṉangu tjuṯangku.” Palunyatjanu Tjuulanya Tapitaku kutu kuyarringkupayira. Palunyatjanu Tjuulaku ngurrangka Tapitalu kiitawu nguwanpa wangkatjingalpayi, Tjuulanya ataṉmankukitjangku. Palunyangka Tjuulalu Tapitaku mirrpaṉtjungku manguḻṯa wakara iluntankukitjangku puṯaṉu. Tapitalu nyakula tjirrkaṉu. Piyuku Tjuulalu manguḻpa palunya mantjira Tapitanya wakalkitjangku puṯaṉu, piyuku tjirrkantjala. Palunyatjanu Tjuulalu Tapitanya ngurra kutjupakutu wantirriyaṉu. Wantirriyara tjuṯaku mayutju nyinatjunu tjawutjuna kutjuku, ngurra waṉma Tapitanya kutu nyinanytjaku. Tapitalu tjananya pika tjuṯakutu katipayi. Tapitaku waarrkana tjuṯangku tjananya pikangku pungkula nguḻutjingara wantirriyalpayi, kutjupa ngurrara tjuṯa. Mayutju palya nyinanytjala, aṉangu minga Tapitaku yunypa nyinangi, Yitjurilaku walytja ngaṉṯitja tjuṯa, kanya Tjuulanya unytjuwiya nyinangi kutu. Tjuulalu yurrunpa watjaṉu palumpa yuṉṯalpa yurruntitja Tapitaku ungkukitjangku miiṯararrapula nyinanytjaku, Kulayitjanya Tapitalu iluntanutjangka. Tapitaku ungkukitjangku ngunytji tjangkura wati kutjupalpi ungu. Palunyatjanu Tjuulaku yuṉṯalpa kutjupa ini Maakulanya Tapitaku yunytjura nyinangi. Palunyatjanu Tjuulalu Tapitanyaya Pilitjiyanya ngurrara tjuṯangku iluntankunytjaku kuliṉu. Kulira waarrkanangka watjaṉu Tapitangka ankula alatji tjakultjunkunytjaku, “Nyuntu ngayuku waputju nyinaku yuṉṯalpa Maakulanyaṉanta unganyingka. Nyuntu Pilitjiyanya ngurrara antaṯa kutju mirri wakara ilytjanpa kuntara ngalya katinytjaku. Ngalya katirraṉin ungkunyangka uṉṯalpaṉanta ungku.” Tjuulalu kuliṉu, “Tapitalu kutjungku tjananya mirri punganyingka, Pilitjiyanya ngurrara tjuṯangkuya ngururrtjura ngaparrtjingku mirri pungkunytjaku.” Tjuulaku wangka uṉṯalpa ungkukitjalu watjantja waarrkanalu tjakultjunanyingka, Tapitalu kulira yunyparringu. Palunyatjanu Tapitalu tjananya palumpa kuḻaṯatjarra tjuṯa katingu Pilitjiyanya ngurrara tjuṯa pikangku pungkunytjaku. Paluru tjana tuu antaṯa tjuṯa tjananya wakara iluntara ilytjanpa kuntara mantjiṉangi. Ilytjanpa palunya tjuṯa ngalya katirra Tjuulala kurungka kaantamilara ungu. Palunyangka Tapitanya piyuku uti nyakula puṯu kuliṉu. Yalatji palurulpi kuliṉingi, “Katutjalukampa Tapitanya yaṉṯayaṉṯara kanaṉingi.” Palulanguru Tjuulalulpi palumpa uṉṯalpa Maakulanya Tapitanya ungu. Tjuulalu tjananya watjaṉu palumpa waarrkana tjuṯangka, Tjaanatjangkaṯarra, Tapitanya mirri pungkukitjangku. Tjaanatjalu Tjuulanya marrkuṉu wantinytjaku, palunyangka Tjuulanyara yaḻṯururrirra pungkuwiyangku wantikitjangku watjaṉu. Tapitanya piyuku yankula Tjuulaku waaḻangka waarrkarriyankupayi. Mamu panyapangku Tjuulanya nguḻutjingaṉingka, Tapitalu ataṉmankukitjangku mutjika wangkatjingaṉingi. Panyapa Tjuulalu marangku manguḻpa kanyira Tapitanya aṉangu yuti wakalkitjangku puṯaṉu. Tapitanya nguḻu tjirrkara pakara tjalkaḻungu. Tjuulalu piyuku aṉangu uti wakalpayingkamarra, Tapitanyaṯarraya palumpa waarrkanaṯarra tjuṯa tjalkaḻungu tawunu Naapakutu. Ngurra ngaa palula tjaatji ngarangi. Tjaatjiku mayutju tiṉangku ini Yayimalikalu kanyilpayi. Tapitalu Yayimalikangka ngatjiṉu mangarriku, kanya Yayimalikalu watjaṉu, “Mangarri ngayukuṉu walytjawiyaṉa kanyiṉi. Mangarri tjaati kutju ngarrinyi tjaatjingka ngarripayi. Luwu alatji ngaranyingka, miiṯangkanyurra kuwarri ngarrinytjawiyalu palya ngalkunytjaku.” Tapitalu watjaṉu, “Wiyalatju kuwarri miiṯawana ngarringi.” Palunyatjanu Yayimalikalu palumpa ngurrangka tjarrparra puriiti tjaati tjaatjingka tjunkula wantinytjatjanu mantjirara Tapitaku yungu. Tapitanya maralpa nguḻu ngalyankula tjaatji palulakutu yanu, Tjuulalamarra. Paluru Yayimalikanya tjapiṉu, “Kuḻaṯa, tjuuḻan kanyiṉi?” Yayimalikalu Kulayitjaku tjuuḻa waṯawara tjaatjingka ngaratjunkula wantingutja mantjira Tapitaku yungu. Palunyatjanu Tapitanyaṯarraya tawunu Kaatjakutu ankula nyinangi. Tapitanya ngunytji rama nguwanpa nyinangi, Pilitjiyanya ngurrara tjuṯangku mirri pungkupayingkamarra. Palunyatjanu Tapitaṯarraya tawunu Kaatja wantirra ankula kuḻpingka nyinangi. Palumpa kaaka tjuṯaya Tjuulakuṯarra nguḻurrirra Tapitakutu tjungurringu. Tjuṯarringkulaya nyinangi. Palunyatjanuya manta Muwapakutu ankula nyinayinu. Palunyatjanuya tawunu Kiilakutu ankula tjananya pikalu pungu, Pilitjiyanya ngurrara tjuṯa. Alatji tjananya pikangku pungkulaya wantirriyara Kiilanya ngurrara tjuṯa kanaṉu. Palunyatjanu Tapitanyaṯarraya Kiilangka nyinangi. Palunyangka Tjuulalu palumpa tjilirratjarra tjuṯa aḻṯingu, Tapitanyaṯarra tjananya wanaraya pungkukitjangku. Tjuulanyaṯarraya ngalya yananyingka, Tapitalungarriya tjakulpa kulira kurranyu anu puḻi murrpuwana nyinakitja. Palunyatjanu Tjuulaluṯarra tjanampa puṯu ngurriraya maḻaku anu ngurrakutu. Alatji Tjuulalungarriya Tapitanyaṯarra mirri pungkukitjangku tjuṯangara wanalpayi. Tjuulaluṯarra tjananya pungkukitjangkuya wanarankula ngururrpa ngarripayi, puliinangka ngururrpa, yurilta. Kutjarrangara Tapitalu Tjuulanya urilta, kuḻpingkaṯarra ngarriyananyingka wantingu, mirri pungkuwiyalu. Katutjalu mayutju nyinatjunkunytja kulira wantipayi mirri pungkuwiyangku. Tjuulalamarraya Tapitanyangarriya ngurra kutjupawana nyinayinangi.
 <range>
@@ -7862,6 +7833,35 @@ Tjuulalu Tapitanya aḻṯirra watjaṉu, “Nyuntu ngayuku ngurrangka waarrkarr
 <range>
 <range>
 <range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+(18:6-30; 19:; 21:; 23:; 24:; 26:) Tjuulalungarriya kuḻaṯatjarra tjuṯa Pilitjiyanya ngurrara tjuṯa mirri pungutjatjanu Tjarutjalumakutu maḻaku anangi. Yitjurilaku walytja kungka ngaṉṯitja tjuṯangku tawunu tjuṯatjanulu tjakulpa kulira pukuḻarrirra wanaṉu tjananya waḻkuntjakitjangku. Tjilirratjarra tjuṯangka ilawana taanytjirrirra inkayinangi. Alatji tjana inkayinangi, “Tjuulalungarri tjananya tjilirratjarra tjawutjuna kutju iluntanangi, kanya Tapitalungarri tjananya tjilirratjarra tjawutjuna tjuṯa iluntanangi. Tapitanya palyalingku.” Alatjiya ngunytji watjaṉu Tapitanya puḻkapungkunyingka kulira, Tjuulalu Tapitaku kuyarringkula alatji kuliṉu, “Tapitakuya puntura yunyparringanyi. Tjinguru Tapitanyalpiya mayutju tiṉa nyinatjunku ngayunyaṉiya wantirra, aṉangu tjuṯangku.” Palunyatjanu Tjuulanya Tapitaku kutu kuyarringkupayira. Palunyatjanu Tjuulaku ngurrangka Tapitalu kiitawu nguwanpa wangkatjingalpayi, Tjuulanya ataṉmankukitjangku. Palunyangka Tjuulalu Tapitaku mirrpaṉtjungku manguḻṯa wakara iluntankukitjangku puṯaṉu. Tapitalu nyakula tjirrkaṉu. Piyuku Tjuulalu manguḻpa palunya mantjira Tapitanya wakalkitjangku puṯaṉu, piyuku tjirrkantjala. Palunyatjanu Tjuulalu Tapitanya ngurra kutjupakutu wantirriyaṉu. Wantirriyara tjuṯaku mayutju nyinatjunu tjawutjuna kutjuku, ngurra waṉma Tapitanya kutu nyinanytjaku. Tapitalu tjananya pika tjuṯakutu katipayi. Tapitaku waarrkana tjuṯangku tjananya pikangku pungkula nguḻutjingara wantirriyalpayi, kutjupa ngurrara tjuṯa. Mayutju palya nyinanytjala, aṉangu minga Tapitaku yunypa nyinangi, Yitjurilaku walytja ngaṉṯitja tjuṯa, kanya Tjuulanya unytjuwiya nyinangi kutu. Tjuulalu yurrunpa watjaṉu palumpa yuṉṯalpa yurruntitja Tapitaku ungkukitjangku miiṯararrapula nyinanytjaku, Kulayitjanya Tapitalu iluntanutjangka. Tapitaku ungkukitjangku ngunytji tjangkura wati kutjupalpi ungu. Palunyatjanu Tjuulaku yuṉṯalpa kutjupa ini Maakulanya Tapitaku yunytjura nyinangi. Palunyatjanu Tjuulalu Tapitanyaya Pilitjiyanya ngurrara tjuṯangku iluntankunytjaku kuliṉu. Kulira waarrkanangka watjaṉu Tapitangka ankula alatji tjakultjunkunytjaku, “Nyuntu ngayuku waputju nyinaku yuṉṯalpa Maakulanyaṉanta unganyingka. Nyuntu Pilitjiyanya ngurrara antaṯa kutju mirri wakara ilytjanpa kuntara ngalya katinytjaku. Ngalya katirraṉin ungkunyangka uṉṯalpaṉanta ungku.” Tjuulalu kuliṉu, “Tapitalu kutjungku tjananya mirri punganyingka, Pilitjiyanya ngurrara tjuṯangkuya ngururrtjura ngaparrtjingku mirri pungkunytjaku.” Tjuulaku wangka uṉṯalpa ungkukitjalu watjantja waarrkanalu tjakultjunanyingka, Tapitalu kulira yunyparringu. Palunyatjanu Tapitalu tjananya palumpa kuḻaṯatjarra tjuṯa katingu Pilitjiyanya ngurrara tjuṯa pikangku pungkunytjaku. Paluru tjana tuu antaṯa tjuṯa tjananya wakara iluntara ilytjanpa kuntara mantjiṉangi. Ilytjanpa palunya tjuṯa ngalya katirra Tjuulala kurungka kaantamilara ungu. Palunyangka Tapitanya piyuku uti nyakula puṯu kuliṉu. Yalatji palurulpi kuliṉingi, “Katutjalukampa Tapitanya yaṉṯayaṉṯara kanaṉingi.” Palulanguru Tjuulalulpi palumpa uṉṯalpa Maakulanya Tapitanya ungu. Tjuulalu tjananya watjaṉu palumpa waarrkana tjuṯangka, Tjaanatjangkaṯarra, Tapitanya mirri pungkukitjangku. Tjaanatjalu Tjuulanya marrkuṉu wantinytjaku, palunyangka Tjuulanyara yaḻṯururrirra pungkuwiyangku wantikitjangku watjaṉu. Tapitanya piyuku yankula Tjuulaku waaḻangka waarrkarriyankupayi. Mamu panyapangku Tjuulanya nguḻutjingaṉingka, Tapitalu ataṉmankukitjangku mutjika wangkatjingaṉingi. Panyapa Tjuulalu marangku manguḻpa kanyira Tapitanya aṉangu yuti wakalkitjangku puṯaṉu. Tapitanya nguḻu tjirrkara pakara tjalkaḻungu. Tjuulalu piyuku aṉangu uti wakalpayingkamarra, Tapitanyaṯarraya palumpa waarrkanaṯarra tjuṯa tjalkaḻungu tawunu Naapakutu. Ngurra ngaa palula tjaatji ngarangi. Tjaatjiku mayutju tiṉangku ini Yayimalikalu kanyilpayi. Tapitalu Yayimalikangka ngatjiṉu mangarriku, kanya Yayimalikalu watjaṉu, “Mangarri ngayukuṉu walytjawiyaṉa kanyiṉi. Mangarri tjaati kutju ngarrinyi tjaatjingka ngarripayi. Luwu alatji ngaranyingka, miiṯangkanyurra kuwarri ngarrinytjawiyalu palya ngalkunytjaku.” Tapitalu watjaṉu, “Wiyalatju kuwarri miiṯawana ngarringi.” Palunyatjanu Yayimalikalu palumpa ngurrangka tjarrparra puriiti tjaati tjaatjingka tjunkula wantinytjatjanu mantjirara Tapitaku yungu. Tapitanya maralpa nguḻu ngalyankula tjaatji palulakutu yanu, Tjuulalamarra. Paluru Yayimalikanya tjapiṉu, “Kuḻaṯa, tjuuḻan kanyiṉi?” Yayimalikalu Kulayitjaku tjuuḻa waṯawara tjaatjingka ngaratjunkula wantingutja mantjira Tapitaku yungu. Palunyatjanu Tapitanyaṯarraya tawunu Kaatjakutu ankula nyinangi. Tapitanya ngunytji rama nguwanpa nyinangi, Pilitjiyanya ngurrara tjuṯangku mirri pungkupayingkamarra. Palunyatjanu Tapitaṯarraya tawunu Kaatja wantirra ankula kuḻpingka nyinangi. Palumpa kaaka tjuṯaya Tjuulakuṯarra nguḻurrirra Tapitakutu tjungurringu. Tjuṯarringkulaya nyinangi. Palunyatjanuya manta Muwapakutu ankula nyinayinu. Palunyatjanuya tawunu Kiilakutu ankula tjananya pikalu pungu, Pilitjiyanya ngurrara tjuṯa. Alatji tjananya pikangku pungkulaya wantirriyara Kiilanya ngurrara tjuṯa kanaṉu. Palunyatjanu Tapitanyaṯarraya Kiilangka nyinangi. Palunyangka Tjuulalu palumpa tjilirratjarra tjuṯa aḻṯingu, Tapitanyaṯarra tjananya wanaraya pungkukitjangku. Tjuulanyaṯarraya ngalya yananyingka, Tapitalungarriya tjakulpa kulira kurranyu anu puḻi murrpuwana nyinakitja. Palunyatjanu Tjuulaluṯarra tjanampa puṯu ngurriraya maḻaku anu ngurrakutu. Alatji Tjuulalungarriya Tapitanyaṯarra mirri pungkukitjangku tjuṯangara wanalpayi. Tjuulaluṯarra tjananya pungkukitjangkuya wanarankula ngururrpa ngarripayi, puliinangka ngururrpa, yurilta. Kutjarrangara Tapitalu Tjuulanya urilta, kuḻpingkaṯarra ngarriyananyingka wantingu, mirri pungkuwiyalu. Katutjalu mayutju nyinatjunkunytja kulira wantipayi mirri pungkuwiyangku. Tjuulalamarraya Tapitanyangarriya ngurra kutjupawana nyinayinangi.
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+<range>
+
 (25:1—28:25) Tjiḻpi Tjamiyulanya tuḻkuku mayutju rawa nyinarra wiyarringu. Aṉangu tjuṯaya ularra palumpa ngurrangka tawunu Ramangka tjunutjunu. Palunyatjanu Pilitjiyanya ngurrara tjuṯa tjilirratjarra tjuṯa ngalya anu, Yitjurilaku walytja ngaṉṯitja pikangku pungkukitja. Tawunu Tjunimangkaya ngalyankula nyinarra waṉingi, Pilitjiyanya ngurrara tjuṯa. Palunyatjanu Tjuulalu Yitjurilaku walytja ngaṉṯitja tjuṯa aḻṯingu, pika pungkukitja tjungurrinytjaku. Tjungurringkulaya nyinarra waṉingi, puḻi ini Kilpuwangka. Pilitjiyanya ngurrara tjilirratjarra tjuṯa tjuṯarrinytjala tjananya nyakula Tjuulalu nguḻunguḻurringkula puṯu kulira Katutjanya tjapiṉu. Katutjalu kulira wantingu. Mungangka ngarrirra tjukurrpa nyakunytjala Katutjalu nintilwiyangku wantingu. Katutjaku wangka nintilpayi kutjupalu wiya ngalyankula Tjuulanya nintiṉu. Yilta Tjuulalu Katutjanya puṯu tjapira wantingu. Yurrunpa tjananya Tjuulalu aṉangu kuya tjuṯa mamukutu wangkapayi tjuṯa, payira wantirriyaṉu ngurra kutjupangkalpiya waṉma nyinanytjaku. Pilitjiyanya ngurrara tjuṯangku tjananya pungkutjipingka, Tjuulalu Katutjanya puṯu tjapira waarrkana tjuṯangka watjaṉu, ankula kungka mamukutu wangkapayiku ngurrira mantjintjaku. Ngurrira nyakula ngalya yankulaya Tjuulangka alatji watjaṉu, “Tawunu Yintungka kungka mamukutu wangkapayi nyinanyi.” Tjuulanya mantarra kutjupangka tjarrparra mungangka anu wati kuyakuya nguwanpa kungka palulakutu. Tjunguya anu waarrkana kutjarra. Yini watjantjawiyangku Tjuulalu kungka palula tjapiṉu, mamungka aḻṯirra tjapilkitjangku. Tjuulalu kutu tjapiṉu alatji, “Wati mirringka wangkakitjaṉa unytjurringanyi. Yiniṉanta tjapilku?” Kungka paluru wati kutjupa wiyawanangku kulira Tjuulanya alatji marrkuṉu, “Kulila alatji! Mayutju tiṉangku Tjuulalu watjaṉu, aṉangu mamungka wangkapayi tjuṯalanyatju mirri pungkukitjangku, ngurra waṉmalatju ankula nyinanytjawiyangka. Nyaakuṉin tjapiṉi, mirrikutu wangkakitjangku? Wangkanyingkaṉa Tjuulaluṯarraṉiya mirri pungkutjipingka.” Tjuulalu tjukarurru alatji watjaṉu, “Katutjangka mirangka tjukarurruṉanta watjaṉi, wiyaṉanta tjakultjunku mayutju Tjuulangka. Wiyantaya ngalya ankula mirri pungku.” Kungka paluru kulira tjapiṉu, “Mirri nganakuṉangku tjapilku?” Tjuulalu watjaṉu, “Tjamiyulaku.” Kungka paluru tjukurrpa nguwanpa nyakula mirrangu Tjamiyulanya nyakula. Tjuulangkalpira watjaṉu, “Nyaakuṉin ngunytji watjaṉu? Nyuntu yilta mayutju tiṉa Tjuulanya nyinanyi.” Tjuulalu watjaṉu, “Nguḻurriwiyangkuṉi tjukarurru watjala! Nyaa nguwanpan nyangu?” Kungkalu watjaṉu, “Tjiḻpiṉa nyanganyi ngalya ananyingka, kuuta tiṉatjarra.” Palunyatjanu Tjamiyulalu Tjuulangka alatji tjapiṉu, “Nyaakuṉin aḻṯingu?, ngayunya wantiwiyangku.” Tjuulalu watjaṉu, “Puṯuṉa kuliṉi, Katutjaluṉi wantinytjala. Pilitjiyanya ngurrara tjuṯaya ngarala waṉinyi nganaṉanya pungkukitja. Yaalytjinkulatju? Nyuntulpiṉi nintila!, tjukarurrulatju tjananya pungkula wantirriyantjaku.” Tjamiyulalu Tjuulangka watjaṉu, “Nyuntu wiyawana nyinangutjangkanta Katutjalu wantingu. Palunyangka wiyaṉin aḻṯirra tjapintjaku, nintirrikitjangku. Waṯalpi, Tapitanyalpi mayutju tiṉa tjanampa nyinaku. Tjiṉṯungka nyurrangarrinya Pilitjiyanya ngurrara tjuṯangku mirri pungku, nyuntunya, nyuntupa katja tjuṯaṯarra. Paluru tjana nyuntunya, tjilirratjarra tjuṯaṯarra tjananya mirri pungkuyinkula nguḻutjingara wantirriyalku, Yitjurilaku walytja ngaṉṯitja tjuṯanya.” Wangka alatji kulira Tjuulanya punkara ngarringi nguḻunguḻurringkula. Ngurra palula mangarri ngalkura Tjuulanyaṯarraya maḻaku anu mungangka, palumpa tjilirratjarra tjuṯakutu.
 <range>
 <range>
@@ -8511,7 +8511,7 @@ Katja wiimapaṯu palunya wiyarringutjangka, Patjipanya yurrukulira yulangu. Pal
 <range>
 <range>
 <range>
-<range>
+
 
 
 
@@ -8865,20 +8865,6 @@ Waaḻa kutjungka kungka kutjarra nyinangu. Ngurra palulakutu wati tjuṯaya ank
 
 
 (4:20-34; 10:1-13) Tjalamunaku waarrkana tjuṯalingku nyinangu. Waarrkana kutjupa tuwalpala tjananya Tjalamunalu mayutju tjuṯa nyinatjunu, ngurra kutjupa kutjupangkaya nyinanytjaku. Mayikamu kuka tjananya yaṉangu tjuṯangka mantjira katipayi, mayutju Tjalamunaku, ngurra Tjarutjalumalakutu. Tjalamunalu tjananya tjukarurru kanyiṉingitjangka, Yitjurilaku walytja ngaṉṯitja tjuṯa yunypa nyinarra waṉingi mayikukamu kukaku puṯu kulintjawiya. Tjalamunaku waarrkana mingaya nyinarra waṉingi. Kutjupa ngurrara tjuṯaṯarra tjanampa Tjalamunanya mayutju tiṉa nyinangi, karru Yupurititjalakutu maa nyinarra waṉinytja tjuṯaku, Pilitjiyanya ngurrara tjuṯakuṯarra, paṉa Yitjipilakutu maa nyinarra waṉinytja tjuṯakuṯarra. Tjuṯangkuya mayutju Tjalamunaku mani yulytjaṯarra ngurrtjara yungkula nyinapayi. Palunyatjanu Tjalamunanya manikamu yulytja tiṉatjarra nyinangi, mayikamu kuka tiṉatjarra. Ninti tiṉangku piipangka yara wakalpayi, tuḻku tjuṯa nintilkitjangku, warrantjakuya. Yukiri yuwankarraku Tjalamunanya nintilingku nyinapayi. Kuka paṉangka nyinanytja tjuṯaku, tjuḻpu tjuṯaku, kuka yuru ngurrara tjuṯaku, yuwankarraku Tjalamunanya ninti nyinapayi. Kutjupa kutjupa ngurrara tjuṯangku Tjalamunanya nintilingku nyinanytjala tjakulpa kulira ngalyankula yunypangku kulilpayi. Tjiipanya ngurrara tjuṯaku mayutju tiṉa kungka nyinapayi. Paluru tjakulpa kulira ngalyanu Tjarutjalumalakutu Tjalamunanya nyakula kulilkitja. Tjalamunangka ngarala wangka marrka puntu kulintjatjanungku tjapiṉu. Tjalamunalu wangka palunya tjuṯa kulira tjukarurrungku nintiṉingi. Kungka Tjiipanya ngurrarangku kulira yunyparringu. Waaḻa tiṉa Tjalamunaku ngurra ngarangu palumpa mani puntu ngarripayi. Puḻi kuulta tiṉa, puḻi tjiilpa tiṉa ngarripayi. Palumpa mayi tiṉa ngarringi, palumpa yulytja tiṉaṯarra. Yalatji kungka paluru nyakula yunyparringu Tjalamunala alatji watjaṉu, “Nyuntu ninti tiṉangku tjananya tjukarurru watjara kanyiṉi. Iltaya nyuntupa walytja tjuṯa nyuntupa waarrkana tjuṯaṯarra yunypaya palya nyinanyi. Ilta nyuntupa mayutju tiṉangku Katutjalunta yunypa nyinarra mayutju tiṉa nyinatjunu, Yitjurilaku walytja ngaṉṯitja tjuṯaku.” Kungka mayutju paluru Tjalamunanya inytjanungku yungu, puḻi kuulta, puḻi tiilyka tjuṯa, ngurutja tjuṯa. Tjalamunalu ngaparrtjilu yulytja tiṉara yungu, kungka paluru tjapiṉingitjangka. Kungka paluru, palumpa waarrkana tjuṯangkuṯarra yulytja tjuṯa kamula tjuṯangka yuṯitjunkula ngurra walytjakutu maḻaku katingu.
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
-<range>
 Tjalamunalu tjananya waarrkana maṉkurrpa iyaṉu tawunu Taayalakutu. Palunya ngurrara tjuṯaku mayutju yini Yaramanya nyinangi. Tjalamunalu tjananya iyaṉu mayutju palula yalatji tjakultjunkunytjaku, “Ngayuku paapa Tapitanya yunytjurringu mayutju Katutjaku tjaatji tiṉa palyalkitja. Yalatjikun ninti nyinanyi. Tapitalu tjananya tjilirratjarra tjuṯa tjuṯangara pikakutu katipayi. Rawangkuya pikangku pungkupayi, kutjupa tjuṯa. Kuwarriya ngurra kutjupa ngurrara tjuṯangkuya wiya pikangkulanyatjuya pungkukitja unytjurringanyi. Pikawiyalatju nyinanyi. Mayutju Katutjalu tjananya kuwarri pikawiyaku marrkuṉu. Palunyatjanuṉa unytjurringanyi Katutjaku tjaatji tiṉa palyalkitja. Nyuntupa waarrkana tjuṯa tjananya wantirriyala!, ngurra Lipananalakutu, watiya tiimpa luutuya atura ngalya katinytjaku, Tjarutjalumalakutu. Tjungungkuya ngayuku waarrkana tjuṯangku watiya tiimpa atura ngalya katimalpa. Nyuntupa waarrkana tjuṯa ngayuluṉa tjananya wayitjimaningka payimilalku. Watjalaṉi! Wayitjimani yaalytjirri ngayulu tjananya yungku?” Yaramalu yara palunya kulira yunyparringu. Palunyatjanu Tjalamunaku waarrkana tjuṯangku Yaramaku waarrkana tjuṯangkuṯarra tjananya watiya tiimpa atura luutu ngalya katipayi, Tjarutjalumakutu tjaatji palyalkitjangku. Tjalamunaku waarrkana kutjupa tjuṯangkuya puḻi walutjanu kilytjukatingutja ngalya katipayi, tjaatji tiṉa palyalkitjangku.
 <range>
 <range>
@@ -8897,6 +8883,20 @@ Tjalamunalu tjananya waarrkana maṉkurrpa iyaṉu tawunu Taayalakutu. Palunya n
 <range>
 <range>
 <range>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (6:1—7:51) Yitjurilaku walytja ngaṉṯitja tjuṯa paṉa Yitjipingka nyinanytjatjanu rawa nyinangi paṉa Kayinanangka, yiiya yantaṯa puupalakamu yiiya yiitiyipala. Palunyatjanu Tjalamunaku waarrkana tjuṯangkuya Katutjaku tjaatji tiṉa palyalkitjangku puḻi walu tjuṯa ngalya katirra ngarritjunkupayi. Kutjupa tjuṯangkuya puḻi panyapa tjuṯa mantjira rawangkuya tjaatji palyaṉingi, yiiya tjapanpalangka. Tjaatji tiṉa katuya palyaṉingi. Tjaatji palula yila wiyaya yilipitjarrangku watiya atulpayi. Palunya nguwanpa wiyaya yamatjarrangku puḻi atura wirulymankupayi, waṉma kutjuya atura wirulymara ngalya katipayi. Watiya tjuṯaṯarraya waṉma yilipitjarrangku atura ngalya katipayi tjaatji palyalkitjangku. Tjaatji waaḻangka ilaṯu ilaṯuya tjunkula wanaṉingi puḻi tjuṯa, kaḻparra tuuwa maṉkurrwana tjarrpanytjaku. Waaḻa tiṉa unnguwanaya ruuma kutjarra palyaṉu, Katutjaku ngurra ngaranytjaku, ruuma kutju palula Katutjaku pukutju puḻi wirulypa kutjarratjarra ngaranytjaku. Tjaatji tiṉa palunyangkaya unnguya kuulta pangki nguwanpaya palyara nganytjatjura wanaṉu. Yayina nguwanpa warungka tjunkula kaṉilpangka kapi kapirringutja piṯingka tjuṯangara tjutira yatjikingku palyaṉingi tayingka tiṉa, tjaatjingka yurilpangka kapitjarra ngaranytjaku. Palunyatjanuya tayingka wiima tjiilpangkaya palyaṉu, wakinangka ngarayinkupayi tiinpala. Kuka tjawirrilyi paltjintjakuya wakina ngaratjunkupayi, tjaatjingka ila yurilta. Yulytja kutjupa tjuṯaṯarraya yatjikingku palyara tjaatji tiṉangka ngaratjunu.
 <range>
 <range>
@@ -9851,7 +9851,6 @@ Yilatjalu mani an yulytja palunya mantjintjawiyangku wantirriyaṉutjangka, palu
 <range>
 <range>
 <range>
-<range>
 (8:1—17:41) Yurrunpa Yitjurilaku walytja ngaṉṯitja tjuṯaku mayutju tiṉa Yiyapanya nyinarra wiyarringu. Palumpa katja Yiyatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjurumanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Tjiyuwayatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjiyuwatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjiripuma kutjupa tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Tjakarriyatjanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Tjalumanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Minayimanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Pikayayanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Pikanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Wutjiyanya mayutju tiṉa nyinangi, Yitjurilaku walytja ngaṉṯitja tjuṯaku. Wutjiyanya mayutju tiṉa nyinanyingka Yatjiriyanya ngurrara tjuṯangku tjananya yalinytjarranguru ngalya yankula pikangku pungkula maḻaku katingu. Paluru tjana yalinytjarra katirra nyinatjunu Yitjurilaku walytja ngaṉṯitja tjuṯa waarrkana tjuṯa nyinanytjaku. Ngurra palula mayutju tiṉangku pikaṯingku kanyiṉingi. Palunyangka yurrunpa Tjuutaku walytja ngaṉṯitja tjuṯaku mayutju tiṉa Tjiyutjapatanya Tjarutjalumangka nyinarra wiyarringu. Palunyatjanu palumpa katja Tjiyuramanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yiyatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu kungka Yatjalayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjuwatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yamatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjuutjamanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yiyatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yitjikayanya mayutju tiṉa tjanampa Tjuutaku walytja ngaṉṯitja tjuṯaku nyinangi. Paluru mayutju tiṉa nyinanyingka, Yatjiriyanya ngurrara tjuṯangku tjananya Tjamiriyanya ngurrara tjuṯa yalinytjarra katingu, Yitjurilaku walytja ngaṉṯitja tjuṯa.
 <range>
 <range>
@@ -9873,6 +9872,7 @@ Yilatjalu mani an yulytja palunya mantjintjawiyangku wantirriyaṉutjangka, palu
 <range>
 <range>
 <range>
+
 (8:1—17:41) Yurrunpa Yitjurilaku walytja ngaṉṯitja tjuṯaku mayutju tiṉa Yiyapanya nyinarra wiyarringu. Palumpa katja Yiyatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjurumanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Tjiyuwayatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjiyuwatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjiripuma kutjupa tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Tjakarriyatjanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Tjalumanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Minayimanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Pikayayanya tjanampa mayutju tiṉa nyinarra wiyarringu. Palunyatjanu Pikanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Wutjiyanya mayutju tiṉa nyinangi, Yitjurilaku walytja ngaṉṯitja tjuṯaku. Wutjiyanya mayutju tiṉa nyinanyingka Yatjiriyanya ngurrara tjuṯangku tjananya yalinytjarranguru ngalya yankula pikangku pungkula maḻaku katingu. Paluru tjana yalinytjarra katirra nyinatjunu Yitjurilaku walytja ngaṉṯitja tjuṯa waarrkana tjuṯa nyinanytjaku. Ngurra palula mayutju tiṉangku pikaṯingku kanyiṉingi. Palunyangka yurrunpa Tjuutaku walytja ngaṉṯitja tjuṯaku mayutju tiṉa Tjiyutjapatanya Tjarutjalumangka nyinarra wiyarringu. Palunyatjanu palumpa katja Tjiyuramanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yiyatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu kungka Yatjalayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjuwatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yamatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yatjayanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Tjuutjamanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yiyatjanya mayutju tiṉa tjanampa nyinarra wiyarringu. Palunyatjanu Yitjikayanya mayutju tiṉa tjanampa Tjuutaku walytja ngaṉṯitja tjuṯaku nyinangi. Paluru mayutju tiṉa nyinanyingka, Yatjiriyanya ngurrara tjuṯangku tjananya Tjamiriyanya ngurrara tjuṯa yalinytjarra katingu, Yitjurilaku walytja ngaṉṯitja tjuṯa.
 <range>
 <range>
@@ -12362,6 +12362,12 @@ Papilunanya ngurrara tjuṯaku mayutju Tjaratjanya nyinangi. Mayutju Katutjalu p
 <range>
 <range>
 <range>
+
+
+
+
+
+
 (1:1—4:17) Papilunanya ngurrara tjuṯawana wati Niyamayanya nyinangi, tawunu Tjuutjangka. Nyinarra tjakulpa kuliṉu, Tjarutjalumanya ngurrara tjuṯangkuya waaḻa kutju palyara wantingu, palulanguru tjana purrkarringuya. Parriki tiṉaṯarra tjana palyalwiyangku wantingu. Parriki tiṉa yirriṯi kutju ngarangi waaḻa tjuṯa ngarangitja, ngururrtjunkula. Parriki palunya puḻitjanu palyaṉutja yirriṯi ngarangi. Tjakulpa kulira wati Niyamayalu mayutju tiṉa Yatikatjatjinya tjapiṉu, Tjarutjalumalakutu Niyamayalungarri yankula parriki waaḻaṯarra palyantjaku. Mayutju paluru yuwa wangkarra yalatji watjaṉu, “Piipaṉanta wakara yungku, tiimpa kanyilpayi tjuṯakutu nyuntu katirra yungkunytjaku, tjanaya tiimpa yatura Tjarutjalumalakutu katinytjaku, nyurrangarrimpa.” Mayutju tiṉa paluru piipa kutjupa tjuṯaṯarra wakara yungu, Niyamayaku, paluru katirra mayutju kutjupa tjuṯaku yungkunytjaku, tjanaya Niyamayakungarri tiimpa puḻi tjuṯa katirra tjunkunytjaku. Mayutju tiṉa paluru watjantjala tjilirratjarra tjuṯangku tjananya Tjarutjalumalakutu katingu Niyamayanya an palumpa waarrkana tjuṯaṯarra. Niyamayanyangarri Tjuwu tjuṯa nyinangu. Tjarutjalumangka yankula nyinarra mungangka pakara Niyamayanya anta palumpa maḻpa tjirripala waaḻangka tjayiṯiwana yanangi. Yalatjiya yanangi parriki tiṉa yirriṯi yuḻpuṉutjawana tjanaya nyakula piyuku palyantjaku wangkayinangi. Parra nyakuyinkulaya tjana rayitpayiki yanu, tjiṉṯu pakantjala. Palulanguru tjana tjungurringu mayutju kutjupa tjuṯangka anta, yaṉangu kutjupa tjuṯangkaṯarra. Niyamayalungarri paluru tjanaya yalatji marrkuṉu, “Yunytjuwiya tjuṯangku nganaṉanya ngalya yankula pungkupayingkamarra kulira nganaṉa nguḻu nyinanyi. Palunya tjuṯangkamarra nganaṉa tjungungku waarrkarringkula palyantjaku, parriki tiṉa yirriṯi ngarangitja nguwanpa.” Wangka kutjupaṯarra tjanala watjaṉu mayutju tiṉa paluru Yatikatjatjilu waaḻa anta parriki palyantjaku watjara wantingu. Palulanguru tjana waarrkarringuya, parriki tiṉaya palyalkitja. Tjamiriyanya ngurrara tjuṯangkuya kuliṉu tjanaya parriki palyantjala. Kuliraya tjungurringkula wangkangu yankula tjananya pikangku pungkunytjaku. Niyamayalungarri tjakulpa kulira nguḻurringkula Katutjala tjapiṉu paluru tjananya yaṉṯayaṉṯantjaku. Yalatji kuliraya Tjarutjalumanya ngurrara tjuṯa yaḻṯingu tjungurringkunytjaku. Miitingiya wangkarra wiyarringu. Palulanguru kutjupa tjuṯangku parriki palyaṉingi, kutjupa tjuṯangku ngarala yaṉṯayaṉṯalpayi, tjilirratjarra tjuṯangku. Tjamiriya ngurrara tjuṯangkamarraya yalatji tjana aapangku ngarala nyakunytjala, aapa kutjupangkuya parriki palyara wiyaṉu. Tuuwa tjuṯaṯarraya tiimpatjanu palyara ngaratjunkula wanaṉu.
 <range>
 <range>
@@ -12489,12 +12495,6 @@ Papilunanya ngurrara tjuṯaku mayutju Tjaratjanya nyinangi. Mayutju Katutjalu p
 
 
 
-
-
-
-
-
-
 (8:1-10; 9:1-3; 10:10-39) Palunyatjanu Tjuwu tjuṯaya Tjarutjalumangka tjungurringu, ila ngurrara tjuṯaṯarra. Wati Yitjaranyaya tjapiṉu Katutjaku wangka piipa mantjira ngalya katirra riitarrinytjaku. Piipa mantjira aaḻi tiipula nguwanpangka kaḻparra ngarala tjanampa riitarringkula kaḻaḻarringu. Riitarrinytjala yaṉangu yuwankarrangkuya, wati tjuṯangku, kungka tjuṯangku pipirri tjuṯangkuṯarra yarrkangku kuliṉangi. Yitjaralu Yipuru wangka riitarrinytjala kutjupa tjuṯangku tjanampa taaṉamilalpayi Yaramayika wangkaya, tjukarurrungku kulintjaku. Wangka Yaramayikakuya ngaṉṯitja tjuṯa nintirringu ngurra Papilunangka nyinarra. Katutjaku wangka yutiya kulira yulangi, wiyawana nyinangutja. Palunyangka mayutju tjuṯangku tjananya marrkuṉu, “Yulawiyaya ngarama!, kuwarrila yunyparringkula Katutjanya waḻkuntjaku. Yuḻṯa tiṉa ngaatjanya ngaranyi.” Palulanguru tjiṉṯu kutjupangkaya yaṉangu tjuṯangku Katutjanya tjakultjunu, kuya palyaraya nyinangutja. Katutjaku tjukarurru nyinakitjaya tjananya piipangka yini tjunu. Yuwankarraya wangkangu Katutjaku wangkawanaya tjukarurru nyinanytjaku. Katutjaku wangka palunya Muutjalu piipangka yirriṯi wakaṉu.
 <range>
 <range>
@@ -12559,7 +12559,6 @@ Papilunanya ngurrara tjuṯaku mayutju Tjaratjanya nyinangi. Mayutju Katutjalu p
 
 
 
-
 (8:1-10; 9:1-3; 10:10-39) Palunyatjanu Tjuwu tjuṯaya Tjarutjalumangka tjungurringu, ila ngurrara tjuṯaṯarra. Wati Yitjaranyaya tjapiṉu Katutjaku wangka piipa mantjira ngalya katirra riitarrinytjaku. Piipa mantjira aaḻi tiipula nguwanpangka kaḻparra ngarala tjanampa riitarringkula kaḻaḻarringu. Riitarrinytjala yaṉangu yuwankarrangkuya, wati tjuṯangku, kungka tjuṯangku pipirri tjuṯangkuṯarra yarrkangku kuliṉangi. Yitjaralu Yipuru wangka riitarrinytjala kutjupa tjuṯangku tjanampa taaṉamilalpayi Yaramayika wangkaya, tjukarurrungku kulintjaku. Wangka Yaramayikakuya ngaṉṯitja tjuṯa nintirringu ngurra Papilunangka nyinarra. Katutjaku wangka yutiya kulira yulangi, wiyawana nyinangutja. Palunyangka mayutju tjuṯangku tjananya marrkuṉu, “Yulawiyaya ngarama!, kuwarrila yunyparringkula Katutjanya waḻkuntjaku. Yuḻṯa tiṉa ngaatjanya ngaranyi.” Palulanguru tjiṉṯu kutjupangkaya yaṉangu tjuṯangku Katutjanya tjakultjunu, kuya palyaraya nyinangutja. Katutjaku tjukarurru nyinakitjaya tjananya piipangka yini tjunu. Yuwankarraya wangkangu Katutjaku wangkawanaya tjukarurru nyinanytjaku. Katutjaku wangka palunya Muutjalu piipangka yirriṯi wakaṉu.
 <range>
 <range>
@@ -12590,6 +12589,7 @@ Papilunanya ngurrara tjuṯaku mayutju Tjaratjanya nyinangi. Mayutju Katutjalu p
 <range>
 <range>
 <range>
+
 
 
 
@@ -17897,8 +17897,8 @@ Papilunanya ngurrara tjuṯangku tjananya Tjarutjalumanya ngurrara tjuṯa tjung
 
 
 
+
 (9:; 11:; 53:) Kurayitjanya kanalpayilampa ngalya yankunytjaku Yaatjayalu irriṯi yalatji watjaṉu, “Yaṉangu tjuṯaya mungawana nguwanpaya nyinarra waṉinyi, kuya kutjuya kulira nyinapayi, mungangka kutu nyinakitjaya yunytjurringanyi. Yalatji nyinarraya tili tiṉa nguwanpa nyakulpi. Kuyatjarraya nyinaku mirrirrikitja. Paluru tjana tili tiṉa nguwanpa Kurayitjanya nyaku. Nyakulaya yalatji nintingku kulilku, ‘Katutjalulampa palumpa katja nyinatjunu. Yiṯi wiima nyinarra tiṉarriku. Mayutju tiṉalampa yilta nyinaku. Palunyangkala yalatji katja palunya waḻkula! Katja palunya palyalingkulampa nyinaku. Palurulanya nintilku Katutjanya. Yilta katja palunya mayutju tiṉalampa nyinaku, Katutjanyapula paawu kutjutjarra. Katja paluru paapa tiṉa nguwanpalampa nyinaku. Palurulanya Katutjaku kalypa nyinatjunkupayi. Kanalpayi paluru Kurayitjalulanya yaṉangu tjuṯa yaṉṯayaṉṯalku, kutulanya yaṉṯayaṉṯara kanyinmalpa, ngula nyinanytja tjuṯaṯarra. Mayutju tiṉa Tapitalu tjananya tjukarurru kanyintja nguwanpa, kanalpayi paluru tjananya Tapitaku walytja ngaṉṯitja tjuṯa tjukarurrungku tjananya kutu yaṉṯayaṉṯanmalpa. ‘Watiya piḻṯirringu. Palulanguru watiya palula yukiri nyuwana pakaṉu Yukiri nyuwana pakaṉutja nguwanpa, kanalpayi palunya yutirringkula kanalampa nyinaku. Yirriṯi wati Tjiitjiyinya Tapitaku paapa mirrirringu, palunyatjanu ngula palumpa walytja ngaṉṯitja kana nyinaku. Kanalpayi paluru ninti puntu nyinaku, Katutjaku kurrunpatjarra. Paluru nguḻuwiya nyinarra tjukarurrungku tjananya nintinmalpa. Uwankarraku ninti nyinarra Kurayitjanya mayutju Katutjaku waarrkana nguwanpa nyinaku. ‘Kanalpayi paluru tjananya aṉangu tjuṯa tjukarurrungku watjalku maralpa tjuṯa yaṉṯayaṉṯalkitjangku, mayutju tjuṯaku nguḻurringkunytjawiyangku. Mayutju paluru tjana puṯu tjingapungku Kurayitjalu maralpa tjuṯanya wantinytjaku.’” Yaatjayalulanya nintiṉu kanalpayi Kurayitjanya nganampa kuya waṉikitja tjitjaku. Yaatjaya paluru tjananya yalatji tjakultjunu, “Nganaṉanya tjitjantankutjipingkamarra Kurayitjanyalampa tjitjaku nganampa kuya waṉikitja. Yurrunpala wiyawanangku yalatji kuliṉu, ‘Paluru tjitjaku Katutjalu ngaparrtjingku pungkunytjala.’ Yalatji wiya. Nganampa kuya waṉikitja paluru tjitjaku, nganaṉanya kuyatjarra Katutjalu pungkupayingkamarra. Kurayitja paluru tjitjakulampa, nganaṉa Katutjaku kalypalpi nyinanytjaku. Kurayitja palunya tjana yalatji tjitjantankunytjala Katutjalu kuyalampa waṉiku kana kutu nyinanytjaku. Yalatji Katutjalulanya kana nyinatjunku nganampa kuyanguru Kurayitjanya mirrirringutjangka.” Yalatji Katutjalu Yaatjayanya yirriṯi nintiṉu paluru piipangka wakantjaku. Yaatjayalu yalatji watjaṉu Kurayitjanyalampa kuya waṉikitja waralyngarala tjitjanytjaku, yurrunpa.
-<range>
 <range>
 <range>
 <range>
@@ -21971,7 +21971,6 @@ Papilunanya ngurrara tjuṯaku mayutju tiṉa Nipukanitjanya nyinarra mirrirring
 <range>
 <range>
 <range>
-<range>
 Mayutju Nipukanitjanya mirrirrinytjala palumpa katja Pilytjatjanya wiyawana nyinangi. Palumpa waarrkana tjirripalangku mungangka mirri pungu. Palunyatjanu tjanampa Papilunanya ngurrara tjuṯaku mayutju tiṉa Tarayatjanya nyinangi. Mayutju Tarayatjalu yaṉangu tjuṯa ngurrtjara mayutju tjuṯa waan yantaṯan tuuntiyi ngaratjunu. Kamantaku mayutju palunya tjuṯangku paṉa kutjupa kutjupa ngurrara tjananya kanyiṉingi. Palunyatjanu tjananya mayutju Tarayatjalu Taniyalanya anta mayutju kutjarra kutjupa ngurrtjaṉu mayutju tiṉa tjirripalalpiya nyinanytjaku. Tjanaya mayutju panyapa tjuṯa, waan yantaṯan tuuntiyiku mayutju tiṉa nyinangi. Taniyalanya waarrka yatjikingku palyalpayi nyinangi. Palunyatjanu mayutju tiṉa Tarayatjanyara yunypa nyinangi, kanya mayutju palunya kutjarraṯarrara Taniyalaku yunytjuwiya nyinangi, mayutju kutjupa tjuṯaṯarra. Tjanaya yunytjurringu mayutju Tarayatjalu Taniyalanya payira wantirriyantjaku. Puṯuya kuliṉu Tarayatjanya tjingapungkunytjaku Taniyalanya payira wantirriyantjaku. Palunyatjanuya rawangku kulira mayutju Tarayatjalakutu yankula yalatji watjaṉu, Taniyalanya wantirriyalkitjangku. Yalatjiya watjaṉu, “Tarayatja. Nyuntu mayutju tiṉalampa palya nyinanyi. Nganaṉatju kuliṉi nyuntunya kutjulatjunta yaṉangu tjuṯangku tjapira waḻkuntjaku, kutjupa tjapira waḻkuntjawiyangku. Katutjanya nguwanpa kutjupangka yaṉangu kutjupangkaṯarra, wiyalatju tjapira waḻkuntjaku. Purayitiyi puupala nyuntunya kutjulatjunta Tarayatjanya tjapira waḻkuntjaku.” Wangka yalatji kulira mayutju Tarayatjalu yunyparringkula watjaṉu luwu palunya nguwanpa ngaranytjaku, Tarayatjanya kutjuya waḻkuntjaku. Mayutju paluru watjaṉu tjinguru yaṉangungku, Katutjangka tjinguru Katutjanya nguwanpa kutjupangka, tjinguru yaṉangu kutjupangka tjapira waḻkuntjala, katirraya layina tjuṯangka tjarrpatjunkunytjaku, ngalkulaya wiyantjaku. Yalatji luwu watjara wantingu Purayitiyi puupala ngaranytjaku. Yirriṯi yalatji luwu watjara wantirra wiya mayutjulu tjinytjimilalpayi.
 <range>
 <range>
@@ -22161,6 +22160,7 @@ Palunyatjanu mayutju Tarayatjalu watjaṉu, Taniyalanyaya witira katirra layina 
 
 
 
+
 (1:1; 4:1,2; 9:3,4) Mayutju maṉkurrpa tjanampa Tjuutaku walytja ngaṉṯitja tjuṯa nyinangi, yini yalatji, Yatjayanya, Tjuutjamanya, Yiiyatjanya Yitjikayanya. Palunyatjanu tjanampa mayutju tiṉa Tjiripumanya Tjiyuwatjaku katja nyinangi, Yitjurilaku walytja ngaṉṯitja tjuṯaku. Mayutju paluru tjuṯaya nyinanyingka wati Wutjiyalu tjananya yalatji Katutjaku wangka tjakultjunu, “Yitjurilaku walytja ngaṉṯitja tjuṯangkuya kulila! Ngayulu Katutjalu nyurranya yilta yitjipungku, tjukarurru nyinanytjawiyangka, kuyanyurra kutu palyara nyinanytjala. Kutjupa ngurrara tjuṯangku nyurranya ngalya yankula pikangku pungkuku. Ngayunyaṉinyurra kulilwiyangku wantingutjangka ilta ngayulu nyurrangarrinya ngurra kutjupakutu iyalku waarrkana tjuṯa nyinanytjaku. Mayutju kutjupangkulpi nyurranya kanyilku, wiyanyurra mayutju walytjatjarra nyinaku. Ngurra palulanyurra nyinarra wiyalpiṉinyurra pungkula kutjanmalpa tjawirrilyi. Ngula kutjulpiṉinyurra ngalya yankula ngayunya puḻkapungku, ngurra walytjangka, palyalpinyurra nyinaku.”
 
 
@@ -22405,11 +22405,11 @@ Palunyatjanu mayutju Tarayatjalu watjaṉu, Taniyalanyaya witira katirra layina 
 <range>
 <range>
 <range>
-<range>
-<range>
-<range>
-<range>
-<range>
+
+
+
+
+
 
 
 
@@ -22615,7 +22615,6 @@ Wati Yamitayiku katja Tjuunanya nyinangi, Katutjaku wangka watjalpayi. Mayutju K
 <range>
 <range>
 (1:17; 2:1-10) Tjuunanya yurukutu waṉingutjangka piitji tiṉangku kuuḻtjura kanyiṉingi, mayutju Katutjalu iyaṉutjangka. Palunyatjanu wiḻangka yunngulpi Tjuunanya ngarringi. Wiḻangka ngarrirra Tjuunalu Katutjanya yalatji tjapiṉu, “Mayutju Katutja. Tjapiṉiṉanta kanantjakuṉin. Yurungka yunnguwanangkuṉanta mirrirrikitjangku tjapiṉi. Yaṉangu kutjupa tjuṯangkuya Katutjanya nguwanpa tjuṯanya waḻkuṉi, kanya ngayulu nyuntunya kutju waḻkunmalpa. Mayutju Katutja. Nyuntu kutju yaṉangu kanalpayi, ngayunyalpi kanala!” Palunyatjanu piitji tiṉa paluru paṉakutu ankula yulkapatjunkula waṯutjunu wati Tjuunanya. Paṉangkalpi waṯungarangi. Palunyatjanu Katutjalu Tjuunanya iyaṉulpi Ninapalakutu.
-(1:17; 2:1-10) Tjuunanya yurukutu waṉingutjangka piitji tiṉangku kuuḻtjura kanyiṉingi, mayutju Katutjalu iyaṉutjangka. Palunyatjanu wiḻangka yunngulpi Tjuunanya ngarringi. Wiḻangka ngarrirra Tjuunalu Katutjanya yalatji tjapiṉu, “Mayutju Katutja. Tjapiṉiṉanta kanantjakuṉin. Yurungka yunnguwanangkuṉanta mirrirrikitjangku tjapiṉi. Yaṉangu kutjupa tjuṯangkuya Katutjanya nguwanpa tjuṯanya waḻkuṉi, kanya ngayulu nyuntunya kutju waḻkunmalpa. Mayutju Katutja. Nyuntu kutju yaṉangu kanalpayi, ngayunyalpi kanala!” Palunyatjanu piitji tiṉa paluru paṉakutu ankula yulkapatjunkula waṯutjunu wati Tjuunanya. Paṉangkalpi waṯungarangi. Palunyatjanu Katutjalu Tjuunanya iyaṉulpi Ninapalakutu.
 <range>
 <range>
 <range>
@@ -22625,6 +22624,7 @@ Wati Yamitayiku katja Tjuunanya nyinangi, Katutjaku wangka watjalpayi. Mayutju K
 <range>
 <range>
 <range>
+
 Palunyatjanu mayutju Katutjalu Tjuunala alatji watjaṉu, “Tawunu tiṉa palulakutu Ninapalakutu maa yankula tjananya wangka ngayuku tjakultjurra!, panyapaṉanta watjaṉu.” Palunyatjanu Tjuunanya yanu tawunu Ninapalakutu. Waaḻawana ankula Tjuunalu tjananya tjakultjurinangi alatji, “Kuyanyurra kutu palyaṉingka purayitiyi tjikitjipala nguwanpa ngarala Katutjalu nyurranya mirrintara wiyalku, ngurraṯarra nyurrangarrimpa kilytjuntankula wiyalku.” Tjuunaku wangkaya yilta kuliṉu, Katutjakulpiya tjukarurru nyinakitjangku. Tjuṯangkuya mayi, kuka ngalkuwiyangku mantarra kuyakuyangka tjarrparra kuya palyantjanguru watjilpa nyinangi. Kuya wantirralpiya nyinangi, Katutjakuraya tjukarurru nyinakitja. Ninapaku mayutju tiṉaṯarra kuya wantirra mantarra kuyakuyangka tjarrparra watjilpa nyinangi. Paluru tjananya palumpa waarrkana tjuṯa watjaṉu tawunuwana parra yankula yaṉangu tjuṯa tjingapungkunytjaku alatji, “Mayutju tiṉangku nyurranya watjaṉu kuya palyalwiyanyurra nyinanytjaku. Kuka an miyi ngalkuwiyangku nyurrangarri wantirra Katutjanya tjapintjaku. Yalatjila tjapintjala, tjinguru Katutjalulanya mirri pungkuwiyangku wantiku. Tjinguru kalypalpilampa nyinaku.” Ninapanya ngurrara tjuṯaya tjukarurrulpi nyinayananyingka Katutjalu tjanampa yaḻṯururringkula wantingu mirri pungkuwiyangku.
 <range>
 <range>
@@ -22700,6 +22700,7 @@ Katutjalu tjananya mirri pungkuwiyangku wantingutjangka, Tjuunanya Katutjaku ngu
 <range>
 <range>
 <range>
+
 (4:; 5:) Puḻi palula tjaatji tiṉanya ngaranyi. Puḻi palunya ngula tiṉarringkula katulingku ngaraku, puḻi kutjupa tjuṯa ngaranytjala munkarra. Puḻi palulakutu ngayuku tjaatji tiṉakutuya yaṉangu tjuṯa paṉa kutjupa kutjupa ngurrara yankula tjungurriku. Palulakutu yankukitjangkuya alatji watjalku, “Yarralaka Katutjaku tjaatji tiṉakutu!, Yitjurilaku ngaṉṯitja tjuṯaku mayutju tiṉakutu. Katutja palurulanya nintilku tjukarurru nyinanytjaku. Kulirala tjukarurru nyinaku. Ngurra palula kutju Tjarutjalumala Katutjalulanya palumpa walytja tjuṯa nintilpayi.” Kurayitjanya yutirrinytjaku Makayalu yirriṯi watjaṉu. Kurayitjanya yilta yutirrinytjala yurrunpa alatji watjaṉu, “Tawunu Pitjiliyamanya wiima ngaranyi Tjuutaku walytja ngaṉṯitja tjuṯaku ngurrangka. Ngurra palula tawunu tiṉa tjuṯa ngarala waṉinyi. Tawunu wiima palula Kurayitjanya yutirriku. Yitjurilaku walytja ngaṉṯitja tjuṯaku paluru mayutju tiṉalpi tjanampa nyinaku. Yitjurilaku walytja ngaṉṯitja tjuṯaku Kurayitja paluru tawunu palula yutirriku.”
 <range>
 <range>
@@ -22714,7 +22715,6 @@ Katutjalu tjananya mirri pungkuwiyangku wantingutjangka, Tjuunanya Katutjaku ngu
 <range>
 <range>
 <range>
-<range>
 
 
 
@@ -23209,7 +23209,7 @@ Katutjalu tjananya mirri pungkuwiyangku wantingutjangka, Tjuunanya Katutjaku ngu
 
 
 
-(1:; 3:1; 4:5) Tjuwu tjuṯaya wiyawana nyinanytjala, Katutjalu wati Malakayinya nintiṉu, yankula tjananya palumpa wangka nintintjaku. Wangka tjuṯa tjananya nintiṉangi, Katutjakulpiya tjukarurru nyinanytjaku. Malakayilu tjananya Katutjaku wangka piyuku yalatji watjaṉu, “Kulilaya! Wati kutju, ngayuku wangka tjakultjunkupayi, ngayulu Katutjaluṉa nyurrangarrimpa wantirriyalku, nintintjaku nyurrangarrinya. Palunyatjanu mayutju tiṉa nyurrangarrimpa ngalya yankula nyinaku. Mayutju palumpanyurra paṯara nyinanytjaku. Paluru yankula ngayuku tjaatji tiṉangka nyinarra, paluru nyurranya nintilku ngayuku wangka. Paluru nyurrangarrinya watjalku, ‘Katutjalu yirriṯi watjaṉu nyurrangarrinya yaṉṯayaṉṯalkitjangku.’” Malakayilu tjananya Katutjaku wangka yalatji piyuku tjakultjunu, “Kulilaya! Ngayulu Katutjalu nyurrangarrinya watjaṉi. Ngayuku wangka watjalpayinya, Yilaatjanya ngayulu nyurrangarrimpa wantirriyalku yurrunpa. Palunyatjanu ngayuluṉa tjananya kuya palyalpayi tjuṯa kuutawutjungka wangkarra pikantanku. Palula yurrunpa nyurrampa Yilaatjanya yanku.”
+
 
 Yini ngaa tjuṯaya Yiitju Kurayitjaku walytja tjuṯaya nyinangi. Yiitju Kurayitjanya mayutju Tapitaku walytja ngaṉṯitja nyinangi. Mayutju Tapitanya Yipuramaku walytja ngaṉṯitja nyinangi.
 Yipuramalu katja Yatjikanya mantjiṉu. Yatjikalu katja Tjikupanya mantjiṉu. Tjikupalu katja tjuṯa mantjiṉu. Tjuutanya palumpa katja nguruṯitja nyinangi.
@@ -27691,7 +27691,7 @@ Palulanguru mayutju kutjungku pakara yaṉangu tjuṯa tjananya marrkuṉu, wang
 Ngaa kutjarrangku wati Kiyatjalu, wati Yaritjakatjalupula wiya Tayananya panypurangkupayi, wiya paluru kutjarrangku yulytja Tayanakuṉu mulyaṯangku mantjira katingu, ngurrpa kutjarrapula. Palunya kutjarra nyurrangarri wantimara, ngalya katirra ngaratjunkunytjawiyangku.
 Tjinguru Timitiritjalungarri kuliṉi ngaa kutjarranya kuru watjalkitjangku. Tjana kuutawutjukutu yankula palunya kutjarra watjantjaku, kuutawutjuku mayutjungka, ngaangka wiya. Kuutawutju tjuṯa, alytjura ngaranyi, kuwarri.
 Tjingurunyurra yara kutjupa watjalkitja yunytjurringanyi kaantjaḻa tjuṯangka. Paṯalaya! Ngula kaantjaḻa tjuṯa miitingi tiṉangka tjungurriku. Miitingi palula nyurrangarri wangkanytjaku.
-Kuwarri nyurrangarri pikarringkula wangkarra waṉinytjala, mayutju kamanta ngurrarangkulanya tjinguru payilku yalatji, ‘Nyaaku nyurrangarri pika wangkarra tjungurringu kuwarri?, kamanta ngurrara tjuṯalanyatju pungkukitja, yilta? Nyurrangarri pikarringkula tjungurrinytjawiyangku wantimara.’” Mayutju kutju paluru tjananya piyuku watjaṉu, “Nyurrangarri nyaaku pikarringkula wangkarra waṉingu kuwarri? Wangka yalatji kamanta ngurrarangku nganaṉanya tjapintjala nganaṉa wangkakitjangku puṯu kulilku.” Mayutju paluru tjananya watjara iyaṉu, tjana ngurrakutu yankunytjaku.
+Kuwarri nyurrangarri pikarringkula wangkarra waṉinytjala, mayutju kamanta ngurrarangkulanya tjinguru payilku yalatji, ‘Nyaaku nyurrangarri pika wangkarra tjungurringu kuwarri?, kamanta ngurrara tjuṯalanyatju pungkukitja, yilta? Nyurrangarri pikarringkula tjungurrinytjawiyangku wantimara.’” Mayutju kutju paluru tjananya piyuku watjaṉu, “Nyurrangarri nyaaku pikarringkula wangkarra waṉingu kuwarri? Wangka yalatji kamanta ngurrarangku nganaṉanya tjapintjala nganaṉa wangkakitjangku puṯu kulilku.”
 Yaṉangu paluru tjana ngurrakutu yanutjangka Puulalu wati kutju iyaṉu Yiitjuku walytja tjuṯangka yalatji watjantjaku, “Puulanya yunytjurringanyi nyurrangarri tjungurrinytjaku.” Tjana tjungurringanyingka Puulalu tjananya Yiitjuku wangka nintira rapaṉu. Puulalulpi tjananya watjaṉu, “Kala, ngayulu yananyilpi manta Matjatuniyalakutu.” Yalatji watjara tjananya wantikatingu.
 Manta palulawana yankula Puulalu Yiitjuku walytja tjuṯa tjananya nintirinangi tawunu tjuṯangka, tjana Yiitjuku rapa nyinanytjaku. Palulanguru paluru manta Kiritjilakutulpi yanu.
 Manta palula Puulanya nyinangu, maanytja tjirripala. Paluru puutangkalpi kaḻpakitjarringu manta Tjiriyalakutu yankukitja. Palulanguru paluru tjakulpa yalatji kuliṉu, “Tjuwu tjuṯaya tjungurringkula miitingi wangkangu nyuntunya puutangka pungkukitja.” Pungkupayi tjuṯangkamarra Puulalu kuliṉu tjina yankunytjaku ngaṉṯikutu manta Matjatuniyalawana.

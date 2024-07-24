@@ -37,7 +37,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pandas.core.groupby import groupby
 
-from settings_file import write_settings_file
+from settings_file import write_settings_file, get_versification, get_vrs_diffs
 
 global headers
 headers: Dict[str, str] = {

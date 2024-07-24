@@ -23782,6 +23782,7 @@ Nanu sina wemaro nauawe. Iraija dawa fariro emana dawa iwawa utate dawaba siosaw
 Eno weiba Danu iwata ueta uwarama Dawa Joni babataito amaraba wasua we imuta.
 I guruguru ubita uwarabai ta fataro mui amarama Yesubai farite jegirari uteda wei, Dera Waria Amara, nanu amaraba neno arama ua wei. Nanu amarama uieta ari utebasu. Moana kowaro inaini ogoro faiya faiyawere itarebasu. Enoba oferi derawere wourasu.
 <range>
+<range>
 Nanu amara Anu iwata ueta uwarabai woure anero ma wirofitae uitana ma wirotawa uita wei.
 Weiro Yesuma wei, ya imutawa jaja bujiji utaita uwara! Yabai kowa aboabo ibimaro Na naue imue ufoita wei? Eno weite wei, i amara ewaro Nabai woure ara weiro eno uta.
 Yesuma i seitaninu mui siosa imumuba sina bunawere weiro seitaninu mui siosa imumuma i amara ekodite aniro i amara ido wiroi.
@@ -23792,8 +23793,7 @@ Duburo Gareri orofaro ibebitana Yesuma emaba wei, i Ba Eme Sini Amara mui uwaran
 <range>
 Yesuini Danu uwara Kafenamu suro fata. Fataro i Ju uwaranu dubu su takesi muneta amarama Fitabai farite wei, anu tisa amarama i dubu su takesi oi sanasu aba me wei?
 Weiro Fitama wei, aiwia, Dawa sanasu wei. Duburo Fitama suro fariro Yesuma wei, Saimoni ane imutasu? I dera kini uwarama abo uwarabai takesi oi munaita? Emanu daburetabai aba moana uwarabai? Ane imutasu wei?
-Weiro Fitama wei, moana uwarabai wei. Weiro Yesuma wei, idoba i daburetana takesi oi sanawa utaitate me inaraita wei.
-Nono i dubu su takesi muneta uwara yaba ibo da ufitaitana enearo aniate erio egi kimai ogo abanaro sa. Sate i botai erio egi muate danu bebeturo siriwa oi eate ina aini Naini wanu takesi oi. I oi ido mune i takesi muneta uwarabai ane ma wei. Yesuma eno weiro Fitama enanari ui.
+Weiro Fitama wei, moana uwarabai wei. Weiro Yesuma wei, idoba i daburetana takesi oi sanawa utaitate me inaraita wei. Nono i dubu su takesi muneta uwara yaba ibo da ufitaitana enearo aniate erio egi kimai ogo abanaro sa. Sate i botai erio egi muate danu bebeturo siriwa oi eate ina aini Naini wanu takesi oi. I oi ido mune i takesi muneta uwarabai ane ma wei. Yesuma eno weiro Fitama enanari ui.
 Mui kowaro Yesunu iwata ueta uwarama Dawabai fatate weita, ure yawoeta orofaro yabaina abo amarama iro dera amara sibisu weita?
 Weitaro Yesuma weiro mui amakanu Dawabai woure fare oita. Woure fare oitaro Yesuma i amakanu munite emanu abanaro ma yaurite wei, yaba ba wemaro nauawe. Yana Godinu yawotasu koiniboronu imueta ari da muboitana ure yawoeta orofaro da aniboita.
 <range>
@@ -24429,8 +24429,8 @@ Weiba uwara fefera ekoitate Dawa woure ane youro amutate anita. Moana youini ani
 <range>
 Yesuma you muduna afu gutoro nauta ainibiro ma uyareda weita, Tisa Amara, ya uifene utaisi. A imutasu aba me weita?
 Weitaro uyarite oyauini ogoba bunawere kodia weiro oyauini ogoini ido me sinite binono sani.
-Yesu emaba wei, aneba iyareda imutawa utaita wei?
-Weiro neno kirifu utate iyatate weita, i amara abo amararo oyauini ogoini Danu sina nauita weita?
+
+Yesu emaba wei, aneba iyareda imutawa utaita wei? Weiro neno kirifu utate iyatate weita, i amara abo amararo oyauini ogoini Danu sina nauita weita?
 Yesuini Danu uwarama Gerasini orofa, mesau etarafu iro yofere ane inata.
 Ane inataro Yesu amo inariro seitaninu moana imumu siosa rewoe ibita amara Yesubai are fari. I amara eme uri ue oeta eraboro ainebi.
 Ainebiro danu su uwarama iyareda danu burini ageini aiyonima uwanebitaro ma furufarebiba eme nesia dawa yawoegou utawa utebita.
@@ -24605,6 +24605,7 @@ Weite wei, mui amarama danu unu ewa orofaro me ibifie ufisuna daido uifisu wei. 
 Anama i orofa atata ibaiabairo danu unu nesia odifite i nesia mubiro danu me ibeta imumu siosa kabesiro feafisude ina kobererau aba me wei? Eno wenauerite ina ba me wei.
 Weite wei, mui amara danu me ibeta imumu ma owere mubie uteda mui kobere emetu moko maeta kimuwereba iba eno da ufisu wei.
 Anama ewa Godinu Sina nautawa kowaini siosa ueta kowaro Naini Nanu sinaba maru utasuna i Ba Eme Sini Amaraini Danu buna aneruini Danu Damamanu bunaini araetaro ido fafitaitana i amaraba moko a Na iwata me wemate ekodimau wei.
+
 Yesuma emaba wei, Nanu sina ba watane wei, moana ewado inaibinita uwara da uiforo Godinu yawotasu kowa botai bunawere fafiro efoita wei.
 Kowa sikisi (6) me siniro Yesuma Fitaini Jeimisini Jonini wouriro dera maidaniro manitaro Danu ofe ubu aika siniro Danu wadia arioini inakeorau ui. Mui wadia uroeta amarama eno urotawa utebasu.
 <range>
@@ -24653,8 +24654,7 @@ Anu burima a mune siosa dabaro odifisuna mui buri umane tuate buri demurai torow
 Enoba (Iro i yareibisu inaro emanu ririraratu da uifitaro ina da ma wairumi ufitaita wei.)
 Anu ditima a ma siosa ufisuna diti enabira ma guju ue mu sate diti demuraima Godinu yawotasu orofaro eno anibasu ina kobererau. Diti sadei bobo ina kabesiro a sabisuna ina siosawere.
 Iro ririraratu uitawa, ainewaure ateibita ina uifiro daido yareiene yareiene yareibisu wei.
-Yesuma weite nono wei, Godima Danu ba kimuwere naueta uwara nesiaba emema emanu wari inaro yare fije ure ma rorowarau utaita i ari Godima Danu uwara inama yare ma rorowarau unono utasu wei. Eno uteda emanu naueta ma kimu ufitae kimuwere inama eme ba yarebasu i ari utasu wei.
-Soruna kobererau. Sorunu imona me sibiro danu imona nono anene ibifisu? Enanari yana uteiboitana kobererau da sibisuna yana imona me sinasu soru ari. Enoba ya sorunu imona ari ibeda uwara nesiaba moko moko wesa kawewera utebeawe wei.
+Yesuma weite nono wei, Godima Danu ba kimuwere naueta uwara nesiaba emema emanu wari inaro yare fije ure ma rorowarau utaita i ari Godima Danu uwara inama yare ma rorowarau unono utasu wei. Eno uteda emanu naueta ma kimu ufitae kimuwere inama eme ba yarebasu i ari utasu wei. Soruna kobererau. Sorunu imona me sibiro danu imona nono anene ibifisu? Enanari yana uteiboitana kobererau da sibisuna yana imona me sinasu soru ari. Enoba ya sorunu imona ari ibeda uwara nesiaba moko moko wesa kawewera utebeawe wei.
 Yesuma i orofa ekodite iroma Judiaini Jodani orofaro farite Jodani ogo yofere inariro i uwara Dawabai inare kara utebitaro Yesu Danu we mawetu ueta utebasu enanari utebi.
 Eno utebina Ferosi waita uwarama Yesubai ue efitae fatate wenauereda weita, mui amara danu aweta ekodifisude, kobererau aba siosawere wiaro naufe weita? Danu moko sina anene webisu naufitae iba eno weita.
 Weitaro wei, Mosesima yanu sirorari uwaraba anene wei?
@@ -26374,8 +26374,7 @@ Nanu ba sina wemaro nauawe wei, ana anama emanu naueta Nabai odaitana me ibene i
 Nana i me ibene ibene ibeta ieta wei.
 Yanu yamamamutuma eme ibawa orofaro ieta danu ifuna mana itebitate uitebita wei.
 I me ibene ibene ieta ureroma tarariba mui amarama ifisuna da uifisu wei.
-Anama i ieta ifisuna me ibene ibene ibifisu wei. I ieta matataneba i orofa atata uwara nesia ifitate me ibene ibene ibifitaita, i ietana Nanu ofe wei.
-Yesuma eno weiro nautate emanu emanu weitate weita, i amara anene danu ofe mafiro yana ifene wasu weita?
+Anama i ieta ifisuna me ibene ibene ibifisu wei. I ieta matataneba i orofa atata uwara nesia ifitate me ibene ibene ibifitaita, i ietana Nanu ofe wei. Yesuma eno weiro nautate emanu emanu weitate weita, i amara anene danu ofe mafiro yana ifene wasu weita?
 Weitaro Yesuma emaba wei, Nanu ba sina wemaro nauawe wei. I Ba Eme Sini Amaranu ofeini iwaini da ifoitana me ibene ibene ibeta yabai me wei.
 Anama Nanu ofeini iwaini ifisuna me ibene ibene ibeta dawabai ibifisuba i dubu kowaro dawa we ma uyamau wei.
 Nanu ofena ba ieta. Nanu iwana ba ogo wei.
@@ -26395,6 +26394,7 @@ Weiro Saimoni Fitama wei, Dera Waria Amara, abo amarabai anibeisi wei? Abai toro
 <range>
 Weiro Yesuma emaba wei, ya uwara tuero (12) Nana we mune odero nono mui amara dawana seitani wei.
 Yesuma Saimoni Isikariotinu amara Judasiba wei. Judasi dawa mui tuero (12) iwata ueta amara. Judasima Yesu do mafisu amara.
+
 Yesuma i sina weite Kafenamu su ekodite Gareri orofa aboro aboro me inarebi. Dawa unutawa Judia orofaro aneta. I Ju uwaranu dera uwarama Danu uieta daba doberebitaba iba iro anawa ui.
 I Ju uwaranu su kikiratu ue ieta daure ogaro ueta kowa ido fafie uiba Yesunu daburetama Dawaba weita, i Judia orofaro ogaro aniate buna ueta uaro anu buribi aneta uwara efita weita.
 <range>
@@ -27237,12 +27237,12 @@ Sitiwanima wei, ya ome bobo me uwara yanu imueta ma kimu ue naue nautawa utaitat
 Yanu yamamamutuma i we bou ueta uwara nesia emaini urane yarane utebitate i Yesu fafisu sina webita uwara utaro uita. I fari Amara Godinu Kobere Amara, yana meo wawei weitate utaro ui wei.
 I aneruma mai tarawatu, Godinu tarawatu, yana ma siosa utebita wei.
 Sitiwani eno weiro Isaraero dera uwarama ibo derawere utate abate gabari uta.
+
 Utaro Imumu Kotofuma Sitiwaninu neno ubarero itariba Sitiwanima urero erite wei, Yesuma Godinu banibira age afuro inaibinuro eratane wei.
 <range>
 Eno weiro emanu ome garari utate derawere we mamitate i amara ma youtate su wawaro mu satate gebiroma uta. Eno utate emanu dei wadia reka amara Soroma yawofie mata.
 <range>
 Eno utebitana Sitiwanima guriguri uteda wei, Baba Godi, nanu imumu mua weite jegirari uite wei, Baba, emanu ueta ba mewereba emabai da odifaro wei. Eno weite ido ui.
-<range>
 Soro danu unu Sitiwani ureta iba Sitiwani utana Foronu neno ido itari. Moana Isaraero Godi naueta uwara are fatate i weda Sitiwaninu ofe mune uri uta. Danu uieta kowaroma moana uwarama Jerusaremu dubu su naueta uwaraba ba me uta. Eno utaba wo bagaru ue aika maika anita. Judiaini Samaria orofaro anita. I afosoro uwara torowama Jerusaremu suro ibebita.
 <range>
 Soroma i naueta uwaranu su suro anite uwara budari uite emeini awetaboini budari uite ana ebaro mune ane odi.
@@ -27486,6 +27486,7 @@ Godinu sina nautawa Ju uwarama dua sina weitaro i aika uwarama nautate i Godinu 
 Foroini Banabasi iro kowa faiyawere ibeda Yesunu kobere durua ueta sina weisi. Weisiro Yesu erite emabai buna uetaini ereta faiyawere mairo usi.
 I Aikoniamu su uwara imueta daba demuraina me. Moana uwarama Ju uwaranu sina nauta. Moana uwarama afosoro uwaranu sina nauta.
 I aika uwaraini Ju uwaraini emanu yawoeta uwaraini i afosoro uwara gebiroma ufitae utaro nausi.
+
 Nausite i su sau ekoisite Raikonia orofa su sadeiro anisi. Risitaini Debi suro anisi. I su sadeini i orofa kabesi faiyawere ane iro Yesunu sina we inarebisi.
 <range>
 Mui Risita su amara danu buri takami uiro anawa, dawa danu muneta kowaroma buri anawa eno ibebi.
@@ -27507,8 +27508,7 @@ Foroini Banabasima i dubu su su yawoeta uwara mune emabai oisite ieta itawa ka u
 Ane Fisidia orofa serigari usite Famufiria orofaro fasi.
 Fega suro fasite Godinu sina weisite ekoisite anisi. Ane Ataria suro tanisi.
 Boutiro amusite iroma Anitiyoka suro anisi. I Anitiyoka suro aubokona Godima weiro i uwarama Foroini Banabasi mune oitate Godibai emaba guriguri utaro anisite nono reka owere fasi.
-Fare weisiro i Godinu sina naueta uwara nesia fata. Fataro weisi, Godima i aika uwaranu neno ma ifegari uiba i aika uwarama emanu naueta Godibai odaita weisite Godinu ueta nesia emaba weisi.
-Foroini Banabasima Anitiyoka suro i naueta uwarabai kowa faiyawere ibisi.
+Fare weisiro i Godinu sina naueta uwara nesia fata. Fataro weisi, Godima i aika uwaranu neno ma ifegari uiba i aika uwarama emanu naueta Godibai odaita weisite Godinu ueta nesia emaba weisi. Foroini Banabasima Anitiyoka suro i naueta uwarabai kowa faiyawere ibisi.
 Foroini Banabasima Anitiyoka suro ibebitana moana Judia uwarama Anitiyoka suro fatate weita, Ju uwaranu ofe tureta da tufoitana nono Godima ya da ma wirofisu weita.
 Foroini Banabasima derawere weisi ina ba me weisi. Eno webisina i Anitiyoka su Godinu sina naueta uwarama Foroini Banabasini moana Anitiyoka Godinu sina naueta uwara i sina Jerusaremu afosoro uwaraini dubu su yawoeta uwarabai i sina webitae siaia uta. Siaia utate su baruna wawaro woure oitaro anita.
 Ane Fonisia orofa su suini Samaria orofa su suro Godinu sina weita. Eno weita, Godima i aika uwara awona ma wirotasu weita. Eno weitaro naueta uwarama yaru derawere uta.
@@ -27691,7 +27691,7 @@ Iwata utaitaba weroroka kodiawete siosa ueta da uawe wei.
 I afosoro uwarama yanu godinu ibaiabai waira utawa uitate yanu godiba siosa sina wiawa uita wei.
 Dimitirisini danu uwarama wawei sina webitae ufitaitana i koto ueta uwarabai anibitate emanu wawei sina webitaita wei.
 Yade, wawei sina weboitana i koto uwarabai weboita wei.
-Romani yawoeta uwarama yanu uraneta yaraneta naufitate fanisi mafitaita wei. Yanu uraneta yaranetana ba me wei. Eno weite i uwara nesia siaia uiro wo bagaru ue anita.
+Romani yawoeta uwarama yanu uraneta yaraneta naufitate fanisi mafitaita wei. Yanu uraneta yaranetana ba me wei.
 Duburo i weroroka me siniro, Foroma weiro Godinu sina naueta uwarama dawabai guruguru utaro Godinu sina weite ema ario weda ekodite Masadonia orofaro ani.
 Masadonia orofa aboro aboro ane Godinu sina naueta uwaranu imueta ma kobererau utebe ekodi.
 Masadonia orofa ekodite Gurisi orofaro ani. Ane farite sakara rarogonu ibebe Siria orofaro anibie uteda boutiro amufie ui. Uina moana uwarama dawa ma uieta daba doberebitaro nauiba ekodite Masadonia orofaro owemate burima duero animau wei.

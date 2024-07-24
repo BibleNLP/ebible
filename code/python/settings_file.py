@@ -252,7 +252,7 @@ def get_book_names(project_folder: Path) -> list[str]:
     return names
 
 
-def write_temp_settings_file(project_folder: Path) -> None:
+def write_temp_settings_file(project_folder: Path, post_part: str) -> None:
     """
     writes a temporary settings file as a place holder to be able to determine the versification
     param project_folder: the path to the project folder
@@ -261,7 +261,7 @@ def write_temp_settings_file(project_folder: Path) -> None:
         set_file.write(
             f"""<ScriptureText>
             <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
-            <Naming BookNameForm="46-MAT" PostPart="{project_folder.name}.usfm" PrePart="" />
+            <Naming BookNameForm="46-MAT" PostPart="{post_part}.usfm" PrePart="" />
             </ScriptureText>"""
         )
 
@@ -281,10 +281,11 @@ def get_corpus(
     for name in book_names:
         if name[0] in vrs_diffs.keys():
             shutil.copyfile(project_folder / name[1], vrs_path / name[1])
-    write_temp_settings_file(vrs_path)
+    write_temp_settings_file(vrs_path, project_folder.name)
     corpus = ParatextTextCorpus(vrs_path)
     lines = list(extract_scripture_corpus(corpus, corpus))
     shutil.rmtree(vrs_path)
+    
     return lines
 
 

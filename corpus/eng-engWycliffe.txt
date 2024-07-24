@@ -1502,9 +1502,9 @@ Beniamyn, a rauyschynge wolf, schal ete prey eerly, and in the euentid he schal 
 Alle these weren in twelue kynredis of Israel; her fadir spak these thingys to hem, and blesside hem alle by propre blessyngis,
 and comaundide hem, and seide, Y am gaderid to my puple, birie ye me with my fadris in the double denne, which is in the lond of Efron Ethei, ayens Manbre,
 in the lond of Canaan, which denne Abraham bouyte with the feeld of Efron Ethei, in to possessioun of sepulcre.
+
 There thei birieden hym, and Sare his wijf, also Ysaac was biried there with Rebecca his wijf; there also Lia liggith biried.
 And whanne the comaundementis weren endid, bi whiche he tauyte the sones, he gaderide hise feet on the bed, and diede, and he was put to his puple.
-
 Which thing Joseph seiy, and felde on `the face of the fader, and wepte, and kiste hym;
 and he comaundide hise seruauntis, lechis, that thei schulden anoynte the fadir with swete smellynge spiceries.
 While thei `filliden the comaundementis, fourti daies passiden, for this was the custom of deed bodies anoyntid; and Egipt biwepte hym seuenti daies.
@@ -1526,11 +1526,11 @@ And hise britheren camen to hym, and worschipiden lowe to erthe, and seiden, We 
 To whiche he answeride, Nyle ye drede; whether we moun ayenstonde Goddis wille?
 Ye thouyten yuel of me, and God turnede it in to good, that he schulde enhaunse me, as ye seen in present tyme, and that he schulde make saaf many puplis;
 nyle ye drede, Y schal fede you and youre litle children. And he coumfortide hem, and spak swetli, and liytly;
+
 and he dwellide in Egipt, with al the hows of his fadir. And he lyuyde an hundrid yeer, and he seiy the sones of Effraym til to the thridde generacioun; also the sones of Machir, son of Manasses, weren borun in the knees of Joseph.
 Whanne these thingis weren don, Joseph spak to hise brithren, Aftir my deeth God schal visite you, and he schal make to stie fro this lond to the loond which he swoor to Abraham, Ysaac, and Jacob.
 And whanne he hadde chargid hem, and hadde seid, God schal visite you, bere ye out with you my boonus fro this place,
 he diede, whanne an hundrid and ten yeeris of his lijf weren fillid; and he was anoyntid with swete smellynge spiceries, and was kept in a beere in Egipt.
-
 These ben the names of the sones of Israel, that entriden into Egipt with Jacob; alle entriden with her housis;
 Ruben, Symeon,
 Leuy, Judas, Isachar, Zabulon, and Benjamin,
@@ -2718,6 +2718,8 @@ And whanne thou hast take oyle of anoyntyng, thou schalt anoynte the tabernacle,
 the auter of brent sacrifice, and alle vessels ther of; the `waischyng vessel,
 with his foundement. Thou schalt anoynte alle thingis with the oile of anoyntyng, that tho be hooli of hooli thingis.
 And thou schalt present Aaron and hise sones to the dore of the tabernacle of witnessyng;
+
+
 and, whanne thei ben `waischid in water, thou schalt clothe hem with hooli clothis, that thei mynystre to me, and that the anoyntyng of hem profite in to euerlastynge preesthod.
 And Moises dide alle thingis whiche the Lord comaundide.
 Therfor in the firste monethe of the secunde yeer, in the firste dai of the monethe, the tabernacle was set.
@@ -2740,10 +2742,8 @@ And Moises, and Aaron, and his sones, waischiden her hondis and feet,
 whanne thei entriden into the roof of boond of pees, and neiyeden to the auter, as the Lord comaundide to Moises.
 He reiside also the greet street, bi the cumpas of the tabernacle and of the auter, and settyde a tente in the entryng therof. Aftir that alle thingis weren perfitli maad,
 a cloude hilide the tabernacle of witnessyng, and the glorie of the Lord fillide it;
-nether Moyses myyte entre in to the tabernacle of the boond of pees, while the cloude hilide alle thingis, and the maieste of the Lord schynede, for the cloude hilide alle thingis.
-If ony tyme the cloude lefte the tabernacle, the sones of Israel yeden forth bi her cumpanyes;
-if the cloude hangide aboue, thei dwelliden in the same place;
-for the cloude of the Lord restide on the tabernacle bi dai, and fier in the nyyt, in the siyt of the puplis of Israel, bi alle her dwellyngis.
+nether Moyses myyte entre in to the tabernacle of the boond of pees, while the cloude hilide alle thingis, and the maieste of the Lord schynede, for the cloude hilide alle thingis. if the cloude hangide aboue, thei dwelliden in the same place;
+If ony tyme the cloude lefte the tabernacle, the sones of Israel yeden forth bi her cumpanyes; for the cloude of the Lord restide on the tabernacle bi dai, and fier in the nyyt, in the siyt of the puplis of Israel, bi alle her dwellyngis.
 FORSOTHE the Lord clepide Moyses, and spak to him fro the tabernacle of witnessyng, `and seide,
 Speke thou to the sones of Israel, and thou schalt seie to hem, A man of you, that offrith to the Lord a sacrifice of beestis, that is, of oxun and of scheep, and offrith slayn sacrifices, if his offryng is brent sacrifice,
 and of the droue of oxun, he schal offre a male beeste without wem at the dore of the tabernacle of witnessyng, to make the Lord plesid to hym.
@@ -3567,8 +3567,8 @@ Therfor and Y schal go ayens hem, and Y schal brynge hem in to the lond of enemy
 and Y schal haue mynde of my boond of pees, which Y couenauntide with Jacob, Ysaac, and Abraham; also Y schal be myndeful of the lond,
 which, whanne it is left of hem, schal plese to it silf in `his sabatis, and schal suffre wildirnesse for hem; forsothe thei schulen preye for her synnes, for thei castiden awey my domes, and despyseden my lawis;
 netheles, yhe, whanne thei weren in `the lond of enemyes, Y castide not hem awey outirli, nether Y dispiside hem, so that thei weren wastid, and that Y made voide my couenaunt with hem; for Y am the Lord God of hem.
-And Y schal haue mynde of my formere boond of pees, whanne Y ledde hem out of the lond of Egipt, in the siyt of hethene men, that Y schulde be her God; Y am the Lord God.
-These ben the comaundementis, and domes, and lawis, whiche the Lord yaf bitwixe hym silf and bitwixe the sones of Israel, in the hil of Synay, bi the hond of Moises.
+
+And Y schal haue mynde of my formere boond of pees, whanne Y ledde hem out of the lond of Egipt, in the siyt of hethene men, that Y schulde be her God; Y am the Lord God. These ben the comaundementis, and domes, and lawis, whiche the Lord yaf bitwixe hym silf and bitwixe the sones of Israel, in the hil of Synay, bi the hond of Moises.
 And the Lord spak to Moises and seide, Speke thou to the sones of Israel,
 and thou schalt seye to hem, A man that makith avow, and bihetith his soule to God, schal yyue the priys vndur valu, ether preisyng.
 If it is a male, fro the twentithe yeer `til to the sixtithe yeer, he schal yyue fifti siclis of siluer, at the mesure of seyntuarie, if it is a womman,
@@ -4056,8 +4056,8 @@ And Moises turnede ayen, and the eldre men in birthe of Israel in to the tentis.
 Forsothe a wynde yede forth fro the Lord, and took curlewis, and bar ouer the see, and lefte in to the tentis, in the iurney, as myche as mai be parformed in o day, bi ech part of the tentis bi cumpas; and tho flowen in the eir bi twei cubitis in `hiynesse ouer the erthe.
 Therfor the puple roos in al that dai and nyyt and in to the tothir dai, and gaderide the multitude of curlewis; he that gaderide litil, gaderide ten `mesuris clepid chorus; `and o chorus conteyneth ten buschels; and thei drieden tho curlewis bi the cumpas of the tentis.
 Yit `fleischis weren in the teeth `of hem, and siche mete failide not; and lo! the woodnesse of the Lord was reisid ayens the puple, and smoot it with a ful greet veniaunce.
-And thilke place was clepid The sepulcris of coueitise, for there thei birieden the puple that desiride fleischis.
-Sotheli thei yeden `out of the sepulcris of coueitise, and camen in to Asseroth, and dwelliden there.
+
+And thilke place was clepid The sepulcris of coueitise, for there thei birieden the puple that desiride fleischis. Sotheli thei yeden `out of the sepulcris of coueitise, and camen in to Asseroth, and dwelliden there.
 And Marie spak and Aaron ayens Moises, for his wijf a womman of Ethiope,
 and seiden, Whethir God spak oneli by Moises? whethir he spak not also to vs in lijk maner? And whanne the Lord hadde herd this, he was wrooth greetli;
 for Moises was the myldest man, ouer alle men that dwelliden in erthe.
@@ -4073,7 +4073,6 @@ which we diden folili, that this womman be not maad as deed, and as a deed borun
 And Moises criede to the Lord, and seide, Lord, Y biseche, heele thou hir.
 To whom the Lord answerid, If hir fadir hadde spet in to hir face, where sche ouyte not to be fillid with schame, nameli in seuene daies? Therfor be sche departid out of the tentis bi seuen daies, and aftirward sche schal be clepid ayen.
 And so Marie was excludid out of the tentis bi seuene daies; and the puple was not mouyd fro that place, til Marie was clepid ayen.
-
 And the puple yede forth fro Asseroth, whanne the tentis weren set in the deseert of Pharan.
 And there the Lord spak to Moises,
 and seide, Sende thou men that schulen biholde the lond of Canaan, which Y schal yyue to the sones of Israel, of ech lynage o man of the princes.
@@ -4107,6 +4106,7 @@ Ethei, and Jebusei, and Amorey dwellen in the hilli placis; forsothe Cananey dwe
 Among thes thingis Caleph peeside the grutchyng of the puple, that was maad ayens Moises, and seide, `Stie we, and welde we the lond, for we moun gete it.
 Forsothe other aspieris, that weren with hym, seiden, We moun not stie to this puple, for it is strongere than we.
 And thei deprauyden the lond which thei hadden biholde, anentis the sones of Israel, and seiden, The lond which we cumpassiden deuourith hise dwelleris; the puple which we bihelden is of large stature; there we syen summe wondris ayens kynde, of the sones of Enach, of the kynde of geauntis, to whiche we weren comparisound, and weren seien as locustis.
+
 Therfor al the cumpeny criede, and wepte in that nyyt,
 and alle the sones of Israel grutchiden ayens Moises and Aaron, and seiden,
 We wolden that we hadden be deed in Egipt, and not in this waast wildirnesse ; we wolden that we perischen, and that the Lord lede vs not in to this lond, lest we fallen bi swerd, and oure wyues and fre children ben led prisoneris; whether it is not betere to turne ayen in to Egipt?
@@ -4337,8 +4337,8 @@ for he schal not entre in to the lond which Y yaf to the sones of Israel, for he
 Take thou Aaron, and his sone with hym, and thou schalt lede hem in to the hil of Hor;
 and whanne thou hast maad nakid the fadir of his cloth, thou schalt clothe `with it Eleazar, his sone, and Aaron schal be gederid, and schal die there.
 Moises dide as the Lord comaundide; and thei stieden in to the hil of Hor, bifor al the multitude.
-And whanne he hadde maad nakid Aaron of hise clothis, he clothide with tho Eleazar, his sone.
-Sotheli whanne Aaron was deed in the `cop of the hil, Moises cam doun with Eleazar. Sotheli al the multitude siy that Aaron was deed, and wepte on hym thretti daies, bi alle her meyness.
+And whanne he hadde maad nakid Aaron of hise clothis, he clothide with tho Eleazar, his sone. Sotheli whanne Aaron was deed in the `cop of the hil, Moises cam doun with Eleazar. Sotheli al the multitude siy that Aaron was deed, and wepte on hym thretti daies, bi alle her meyness.
+
 And whanne Chananei, the kyng of Arad, that dwellide at the south, hadde herd this, that is, that Israel cam bi the weye of aspieris, he fauyt ayens hem; and Chananei was ouercomere and ledde pray of Israel.
 And Israel bounde hym sylf bi avow to the Lord, and seide, If thou schalt bitake this puple in myn hond, Y schal do awei `the citees therof.
 And the Lord herde the preieris of Israel, and bitook the Chananey; and Israel killid hym, and distruyede hise citees; and clepide the name of that place Horma, that is, cursyng, `ethir hangyng up.
@@ -4647,7 +4647,6 @@ and ye schulen offre brent sacrifice in to swettest odour to the Lord, o calf, o
 And ye schulen halewe riytfuli the sacrifices and moiste offryngis `of alle, bi the calues, and rammes, and lambren.
 `And ye schulen offre a `buc of geet for synne, with out euerlastynge brent sacrifice, and `with out the sacrifice, and moiste offryng therof.
 Ye schulen offre these thingis to the Lord, in youre solempnytees, with out avowis, and wilful offryngis, in brent sacrifice, in sacrifice, in moist offryng, and in peesible sacrifices.
-
 And Moises telde to the sones of Israel alle thingis whiche the Lord comaundide to hym.
 And he spak to the princes of the lynagis of the sones of Israel, This is the word, which the Lord comaundide, If ony of men makith a vowe to the Lord,
 ethir byndith hym silf bi an ooth, he schal not make voide his word, but he schal fille al thing which he bihiyte.
@@ -4664,6 +4663,7 @@ Sotheli if the hosebonde ayenseide anoon, sche schal not be holdun gilti of bihe
 If sche avowith, and byndith hir silf bi an ooth, that sche turmente hir soule bi fastyng, ethir bi abstynence of othere thingis, it schal be in the doom of the hosebonde, that sche do, ether do not.
 That if the hosebonde herith, and is stille, and delaieth the sentence in the tother dai, sche schal yelde what euer thing sche avowide and bihiyte, for he was stille, anoon as he herde.
 Forsothe if the hosebonde ayenseide aftir that he wiste, he schal bere his wickidnesse. These ben the lawis, which the Lord ordeynede to Moyses bitwixe the hosebonde and the wijf, bitwixe the fadir and the douytir, which is yit in the age of a damysel, `that is, not yit maried, `ether which dwellith in `the hows of the fadir.
+
 And the Lord spak to Moyses, and seide,
 Venge thou firste the sones of Israel of Madianytis, and so thou schalt be gaderid to thi puple.
 And anoon Moises seide, Arme ye men of you to batel, that moun take of Madianytis the veniaunce of the Lord.
@@ -23781,6 +23781,7 @@ He answeride, and seide to hem, Elie schal come, and he schal restore alle thing
 And Y seie to you, that Elie is nowe comun, and thei knewen hym not, but thei diden in him what euer thingis thei wolden; and so mannus sone schal suffre of hem.
 Thanne the disciplis vndurstoden, that he seide to hem of Joon Baptist.
 And whanne he cam to the puple, a man cam to hym, and felde doun on hise knees bifor hym, and seide, Lord, haue merci on my sone; for he is lunatike, and suffrith yuele, for ofte tymes he fallith in to the fier, and ofte tymes in to water.
+
 And Y brouyte hym to thi disciplis, and thei myyten not heele hym.
 Jhesus answeride, and seide, A! thou generacion vnbileueful and weiward; hou long schal Y be with you? hou long schal Y suffre you? Brynge ye hym hider to me.
 And Jhesus blamede hym, and the deuel wente out fro hym; and the child was heelid fro that our.
@@ -23792,8 +23793,7 @@ and thei schulen sle hym, and the thridde day he schal rise ayen to lijf.
 And thei weren ful sori.
 And whanne thei camen to Cafarnaum, thei that token tribute, camen to Petre, and seiden to hym, Youre maister payeth not tribute?
 And he seide, Yhis. And whanne he was comen in to the hous, Jhesus cam bifor hym, and seide, Symount, what semeth to thee? Kyngis of erthe, of whom taken thei tribute? of her sones, ether of aliens?
-And he seide, Of aliens. Jhesus seide to hym, Thanne sones ben fre.
-But that we sclaundre hem not, go to the see, and caste an hook, and take thilke fisch that first cometh vp; and, whanne his mouth is opened, thou schalt fynde a stater, and yyue for thee and for me.
+And he seide, Of aliens. Jhesus seide to hym, Thanne sones ben fre. But that we sclaundre hem not, go to the see, and caste an hook, and take thilke fisch that first cometh vp; and, whanne his mouth is opened, thou schalt fynde a stater, and yyue for thee and for me.
 In that our the disciplis camen to Jhesu, and seiden, Who, gessist thou, is gretter in the kyngdom of heuenes?
 And Jhesus clepide a litil child, and putte hym in the myddil of hem;
 and seide, Y seie treuthe to you, but ye be turned, and maad as litle children, ye schulen not entre in to the kyngdom of heuenes.
@@ -24429,8 +24429,8 @@ And thei leften the puple, and token hym, so that he was in a boot; and othere b
 And a greet storm of wynde was maad, and keste wawis in to the boot, so that the boot was ful.
 And he was in the hyndir part of the boot, and slepte on a pilewe. And thei reisen hym, and seien to hym, Maistir, perteyneth it not to thee, that we perischen?
 And he roos vp, and manasside the wynde, and seide to the see, Be stille, wexe doumbe. And the wynde ceesside, and greet pesiblenesse was maad.
-And he seide to hem, What dreden ye? `Ye han no feith yit?
-And thei dredden with greet drede, and seiden `ech to other, Who, gessist thou, is this? for the wynde and the see obeschen to hym.
+
+And he seide to hem, What dreden ye? `Ye han no feith yit? And thei dredden with greet drede, and seiden `ech to other, Who, gessist thou, is this? for the wynde and the see obeschen to hym.
 And thei camen ouer the see in to the cuntree of Gerasenes.
 And aftir that he was goon out of the boot, anoon a man in an vncleene spirit ran out of birielis to hym.
 Which man hadde an hous in biriels, and nether with cheynes now myyte ony man bynde hym.
@@ -24605,6 +24605,7 @@ For he that wole make saaf his lijf, schal leese it; and he that leesith his lij
 For what profitith it to a man, if he wynne al the world, and do peiryng to his soule?
 or what chaunging schal a man yyue for his soule?
 But who that knoulechith me and my wordis in this generacioun avowtresse and synful, also mannus sone schal knouleche him, whanne he schal come in the glorie of his fadir, with his aungels. And he seide to hem, Treuli Y seie to you, that there ben summen stondynge here, whiche schulen not taste deth, til thei seen the rewme of God comynge in vertu.
+
 And aftir sixe daies Jhesus took Petre, and James, and Joon, and ledde hem bi hem silf aloone in to an hiy hille; and he was transfigurid bifor hem.
 And hise clothis weren maad ful schynynge and white as snow, whiche maner white clothis a fuller may not make on erthe.
 And Helie with Moises apperide to hem, and thei spaken with Jhesu.
@@ -24653,8 +24654,7 @@ where the worme of hem dieth not, and the fier is not quenchid.
 That if thin iye sclaundre thee, cast it out; it is betere to thee to entre gogil iyed in to the reume of God, than haue twey iyen, and be sent in to helle of fier, where the worme of hem dieth not,
 and the fier is not quenchid.
 And euery man schal be saltid with fier,
-and euery slayn sacrifice schal be maad sauery with salt.
-Salt is good; if salt be vnsauery, in what thing schulen ye make it sauery? Haue ye salt among you, and haue ye pees among you.
+and euery slayn sacrifice schal be maad sauery with salt. Salt is good; if salt be vnsauery, in what thing schulen ye make it sauery? Haue ye salt among you, and haue ye pees among you.
 And Jhesus roos vp fro thennus, and cam in to the coostis of Judee ouer Jordan; and eftsoones the puple cam togidere to hym, and as he was wont, eftsoone he tauyte hem.
 And the Farisees camen, and axiden hym, Whether it be leueful to a man to leeue his wijf? and thei temptiden hym.
 And he answeride, and seide to hem, What comaundide Moises to you?
@@ -26374,8 +26374,7 @@ Sotheli, sotheli, Y seie to you, he that bileueth in me, hath euerlastynge lijf.
 Y am breed of lijf.
 Youre fadris eeten manna in desert, and ben deed.
 This is breed comynge doun fro heuene, that if ony man ete therof, he die not.
-Y am lyuynge breed, that cam doun fro heuene.
-If ony man ete of this breed, he schal lyue withouten ende. And the breed that Y schal yyue, is my fleisch for the lijf of the world.
+Y am lyuynge breed, that cam doun fro heuene. If ony man ete of this breed, he schal lyue withouten ende. And the breed that Y schal yyue, is my fleisch for the lijf of the world.
 Therfor the Jewis chidden togidere, and seiden, Hou may this yyue to vs his fleisch to ete?
 Therfor Jhesus seith to hem, Treuli, treuli, Y seie to you, but ye eten the fleisch of mannus sone, and drenken his blood, ye schulen not haue lijf in you.
 He that etith my fleisch, and drynkith my blood, hath euerlastynge lijf, and Y schal ayen reise hym in the laste dai.
@@ -26395,6 +26394,7 @@ Therfor Jhesus seide to the twelue, Whether ye wolen also go awei?
 And Symount Petre answeride to hym, Lord, to whom schulen we gon? Thou hast wordis of euerlastynge lijf;
 and we bileuen, and han knowun, that thou art Crist, the sone of God.
 Therfor Jhesus answerde to hem, Whether Y chees not you twelue, and oon of you is a feend? And he seide this of Judas of Symount Scarioth, for this was to bitraye hym, whanne he was oon of the twelue.
+
 Aftir these thingis Jhesus walkide in to Galilee, for he wolde not walke in to Judee, for the Jewis souyten to sle hym.
 And ther was neiy a feeste dai of the Jewis, Senofegia.
 And hise britheren seiden to hym, Passe fro hennus, and go in to Judee, that also thi disciplis seen thi werkis that thou doist;

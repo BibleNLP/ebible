@@ -17383,7 +17383,6 @@ Ni uchiri ainau tura aishri ainausha niin pengker nintiminau asar nuwarin chicha
 <range>
 Nuwa shiiram ainau anangmaminak: Wikia chikich nuwa ainaun nangkamasnak timiá shiirmaitjai tumamina nuka nangkamiar tinawai. Antsu nuwa Apu Yusen umirkauka timiá pengkeraitai.
 ¡Yaktanam pujuinautiram, mash nu nuwa ainaun pachisrum: Nekasar pengker ainawai titaram! ¡Tura ni turamurijai metek pengker awajsataram! Maaketai.
-Extra text to get Indesign started.
 
 
 
@@ -17591,20 +17590,21 @@ Extra text to get Indesign started.
 
 
 
-Ame natsa akumsha, amin najatmamia nu kajinmakiip. Tura najaimiatsuk pujakmesha amin najatmamia nu nintimrata. Ukunam najaimiakmeka: Wikia pengkerka pujatsjai titinuitme.
-Tsaasha tura nantusha tura yaasha paan wainme juwik ami Yusrum nintimrata. Tura yumi jiturmaunum tungkiang paan wainme juwik ami Yusrum nintimrata.
-Ameka kuratsme juwik, tura punusam wekaatsume juwik ami Yusrum nintimrata. Tura naimsha akaatsu juwik tura jiimisha kusuatsu juwik ami Yusrum nintimrata.
-Juuntach wajakmikia ameka jeá pujutnuitme. Tura antichu asam aanum takakminausha antukchatnuitme. Tura nanamtin shiniinausha antukchatnuitme. Tura aints kantan kantaminausha antukchatnuitme.
-Tura jea yakí wakatatkamam ayaarai tusam shamkatnuitme. Tura jinta wekaakmesha ayaartinuitme. Tura jakamin nekapeakum yutasha nintimtsuk pujustinuitme. Tura aints ainau amin nintimturmasar: Yamaiyapi jakatatua tusar nukap juutiartinuitai.
-Tura asam iwiaaku pujame juwik Yusrum nintimrata.
-Ame jakamka namangmeka nungka najanartinuitai. Tura Yus wakanmin suramsau asa, ataksha Ni jukitnuitai.
-Wi nekau asan tajame: Aints ainauka mash nangkamiar pujuinawai.
-Tura nekau nekas chichaman nekau asa, aints ainauncha ni nekaamia nuna nuiniarmiayi. Tura nuikiartutai chichamnasha untsuri aar nunasha antumtikiamiayi. Tura warina takua tawa tusa aints ainaun nekamtikiamiayi.
-¿Tura aints ainaun warí chichamnak ujaktaj? tu nintimias ni chichamen timiá paan ati tusa nintimramiayi. Tura nekas chicham paan ati tusa nintimramiayi.
-Nintip ainau chichaman chichainamtaikia, aints ainau te paan antukar nintimrar pujuinawai. Tura aints nintipka nekas chichaman pengké kajinmakchamniaun etserui.
-Turamtai nu chichaman antukaru asar, aints ainau timiá pengker pujusartinuitai. Papi untsuri najanatnuka pengké umischamnawaitai. Kichik umisar ataksha chikich najanatnuitai. Tura papi jiajiaka yawetrarminuitai.
-Yus iincha ii pengker turamurin pachis, tura ii pasé turamurincha pachis mash ininmastinuitji. Iikia uukar pasé aa nu turakrinka, Yuska mash aa nuna nekau asa, nuna pachischa iincha ininmastinuitji. Tura asamtai Yus nintimrata. Tura ni chichame umirkata. Nuna nangkamasang pengker pujustinka atsawai. Nunia tita tamauka atsawai.
-<range>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
