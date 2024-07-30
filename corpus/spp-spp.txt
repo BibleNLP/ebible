@@ -1502,9 +1502,9 @@ Bɛnzhama na ɲyɛ mu à jwo sige pwun katege wu. Ɲyɛ̀ge na, u maha sige yaar
 Ɲyɛ Izirayɛli tùluyi kɛ ná shuunniŋ'à fworo mpii shiin kɛ ná shuunniŋi i. Pi tuŋi Yakuba jwumpe nizanmpe pu mpyi mpe mà yyaha tíi ná pi puni niŋkin niŋkinŋi i, wà ná wà wumɔ ɲyɛ a pyi niŋkin mɛ.
 Ɲyɛ lire kàntugo, ka *Yakuba si yi jwo a waha u jyaabil'á na: «Mii aha bú ŋkwû, yii i sà na tò na tulyeyi tatoŋke e, ɲaŋgyige ku ɲyɛ Kyiti shinŋi Efirɔn kɛrɛge e ke, wani yii sí n-sà mii tò na tulyeyi taan.
 Kuru ɲaŋgyige na ɲyɛ Makipela kɛrɛge e, Mamire cyage e, *Kana kìni i. *Ibirayima u à kuru cyage shwɔ Kyiti tùluge shinŋi Efurɔn á, mà pyi u kwùu tatòŋɔ.
+
 Wani Ibirayima ná u cwoŋi Sara, ná Ishaka ná u cwoŋi Erebeka à tò, wani mii à na cwoŋi Leya tò mú.
-Kuru kɛrɛge ná ɲaŋgyige ku ɲyɛ k'e ke, yire pun'à shwɔ Kyiti shiinbil'á.»
-Ɲyɛ Yakuba à puru jwumpe jwo a kwɔ̀ u jyaabil'á ke, maa tooyi dùrugo yasínniŋke na, maa sínni, ka u múnaani si fworo u e.
+Kuru kɛrɛge ná ɲaŋgyige ku ɲyɛ k'e ke, yire pun'à shwɔ Kyiti shiinbil'á.» Ɲyɛ Yakuba à puru jwumpe jwo a kwɔ̀ u jyaabil'á ke, maa tooyi dùrugo yasínniŋke na, maa sínni, ka u múnaani si fworo u e.
 Tèni i Yusufu à cè na u tuŋ'à kwû ke, ka u u u yyahe bûru u woge na, maa mɛɛ sú.
 U à kwɔ̀ mɛɛsuni na ke, maa u wyempyiibii pyi pi à u tuŋi buwuŋi yal'a yaa ná nùguntangayaayi i mà yaha.
 Ka pi i ŋkwôro u ɲjaaŋi na fo mà sà nta canmpyaa beeshuunni, ɲaha na yɛ *Misira kìni làda u mpyi ure. Ka Misira shiinbii si yamɛɛni sú fo canmpyaa beetaanre ná kɛ.
@@ -1526,11 +1526,11 @@ Ka u yyahawuubii si ŋkàr'a sà niŋkure sín u taan, maa jwo «Mu bilibii pi m
 Ka u u pi pyi «Yii àha vyá mɛ, mii u ɲyɛ Kile la?
 Yii pi ke, yii la mpyi si kapii pyi mii na, ŋka Kile à li kɛ̂ɛnŋ'a pyi kacɛnnɛ, maa li kàntugo pyi nde niɲjaa, bà sùpyire niɲyahara si mpyi si shwɔ mɛ.
 Lire e ke, yii àha raa fyáge mɛ, mii sí yii ná yii pyìibii puni le na kaloge ɲwɔh'i.» Maa jwo ná pi e tìpoom'i, mà pi zòmpii tìŋɛ.
+
 Lire kàntugo, Yusufu ná u cìnmpyiibil'à kwôro *Misira e. Yusufu shìŋi tɛgɛn'à pyi yyee ŋkuu ná kɛ.
 U à u jyaŋi Efirayimu pyìibii ná u ɲampyire ɲya. Ɲyɛ Manase ɲampyir'à si ke, ka Yusufu si pire pyi u pyìi. Manase ɲampyire na mpyi Makiri pyìi.
 Canŋka Yusufu à jwo u sìɲɛɛbil'á «Li sì mɔ mɛ, mii sí n-kwû, ŋka yii i dá li na na Kile sí yii le u kaloge ɲwɔh'i, si yii yige nde kìni i. Kìni ɲwɔmɛɛni u à lwɔ́ wuu tulyeyi *Ibirayima ná Ishaka ná *Yakuba á ke, u sí n-kàre ná yii e wani.»
-Lire kàntugo, Yusufu à u sìɲɛɛbii pyi «Yii kâa na ɲyii na, na Kile ká bú yii yige Misira e, yii niŋkàribii, yii sí n-kàre ná mii kaciiyi i.»
-Ɲyɛ Yusufu à pa ŋkwû mà u shìŋi yaha yyee ŋkuu ná kɛ ke, ka pi i u buwuŋi bégele ná latikol'e mà le keshu funŋ'i mà tò Misira kìni i.
+Lire kàntugo, Yusufu à u sìɲɛɛbii pyi «Yii kâa na ɲyii na, na Kile ká bú yii yige Misira e, yii niŋkàribii, yii sí n-kàre ná mii kaciiyi i.» Ɲyɛ Yusufu à pa ŋkwû mà u shìŋi yaha yyee ŋkuu ná kɛ ke, ka pi i u buwuŋi bégele ná latikol'e mà le keshu funŋ'i mà tò Misira kìni i.
 
 
 
@@ -23781,6 +23781,7 @@ Ka u u pi pyi: «Sèe wi, Eli à yaa u fyânha a pa si karigii puni kurigii tíi
 Ŋka mii sí yi jwo yii á, Eli à pa a kwɔ̀, sùpyire ɲyɛ a u cè mɛ, maa u pyi pi ɲyii pyiŋkanni na. Lire pyiŋkanni ninuuni na, pi sí Supyaŋi Jyaŋi kyérege mú.»
 Ɲyɛ u à puru jwo ke, ka u cyelempyiibii si li cè na Yuhana Batizelipyiŋi kyaa u ɲyɛ na yu.
 Ɲyɛ pi à kàr'a sà nɔ sùpyire cyage e ke, ka nàŋi wà si mpa niŋkure sín Yesu fere e maa jwo:
+
 «Kafooŋi, mii na mu ɲáare maa ɲwɔ na jyaŋi na, kìrikirisanŋi u ɲyɛ u e na u kànre sèl'e, u maha u cyáan nage e tèrigii cyìl'e, maa u cyáan lwɔhe e tèrigii cyìl'e.
 Mii à pa ná u e mu cyelempyiibii yyére, ŋka pire ɲyɛ a jà a u cùuŋɔ mɛ.»
 Ka Yesu si jwo: «Ei! Yii dánabaa sùpyiibii nimpiibii, fo ɲaha tère e mii sí n‑kwôro ná yii e yɛ? Mii sí yii kapyiiŋkii kwú naye e n-sà nɔ fo ɲaha tère na yɛ? Yii a ma ná pyàŋi i na á.»
@@ -23792,8 +23793,7 @@ Canŋka mà Yesu ná u cyelempyiibii yaha siɲcyan Galile kùluni i, u à jwo pi
 ŋka u kwùŋi canmpyitanrewuuni, u sí ɲɛ̀.» Ka puru jwumpe si cyelempyiibii yyahayi tanha sèl'e.
 Ɲyɛ Yesu ná u cyelempyiibil'à sà nɔ Kapɛrɛnamu kànhe e ke, mpii pi maha Kileɲaarebage wyɛ́rɛŋi shuu ke, ka pire si file Pyɛri na maa u pyi: «Taha yii cyelentuŋi bà ɲyɛ na Kileɲaarebage wyɛ́rɛŋi sârali mɛ?»
 Ka Pyɛri si pi pyi: «U maha u sârali kɛ!» U à jyè bage e ke, ka Yesu si jwumpe lwɔ́ yyecyiige na, maa jwo: «Simɔ, ɲaha mu ɲyɛ na sɔ̂nŋi yɛ? Jofoo na ŋge diɲyɛŋi saanbii maha múnalwɔɔre shuu, lire ɲyɛ mɛ na wyɛ́rɛwwuuge cyáan yɛ? Pi pyìibii na laa, nàmpwuunbii na?»
-Ka Pyɛri si jwo: «Nàmpwuunbii.» Ka Yesu si jwo: «Pi pyìibii kɔni ɲyɛ a yaa pi a u sârali mɛ.
-Ŋka ná wuu la sí ɲyɛ sì ɲcyé u sâraga pi lùgigii cyi kwɔ̀ a yîri mɛ, lire e, ta sì baŋi ɲwɔge na, maa ma myàhani wà lwɔhe e. L'aha fyaŋi niɲcyiiŋi ŋgemu cû ke, maa uru ɲwɔge múgo, mu sí wyɛ́rɛ ta wani, uru sí n‑bɛ̂ mii ná mu wuŋi na.»
+Ka Pyɛri si jwo: «Nàmpwuunbii.» Ka Yesu si jwo: «Pi pyìibii kɔni ɲyɛ a yaa pi a u sârali mɛ. Ŋka ná wuu la sí ɲyɛ sì ɲcyé u sâraga pi lùgigii cyi kwɔ̀ a yîri mɛ, lire e, ta sì baŋi ɲwɔge na, maa ma myàhani wà lwɔhe e. L'aha fyaŋi niɲcyiiŋi ŋgemu cû ke, maa uru ɲwɔge múgo, mu sí wyɛ́rɛ ta wani, uru sí n‑bɛ̂ mii ná mu wuŋi na.»
 Ɲyɛ lire tèni i, ka cyelempyiibii si file Yesu na, maa u pyi: «Jofoo u ɲyɛ shinbwoŋi Kile Saanre e yɛ?»
 Ɲyɛ ka Yesu si pyàŋi wà yyere, maa u yyéeŋɛ pi shwɔhɔl'e, maa jwo:
 «Sèeŋi na mii sí yi jwo yii á, ná yii ɲyɛ a kɛ̂ɛnŋɛ mà pyi nàŋkopyire fiige mɛ, yii sì n‑sìi n‑jà n‑jyè Kile Saanre e mɛ.
@@ -24429,8 +24429,8 @@ Ka pi i sùpyire cye yaha, maa ŋkàre ná Yesu i baŋi ɲuŋ'i, bakwooyi yabɛr
 Ka kafeebwɔhɔ si yîri na fwu, ka lwɔhe si wá na ɲcyânre na jyè bakwɔɔge e fo na ŋko si ku ɲî.
 Yesu mpyi bakwɔɔge kàntugo yyére mà ɲùŋke taha ɲùntahaga na, na ŋwúuni. Ka pi i u ɲɛ̀ maa jwo: «Cyelentuŋi, wuu na ŋko si ŋkwôro lwɔhe e, lire ɲyɛ a mu funŋɔ pɛn mà?»
 U à ɲɛ̀ ke, maa yîr'a fànha cyán kafɛɛge na, maa lwɔhe pyi ku tɛ̀ɛn. Ka kafɛɛge si yyére, ka lwɔhe si ntɛ̀ɛn siu!
-Lire kàntugo ka Yesu si pi pyi: «Ɲaha na yii na fyáge amɛ yɛ? Ɲaha na yii sàha ŋkwɔ̀ a dá mii na mà yɛ?»
-Ka u cyelempyiibii si fyá sèl'e, marii yi yu piy'á: «Jofoo u ɲyɛ ŋge nàŋi fo ka kafɛɛge ná lwɔhe si ntɛ̀ɛn u wuuni taan yɛ?»
+
+Lire kàntugo ka Yesu si pi pyi: «Ɲaha na yii na fyáge amɛ yɛ? Ɲaha na yii sàha ŋkwɔ̀ a dá mii na mà yɛ?» Ka u cyelempyiibii si fyá sèl'e, marii yi yu piy'á: «Jofoo u ɲyɛ ŋge nàŋi fo ka kafɛɛge ná lwɔhe si ntɛ̀ɛn u wuuni taan yɛ?»
 Ɲyɛ ka Yesu ná u cyelempyiibii si nɔ baŋi kùŋke na, wani Gadara shiinbii ɲyɛ.
 Yesu à tîg'a fworo bakwɔɔge e ke, ka jínacyanŋi wà si ntíl'a fworo fanɲyi i, maa mpa u ɲùŋɔ bɛ̂.
 Uru nàŋi mpyi na shùun fanɲyi i. Sùpya sàha mpyi na sì n‑jà u pwɔ mɛ, u mpyi maha u yapwoyi puni kwùun, ali yɔ̀rɔyi.
@@ -24605,6 +24605,7 @@ Lire kàntugo ka Yesu si u cyelempyiibii ná shinɲyahara yyere, maa yi jwo pi �
 Ɲaha li sí ɲwɔ sùpyaŋ'á mà ma ɲyii yaayi puni ta ŋge diɲyɛŋi i niɲjaa, mu nùmpanŋke si sà ŋkɛ̀ɛge yɛ?
 Sùpya sì n‑jà yafyin tɛ̀gɛ u múnaani ɲùŋɔ wwû nùmpanŋa mɛ.
 Lire kurugo ŋgemu u na ɲcyíge Supyaŋi Jyaŋi ná u jwumpe na sùpyire ɲyii na, nte ti na kapegigii pyi maa kàntugo wà Kile á ke, Supyaŋi Jyaŋi ká bú mpa ná u Tuŋi sìnampe ná Kile mɛ̀lɛkɛɛbil'e canŋke ŋkemu i ke, u sí n‑cyé urufoo na.
+
 Sèeŋi na mii sí yi jwo yii á, yii mpii pi ɲyɛ naha ke, pìi na ɲyɛ yii e, pire sì n‑kwû ná pi ɲyɛ a Kile Saanre ɲya, ti i ma ná síŋi puni i mà yɛ.»
 Canmpyaa baani kàntugo, ka Yesu si Pyɛri ná Yakuba ná Yuhana lwɔ́, maa ŋkàre ná pire kanni i ɲaŋke kà nintɔɔngɔ ɲuŋ'i. Mà pi yaha wani, Yesu pyiŋkann'à pa ŋkɛ̂ɛnŋɛ pi ɲyii na.
 Ka u vàanɲyi si mpâl'a fíniŋɛ fo na ɲî. Yi mpyi a fíniŋɛ fíniŋiŋkanni ndemu na ke, sùpya ɲyɛ ɲìŋke na ŋgemu u sì n‑jà yaaga pyi ku fíniŋɛ amuni mɛ.
@@ -24654,7 +24655,6 @@ Mu tɔɔge kà niŋkin ká a si mu pyi mu u kapii pyi, ku kwɔ̀n a wà, maa jy�
 Mu ɲyiini là ká a si mu pyi mu u kapii pyi, li wwûl'a wà, mu ɲyii niŋkin wuŋi u jyè Kile Saanre e. Lir'à pwɔ́rɔ mu á, mu ná ma ɲyiigii shuunniŋi u jyè nafugombaage e.
 “Fyɛɛnre ti maha sùpyire kyaare lyî kuru cyage e ke, tire ɲyɛ na ŋkwûu mɛ, kuru cyage nage mú ɲyɛ na fùru mɛ.”
 Kyaage k'à ɲáaŋa nage fiige ke, kuru kyaage Kile sí n‑tɛ̀gɛ u shiinbii toroŋkanni kɛ̂ɛnŋɛ. Suump'à táan, suumpe tìpoompe ká fworo p'e, ɲaha ku sí n‑jà pu pyi pu táan sahaŋki yɛ? Yii pyi suumɔ niɲcɛnmɛ, yyeɲiŋke ku pyi yii shwɔhɔl'e.»
-<range>
 Yesu ná u cyelempyiibil'à kàre Zhude kùluni i, Zhurudɛn baŋi kàntugo. Wani sahaŋki, ka sùpyire si mpa bínni u taan. Ka u u núr'a cye le u kapyiɲjyeeni i, na ti kâlali.
 Ka Farizhɛɛnbii pìi si file u na, si u pɛrɛ ɲcû ná jwumpe e, maa u yíbe: «Mà tàanna ná Kile Jwumpe Semɛŋi i, nɔ̀ sí n‑jà u cwoŋi yaha la?»
 Ka Yesu si pi pyi: «Ɲaha Kile tùnntunŋiMusa à sémɛ lire nde kyaa na yɛ?»
@@ -26374,8 +26374,7 @@ Sèeŋi na mii sí n‑sìi yi jwo yii á, ŋgemu u à dá mii na ke, shìŋi ni
 Yalyire ti maha shìŋi niŋkwombaaŋi kaan sùpyir'á ke, mii u ɲyɛ tire.
 Mà yii tulyeyi yaha síwage e, pi à maniŋi lyî. Lire ná li wuuni mú i, pi à kwû.
 Ŋka nte t'à yîri nìɲyiŋi na mà tîge ɲìŋke na ke, ŋgemu ká tire lyî ke, u saha sì n‑kwû mɛ.
-Mii u ɲyɛ tire yalyire shìŋi woore mà yîri nìɲyiŋi na. Shin maha shin u à tire yalyire tà lyî ke, urufoo sí shìŋi niŋkwombaaŋi ta. Yalyire mii sí n‑kan diɲyɛŋi si shìŋi niŋkwombaaŋi ta ke, mii cyeere ti ɲyɛ tire.»
-Yesu à yire jwo ke, ka nàkaante si yîri Yahutuubii shwɔhɔl'e na: «Di ŋge nàŋi sí n‑jà u cyeere kan wuu lyî yɛ?»
+Mii u ɲyɛ tire yalyire shìŋi woore mà yîri nìɲyiŋi na. Shin maha shin u à tire yalyire tà lyî ke, urufoo sí shìŋi niŋkwombaaŋi ta. Yalyire mii sí n‑kan diɲyɛŋi si shìŋi niŋkwombaaŋi ta ke, mii cyeere ti ɲyɛ tire.» Yesu à yire jwo ke, ka nàkaante si yîri Yahutuubii shwɔhɔl'e na: «Di ŋge nàŋi sí n‑jà u cyeere kan wuu lyî yɛ?»
 Ka Yesu si núr'a yi jwo pi á: «Sèeŋi na mii sí n‑sìi yi jwo yii á, yii aha mpyi yii ɲyɛ a Supyaŋi Jyaŋi kyaare kyà, maa u sìshange bya mɛ, yii sì shìŋi niŋkwombaaŋi ta mɛ.
 Ŋgemu ká mii cyeere kyà maa mii sìshange bya mú ke, shìŋi niŋkwombaaŋi na ɲyɛ urufol'á. Mii sí urufoo ɲɛ̀ n‑yige kwùŋi i diɲyɛ canŋkwɔge,
 ɲaha na yɛ mii cyeere ti ɲyɛ yalyire sèe woore, mii sìshange mú sí ɲyɛ lùbyage sèe woge.
@@ -26395,6 +26394,7 @@ Ka Simɔ Pyɛri si u pyi: «Kafooŋi, jofoo yyére wuu sí raa ŋkɛ̀ɛge, shì
 Wuu à li cè maa dá li na na ŋge u à fworo Kile e ke, uru u ɲyɛ mu.»
 Ka Yesu si pi pyi: «Tá mii bà u à yii kɛ ná shuunniŋi cwɔɔnrɔ mɛ? Ŋka yii wà niŋkin na naha zàmpɛn.»
 Simɔ Isikariyoti jyaŋi Zhudasi kyaa Yesu mpyi a jwo ke, uru u sí n‑pa u le cye e, maa li ta u na ɲyɛ cyelempyiibii kɛ ná shuunniŋi niɲcwɔnrɔbil'e.
+
 Lire kàntugo Yesu à tòro ná ɲani i Galile kùluni i, u ɲyɛ a ɲɛn'a jyè Zhude kùluni i mɛ, ɲaha na yɛ Yahutuubii ɲùŋufeebii mpyi na u caa si mbò.
 Yahutuubii vùnɲyi kataanni mpyi a byanhara a kwɔ̀.
 Ka Yesu cìnmpyiibii si mpa u fye e, maa yi jwo u á: «Mu à yaa mu u yîri naha numɛ mà kàre Zhude kùluni i, bà mu cyelempyiibii pi ɲyɛ kuru cyage e ke, pire si mpyi si mu kakyanhala karigii ɲya mɛ.
@@ -27237,12 +27237,12 @@ Mii cyɛge bà k'à yire yaayi puni yaa mà?”»
 Yii tulyey'à Kile tùnntunmpii puni kyérege. Ŋge u à sàa tíi ke, mpii pi à uru mpaŋi kyaa jwo ke, pi à pire bò. Numɛ, ka yii i núr'a pa wwû uru sùpyaŋi nintiiŋi ɲwɔh'i mà bò.
 Yii pi à Kile Saliyaŋi ta Kile mɛ̀lɛkɛɛbii cye kurugo ke, yii ɲyɛ a ɲɛɛ na uru Saliyaŋi kurigii ɲaare mɛ.»
 Yukyaabil'à yire lógo ke, ka pi lùgigii si yîri fo mà tatɛɛnge fô pi na Ecyɛni kurugo.
+
 Ŋka mà Ecyɛni yaha u à ɲî Kile Munaani na, u à yyahe yîrig'a le nìɲyiŋi i, mà Kile sìnampe ɲya, maa Yesu ɲya u à yyére Kile kàniŋɛ cyɛge na,
 ka u u pi pyi: «Yii lógo, mii naha nìɲyiŋi ɲya u à múgo, Supyaŋi Jyaŋi s'à yyére Kile kàniŋɛ cyɛge na.»
 Ɲyɛ Ecyɛni à puru jwo ke, ka pi i ŋkwúulo fànha na, maa pi niŋgyigigii tò, maa ŋkàr'a sà bôgoro u na,
 maa u cû a yige kànhe kàntugo yyére, maa sà u wà ná kafaayi i mà bò. Mpii pi à fin'a taha u na ke, pire mpyi a pi vàanntinɲyi wwû a kan nàɲjiiŋi wà á, uru mɛge na mpyi Soli.
-Mà pi yaha pi i Ecyɛni wàa ná kafaayi i, u à Kile ɲáare na: «Kafooŋi Yesu, mii sí na múnaani kan mu á!»
-Maa niŋkure sín maa jwo fànha na: «Kafooŋi, ma hà nde kapiini fwooni tò pi na mɛ!» U à puru jwo ke, ka u múnaani si fworo u e.
+Mà pi yaha pi i Ecyɛni wàa ná kafaayi i, u à Kile ɲáare na: «Kafooŋi Yesu, mii sí na múnaani kan mu á!» Maa niŋkure sín maa jwo fànha na: «Kafooŋi, ma hà nde kapiini fwooni tò pi na mɛ!» U à puru jwo ke, ka u múnaani si fworo u e.
 Soli mú mpyi a ɲɛɛ Ecyɛni mbòŋi i. Kuru canŋke, ka pi i li ɲwɔ cû na Zheruzalɛmu kànhe dánafeebii kyérege sèe sèl'e. Kuru yyefuge mpèeŋi kurugo, tùnntunmpii baare e, dánafeebii puni mpyi a caala mà kàre Zhude kùluni ná Samari wuuni i.
 Mpii pi mpyi na fyáge Kile na ke, ka pire pìi si Ecyɛni lwɔ́ a kàr'a sà ntò, maa u kwùŋi yamɛɛni sú sèl'e.
 Soli sí wi ke, uru mpyi a sàa uye pwɔ si dánafeebii kuruŋke shi tò. U mpyi maha jyè pyɛnyi i, maa dánafeebii, nàmbaabii bâra cyeebii na, maa pire cwôre na sì na leni kàsuŋi i.
@@ -27486,6 +27486,7 @@ Cyelempyiibii pi mpyi Antiyɔshi kànhe e ke, pire mpyi a ɲî funntange ná Kil
 Lire ná li wuuni mú i, Poli ná Barinabasi à kwôro wani mà tère nimbwoo pyi. Pi mpyi a pi cyɛge taha Kafooŋi Yesu na maa u kyaa yu sùpyir'á fyagara baa. Kafooŋi mpyi maha fànhe kaan pi á, pi i kakyanhala karigii ná kacyeeŋkii pyi. Lire cye kurugo pi mpyi maha li cyêe na jwumpe pi ɲyɛ na yu na Kile à ɲwɔ ke, na puru na ɲyɛ sèe.
 Ɲyɛ lir'à pyi ke, ka kànhe shiinbii si ntáa, ka taage kà si mpyi ná Yahutuubii kàmpanŋke e, ka ku sanŋke si mpyi ná Yesu tùnntunmpil'e.
 Yahutuubii ná supyishiŋi sanŋi ná pi ɲùŋufeebii mpyi a bɛ̂ li na, si Poli ná Barinabasi kyérege, si pi wà mbò ná kafaayi i.
+
 Poli ná Barinabasi à pa ɲcè na pi na pire taboŋɔ caa ke, maa fê a kàre Likayoni kùluni i, Lisitiri ná Dɛribe ná yi kwùumpe kànyi na.
 Mà pi yaha wani, pi mpyi maha Jwumpe Nintanmpe yu.
 Nàŋi wà na mpyi Lisitiri kànhe e, u tooyi mpyi a fàan. U mpyi a si cwɔ̀hɔmɔfoo.
@@ -27507,8 +27508,7 @@ Dánafeebii kuruɲyi yi mpyi yire kànyi na ke, ka Poli ná Barinabasi si kacwɔ
 Lire kàntugo maa Pisidi kùluni jyiile maa ŋkàre Panfili wuuni i.
 Pi à Kile jwumpe jwo Pɛrigɛ kànhe e mà kwɔ̀ ke, maa ŋkàre Atali kànhe e.
 Pi à nɔ wani ke, maa jyè bakwɔɔge e mà kàre Antiyɔshi kànhe e. Báaraŋi u ŋge Poli ná Barinabasi à pyi amɛ ke, wani kuru kànhe na dánafeebii mpyi a Kile ɲáare pi na maa pi le Kile cye e uru báaraŋi mpyiŋi mɛɛ na, bà Kile si mpyi si ɲwɔ pi na si pi tɛ̀gɛ mɛ.
-Pi à nɔ wani ke, maa dánafeebii puni bínni. Kile mpyi a pi pyi pi à jà a yaaga maha yaaga pyi ke, mà bâra pyiŋkanni na Kile mpyi a dániyaŋi kuni cyêe supyishiŋi sanŋi na ke, maa yire puni yyaha jwo dánafeebil'á.
-Maa ntɛ̀nn'a tère nimbwoo pyi ná pi e wani.
+Pi à nɔ wani ke, maa dánafeebii puni bínni. Kile mpyi a pi pyi pi à jà a yaaga maha yaaga pyi ke, mà bâra pyiŋkanni na Kile mpyi a dániyaŋi kuni cyêe supyishiŋi sanŋi na ke, maa yire puni yyaha jwo dánafeebil'á. Maa ntɛ̀nn'a tère nimbwoo pyi ná pi e wani.
 Yahutuubii dánafeebii pìi mpyi a yîri Zhude kùluni i mà pa Antiyɔshi kànhe e, cìnmpyiibii dánafeebii pi mpyi pi ɲyɛ Yahutuu mɛ, maa mpa a pire kâlali maa ŋko pir'á na: «Yii aha mpyi yii ɲyɛ a kwɔ̀n mà tàanna ná Kile tùnntunŋiMusaSaliyaŋi i mɛ, yii sì nùmpanŋa ta mɛ.»
 Poli ná Barinabasi ɲyɛ a mpyi a ɲɛɛ puru jwumpe na mɛ, ka ti i mpyi nàkaana pi shwɔhɔl'e fo mà ti ɲáaŋa. Li ɲyɛ a pa ɲwɔ mɛ fo ka li i yaa mà Poli ná Barinabasi ná piibɛrii tun Zheruzalɛmu kànhe e, pi sà mpe jwumpe cyêe Yesu tùnntunmpii ná kacwɔnribii na.
 Ka dánafeebii kuruŋke si pi tùugo. Pi niŋkaribil'à tòro Fenisi kùluni ná Samari wuuni i. Mpii pi ɲyɛ pi ɲyɛ Yahutuu mɛ, pyiŋkanni na pir'à piye kan Yesu á ke, ka pi i lire yyaha jwo cyire kùligii cìnmpyiibil'á. Puru jwumpe mpyi a cìnmpyiibii puni funɲyi táan sèl'e.
@@ -27691,7 +27691,7 @@ Sùpya sì n‑jà yire kyáala mɛ. Lire e ke yii yii funɲyi ɲíŋɛ, yii àh
 Yii à mpii nàmpii cû mà pa naha, mà li ta pi ɲyɛ a yafyin yû yasunŋke bage e mɛ, pi mú ɲyɛ a jwumpimɛ jwo mà yyaha tíi ná wuu yasunŋke e mɛ.
 Demɛtirusi ná u báarapyiɲɛɛbii la ká mpyi si sùpyaŋi wà cɛ̂ɛgɛ kani là na, pi a sì yukyaala bage e yukyaabii yyére ná lire kani i.
 Kampyi pabɛrɛ sí na wá yii á, wuu mpìnniŋi canŋke, wuu sí puru cwɔɔnrɔ.
-Lire baare e nde li nde wuu à pyi amɛ niɲjaa ke, wuu sí n‑jà ɲcɛ̀ɛgɛ ta l'e, ɲaha na yɛ pi aha wuu yíbe, wuu sì n‑jà ɲùŋɔ ta sùpyire kabinnini na mɛ.» U à puru jwo a kwɔ̀ ke, maa sùpyire cye yaha.
+Lire baare e nde li nde wuu à pyi amɛ niɲjaa ke, wuu sí n‑jà ɲcɛ̀ɛgɛ ta l'e, ɲaha na yɛ pi aha wuu yíbe, wuu sì n‑jà ɲùŋɔ ta sùpyire kabinnini na mɛ.»
 Ɲyɛ màhaŋ'à pa fyâha ke, ka Poli si cyelempyiibii yyer'a bínni maa pi yɛrɛ, lire kàntugo maa kuni cya pi á maa ŋkàre Masedoni kùluni i.
 U à yɛrɛyɛ niɲyahaya kan lire kùluni dánafeebil'á maa nta a jyiil'a kàre Girɛsi kùluni i.
 U à yiɲyɛ taanre pyi wani. Tèni i u à uye bégele si jyè bakwɔɔge e raa ŋkɛ̀ɛge Siri kìni i ke, ka u u lógo na Yahutuubii pìi na wá a vùnŋɔ pwɔ u mɛɛ na. Ɲyɛ lir'à pyi ke, ka u u li lwɔ́ uye funŋ'i si núru ntòro Masedoni i s'a wá.
