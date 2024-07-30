@@ -11,7 +11,7 @@ import yaml
 from machine.corpora import ParatextTextCorpus, extract_scripture_corpus
 from machine.scripture.verse_ref import VerseRef
 
-versification_to_num: dict[str, int] = {
+vrs_to_num: dict[str, int] = {
     "Original": 1,
     "Septuagint": 2,
     "Vulgate": 3,
@@ -300,14 +300,7 @@ def get_versification(
     return: the versification of the given bible
     """
     lines = get_corpus(project_folder, vrs_diffs)
-    versifications = [
-        "English",
-        "Original",
-        "Russian Protestant",
-        "Russian Orthodox",
-        "Septuagint",
-        "Vulgate",
-    ]
+    versifications = list(vrs_to_num.keys())
     ruled_out = []
     try:
         prev = lines[0][1]
@@ -343,7 +336,7 @@ def write_settings_file(project_folder: Path):
         else:
             # print(f"Adding Settings.xml to {project_folder}")
             versification = get_versification(project_folder, get_vrs_diffs())
-            vrs_num = versification_to_num[versification]
+            vrs_num = vrs_to_num[versification]
             setting_file_text = f"""<ScriptureText>
                                 <Versification>{vrs_num}</Versification>
                                 <LanguageIsoCode>{language_code}:::</LanguageIsoCode>
