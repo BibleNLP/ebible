@@ -23782,6 +23782,7 @@ Iw to Yeisuw, ilana, “Mounid livan towen ‘Ilaytiy beim mo bikatilow youd bab
 Navamul mo idumwal ninous, peinan ikakins-wan tabibapta̱ysein gamags towen Yon mamagina Ilaytiy.
 Ikous, inounas, inekes gamag babaw, teitan taw im, ikulul wamatan Yeisuw, ilana, “Guyaw, binok nuwam natug, peinan ikabala̱wein, ankatoun avakaein. Tut babaw ikalka̱louw ininein wa̱kov, tut babaw ikalka̱louw ininein wayvagam.
 <range>
+<range>
 “Awey natug muvamul wasigeis; iyokons bo nag.”
 Yeisuw idibakes tasiyas, ilana, “Takakons yakamiy, minamis nag. Bo akawgwes amisinap kakon. Kumey gwad towen.”
 Yeisuw idibek yeiluw towen neiweiy gwad, mo ikilev. Gwad towen mo ibwein, tut towen waseg.
@@ -23793,7 +23794,6 @@ Igaw nisesus Galiliy, Yeisuw idibakes, “Teitan bisilkodeig yey, Gimgilitoun ye
 Inounas ineis Kapaneyum. Iweis tasiyas takaweins ta̱kis (ta̱kis towen silma̱nin Yowbad nabunatum), ikatugans Pita waseg, ilansa, “Tabta mutovek itam nata̱kis issekem, o nag?”
 Pita itam, ilana, “Oo!” Pita iyum in wasibunatum. Iw to Yeisuw, ilana, “Saymon, wananoum yak, takaleiwags ven watinow nitsiyas bipa̱yins wasigeis timsiyas? o tobwag gamag bipa̱yins adok?”
 Pita ilana, “Tobwag gamag.” Iw to Yeisuw, ilana, “Mounid. Nitsiyas nag bipa̱yins, nag. Tage bweina bitapa̱yin silma̱nin Yowbad nabunatum; mata ge bigeg ninous tasiyas. Kun kuksikous, in wanamug bukukous, kukin wanuwan mo bukuban idamoney, bo ikadilok idata̱kis aditeiy. Kukow kusekes takaweins ta̱kis tasiyas.”
-<range>
 Mitiya̱mun towen navamul inekes Yeisuw, ilansa, “Kal bimug Yowbad nakaleiwag wanuwan?”
 Mapuna Yeisuw idouw gwad teitan beim. Im to gwad, Yeisuw itamnow gwad towen wanuwein, ilana, “Mounid adibakeimiy, kukin bikanavin ninoumiy bukumlavags ma̱wana gwad towen mo bukusiws wanuwan Yowbad nakaleiwag. Kukin gog nag, bo nag.
 <range>
@@ -24429,8 +24429,8 @@ Itouws tasiyas, ilisawes gamag babaw nisesus waven mo idopels bineis palatan, ik
 Isisawls, bwaw avakaein ilivatus, soup inay-o; kakita bimukul wag.
 Togo Yeisuw nikow abeikun, nisen wawawun wag, imasis kangagay, mo inekes, iwgunis, ilansa, “Tamwey, kukit, tabta kukwakin kakita bitamta̱mats?”
 Iligen, ikit, idibek yag son kaysay, ilana, “Deisa! Beitay!” Yag mo idabab, niwal avakaein.
-Ikous, mo idibakes tasiyas, ilana, “Wawun amipwa̱yat? Adok nag kusimounids waseg yey, ne?”
-Singaya igoulus, sisiyas illivans, ilansa, “Amata taw towen? Idibakew yag son kaysay, mo ikanawes aygan.”
+
+Ikous, mo idibakes tasiyas, ilana, “Wawun amipwa̱yat? Adok nag kusimounids waseg yey, ne?” Singaya igoulus, sisiyas illivans, ilansa, “Amata taw towen? Idibakew yag son kaysay, mo ikanawes aygan.”
 Idopels ineis palatan, ilugs ven Gelasin waseg.
 Yeisuw ibus, in wanakaew, mo takayeiluw teitan isap, imek. Bo ilisow alawag towen takunumwan, inoun imek Yeisuw.
 Taw towen nag ivag nabunatum, immasisa wakalawag. Nag teitan gamag kadilok bitawtoun biyous taw towen, biyawen sen waseg. Tut babaw niyawwanis sen waseg o kaken nikiptukwes amweilok waseg, tage ivatay, iwlitun sen, iwut amweilok kaken waseg mo isawl. Tut babaw ma̱wan-wan. Nag teitan gamag kadilok vayuwein biyous.
@@ -24605,6 +24605,7 @@ Ikous, mo idawes gamag babaw sisiyas navamuls, ikatuyouns imekes, mo idibakes, i
 “Kukin gog bikow wuliyoug meivek-wan, ven watinow wuliyougwan, mo biyamkwen mwamovan, adok nag bimwa̱saw, nag.
 “Aveiyag mo bisek maysan silma̱nin mwamovan, ne? Nag.
 “Tut towen gudwouvaws tappeyaws o asisinap babaw kalbaleb. Tage kukin kal bimsin agulivan mamagina bimseneig Gimgilitoun yey; o yey-vak ma̱wan igaw tamag mititeilin waseg ba̱yum bam sigwey Yowbad nataka̱yobs, mo beivag agumwasin gamag towen waseg.”
+
 Mo idibakes, ilana, “Mounid adibakeimiy, mwasanin yakamiy nukutablawaws wasalig nag bukukwanigs tage bukusesus-wan mo bukukines Yowbad nakaleiwag beim, son natawtoun.”
 Yam kweinim katanok ikous, Yeisuw mo itokes Pita, Yemes, Yon, ikatulags ineis koy avakaein wakunuwatan; tasiyas-wan isiwas. Wamtes mo ivag ankakin kweitan, anakweim ivag ankakin gimagim, pwapwa̱kaw igegayous; nag teitan gamag ven watinow anakweim bivag pwapwaka̱wun ma̱wan, nag.
 <range>
@@ -24653,8 +24654,7 @@ Yeisuw gog ilivan, ilana, “Awoum kusilbwed. Nag kal biwotet tawtoun yagag wase
 (-)
 “Kukin matam bikatsilakeim silma̱nin amsinap kalbaleb, kadiloka kugut kulev, igaw wankuyeim matam palatanok mo bukusiw wanuwan Yowbad nakabkaleiwag. Awoum matam paley bilaveim bukun wadiginasim; simwa̱mwats bitatets wa̱wom; o kov bigidaged-wan; nag beimat.
 <range>
-“Kov bigabuds va̱gan bitayayan.
-“Sol bwanabwein bo bwein. Kukin gog sol bigeg, nag sabal-nen bitaban vayuwein. Sol bises wasigeis yakamiy bo bwein, va̱gan bukumsamwas simsimiyas wasigeis.”
+“Kov bigabuds va̱gan bitayayan. “Sol bwanabwein bo bwein. Kukin gog sol bigeg, nag sabal-nen bitaban vayuwein. Sol bises wasigeis yakamiy bo bwein, va̱gan bukumsamwas simsimiyas wasigeis.”
 Ikous, mo itamanaw Yeisuw, inoun in wawnuwan Yudiy mo iga̱pel lay Yoldan, in palatan. Vayuwein-vak gamag babaw mo ikatuyouns ininekes Yeisuw, mo ivgavaw katimlakay gamag wasigeis, peinan nawotet tut babaw ma̱wan.
 Tasiyas gog Palisiy mo inekes Yeisuw, sivines kid biyakwanes, mo ikatiga̱nes Yeisuw, ilansa, “Tab kadilok bitapiyev dakwav, ne?”
 Iw to Yeisuw, ilana, “Kweiboug Moses bo isekeimiy mikaleiwag, ama̱wan?”
@@ -26374,8 +26374,7 @@ Nag teitan bikin Tamag magin; nag. Misinaka yey; peinan kweiboug soug Tamag naka
 “Yey kan mwamov silma̱nin.
 Tammwayas siyas tibudayas bo ikams kan yagan mana wanawoud; ikinka̱nigs. Tage kan towen liba̱lab avanin; bo neim watinow. Kukin kal beikam, nag bikanig; nag.
 <range>
-“Yey liba̱lab avanin, mwamov silma̱nin; kal beikam waseg yey, mwamovan towen nag beikous. Kan towen woug tatoneig, bo basekeimiy ven watinow gimgilis silma̱nin mwamovamiy yakamiy.”
-Mapuna min-Yudiy mo ikamminimans sisiyas; mwasanin ilansa, “Ta-ma̱wan taw towen bisekeids won tatonen bitakams.”
+“Yey liba̱lab avanin, mwamov silma̱nin; kal beikam waseg yey, mwamovan towen nag beikous. Kan towen woug tatoneig, bo basekeimiy ven watinow gimgilis silma̱nin mwamovamiy yakamiy.” Mapuna min-Yudiy mo ikamminimans sisiyas; mwasanin ilansa, “Ta-ma̱wan taw towen bisekeids won tatonen bitakams.”
 Iw to Yeisuw, ilana, “Mounid adibakeimiy, kukin nag bukukwams woug, Gimgilitoun yey, ta-ma̱wan bukumovs. Kukin nag bukumoums buya̱vig, nag bukumovs; nag.
 Kukin kal beikam woug o beimoum buya̱vig, mwamovan tonen bises bisigeg; igaw nakabiyokous tut waseg, mo bavag gamag towen bitamanaw vayuwein.
 Peinan woug kan tonen, buya̱vig soup tonen. Kukin kal beikam woug, o beimoum buya̱vig, soug towen bakases, o yey bases waseg gamag towen.
@@ -26395,6 +26394,7 @@ Iw to Saymon Pita, ilana, “O guyaw, bakalisaweim, kal mo bakanek? Ya̱koum was
 <range>
 Yeisuw mo idibakes, ilana, “Bo adaweimiy, sinwatan amiteiy; tage Seitan nises waseg tatanok gamag.” Liva̱nen towen Yudas, taman yagan Saymon Iskaliyot; mtowen waseg bod towen, igaw mo bisilkod Yeisuw.
 <range>
+
 Wankuyeim Yeisuw mo ininoun ven Galiliy waseg. Nag bininoun Yudiy waseg, peinan mwasanin Yudiy sivines kid bikatimates.
 Kakita bisagals min-Yudiy sisagal towen waseg niwlules tava̱lel. Budan Yeisuw mo idibakes, ilansa, “Kunoun kun Yudiy, va̱gan kid muvamul mo bikines mukwawotet. Kukin kal bisesuna wanven bisowm nawotet, nag bivakaein butun tatonen. Yak ma̱wan, kukin bukutawtoun, kadiloka gamag babaw bikines miwotet.”
 <range>
@@ -27237,12 +27237,12 @@ Sitiben mo ilivan, ilana, “Singaya takakon yakamiy, Yowbad ta-ivag nakabivatus
 “Ta-kweitan palopit tammwayas ikatibomes, nag; babawa iyagages. O ikatimates palopit tasiyas, o palopit asilivan ma̱wana, ‘Igaw beim Tadidumwal, mtowen Kelis.’ E, Tadidumwal towen nukusilkodes-vak, nukuweiys.
 “Min-liba̱lab nisekeimiy Yowbad nakaleiwag; tage nukupiyaves nakaleiwag towen; ma̱wana tamumwey, ma̱wana yakamiy.”
 Iliganes anilivan towen, singay ikapasal nuwes, ikakilis kumtus, singay ikamliwes.
+
 Tage Yowbad Kululuwan Bwanabwein son Sitiben nisesus, Sitiben ikin walba̱lab, ikin mititeilin Yowbad, ikin Yeisuw nitamanaw Yowbad wanaka̱tay.
 Sitiben mo ilana, “Towen-o bo akin ikaliyow liba̱lab, o Gimgilitoun towen Yeisuw itamanaw Yowbad wanaka̱tay.”
 Tasiyas gog bo iwaks avakaein, nag sivines biliganes livan towen, bo ikibwades tiges; ituts bineis biyousis kid Sitiben.
 Iyousis Sitiben, mo itokes inawes watoulan ven, mo iweiys, dakul waseg. O tasiyas niyyaweids ya̱tal towen waseg inisis asikweim isenas wadadan toubwat teitan yagan Soul, va̱gan kid bimtakavet asikweim, mo ikawes dakul, iweiys Sitiben.
-Igawa iwaways, Sitiben mo iwak, idow naGuyaw yagan, ilana, “Guyaw Yeisuw, kululuwag kukow.”
-Mo ibasen kitatun, iwak avakaein, ilana, “O Guyaw awoum kumop asisinap towen kalbaleb;” mo ikanig. Toubwat towen Soul ikikin, idok wotet towen bwein.
+Igawa iwaways, Sitiben mo iwak, idow naGuyaw yagan, ilana, “Guyaw Yeisuw, kululuwag kukow.” Mo ibasen kitatun, iwak avakaein, ilana, “O Guyaw awoum kumop asisinap towen kalbaleb;” mo ikanig. Toubwat towen Soul ikikin, idok wotet towen bwein.
 Misumkwey towen gamag mwasanin bo isilamaws kid biyagages tayakelesiys Yelusalem waseg; e, bo iyagagesa singay. Mapuna bo igayays ineis Yudiy o Samaliy, o vena babaw wasigeis. Misinaka takaweins liva̱nen Yeisuw nisesus Yelusalem, tasiyas sinawatan teiy.
 Mwasanin gamag bwana̱bweins bo idibwanis takanig towen Sitiben, iva̱lams avakaein silma̱nin.
 Tage Soul bo iyagages tayakelesiys, inineves tayakelesiys bunatum katanok katanok wasigeis, iyousis tawaw o vinay, itokes, inawes wa̱deil.
@@ -27486,6 +27486,7 @@ Tage min-Yudiy mwasanin ipiyaves asilivan, ivtokes livan; mapuna tobwag ven gimg
 Isesus ee... imwemway-nen; e, illivans liva̱nen Yeisuw nasiwa̱youb; nag iwenes gamag, nag. O Yeisuw bo ilabes, siwotet tawtoun mo iwteles, wayagan Yeisuw; magina naman mulin Yowbad.
 Gamaga babaw ven towen waseg mo ilivis, mwasanin ilabes Yudiy gimgilis, mwasanin ilabes takaweins liva̱nen Yeisuw.
 Wankuyeim tasiyas tapiyaveins livan towen mo isilamaws sinap kweitan. Min-Yudiy mwasanin, sisiyas vena babaw gimgilis, sisiyas ven towen gabman-nen, asibabaw idokes biyagages Pawl son Ba̱nabas, beiweiys dakul waseg, bikatimates kid.
+
 Tasiyas Pawl son Ba̱nabas bo iliganes livan towen, mo isawls ineis Lisitil o Da̱biy o vena babaw wawnuwan ven avakaein Lakeyoniy; mo igeiguys liva̱nen Yeisuw, vena babaw wasigeis.
 <range>
 Taguya̱gwey teitan isin ven Lisitil waseg, kaken paleyuna ipam; ta-ma̱wan binoun. Igaw-o inan nikopweyay ma̱wan-wan.
@@ -27507,8 +27508,7 @@ Vena babaw wasigeis sivines tamumwey mwasanin, kalisiy bimtakavates tayakelesiys
 Ikous, ikanpeles Pisidiy, ineis Pampiliy.
 Illivans liva̱nen Yeisuw ven Pelig waseg, mo iwloubus ineis Ataliy; itouws wa̱wag, ikuks, iyums ineis Antiyok, ven Siliy waseg. Kweiboug ven towen tayakelesiys nisekes siwotet, ininitougs silma̱nin Yowbad bilabes; e, misumkwey towen mo iyakousis siwotet.
 <range>
-Iyums ineis Antiyok, tayakelesiys mo ikatuyouns, imeis; ita̱kuds liva̱nen Yowbad nawotet tawtoun to niwtel wasigeis tasiyas, peinan bo ikaliyow koukwed va̱gan tobwag ven gimgilis mo bisimounids, beisiws bimekes Yowbad.
-Pawl son Ba̱nabas tut kalamwey kadiveiyov nisesus sisiyas tayakelesiys tasiyas.
+Iyums ineis Antiyok, tayakelesiys mo ikatuyouns, imeis; ita̱kuds liva̱nen Yowbad nawotet tawtoun to niwtel wasigeis tasiyas, peinan bo ikaliyow koukwed va̱gan tobwag ven gimgilis mo bisimounids, beisiws bimekes Yowbad. Pawl son Ba̱nabas tut kalamwey kadiveiyov nisesus sisiyas tayakelesiys tasiyas.
 Isesusa ee... imwemway-nen mo gamag mwasanin meinoy nimeis Yudiy isaps Antiyok, ikatimlakes tayakelesiys, ilansa, “Kukin bukukwawes nakabivatus Ebelam, ma̱wana Moses nakaleiwag, bweina bikatinabweimiy Yowbad; kukin gog nag, bo nag.”
 Pawl son Ba̱nabas mo itamanaws, ikamnimans sisiyas; mapuna tayakelesiys mwasanin ilansa, “Simiyas mwasanin kuneis Yelusalem va̱gan bukullivans simsimiyas min-Yelusalem tasiyas tayakelesiys situwa̱veks o tasiyas takaweins liva̱nen Yeisuw; e, liva̱nen Ebelam nakabivatus kwambuvisis va̱gan nanouds bidumwal.”
 Mapuna ilisawes tayakelesiys ven Antiyok waseg, itanouys mo ikanpeles Pinisiy. Ikous, mo ikanpeles Samaliy. Vena babaw itita̱vins ikatimlakays, ilansa, “Tobwag ven gimgilis bo ikanavin ninous, isimounids waseg Yeisuw.” Tayakelesiys tasiyas iliganes, mo imwa̱saws avakaein.
@@ -27691,7 +27691,7 @@ Tanuwagan ven isap, mo ikatitun sikawnawein, ilana, “Min-Epesos yakamiy, vena 
 “Gamag tasiyas nukumeyes nag ineis iveinaws Dayan wanbunatum; nag ivtokes livan dayowbads mana̱wen, nag.
 “Magat Dimitil sivinan biyatel teitan gamag, o magat takatanaks yakamiy simiy Dimitil sivnamiy bukuyateles teitan gamag, ya̱tal nises, o gabman nisesus; kadiloka bukuyateles simiy, gabman mo bikaleiwags.
 “Kukin bika̱bwag sikaleiwag tasiyas gabmans, igaw tutan gamag babaw bikatuyouns bimeis, mo babawa gamag bikaleiwags sinap towen silma̱nin.
-“Nag ivag silawun sinap towen nagein kwawnaweinsa mav. Magat daguyaws avakaein biligen, mo bikatiga̱neids, nag kweitan livan nises waseg ya̱kids va̱gan bitakatimapus anilivan; moumouvit mo bitalivatus. Kadiloka kunounas kuneis wamibunatum tatineimiy.” Iliganes, mo inounas, ineis wasibunatum. (-)
+“Nag ivag silawun sinap towen nagein kwawnaweinsa mav. Magat daguyaws avakaein biligen, mo bikatiga̱neids, nag kweitan livan nises waseg ya̱kids va̱gan bitakatimapus anilivan; moumouvit mo bitalivatus. Kadiloka kunounas kuneis wamibunatum tatineimiy.” Iliganes, mo inounas, ineis wasibunatum.
 Bo iyakousis asisinap to nikawnaweins mav; nag ivag kweitan kawnawein, nag ivag kweitan tamwa̱geg, nag. Bo ikous. Pawl mo idawes ven towen tayakelesiys-nen, iguyes tasiyas, imulouls siney, mo inoun in Masidoniy.
 Ita̱vin ven tasiyas Masidoniy wawnuwan; anilivan babaw igeiguy wasigeis, mo inoun in Gilis.
 Isesuna ee... kweitoun tibukon, min-Yudiy mo asisinap ikatilawos sivines kid beiweiys Pawl. Misiya̱mun towen Pawl nanon ivag bo beikuk bein Siliy; mo iligen liva̱nen asisinap kalbaleb, mapuna ikanavin nanon, mo inounas wa̱ked, ikanapels Masidoniy, siney gum-Beloy teitan, Pilos natun yagan Sopetal, sisiy min-Tesalonik asteiy, Alisitak son Sikanid; sisiyas gum-Da̱biy yagan Gayus son Timotiy, sisiyas min-Esiy tasiyas Tikikos son Tilopim.

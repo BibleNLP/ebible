@@ -926,7 +926,6 @@ And Laban said to Jakob, Behold this mound and this pillar, which thou bast erec
 And Laban said, This mound testifieth between me and thee today. And Laban said, This mound testifieth between me and thee today. This mound and pillar are a witness, that I will not pass over this mound to thee; and that thou shalt not pass over this mound and this pillar, to do me evil.
 The God of Abraham and the God of Nachor shall judge between us, the God of their fathers. And Jakob sware by Him whom Izhak his father feared.
 And Jakob sacrificed victims in the mountain, and called his brethren to eat bread; and they ate bread, and tabernacled in the mountain.
-
 And Laban arose in the morning, and kissed his sons and his daughters, and blessed them, and went; and Laban returned to his place.
 And Jakob went on his way, and the angels of the Lord met him.
 And when Jakob saw them, he said, This is a host from before the Lord; and he called the name of the place Mahanaim.
@@ -958,7 +957,8 @@ And He said to him, What is thy name? And he said, Jakob.
 And He said, Thy name shall be no longer Jakob, but Israel; for a prince art thou before the Lord, and with men, and thou hast prevailed.
 And Jakob asked Him, and said, Show me now Thy Name! And He said, Why dost thou ask My Name? And He blessed him there.
 And Jakob called the name of the place Peniel: because I have seen the Angel of the Lord face to face, and my soul hath been saved!
-And the sun arose upon him as he passed over Penuel, and he went lame upon his thigh. Therefore the sons of Israel do not eat the sinew which shrank, which is upon the hollow of the thigh, unto this day, because He touched the hollow of Jakob’s thigh in the sinew that shrank.
+And the sun arose upon him as he passed over Penuel, and he went lame upon his thigh.
+Therefore the sons of Israel do not eat the sinew which shrank, which is upon the hollow of the thigh, unto this day, because He touched the hollow of Jakob’s thigh in the sinew that shrank.
 And Jakob lifted up his eyes, and saw, and, behold, Esau came, and with him four hundred men; and he divided the children with Leah, and with Rahel, and with the two concubines.
 And he set the concubines and their children first, and Leah and her children after, and Rahel and Joseph after them.
 And he passed over before them, and bowed to the earth seven times, until he came nigh to his brother.
@@ -1709,10 +1709,14 @@ And the magicians did so with their enchantments; and Pharoh’s heart was harde
 And Pharoh turned and entered into his house; neither did he set his heart also unto this.
 And all the Mizraee digged by the bending of the river for water to drink; for the water which was in the river they could not drink.
 And seven days were fulfilled after that the Lord had struck the river;
-And the Lord said to Mosheh, Go in unto Pharoh and say to him, Thus saith the Lord: Send away My people, that they may serve before me. And the Lord said to Mosheh, Say to Aharon, Uplift thy hand with thy staff upon the streams, upon the rivulets, and upon the lakes; and the frogs shall come up on the land of Mizraim.
-But if thou refuse to send them away, behold, I will smite all thy borders with frogs, And Aharon lifted up his hand over the waters of the Mizraee, and the frogs came up and covered the land of Mizraim.
-And the river shall multiply frogs; and they shall come up and enter into thy house, and into thy chamber the place of sleep, and upon thy bed, and into the house of thy servants, and among thy people, and into thy ovens and thy kneading pans; And the magicians did so with their enchantments, and made frogs to come up on the land of Mizraim.
-And upon thee and upon thy people and upon all thy servants shall the frogs come up. And Pharoh called Mosheh and Aharon, and said, Pray before the Lord that the frogs may be removed from me and from my people; and I will release the people, that they may sacrifice before the Lord.
+And the Lord said to Mosheh, Go in unto Pharoh and say to him, Thus saith the Lord: Send away My people, that they may serve before me.
+But if thou refuse to send them away, behold, I will smite all thy borders with frogs,
+And the river shall multiply frogs; and they shall come up and enter into thy house, and into thy chamber the place of sleep, and upon thy bed, and into the house of thy servants, and among thy people, and into thy ovens and thy kneading pans;
+And upon thee and upon thy people and upon all thy servants shall the frogs come up.
+And the Lord said to Mosheh, Say to Aharon, Uplift thy hand with thy staff upon the streams, upon the rivulets, and upon the lakes; and the frogs shall come up on the land of Mizraim.
+And Aharon lifted up his hand over the waters of the Mizraee, and the frogs came up and covered the land of Mizraim.
+And the magicians did so with their enchantments, and made frogs to come up on the land of Mizraim.
+And Pharoh called Mosheh and Aharon, and said, Pray before the Lord that the frogs may be removed from me and from my people; and I will release the people, that they may sacrifice before the Lord.
 And Mosheh said to Pharoh, Demand for thyself a miracle, and appoint me a time when I shall pray for thee, and for thy servants and thy people, that the frogs may be finished from thee and from thy house, and remain only in the river.
 And he said, Tomorrow. And he said, According to thy word; that thou mayest know that there is none as the Lord our God.
 And the frogs shall be removed from thee and from thy house and thy servants and thy people; in the river only shall they remain.
@@ -1737,10 +1741,6 @@ And Mosheh said, Behold I will go out from being with thee, and will pray before
 And Mosheh went out from before Pharoh, and prayed before the Lord.
 And the Lord did according to the word of Mosheh, and removed the aroba from. Pharoh and his servants, and his people; not one remained.
 But Pharoh hardened his heart this time also, and would not dismiss the people.
-
-
-
-
 And the Lord said to Mosheh, Go in unto Pharoh and say to him: Thus saith the Lord, the God of the Jehudaee; Send My people away, that they may serve before Me:
 For if thou refuse to send them away, and thou hast kept them until now,
 behold, a plague from before the Lord shall be upon thy cattle which are in the field; upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep, a very great death.
@@ -2112,7 +2112,8 @@ And if a man open a pit, or dig a pit, and doth not cover it, and an ox or an as
 The master of the pit shall pay: he shall give silver to his owner, and the carcass shall be his own.
 And if the ox of one man hurt a neighbour’s ox that it die, they shall sell the living ox and divide the money; and that which is dead they shall also divide.
 But if it be known that the ox gored in time past and his owner did not keep him in, paying he shall pay ox for ox, and the dead one shall be his.
-If a man steal an ox or a lamb, and kill or sell it, he shall repay five oxen for the ox, and four sheep for the lamb. If a thief be found breaking through, and he be smitten and die, there shall be no blood due to him.
+If a man steal an ox or a lamb, and kill or sell it, he shall repay five oxen for the ox, and four sheep for the lamb.
+If a thief be found breaking through, and he be smitten and die, there shall be no blood due to him.
 If the eyes of witnesses fall upon him, blood shall be due to him, paying he shall pay. If he have nothing, he shall be sold for his robbery.
 If the thing stolen, from an ox to an ass, be found in his possession, they being alive, he shall restore two for one.
 If a man make waste a field or vineyard, or send his cattle to consume another’s field, the best of his field and the best of his vineyard he shall restore.
@@ -2142,7 +2143,6 @@ Thou shalt not revile the judges, nor curse the ruler of My people.
 Thy firstfruits and thy tithes thou shalt not delay (to offer:) the firstborn of thy children thou shalt separate before Me;
 so shalt thou do with thy oxen and with thy sheep. Seven days shall (the firstling) be with its mother; on the eighth day thou shalt separate it before Me.
 And ye shall be holy men before Me; and the flesh torn from a living animal you may not eat; you shall cast it to the dogs.
-
 Thou shalt not take up a false report, nor set thine hand with the wicked to be a false witness for him.
 Thou shalt not follow the many to wickedness, neither shalt thou fail to teach that which in thine eyes is judgment; after the many (majority?) thou shalt fulfil judgment.
 And upon the poor thou shalt not be pitiful in judging him.
@@ -2848,13 +2848,20 @@ And that which he had defaulted of the holy thing he shall make good, and add a 
 And if a man sin and do against any of the commandments of the Lord that which is not right to do, and know not, and sin, he shall bear his sin.
 But he shall bring a lamb unblemished form the flock according to the estimation for a trespass offering (or according to the estimation of the trespass) unto the priest; and the priest shall atone for his error which he hath committed unwittingly, and it shall be forgiven him.
 It is a trepass offering for the sin that he hath sinned; he shall offer the trespass offering before the Lord.
-And the Lord spake with Mosheh, saying: And the Lord spake with Mosheh, saying:
-If a man sin and falsify with falsehood before the Lord, and deal falsely with his neighbour in a thing deposited, or in fellowship of hands, or by rapine or violence against his neighbour; Instruct Aharon and his sons, saying: This is the law of the Burnt Offering. It is burnt offering, because burned upon the altar all night until morning, and the fire of the altar shall be burning in it.
-Or if he have found that which had been lost and deny it, and swear falsely, by anyone of all these which a man doeth and sinneth therein; And the priest shall dress himself with the vestments of linen, and wear drawers of linen upon his flesh; and he shall separate the ashes which the fire hath consumed with the burnt offering upon the altar, and set them beside the altar.
-It shall be that when he hath (so) transgressed and become guilty, he shall return what he hath robbed by robbery, or taken away by violence, or the deposit which was deposited with him, or the lost thing that he had found: And he shall take off his vestments, and dress himself with other garments, and carry forth the ashes without the camp unto a clean place.
-Or all that about which he had sworn falsely, he shall make it good in the capital, and add one fifth thereon; unto him to whom it belongeth shall he give it on the day of his (offering for) guilt. But the fire upon the altar shall be burning on it, and never be extinguished; and the priest shall burn wood on it from morning to morning, and lay the burnt offering in order upon it, and burn upon it the fat of the sanctified oblations.
-And the trespass offering that he shall bring before the Lord (must be) a ram unblemished form the flock according to the estimation of the trespass, unto the priest. The fire shall be ever burning on the altar, it shall not be extinguished.
-And the priest shall make atonement for him before the Lord, and it shall be forgiven him for anyone of all (these) in which he may have acted to be guilty thereby. And this is the law of the Mincha which the sons of Aharon shall offer in the presence of the Lord before the altar.
+And the Lord spake with Mosheh, saying:
+If a man sin and falsify with falsehood before the Lord, and deal falsely with his neighbour in a thing deposited, or in fellowship of hands, or by rapine or violence against his neighbour;
+Or if he have found that which had been lost and deny it, and swear falsely, by anyone of all these which a man doeth and sinneth therein;
+It shall be that when he hath (so) transgressed and become guilty, he shall return what he hath robbed by robbery, or taken away by violence, or the deposit which was deposited with him, or the lost thing that he had found:
+Or all that about which he had sworn falsely, he shall make it good in the capital, and add one fifth thereon; unto him to whom it belongeth shall he give it on the day of his (offering for) guilt.
+And the trespass offering that he shall bring before the Lord (must be) a ram unblemished form the flock according to the estimation of the trespass, unto the priest.
+And the priest shall make atonement for him before the Lord, and it shall be forgiven him for anyone of all (these) in which he may have acted to be guilty thereby.
+And the Lord spake with Mosheh, saying:
+Instruct Aharon and his sons, saying: This is the law of the Burnt Offering. It is burnt offering, because burned upon the altar all night until morning, and the fire of the altar shall be burning in it.
+And the priest shall dress himself with the vestments of linen, and wear drawers of linen upon his flesh; and he shall separate the ashes which the fire hath consumed with the burnt offering upon the altar, and set them beside the altar.
+And he shall take off his vestments, and dress himself with other garments, and carry forth the ashes without the camp unto a clean place.
+But the fire upon the altar shall be burning on it, and never be extinguished; and the priest shall burn wood on it from morning to morning, and lay the burnt offering in order upon it, and burn upon it the fat of the sanctified oblations.
+The fire shall be ever burning on the altar, it shall not be extinguished.
+And this is the law of the Mincha which the sons of Aharon shall offer in the presence of the Lord before the altar.
 And he shall separate therefrom his handful lof the flour of the mincha and of its oil, and all the frankincense that is upon the mincha, and burn it at the altar as its memorial to be accepted with favour before the Lord.
 And the remainder of it may Aharon and his sons eat, unleavened shall it be eaten in the holy place, in the court of the tabernacle of ordinance shall they eat it.
 It shall not be baked with leaven. I have given it as their portion of my oblations; it is most sacred, as the sin offering and as the trespass offering.
@@ -2871,13 +2878,6 @@ Everyone who toucheth the flesh thereof must be holy. And if he drop some of its
 But the earthen vessel in which it was sodden shall be broken; and if it be sodden in a vessel of brass, (that) shall be scoured and washed in water.
 Any man of the priests may eat thereof: it is most sacred.
 But no sin offering whose blood is brought into the tabernacle of ordinance to make atonement in the sanctuary may be eaten, but shall be burned with fire.
-
-
-
-
-
-
-
 And this is the law of the Trespass Offering; it is most holy.
 In the place where they kill the burnt offering, there shall they kill the trespass offering and sprinkle its blood round about;
 And all the fat of it shall be offered, with the tail and the fat which covereth the inwards.
@@ -4228,34 +4228,34 @@ and the earth opened her mouth, and swallowed them up, and the men of their hous
 they, and all who were theirs, went down alive into Sheul; and the earth closed upon them, and they perished from among the congregation.
 And all Israel who stood round about them fled from their cry; for they said, Lest the earth swallow us.
 And fire came out from before the Lord, and consumed the two hundred and fifty men who had offered the sweet incense.
-
-
-
-
-
-
-
-
-
-
-
-
-
+And the Lord spake with Mosheh, saying:
+Speak to Elazar bar Aharon the priest, that he take out the censers from among the burnings, and throwaway the fire, for they are consecrated.
+The censers of those guilty men who sinned against their souls, let him make of them beaten plates, to cover the altar; for they had offered them before the Lord, and they are consecrated; and they shall be for a sign unto the children of Israel.
+And Elazar the priest took the golden censers, with which they who were burned had offered, and beat them abroad, for a covering for the altar,
+to be a memorial to the sons of Israel, that no strange man who is not of the seed of Aharon shall approach to burn sweet incense before the Lord, and that he be not as Korach and his company, as the Lord had said to him by the hand of Mosheh.
+But on the day which followed, all the congregation of the sons of Israel murmured against Mosheh and against Aharon, saying: You have caused the death of the Lord’s people.
+And it was, while the congregation gathered against Mosheh and against Aharon, that they looked toward the tabernacle of ordinance; and, behold, the cloud covered it, and the glory of the Lord was revealed.
+And Mosheh and Aharon went up before the tabernacle of ordinance;
+And the Lord spake with Mosheh, saying:
+separate yourselves from the midst of this congregation, that I may now consume them. But they fell upon their faces.
+And Mosheh said to Aharon: Take the censer, and put fire upon it from the altar, and lay on sweet incense, and go quickly to the congregation, and make atonement for them; for anger hath gone forth from before the Lord, the plague hath begun.
+And Aharon took, as Mosheh had said, and ran into the midst of the congregation, and, behold, the plague had begun among the people; and he put on sweet incense and made atonement for the people.
+And he stood between the dead and the living, and the plague ceased.
 But they who died of the plague were fourteen thousand and seven hundred, beside those who died on account of the matter of Korach.
 And Aharon returned to Mosheh, unto the door of the tabernacle of ordinance, and the plague ceased.
-And the Lord spake with Mosheh, saying: And the Lord spake with Mosheh, saying:
-Speak to Elazar bar Aharon the priest, that he take out the censers from among the burnings, and throwaway the fire, for they are consecrated. Speak with the sons of Israel, and take from them severally a rod, according the house of their fathers, twelve rods, and write thou the name of each man upon his rod.
-The censers of those guilty men who sinned against their souls, let him make of them beaten plates, to cover the altar; for they had offered them before the Lord, and they are consecrated; and they shall be for a sign unto the children of Israel. And upon the rod of Levi thou shalt write the name of Aharon; for one rod (only) there shall be for each chief of their father’s house.
-And Elazar the priest took the golden censers, with which they who were burned had offered, and beat them abroad, for a covering for the altar, And thou shalt lay them up in the tabernacle of ordinance before the testimony, where I will appoint My Word to be with thee.
-to be a memorial to the sons of Israel, that no strange man who is not of the seed of Aharon shall approach to burn sweet incense before the Lord, and that he be not as Korach and his company, as the Lord had said to him by the hand of Mosheh. And it shall be that the rod of the man whom I will choose shall bud; and I will make to cease from before Me the murmuring; of the sons of Israel, with which they have murmured against you.
-But on the day which followed, all the congregation of the sons of Israel murmured against Mosheh and against Aharon, saying: You have caused the death of the Lord’s people. And Mosheh spake with the sons of Israel; and all their chiefs gave to him, every chief one rod, according to the house of their fathers, twelve rods. And Aharon’s rod was among their rods.
-And it was, while the congregation gathered against Mosheh and against Aharon, that they looked toward the tabernacle of ordinance; and, behold, the cloud covered it, and the glory of the Lord was revealed. And Mosheh laid up the rods before the Lord in the tabernacle of the testimony.
-And Mosheh and Aharon went up before the tabernacle of ordinance; And it came to pass on the following day, that Mosheh went into the tabernacle of the testimony; and, behold, the rod of Aharon of the house of Levi had germinated, and produced branches, and had blossomed, and ripened almonds.
-And the Lord spake with Mosheh, saying: And Mosheh brought out all the rods from before the Lord unto all the sons of Israel, and they recognized and took every man his rod.
-separate yourselves from the midst of this congregation, that I may now consume them. But they fell upon their faces. And the Lord said to Mosheh: Take back Aharon’s rod before the testimony, to be kept for a sign unto the rebellious people, that their murmurings before Me may come to an end, and they die not.
-And Mosheh said to Aharon: Take the censer, and put fire upon it from the altar, and lay on sweet incense, and go quickly to the congregation, and make atonement for them; for anger hath gone forth from before the Lord, the plague hath begun. And Mosheh did as the Lord commanded, so did he.
-And Aharon took, as Mosheh had said, and ran into the midst of the congregation, and, behold, the plague had begun among the people; and he put on sweet incense and made atonement for the people. And the children of Israel spake to Mosheh, saying: Behold, some of us are slain with the sword; and, behold, some are swallowed up by the earth; and, behold, some perish with the plague.
-And he stood between the dead and the living, and the plague ceased. Whoever, approaching, approacheth the tabernacle of the Lord dieth; behold, we are consumed with death.
+And the Lord spake with Mosheh, saying:
+Speak with the sons of Israel, and take from them severally a rod, according the house of their fathers, twelve rods, and write thou the name of each man upon his rod.
+And upon the rod of Levi thou shalt write the name of Aharon; for one rod (only) there shall be for each chief of their father’s house.
+And thou shalt lay them up in the tabernacle of ordinance before the testimony, where I will appoint My Word to be with thee.
+And it shall be that the rod of the man whom I will choose shall bud; and I will make to cease from before Me the murmuring; of the sons of Israel, with which they have murmured against you.
+And Mosheh spake with the sons of Israel; and all their chiefs gave to him, every chief one rod, according to the house of their fathers, twelve rods. And Aharon’s rod was among their rods.
+And Mosheh laid up the rods before the Lord in the tabernacle of the testimony.
+And it came to pass on the following day, that Mosheh went into the tabernacle of the testimony; and, behold, the rod of Aharon of the house of Levi had germinated, and produced branches, and had blossomed, and ripened almonds.
+And Mosheh brought out all the rods from before the Lord unto all the sons of Israel, and they recognized and took every man his rod.
+And the Lord said to Mosheh: Take back Aharon’s rod before the testimony, to be kept for a sign unto the rebellious people, that their murmurings before Me may come to an end, and they die not.
+And Mosheh did as the Lord commanded, so did he.
+And the children of Israel spake to Mosheh, saying: Behold, some of us are slain with the sword; and, behold, some are swallowed up by the earth; and, behold, some perish with the plague.
+Whoever, approaching, approacheth the tabernacle of the Lord dieth; behold, we are consumed with death.
 And the Lord said to Aharon: Thou and thy sons, and the house of thy fathers with thee, shall make reconciliation on account of transgressions (against) the sanctuary; and thou and thy sons with thee shall make atonement for the sins of your priesthood.
 And thy brethren also of the tribe of Levi, the tribe of thy father, bring with thee, and let them be added with thee, to serve thee; but thou and, thy sons with thee (shall minister) before the tabernacle of the testimony.
 And they shall keep thy charge, and the charge of all the tabernacle; but to the vessels of the sanctuary and of the altar they (the Levites) shall not approach, that neither they nor you may die.
@@ -4647,7 +4647,6 @@ But offer a sacrifice, all oblation to be received with favour before the Lord; 
 The minchas and libations for the bullock, the ram, and the lambs, as proper, according to their number;
 And one kid for a sill offering, beside the perpetual sacrifice, its mincha and libation.
 These shall you offer before the Lord in your solemnities, beside your vows and your free-will offerings with your burnt sacrifices, their minchas and their libations, and with your sanctified victims.
-
 And Mosheh spake to the sons of Israel according to all that the Lord commanded Mosheh.
 And Mosheh spake with the heads of the tribes of the Beni Israel, saying: This is the word which the Lord hath commanded:
 When a man shall make a vow before the Lord, or swear an oath to bind a bond upon his soul, he shall not make void his word; according to all that hath come out of his mouth he shall perform.
@@ -4663,7 +4662,8 @@ And her husband heard and was silent to her, and did not prohibit them, all her 
 But if indeed her husband shall make them void in the day that he heard, that which her lips expressed in her vow and in the binding of her soul shall not be confirmed; her husband hath made them void, and she shall be absolved before the Lord.
 Every vow and every covenant (oath) to chastise the soul, her husband may confirm it, or her husband may make it void.
 But if her husband was entirely silent to her from day to day, then he hath confirmed all her vows, or whatever bonds (she taketh) upon her, he confirmeth them, because he was silent to her on the day that he heard.
-But if he shall indeed make them void after (the day that) he had heard, then he shall bear her sin. These are the statutes which the Lord commanded Mosheh between a man and his wife, (and) between a father and his daughter, in her youth in her father’s house.
+But if he shall indeed make them void after (the day that) he had heard, then he shall bear her sin.
+These are the statutes which the Lord commanded Mosheh between a man and his wife, (and) between a father and his daughter, in her youth in her father’s house.
 And the Lord spake with Mosheh, saying:
 Avenge the children of Israel of the Midianites; afterward thou shalt be gathered to thy people.
 And Mosheh spake with the people, saying: Arm, of you, men for the host against Midian, to avenge this people of the Lord upon Midian:
@@ -5271,7 +5271,6 @@ Observe and obey all these commandments which I command thee, that it may go wel
 When the Lord thy God shall have destroyed the nations (of the land) whither thou art going to cast them out from before thee, and He cast them out, and thou dwell in their land,
 take heed to thyself that thou stumble not after them when they shall have been dispersed before thee, and that thou seek not to their idols, saying, How did these nations serve their idols? For so will I do also.
 Thou shalt not do so before the Lord thy God; for all that is abominable before the Lord, and that He hateth, have they done to their idols. For even their sons and daughters they have burned in the fire.
-
 Every word I command you, that shall you observe to perform; you shall not add to it nor diminish from it.
 If there shall arise among you a prophet, or a dreamer of dreams, and he give a sign or a wonder,
 and the sign or wonder cometh to pass, (yet,) should he speak with thee, saying, Let us go after the gods of the Gentiles whom thou hast not known, and let us worship them;
@@ -5289,7 +5288,8 @@ Men, sons of wickedness, have gone forth from among thee, and led away the inhab
 Then shalt thou seek and search out, and fairly inquire; and, behold, such a thing is the truth, and this abomination is being done among thee,
 thou shalt smite the inhabitants of that city with the edge of the sword, and destroy it and all that is therein and its cattle by the edge of the sword;
 And thou shalt gather all the spoil of it together into the midst of its street, and burn the city and the whole spoil thereof with fire entirely before the Lord thy God, and it shall be a desolate heap forever, it shall be builded no more;
-And nought of the accursed thing shall cleave to thy hand, that the Lord may turn away His anger from thee, and show mercy upon thee, and be loving towards thee, and increase thee, as He sware unto thy fathers; When thou shalt be obedient to the Word of the Lord thy God, to observe all His commandments which I command thee this day, to do that which is right before the Lord thy God.
+And nought of the accursed thing shall cleave to thy hand, that the Lord may turn away His anger from thee, and show mercy upon thee, and be loving towards thee, and increase thee, as He sware unto thy fathers;
+When thou shalt be obedient to the Word of the Lord thy God, to observe all His commandments which I command thee this day, to do that which is right before the Lord thy God.
 Children are you before the Lord your God. You shall not lacerate yourselves, nor make baldness between your eyes for the dead;
 For thou art (to be) a holy people before the Lord thy God, chosen to be unto Him a people more beloved than all the nations upon the face of the earth.
 Thou shalt not eat anything that is abominable.
@@ -5499,7 +5499,6 @@ But unto the damsel thou shalt not do anything; there is not with the damsel gui
 He found her in the field, the betrothed damsel cried, but there was none to deliver.
 If a man find a damsel, a virgin who is not betrothed, and lay hold of her and lie with her, and they be found,
 then the man who lay with her shall give to the damsel’s father fifty shekels of silver, and she shall be his wife; because he had humbled her, he shall not have power to send her away all his days.
-
 A man shall not take his father’s wife, nor uncover the skirt of his father.
 He who is castrated or ruptured shall not be clean so as to enter into the congregation of the Lord.
 A bastard or mixed person (mamzer) shall not be clean, so as to enter into the congregation of the Lord; his offspring also to the tenth generation shall not be clean, so as to enter into the congregation of the Lord.
@@ -5524,7 +5523,8 @@ From a son of the Gentiles thou mayest take usury, but from thy brother thou sha
 When thou vowest a vow before the Lord thy God, thou shalt not delay to fulfil it; for the Lord thy God requiring will require it of thee, and it would become sin in thee.
 Yet if thou shouldst forbear to vow, it will not be sin in thee.
 What hath gone forth from thy lips thou shalt observe and perform; as thou hast vowed before the Lord thy God, (thou shalt perform) freely what thou hast spoken with thy lips.
-If thou comest for hire into thy neighbour’s vineyard, thou mayest eat grapes for the satisfying of thy life; but thou shalt not put (them) into thy vessel. If thou comest into thy neighbour’s ripe corn, thou mayest pluck the full ears with thy hand, but not put in the sickle upon thy neighbour’s corn.
+If thou comest for hire into thy neighbour’s vineyard, thou mayest eat grapes for the satisfying of thy life; but thou shalt not put (them) into thy vessel.
+If thou comest into thy neighbour’s ripe corn, thou mayest pluck the full ears with thy hand, but not put in the sickle upon thy neighbour’s corn.
 When a man shall have taken a wife, and become her husband, and she hath not found favour in his eyes, because he hath found something wrong in her, then he may write for her a bill of divorcement, and give it into her hand, and send her from his house.
 And when she hath departed from his house, she may go and become (the wife) of another man.
 And if the latter husband dislike her, and write her a bill of divorce, and put it into her hand, and dismiss her from his house; or if the latter husband who had taken her to be his wife shall die,
@@ -5679,7 +5679,8 @@ But among those nations thou wilt have no repose, nor will the sole of thy foot 
 And thou wilt hold thy life in suspense, and be afraid by night and day, for thou wilt be never sure of thy life.
 In the morning thou wilt say, O that it were evening I but in the evening thou wilt say, O that it were morning! From the fearfulness of thy heart with which thou wilt fear, and the sight of thy eyes which thou shalt see.
 And the Lord will cause thee to return to Mizraim, in ships, by the way of which I spake with thee, thou shalt see it no more: and there shall you be offered for sale for bondmen and bondwomen, but none shall buy.
-These are the words of the covenant which the Lord commanded Mosheh to ratify with the children of Israel in the land of Moab; besides the covenant which He ratified with them at Horeb. And Mosheh called unto all Israel, and said to them: You have seen all that the Lord wrought before your eyes in the land of Mizraim on Pharoh, and all his servants, and on all his land;
+These are the words of the covenant which the Lord commanded Mosheh to ratify with the children of Israel in the land of Moab; besides the covenant which He ratified with them at Horeb.
+And Mosheh called unto all Israel, and said to them: You have seen all that the Lord wrought before your eyes in the land of Mizraim on Pharoh, and all his servants, and on all his land;
 The great temptations, the signs and grand portents which thy eyes beheld;
 Yet the Lord hath not given you a heart to understand, nor eyes to discern, nor ears to hear, unto this day.
 And I have led you forty years in the wilderness; your raiment hath not become old upon you, and thy shoes have not worn away from off thy feet;
@@ -5707,7 +5708,6 @@ For they went and served the idols of the Gentiles, and worshipped fearful thing
 And the anger of the Lord waxed strong against this land to bring upon it all the curses that are written in this book.
 And the Lord cast them away from off their land in anger, indignation, and great violence, and drave them captive into another land as at this day.
 The things which are secret are before the Lord our God; and those which are revealed are ours, and our children’s forever, that we may do all the words of this law.
-
 And it will be that when all these words of blessings or of maledictions which I have set before thee have come upon thee, and thou turn unto thy heart among all the nations whither the Lord thy God will have led thee captive,
 and return to the fear of the Lord thy God, and obey His Word, according to all that I command thee this day, thou and thy children, with all thy heart and all thy soul,
 that the Lord thy God will turn thy captivity, and have mercy upon thee, and will return, and gather thee from all the nations among which the Lord thy God hath dispersed thee.

@@ -8474,7 +8474,7 @@ It came about after they had left that Jonathan and Ahimaaz came up out of the w
 Then David arose and all the people who were with him, and they crossed over the Jordan. By morning daylight not one of them had failed to cross over the Jordan.
 When Ahithophel saw that his advice had not been followed, he saddled his donkey and left. He went home to his own city, set his affairs in order, and hanged himself. In this way he died and was buried in the tomb of his father.
 Then David came to Mahanaim. As for Absalom, he crossed over the Jordan, he and all the men of Israel with him.
-Absalom had set Amasa over the army instead of Joab. Amasa was the son of Jether the Ishmaelite, who had slept with Abigail, who was the daughter of Nahash and sister of Zeruiah, the mother of Joab.
+Absalom had set Amasa over the army instead of Joab. Amasa was the son of Jether the Ishmaelite , who had slept with Abigail, who was the daughter of Nahash and sister of Zeruiah, the mother of Joab.
 Then Israel and Absalom camped in the land of Gilead.
 It came about when David had come to Mahanaim, that Shobi son of Nahash from Rabbah of the Ammonites, and Machir son of Ammiel from Lo Debar, and Barzillai the Gileadite from Rogelim,
 brought sleeping mats and blankets, bowls and pots, and wheat, barley flour, roasted grain, beans, lentils,
@@ -11221,7 +11221,7 @@ See, I am about to build a house for the name of Yahweh my God, to set it apart 
 The house that I will build will be very large, for our God is greater than all other gods.
 But who is able to build God a house, since the entire universe and even heaven itself cannot contain him? Who am I to build him a house, except to burn sacrifices before him?
 So send me a man who is skilled at work in gold, silver, bronze, iron, and in purple, crimson, and blue wool, a man who knows how to make all kinds of engraved wood. He will be with the skilled men who are with me in Judah and Jerusalem, whom David my father provided.
-Send me also cedar, cypress, and algum trees from Lebanon, for I know that your servants know how to cut timber in Lebanon. See, my servants will be with your servants,
+Send me also cedar, cypress, and algum trees from Lebanon,for I know that your servants know how to cut timber in Lebanon. See, my servants will be with your servants,
 in order to prepare for me timber in abundance, for the house which I am about to build will be great and marvelous.
 See, I will give to your servants, the men who will cut the timber, twenty thousand cors of ground wheat, twenty thousand cors of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”
 Then Hiram, the king of Tyre, answered in writing, which he sent to Solomon: “Because Yahweh loves his people, he has made you king over them.”
@@ -19692,7 +19692,7 @@ Then I will bring back to this place Jehoiachin son of Jehoiakim, king of Judah,
 So Jeremiah the prophet spoke to Hananiah the prophet in front of the priests and to all the people who stood in Yahweh's house.
 Jeremiah the prophet said, “May Yahweh do this! May Yahweh confirm the words that you prophesied and bring back to this place the objects belonging to Yahweh's house, and all the captives from Babylon.
 However, listen to the word that I am proclaiming in your hearing and in the hearing of all the people.
-The prophets who existed before me and you from long ago also prophesied about many nations and against great kingdoms, about war, famine, and plague.
+The prophets who existed before me and you from long ago also prophesied about many nations and against great kingdoms, about war, famine , and plague.
 So the prophet who prophesies that there will be peace—if his word comes true, then it will be known that he is indeed a prophet sent out by Yahweh.”
 But Hananiah the prophet took the yoke from the neck of Jeremiah the prophet and broke it.
 Then Hananiah spoke in front of all the people and said, “Yahweh says this: Just like this, within two years I will break from off the neck of every nation the yoke imposed by Nebuchadnezzar king of Babylon.” Then Jeremiah the prophet went on his way.
@@ -19854,7 +19854,7 @@ For this city will become for me an object of joy, a song of praise and honor fo
 Yahweh says this, 'In this place about which you are now saying, “It is desolate, a place with neither man nor beast,” in the cities of Judah, and in the streets of Jerusalem that are desolate having neither man nor beast, there will be heard again
 the sound of joy and the sound of gladness, the sound of the groom and the sound of the bride, the sound of those who say, while they bring thank offerings to the house of Yahweh, “Give thanks to Yahweh of hosts, for Yahweh is good, and his unfailing love lasts forever!” For I will restore the fortunes of the land to what they were before,' says Yahweh.
 Yahweh of hosts says this: 'In this desolate place, where now there is neither man nor beast—in all its cities there will again be pastures where shepherds can rest their flocks.
-In the cities in the hill country, the lowlands, and the Negev, in the land of Benjamin and all around Jerusalem, and in the cities of Judah, the flocks will again pass under the hands of the ones counting them,' says Yahweh.
+In the cities in the hill country, the lowlands, and the Negev,in the land of Benjamin and all around Jerusalem, and in the cities of Judah, the flocks will again pass under the hands of the ones counting them,' says Yahweh.
 'Look! Days are coming—this is Yahweh's declaration—when I will do what I have promised for the house of Israel and the house of Judah.
 In those days and in that time I will make a righteous branch to grow for David, and he will carry out justice and righteousness in the land.
 In those days Judah will be saved, and Jerusalem will live in security, for this is what she will be called, “Yahweh is our righteousness.”'
@@ -24554,7 +24554,7 @@ For from within a person, out of the heart, proceed evil thoughts, sexual immora
 adultery, coveting, wickedness, deceit, sensuality, envy, slander, pride, folly.
 All these evils come from within, and they are what defile a person.”
 He got up from there and went away to the region of Tyre and Sidon. There he went into a house and he wanted no one to know where he was, but he could not be hidden.
-In fact, as soon a woman whose little daughter had an unclean spirit heard about him, she came and fell down at his feet.
+In fact , as soon a woman whose little daughter had an unclean spirit heard about him, she came and fell down at his feet.
 Now the woman was a Greek, a Syrophoenician by descent. She begged him to cast out the demon from her daughter.
 He said to her, “Let the children first be fed. For it is not right to take the children's bread and throw it to the dogs.”
 But she answered and said to him, “Yes, Lord, even the dogs under the table eat the children's crumbs.”
@@ -25354,7 +25354,7 @@ The man from whom the demons had gone out begged him to let him go with him, but
 Now when Jesus returned, the crowd welcomed him, for they were all expecting him.
 Behold, a man named Jairus, who was one of the leaders of the synagogue, came and fell down at Jesus' feet, and he begged him to come to his house,
 because his only daughter, a girl of about twelve years of age, was dying. As Jesus was on his way, the crowds of people pressed together around him.
-Now a woman was there who had been bleeding for twelve years and had spent all her money, and could not be healed by anyone.
+Now a woman was there who had been bleeding for twelve years and had spent all her money , and could not be healed by anyone.
 She came behind Jesus and touched the edge of his coat, and immediately her bleeding stopped.
 Jesus said, “Who was it who touched me?” When all denied it, Peter said, “Master, the crowds of people are all around you and they are pressing in against you.”
 But Jesus said, “Someone did touch me, for I know that power has gone out from me.”
