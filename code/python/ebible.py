@@ -71,13 +71,15 @@ def make_directories(dirs_to_create) -> None:
     for dir_to_create in dirs_to_create:
         dir_to_create.mkdir(parents=True, exist_ok=True)
 
+def clean_filename(filename:Path):
+    return filename.parent / filename.name.replace('-','_').replace('_usfm','')
 
 def download_file(url, file, headers=headers):
 
     r = requests.get(url, headers=headers)
     # If the status is OK continue
     if r.status_code == requests.codes.ok:
-
+        file = clean_filename(file)
         with open(file, "wb") as out_file:
             # Write out the content of the page.
             out_file.write(r.content)
@@ -560,12 +562,12 @@ def main() -> None:
         config: Dict = yaml.safe_load(yamlfile)
 
     dont_download_filenames = [
-        project + "_usfm.zip" for project in config["No Download"]
+        project + file_suffix for project in config["No Download"]
     ]
 
     if args.try_download:
         print("Try to download the exceptions in the config.yaml file.")
-        ebible_filenames = [project + "_usfm.zip" for project in config["No Download"]]
+        ebible_filenames = [project + file_suffix for project in config["No Download"]]
         ebible_files = [
             downloads_folder / ebible_filename for ebible_filename in ebible_filenames
         ]
@@ -589,7 +591,7 @@ def main() -> None:
 
     # These files have fewer than 400 lines of text in January 2023
     dont_download_filenames.extend(
-        [project + "_usfm.zip" for project in config["Short"]]
+        [project + file_suffix for project in config["Short"]]
     )
 
     dont_download_files = [
