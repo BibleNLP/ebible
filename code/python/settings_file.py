@@ -340,7 +340,7 @@ def write_settings_file(project_folder: Path):
             setting_file_text = f"""<ScriptureText>
                                 <Versification>{vrs_num}</Versification>
                                 <LanguageIsoCode>{language_code}:::</LanguageIsoCode>
-                                <Naming BookNameForm="41-MAT" PostPart="{project_folder.name}.usfm" PrePart="" />
+                                <Naming BookNameForm="MAT" PostPart="{project_folder.name}.usfm" PrePart="" />
                                 </ScriptureText>"""
 
             with open(settings_file, "w") as settings:

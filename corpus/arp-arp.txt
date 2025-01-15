@@ -24960,1157 +24960,1157 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hanau waunauthathee hadnedanuu hejadenenau hadjenanuu hauthase vavesee hauthedau hena hayauhuhau nanāe hājavaānethauwuthajauthaunin,
+Hasevenānauau nanaa hehethee jasesee vasesā hāenuu nau nejaanuu hanadedaunau;
+Hasethajaunau hethadee heee nananenau jea, vavesethaugudenau vahee hayauhuhau hehetheejasesee hadnewauthaunauwunathane nedānee, javaānethadee Theauthenus,
+Hadeaenauwu hethauwuu hena hayauhuhau nesechauhauthehane.
+Hena hese Herod, naja Judea, jasaa vevethahehe Zacharias haseede, hadauchunanede Abia: nau henene hedaunāhene Aarauneau, nau heneseedaunin Elisabeth.
+Nau haenesauuthāhenauau hathaāhenith Hejavaneauthu, thaunaugudethee vahee nanavaavedaunau nau hauchuwudaunau Vahadāde dejauthauwuvade.
+Nau hehauwunesaunenauau, hanau henee hehauwunesaune Elisabeth; nau wauwu haenesauu vaehahenenauau.
+Nau hethauwuu, henee daunausuvadanedaude hathaāhenith Hejavaneauthu hāenauauchaude,
+Nesedaunethe vevethahehehau, nesedaude hadnejaāde yehauthe hevadannauauwunene Vahadāhenith.
+Nau haunauude henanedanede haevevethahedaune jathee nauauchuu jaa.
+Nau haenauhauva hautheaune Vahadāde haetheaugune hejavese jaanaa.
+Nau hāenauhauwaude Zacharias, haejanethajau, nau nāthajaude haeedasaa.
+Hau nuu hautheaune, jevanāthajau hathāhuk, Zacharias: havevethahede nanedauwuhuu; nau hadasea Elisabeth hadjanesewaude hāau, nau Jaun hadeseau.
+Nau nananin hadaunauwuthajau nau hadeneethajau; nau hadnewauthathee neethajauthee hāejanesee.
+Hanau haudvasāthaa hathaāhenith Vahadāhenith, nau haudnehauwuvane daudause dadajevenenaje, wauāthe neauthunaje; nau haudnechauchaunaudede Hevadanauwauthauwunene Hejavaneauthu, haa hehethee hāejanesee.
+Nau haudnewauthaa dāeyaunenede Israel hadjaechuwauyāaunaude hesee Vahadāhenith Henesaunaunenau.
+Nau haudnedauwaunaude nauguu Vadanauwauthauwu nau neesenaudāhenith Elias hadjaechuwauyāauau vadauhau henesaunaunenau hesee dāeyaunauauau nau nejenedauvathee gaugauuthajaudenau hadauethadee; hadnesaanudede henanedanede hesanaa hesee Vahadāhenith.
+Nau Zacharias naudedusaene nuu? wauwu vanaehahenenau nau nadasea wauwu vadavehahenede, hathauhuk hautheaune.
+Nau hautheaune hanaāauchuhananadethāde, Nananenau Gabriel henee theaugudaunauau hathaāhede Hejavaneauthau; nau janeautheavānau haudnāedauwunathana, nau hadnauhauthehathana nuu neethajaude waunauyauau.
+Nau, naune, nananin haudnejanadene nau haudnehauwuneanade, haunaude hese nuu hayauhuhau nauauchaugu hethauwuu, hanau nananin daujethauwaudauwu nadanadede, nuu hadnethauwunauauchuu nauauchaugaune.
+Nau henanedanede haedauyauhauvanauau Zacharias, nau haegaugauanadauwu henee dauguthetheaugude vadannauauwuu.
+Nau hāejenauāhede, haejeneanadetha: nau haeaenauwu daunauhauthāde vadannauauwuu: haevathasauwuna nau haejanade.
+Nau hethauwuu, henee, chauchaunu hese hāesevadanedaude haeyehau hesee nehayau hedauauwuu.
+Nau heee hena hese henene Elisabeth hanaāenesaunenith, nau haegauduse nehayau hayauthaunenethe hesese heee, hanaāenehede,
+Hesau Vahadāde naasehānau hesee hāedaugauhauvānau hadgudanauwunānau nāedayāhede henanedaa.
+Nau nanedaudauchuauwaude hesese hautheaun Gabriel haejeautheawau hehethee Hejavaneauthu hesee hedan Gananee haseenaugu Nazareth,
+Hesāhedāeyaun haeenenehauwaune henanin Joseph haenaneeseenith, hehethee hedauauwuu David; nau hesāhedāeyaun Mare haenaaseede.
+Nau hautheaun haeedasaa, nau hanaāenehethāde, Haunauwuthajau, nananin vechauthane, Vahadāde hanedaudaunāne: hauwunaunane hesānaa.
+Nau hāenauhauwaude, haejanethajaude hedanadedaunin, nau haegaugauanade daun hadnesenaunenechuhude nuu hadnesauau.
+Nau hautheaun, Jevanāthajau, hathāhuk, Mare: hanau nananin vechauthāne Hejavaneauthau.
+Nau, naune, nananin hadnenesaunin, nau hadneahene, nau JESUS hadeseau.
+Hadvasāthaa, nau Vāā Hejavaa hadethauva: nau Vahadāde Hejavaneauthau hadvenaude naja theaugudau henesaunaune David:
+Nau hadnajawaudauau hededanin Jacob jethauujenee; nau henajanede hadnehauwuthauuvadauaune.
+Hanaāenehethaude Mare nuu hautheaune, Haddusenesau nuu hanau nāhauwāenaunau henane?
+Nau hautheaun hanaāauchuhananadethāde, Hejavaneauthau Hevadanauwauthauwu hadnedasāne: nau naunauthauau Hejavaa haddugauyāaunāne; henaheee jea henee Naunaudāde hadnenesaunewaude Heau Hejavaneauthau hadnethade.
+Nau, naune, have Elisabeth, jea wauwu henesaunede hadneahede wauwu dauvadavehahenede: nau nuu nanedaudauchunethe hesese wauwu hehauwunesaune neethade.
+Hanau Hejavaneauthau vahee neneedede hayauhuhau.
+Nau naune, Vahadāde daununānau hahagu Mare, hadnaasauau nuu hasenehene, nau hautheaun hanaāenauthāde.
+Nau Mare hanaāethauwauthede hena hese, nau hanaāehaude jauaudanenauauwuu nauhauhaunee hesee hedan Juda;
+Nau hanaejedāde hedauauwunene Zacharias, nau haenaunenechautha Elisabeth.
+Nau hethauwuu, henee, Elisabeth hāenedauwauthaude daunaunenechuhunith Mare, dāeyaunaa haenauauwuja hethauwaudauau; nau Elisabeth haeechauchaunaude Vadanauwauthauwu:
+Nau haevasanade, nau hanaāenehede, Hauwunaunane hesānaa, nau hauwunaunade dāeyaunaa hethauwaudauau.
+Nau naudauhuthedasaa nuu, henee henaune Navahadāhewaunāde hadnedasānau?
+Hanau, naune, chauchaunu hanadedaunau haunaunenechauhude hāenedauwaudauwau naunaudaunuu, dāeyaunaa naunauauwujahede naunaudauau heee haunauwuthajaude.
+Nau hauwunaunade hesā henee hethauwuthajaude: hanau hena hayauhuhau hadnethauwunaasauau neethāedauwunade hehethee Vahadāhenith.
+Nau Mare hanaāenehede, Navadathuwu hauwaunehāde Vahadāhenith,
+Nau navadathuwu neethajaudaunaude Hejavaneauthu Nānayauhāde.
+Hanau nedaugauhauwaude hadavenuhuhau hedaununaunau: hanau, naune, hewaunehaa heejasesee vahee henaededaunau hauwunaunade hadnethanau.
+Hanau hena Naunaudāde vanasaunee hayauhuhau hasehānau; nau vadanaunee heneseede.
+Nau nauwunaunaude henee headaunādaunau henajāthee henaedede nau nausunee henaedede.
+Nenauhauthethāde hedāahede hejadenaa; neneāsauaunaude hesāethajauhuhau hedāhene.
+Nejananaude naunaudāhenethe hehethee hetheaugudaunene, nau nejejenanaude hadavenuhuhau.
+Negaudauhaude hasenahehau nauguu hethadenee; nau nethauyādahehehau negudanaude jessaa.
+Nenedahewaude heau Israel, nedauyewuwude hedauwuyau;
+Neesenehethaude havasevāene, Abraham nau hedāeyaunewau jethauujenee.
+Nau Mare haenedauguva hanāenethe hesese heee, nau hanaāejaehaude nehayau hedauauwuu.
+Wauhā Elisabeth hanaāevadauaudaude hadneejanesāde; nau hanaāeahede.
+Nau henedaudevādaunau nau henethesaunau haenedauwauthaa hasauwunaunāde Vahadāhenith haenauhauthehaa vanasaunee hauwunaunadede, nau haenetheneethajauvaa.
+Nau hethauwuu, henee hāenasaudauchunesee haejenauusanauau hadgauguusenith dāeyaunauau; nau haeadethanauau Zacharias, thauguu heneseedaunin henesaunaune.
+Nau henaune hegau, hāheyaugaune, Jaun hadnethade,
+Nau hathauhaugaunee hehauwuseenauau hādauānauau nuu neseede,
+Nau haevathasauwunanauau henesaunaunin, haadeneseenethe.
+Nau haenaudede dasewauthaunauha, nau haewauthaunauhā, Jaun haseede, hahagu. Nau haunauude haegaugauuthajaudene,
+Nau haegaunadenanauau, nau henethaune haegauchauunauaune, nau hanaāanadede, nau haevaveenethedauna Hejavaneathu.
+Nau nāthajaude haeedasā haunauude henee hathāeauchaunauthee: nau vahee nuu nehedaunau haegaugauudedaune jedauwuu hathāauau jauaudanenauauwuu Judea.
+Nau yahee hathāenedauvade haejenanauwu hedahenauau, haudduthā naa dāeyaunaa, hahagaunee? Nau hejadenene Vahadānith haeanedaudaunaa.
+Nau henesaunaune Zacharias haeechauchaunaudene Vadanauwauthauwu, nau haeaeyānautheda,
+Vaveenethedaunaa Vahadāde Hejavaneauthau Israel; hanau haenauujāda nau daujauaudaunaudauau hedenanedanede,
+Nau thauwaudanaude henenese hadnenayauhānauau jedauwuu hedauauwunene hedaununaune David;
+Dau nausunanadede hedenaa Hevadanaeyāhewau neenaedenethe hāejeenaedenauau:
+Henee hadnenanedanenauau hehethe haujauthavene, nau hehethee hejadenaa vahee hāthāasānavādaunene;
+Hethauwuu hauwunaunadede nesayānāedauwunaude havasevāene, nau hadnedauyewuwude Hevadanenesedauwau;
+Deneauwauhude yesee havasevāene Abraham,
+Henee hadvenānauau, jenāthajaude hehethee hejadenene haujauthavene hadnenayauhānauau hadnevevethedaunaunauau.
+Nauguu vadanaunee nau chuwuu hathaāhede, vahee hesee hadenaededaunene.
+Nau nananin, dāeyaunaa, haeyāhe Hejavaa haudnethane: hanau nananin hadnedauwaudauwu Vahadāde hadnesaanudene hevaunaa;
+Hadvāde haeyaude hadnenanedanedaunee hededane hadjaegudanauwunaude hewauchudaudenenenau,
+Hehethee havathee hauwunaunadede Hāsaunaunene; nanaa Naugusaje hehethee hejavaa hadnenauujādaunānauau,
+Hadvenaude hesee hathāetheaugunethe hadauveeyaunee nau hadaudugauyāsaa gaujauaudahede, hadnedauwaudauau hauauthene hesee hadaudādauyaunee.
+Nau dāeyaunaa haeeseau, nau hevadathuwu haedāeaune, nau haenaadaude hadaunechaudanee haunaude hesee hadneenauhauthethāde Israel.
+Nau hethauwuu hena hese hauchuwude haeneāsanau hehethee Caesar Augustus henee vahee henanedanede hadnayāadee.
+(Nau nuu nayāadede haenedauwunesede deauchuwunanenede Cyrenius Syria.)
+Nau vahee haeauāchaudene hadnayāadee haunauude hanesāde hesee nehayau hededan.
+Nau Joseph jea haeyehau hehethee Gananee, hehethee hedan Nazareth, jedauwuu Judea, jedauwuu hededan David Bethlehem neseee, (hanau naadahagu hedauauwunene nau nedānee David,)
+Hadnethenayāade naguu Mareheau heauthehewauthādaune hadnewaune wauwu haeehāthane heee henesaune.
+Nau hethauwuu, henee hajesenausunanedauthee, hese haevadauaunau hadneejanesāde.
+Nau hanaāejanesāde henedauwusaune heau, nau haeajetha, nau haeesevana hewauchuhauchave nedau vethehenethe; hanau haeneau vethehedaunauauwuu.
+Nau hena vavade vedauauwuu haudānajauāhehauau haeaudenauau, haeaunaunehanauau haeaunauyauhauvanauau hedajauanenau vegau.
+Nau, wauhā, Vahadāde hedautheaune haeedasā, nau havathee haeseenauasāaunauau Vahadānith; nau haevasenāthajaunauau.
+Nau hautheaun jevanāthajauau hathāhaugaunee: hanau, naune, nauuchaudaunathana hethadee waunauyauau havathee neethajaude, nanaa heee vahee henanedanede.
+Heee nananena janesee nuu desenee hededan David Henayauthāhe, nananede Chris Vahadāde.
+Nau nuu hadneaenauwuna; Nananena hadveehauna dāeyaunaa hanajehede, saesee hewauchuhauchave nedauvethehethee.
+Nau nauhauhaunee hena haewauthanauau hejavaa hautheaunauau nauguu naa hautheau haevaveenethedaunanauau Hejavaneauthu, nau hasenehehaugaunee,
+Havathee hauwaunede hesee Hejavaneauthau hejavaa, nau dasee vedauauwuu nanethauaunee, hethadee hathanavana henanedanede.
+Nau hethauwuu, hautheaunauau haejaenauthā hesee hejavaa, Wauhā hadeehaunau Bethlehem, hanathadagaunee nuu haudānajauāhehauau, nau nauhaudauwuu nuu hayewhu javeauau, nanaa Vahadāde hāāedauwunādaunene.
+Nau haenauchuhanauusanauau, nau haeveehanauau Mare nau Joseph, nau dāeyaunauau haesaeseene hewauchuhauchauwauauwuu henee nedauvethehenethe hewauchuhauchāve.
+Nau hāenauhauwauthee, haeneānauthedanauau nuu hathauthedaunāhethee heee dāeyaunauau.
+Nau vahee hathāenedauvade haegaugauanadauwu henee hayauhuhau nuu hathauthedaunāthee haudānajauāhehau.
+Nau Mare haeaunaunede vahee nuu hayauhuhau, nau haegaugauanade hedahaa.
+Nau haudānajauāhehauau haejaesanauau, haevaveenethedaunanauau nau haevaveenethedaunanauau Hejavaneauthu heee vahee hanathadauvathee nau hathauhauthāthee, neethāedauwunāhethee.
+Nau hāenasaudauchunesee hadneegauguusede dāeyaunaa heneseede Jesus, haseadagu nuu haseede haenaneeseāde hautheaunau haunauau deejethāsee.
+Nau hesee hāewaudeauchaude hasaunee hedauchuwude Moses hāevadauaunee, haeyehauthanauau hesee Dadaunedan hadjenanauwunauthee Vahadāhenith;
+(Hathauthaunauhunee hauchuwudaunaa Vahadāde, Dajee haunauahee henee nedauwusau vadade hadnethade hesee Vahadāhenith:)
+Nau hadnausāyaudenee neesenehedaunee hauchuwudaunaa Vahadāde, Hanesethee vedāenauau, wauāthe hanesethee neauthuvedāesaunauau.
+Nau, naune, hena henane haeanedau Dādaunedan, Simeon haenaneeseede; nau naa henane haechuvā nau haeethauwuthajau, haeejauwuwude hadneneethajauthee Israel: nau Vadanauwauthauwu haethāsade.
+Nau haeeauthedaunaa Vadanauwauthauwu, henee hadjenauhaudauau gaujauaudahede, haunaude hadnauhauwaude Vahadāhenith Chris.
+Nau haejeheenauusa Vadanauwauthauwu jedauwuu Vadannauauwuu: nau hāene henehā Hejavaeneauthusau jedanāde hadnesehāde thauguu hasauau hauchuwude,
+Hanaāejavethenauanaude hejadenaa, nau haevaveenethedauna Hejavaneauthu nau hanaāenehede,
+Vahadāhene, hewaunehaa nanehāejenanaude hauwauwaunave hadnaudauau nanethauaunee, hasauau hadanadede:
+Heee nasesā naunauhauwauau havāde Henayauthāhe,
+Naa nananin hadnesaanudene hathaāhedaunee vahee henanedanede;
+Hesee hadneesenee Hathāauau henanedanede, nau havathee hadnanedanede Israel.
+Nau Joseph nau henaune haegaugauanadauwu hena hayauhuhau hanasenehethavathe.
+Nau Simeon haevevethasa, nau haeāedauwuna Mareheau henaune, Naune, Naa dāeyaunaa haneejenanade hadneaunenauaudenenee nau hadneejaegauhadenenee hauwauhuu Israel; nau hanau nauhauthethau hadnevathevade;
+(Haa, gaugauchu hadneegauchuguhune nehayau havadathuvaa jea;) henee gaugauuthajaudenau hauwauhuu vadauhau hadneauthasuu.
+Nau hena haenesā Anna, haeyāhe, hedaunau Phanuel, hanaadāde Aser: haewauthanenau hejajenewau, nau haenethenaedeva hechu nesaudauchu jajene hehethee neeesede;
+Nau haeenevesāne heee nasaudausauau yānenee jajene, nananede haeejethauunaude vadannauauwuu, hau haenesedauna Hejavaeneauthu nauguu naugauyaude nau vevethahede dajāee nau hesee.
+Nau haejejedā heee haevaveene jea Vahadāhenith, nau haeheauthedauna vahee nethāejauwuwudethee jauaudaunauthadede jedauwuu Dādaunedan.
+Nau hāesedauthee vahee hayauhuhau hasauau hauchuwude Vahadāde, haejaesanauau hesee Gananee, hadahethee hedan Nazareth.
+Nau dāeyaunaa haeeseau, nau haedāeaune hevadathuwu, haeechauchaunaude haeyaude: nau Hejavaneauthu vadaude haethāsade.
+Nau wauhā henehā haeehaunenau hesee Dādaunedan hadauchuvejanenee vasevadanesee Hadavechauthadede.
+Nau denesenenee hejajenewau, haeehaunauau hesee Dādaunedan hanau nesedaudenee vasevadanesee.
+Nau hese hāevadauaunee, hāejāesathee, dāeyaunaa Hejavaneauthusau haenasedauusa Dādaunedan; nau Joseph nau henaune haejaenauwu.
+Hau henanedaa haenehauvā hathanauwauhaugaunee, nau haejanaugudaunee; hanaāenaudehauthee henedauānene nau henedaehāhene.
+Nau hāejeveehauthee, haejaesanauau hesee Dādaunedan, daunaudehauthee.
+Nau hethauwuu hāenasese hanaāeveehauthee jedauwuu vadannauauwuu, haetheaugune nahethāe hauthedahehau, haejaatheha, nau haenaunaudedauna.
+Nau vahee hathāenedauwauthāthee haegaugauanadauwu hedaeyaunene nau hedauchuhanehedaunene.
+Nau hāenauhauwauthee, haegaugauanavanauau: nau henaune, Nā, naudu hanesehāane? hathāhuk, naune hāsaunau nau nananenau nenaudehane nejeneethajaunee.
+Nau hathauhuk, naudu haenaudehena? gauhajaene nauchāe wauwu hanedaudauwau Nāsaunau henesethaude?
+Nau haejaenauwu hasenehethāthee.
+Nau hanaāenethaunaude, nau haenauusanauau Nazareth, nau haeethauwaudaunā: hau henaune haeaunaunedene vahee nuu nehedaunau hedahaa.
+Nau Hejavaneathusau haeneenaneaune hedaeyau nau hajedāde nau vechauthaude Hejavaneauthu nau henanedanede.
+Wauhā yauthaunenee jajene wauwu neeenajanede Tiberius Caesar, Pontius Pinade nausunajawaudauau Judea, nau Herod nanajawaudauau Gananee, nau henauhauwauau Theneb nanajawaudauau Iturea nau vedauauwuu Trachonitis, nau Lysanias naja Abilene,
+Annas nau Caiaphas vevethahenajanauau, Hejavaneauthu nanadede haeedasaa Jaun heau Zacharias nauaunee.
+Nau haeedade vahee vedauauwuu hanathaudanee Jordan, haeauthedaude dusaahede haudneaugauthuu gaugauuthajaudenau hadneegudanee wauchudaudenau;
+Naathauthaunauhuu wauthaunauhanaa hedanadede Esaias haeyāhe, Jasaye haevasenehe nauaunee, Hesaanuu hathaāhede Vahadāhede, nesedee hevau chwuwuu.
+Hadauchugauaudayauau hadnechauchaunaa, nau hadauchāe hauane nau jauaudane hadjananee, nau jajāvāe hadchuvanee, nau hadauhauauyauau bau hadneyauthauau;
+Nau vahee henanedanede hadnauhaudauau Hejavaneathu hedenayauthaunene.
+Haenaāenehethaude waunauthanee henanedanede henee hedasādaunau haddusaanaude, Hau hedenaededaunenau seseyānauau, hanaa hāedauwunādaunenau haddaugauhudauwuna nauthee hasenaunaude hadnauusanauau?
+Hethadee nesedee hadeheaenaunee hadnaugauthuu haugaugauuthajaudenenau jevaauthenehee hadahenauau, hāsaunaunene Abraham: hanau nāedauwunathana, Hejavaneauthau neene nesehaude nuu hauunaugānau Abraham hedāeyaunewau.
+Nau wauhā jea hauunauchu janenanee hethājee hauhaudee: vahee hauhaudee jeneeaudehuk vevenaudenau haddauwauhude, nau hadneewaudedaunaunee.
+Nau henanedanau haenaudedaunaa, hauddusedaune? hathāhuk.
+Hanaāāedauwunaude, Daun nanesevechudaunade, jevena daun janevechudaunenith; nau daun hevethenede jenaasedaude, hahagu.
+Wauhā haenaāenuusathee hauāyāhehauau haddusaahethee, Hechauhauthethāhe hauddusedaune, hathāhuk,
+Nau hathāhaugaunee, javaauthaunaudaunāthe henee nethautheavane.
+Nau vanenanenau hanaasedaunethe, hanaasenehethāde, Nau haddusedaune, hathāhuk? Nau javaauthasenehaa henaneda, hathāhaugaunee, javaauthenanedaunevaa henaneda, nau hadnanethauaunahedava haunaudaunadenenau.
+Nau henanedanau hathanavāhuk, nau vahee henanedanede haegaugauanavaa hedāhenenau Jaun wauau Chris haenane, nau wauāthe hajee;
+Jaun hanaāauchuhanehethaude, hathauhuk vahee, Hadneedusaanathana heee naje; hau hanesāde javaānaudāde javaāhenau jaunaude hewauhugu hewauaunaa nāhauwuneaugunavane, hadneedusaanāna heee Hejavaneauthu Vadanauwauthauwu heee heseda.
+Henaunasāhau nanewauunauau, nau hadgaunauhauau heyauthee nedauthauayāde, nau hadnauānauau wauchuunethauauhanau nedauthānauau jenayaunau; hau jenethauayaunau hadvadauchauauau hesedaa nedaujesaudaunahee.
+Nau waunauthanee hanasejāesaunee hayauhuhau hanathauthedaunaude henanedanau.
+Hau Herod naja haeaunaunewau heee Herodias henauhauwauau Thenebeau henenene, nau vahee hathāewausaunee hanasedaude Herod,
+Haewauhaunene nuu vahee henee dauaugauhude Jauneau duguhunauauwuu.
+Wauhā hāevahesedusaahedaunee henanedanede, hethauwuu henee Hejavaneauthusau haenethedusaā, nau haeevevetha, hejavaa hanaāegaunanenee,
+Nau Hejavaneauthuvadanauwauthauwu haejejanauhusane hedanayaunaa hedanayau haenaasaunee waude vedāene nau hanadede haejenauusa hehethee hejavaa, hasenehehuk, Nananene vechauthauau Nāa, nananene vaveenethedaunathane.
+Nau Hejavaneauthusau nehayau wauwu wauau hanasauau jajeneva, hanane (hathanavade) heau Joseph, nananenith heau Heli,
+Nananenith heau Matthat, nananenith heau Levi, nananenith heau Melchi, nananenith heau Janna, nananenith heau Joseph,
+Nananenith heau Mattathias, nananenith heau Amos, nananenith heau Naum, nananenith heau Esli, nananenith heau Nagge,
+Nananenith heau Maath, nananenith heau Mattathias, nananenith heau Semei, nananenith heau Joseph, nananenith heau Juda,
+Nananenith heau Jonanna, nananenith heau Rhesa, nananenith heau Zorobabel, nananenith heau Salathiel, nananenith heau Neri,
+Nananenith heau Melchi, nananenith heau Addi, nananenith heau Cosam, nananenith heau Elmodam, nananenith heau Er,
+Nananenith heau Jose, nananenith heau Eliezer, nananenith heau Jorim, nananenith heau Matthat, nananenith heau Levi,
+Nananenith heau Simeon, nananenith heau Juda, nananenith heau Joseph, nananenith heau Jonan, nananenith heau Eliakim,
+Nananenith heau Melea, nananenith heau Menan, nananenith heau Matthatha, nananenith heau Nathan, nananenith heau David,
+Nananenith heau Jesse, nananenith heau Obed, nananenith heau Booz, nananenith heau Salmon, nananenith heau Naason,
+Nananenith heau Aminadab, nananenith heau Aram, nananenith heau Esrom, nananenith heau Phares, nananenith heau Juda,
+Nananenith heau Jacob, nananenith heau Isaac, nananenith heau Abraham, nananenith heau Thara, nananenith heau Nachor,
+Nananenith heau Saruch, nananenith heau Ragau, nananenith heau Phalec, nananenith heau Heber, nananenith heau Sala,
+Nananenith heau Cainan, nananenith heau Arphaxad, nananenith heau Sem, nananenith heau Noe, nananenith heau Lamech,
+Nananenith heau Mathusala, nananenith heau Enoch, nananenith heau Jared, nananenith heau Maleleel, nananenith heau Cainan,
+Nananenith heau Enos, nananenith heau Seth, nananenith heau Adam, nananenith heau Hejavaneauthau.
+Nau Hejavaneauthusau wauwu haeechauchaunaude Vadanauwauthauwu haejeehedesa hehethee Jordan, nau haeyehauthaa Vadanauwauthauwu nauaunee,
+Yāyauau hese hananeedauchunesee haenayāthehaa Haujaune, nau hena hesee haeheejevethe: nau hāevathenesee, haenaāasenade waunee.
+Nau Haujaune hathāhuk, hith nananene Haāthauwuāvaa Hejavaneauthau hāedauwunene naa hauunauga hadejauaujaunenede.
+Nau Hejavaneauthusau haeauchuhanehe hathauhuk, Wauthaunauhuu henane hehauwuunaede jauaujaunau jasaa, hau heee haunauude hedanadedaunene Hejavaneauthu.
+Nau Haujaune haenauauhuchauhaa hauanee hadaujauudanenee, nau haenauhauthehaa vahee najanede hathāauauvaa henanedanede chauchaunu.
+Nau vahee nuu najawaude hadvenathane, nau hauwaunede, hathāhuk Haujaun: hanau henee nananenau devenanau; nau daun navadauvenau hadevenauau.
+Hith nananene henaheee hevevethedaunenagu, vahee hadnehanāhene.
+Nau Hejavaneauthusaun hanaāauchuhananadethāde nau hathāhuk, Hedehau naugauvaa, Haujau haugau hathauthaunauhuu, Nananene hadevevethedaunaude Vahadāde Hāsaunau, nau hanesāde haudnevevethedaunaude.
+Nau hanaāehauthāde Dādaunedan, nau haejenanaa naunauchuu vadannauauwuu, nau hith Haāthauwuāvaa Hejavaneauthau hauwujanauau hede hehethee, hathāhuk:
+Haugau hathauthaunauhuu, Hadāedauwunaude hedautheaunau haddunānaune:
+Nau hejadenenau hadeejedunānaune, havaaugugauusene heaudaa dasee hauunaugāe.
+Nau Hejavaneauthusaun hanaāauchuhananadethāde nau hathāhuk, Hasenehee, Nananene jevanayāthehene Vahadāde Hāsaunau.
+Nau hāevathenayāthedaude vahee, hanaāejathāaude haujau najee,
+Nau Hejavaneauthusau hanaāejaenaudāhede Vadanauwauthauwu haduu Gananee: nau hanaāauthedaunenede hanaāeneāsanaunee vahee hathāauau Gananee nauanee.
+Nau haeechauhautheha vevethahenauauwuu, nau vahee haevaveeneha.
+Nau haenauusa Nazareth, needaunauuchauhade: nau dajauaunee nesedaude haeyehau vevethahenauauwuu vadanesee, nau haetheaugu dasauhaudauau wauthaunauha.
+Nau haevenau hewauthaunauhanene haeyāhew Esaias. Nau hāegaunanauau wauthaunauha, haeveede hadauwauthaunauhunee,
+Vahadāde Hedauwauthauwu nanadeaunānau, hanau dehedusaanānau javeda hadnauthedaunu hethadenee waunauyaunee hadavenuhunethee: hanejevāde haudnenayauhu naudauwuthajauthee, hadnauthedanau haudjaejenanathee wauwaunauau, nau hadnejanauhauthāthee nanenauguthee, haud-jaejenanathee hasenethaunauau,
+Haudnauthedaudauwau hethadee jaunaunauau jaje Vahadāde.
+Nau haeauauvane wauthaunauha nau haejaevena vevethahehew, nau hanaāejanaugude. Nau vasesā vahee hathāanedauthee vevethahenauauwuu haenāauhauvanauau.
+Nau hanaāejasesenehethaude, nuu desenee nuu hathauthaunauhuu hethauvaa haunaudaununenau.
+Nau vahee haesegaugauudedaunene, nau haegaugauanadauwu hethadenee hedanadedaunene hethāenehethaunene. Nau gaunuu jee heau Joseph? hahagaunee,
+Nau hanaāenehethaude, Nananena hadethauwunehesena nuu heeejegausudede, Naudaunehāhe, nehanenayauhade: henee nanāthadauwaunee nanāsedaunee Capernaum nanehasedaunee nechau hede nehayau havedauauwuvaa.
+Nau hathauhuk hethauwuu nehethathana, Hegau haeyāhe hehauwuvechauthau nehayau hevedauauwuvaa.
+Hau hadauthedaunathava hethauwuu, waunauthathee henevesānauau neanedauthee Israel, hesee deanedaude Elias, hejavaa denausunaugauhuu nasau jajene nau nedaudauchu hesese, devasauau hasenaude denanadesanauau vedauauwuu;
+Hau hehauwunesāhene hejevādaunene Elias, vavade Sarepta, hedan Sidon, hesā nananede henevesā.
+Nau newauthathee naugaugauwuhuhauau neanedauthee Israel deanedaude Eliseus haeyāhe; nau hehauwunesā henayauhade vavade Naaman Syrian.
+Nau vahee hathāetheauguthee vevethahenauauwuu, hāenedauwauduu nuu hayauhuhau, haeechauchaunaudenenau hasenaunaude,
+Nau haegauhānauau, nau haenunanatheguthanauau hedan, nau haeehauthanauau hauchauguu jauaudanee haduunee hededanenau needaunesehenee neaudnedauauwuguthauthee hauthedaunaānee.
+Hau haejavechautha hehethee nahethāe, haejathāau,
+Nau haenauusa Capernaum, hedan Gananee, nau haeauthedauna vadanesenenee,
+Nau haegaugauanadauwunenau hasechauhauthehaude hedanadedaunau, hanau hedanadedaunau haenauthaunenau.
+Nau vevethahenauauwuu henane haeanedau hevadathuwu haewauchāhene haujaun, nau haevasanade,
+Jenehāaa; hathāhuk, haudduseha nananene Jesus Nazareth? gauhāejau haudnauauhāane? Haenaunathane hadāhene; Vadanauau Hejavaneauthau.
+Nau Hejavaneauthusau haeneuva, dādaunauguu, hathauhuk, nau jenauchune. Nau haujau hāegauusewaude nahethāe hanaāejenauthaude nau haejaseneha.
+Nau vahee haegaugauanavaa, nau haeanadethadenenau jaee, nuu hayew hanadede; hathāhuk, hethauwuu nauguu haenauthenehetha haenesedauwauna wauchāhenethe haujaunau, nau hanaāejenauāhethee.
+Hanaāauthedaunenede nanadee jasesee gauānee vedauauwuu,
+Nau haegauhā haenauā vevethahenauauwuu, nau haejedā Simon hedauauwuu. Nau Simon henene henaunene haenaudauwauvāhene; nau haeautheawaunauthasanauau.
+Nau haetheaugudauna, nau haeneude hasauwauvahede; nau haenauthaa: nau nauhauhaunee haegauhā nau haedauyauhauvanauau.
+Wauhā hesese hāenaesade vahee hathāenethenauthee hasauwauvahehehau hanasejaechauwauvāhenethe haenauuchaudaunau; nau haedajevasana nau haeenayauha.
+Nau haujaunauau nauguu haevanauusanauau haewauthanauau, haeneānadenauau, nau haenehenauau, Nananene Chris Heau Hejavaneauthau. Nau haeneneuva haejechuwauanadeha: dauhaenauwunethe dau Chris denede.
+Nau hāesenenee, hanaāejathāaude hesee hadaunechaudanee, nau henanedanau haenaudehaa, nau haeedasaa, nau haedauduvaa, haudjenauthaude.
+Nau hanaāāedauwunaude, haudnauthedaudauwau najanede Hejavaneauthau gauchuhunee hedanau nauguu: haugaunaasejejenananau.
+Nau haeautheda vevethahenauauwuu Gananee.
+Nau hethauwuu, henanedanede haeneenavadaunedauwaudauwu hedanadedaunene Hejavaneauthu, haetheaugu sasethauwu neajee Gennesaret,
+Nau haenauhaude hanesanenee thewaunau haetheaugunenau sasethauwu neajee: hau naunauyāhehauau haeeyauhaudesanauau, nau haeanahesadenauau henauyaudenenau.
+Nau haejedā jasaa hethewaunene, Simon, nau haenehetha hadwauauwuhudede vanehaa hehethee vachuwauauwuu vedauauwuu. Nau haejanaugu, nau haeechauhautheha henanedanau hehethee thewaunaa.
+Wauhā hāevadauthedade, hanaāenehethaude Simon, wauauwuhude hadaudavee, nau henauwunau haunauyaude hadjathāne.
+Nau Simon hanaāauchuhananadethaude, Hechauhauthethāhe, naunaugaunenesethānauau, nau nāhauwuthauujathāva: hau hegaugaunauau hadnaaenauwuaudenau nauyaude haugau hasenehene.
+Nau hāesedauthee nuu haewauthanenau hejathaunenau, nau haethauwunauaune henauyaudenenau.
+Nau haeadethanauau henedaehahenau danachaugunethe jasaa thewaunaa, haudjaunethe, nau haudnedāhevāthee. Nau haenauusanenau, nau haeechauchaunaudenauau hanesanenee thewaunau hanaāenauwuuu.
+Hāenauhaudauau Simon Peda, haechauāgujanaugu hejaedayānene Hejavaneauthusaun, nauchu, hathāhuk; haugauhauhauganenau, Hau Vahadāhene.
+Haejenaunethajau, nau vahee hethāenethaunādaunau daunauanauthee nauwu hejathaunenau.
+Nau nauguu James, nau Jaun, heauhau Zebedee, henedaehauhau Simon. Nau Hejavaneauthusau hanaāāedauwunaude Simon, Jevanāthajau, hewaunehaa heee nananene haudnesedanaude henanenauau.
+Nau hāenauuchaudethee hethewaunenau vedauauwuu, hanaāenauduu vahee, nau hanaāenethauguhauthee.
+Nau hethauwuu, hāanedaude jasaa hedan, naune henane haeechauchaunaude naunaujaunee haugauwude; hāenauhauwaude Hejavaneauthusaun haeuāneseve, nau haeautheava, Vahadāhene, vathehānenagu hadeneeyaudanene hathauhuk.
+Nau haeyethauha, nau haevasana, vanathehānau: heyaudāhe, hathaukuk. Nau nauhauhaunee naunaujaunee haugauwude haenauthaa.
+Nau haenesedauwaunā haudjāedauwunaunith henanedane: hau najesa hadnauhauthehau hadanayau vevethahevāhe, nau hadvā dauhenayauhane, Mosase neesedauvade, haudneāenuu.
+Hau haeneenanauthedaunene neānee: nau havathee haewautha henanedanede haeauānauuchaudene daujewaunejaathededaunee, nau haudnenayauhāthee hedasauwauvahedaunenau.
+Nau haejathāau hesee nauaunee, nau haevevetha.
+Nau hethauwuu jasaa hesee, hajesechauhauthethāde, Nesethajauhuhauau nau hechauhaudauwauhuhauau nanavaavede haetheaugunauau hejava, haejeehedesanauau hadauchāe hauwauhauauwudan Gananee, nau Judea, nau Dādaunedan: nau naunaudāde Vahadāde haetheaugu hadnenayauhaude.
+Nau, naune, henanenauau haenauuchauhanauau henanene heee hedauwune haeesevāhene nau haenayāthejedananauau, nau hadjenanauwunauthee hathaājenith,
+Nau hāejeveedethee haudnethejedanauthee hanau dauwauthaa henanedanede, hanaāenauauhusathee dasee hauauwuu, nau haejanauhaujānanauau, hehethee dasee hejavaa hauauwuu nauguu hedauwune nahethāe hathaājenith Hejavaneauthusaun.
+Nau hāenauhaudauwunith hedethauwuthajaudenenau, hanaāāedauwunaude, Henane, hauwauchudaude gaunudanauwunane.
+Nau wauthaunauhāhehauau Nau Nesethajauhuhauau hanaāejasesegaugauuthajauthee, Hanaa naa hananadede nehedaduhude Hejavaneauthu? hathāhuk. Hanaa haudgudanauau wauchudaude, vavade Hejavaneauthau, naanesāde?
+Hau hāaenauwunith Hejavaneauthusaun hegaugauuthajaudenenau, Haudusethajauva hadahenauau? hathāhaugaunee,
+Hayew gauchauaa, nehehāgu, Hauwauchudaude gaunudanauwunana; nau wauāthe gauhā nau javesa heheagu?
+Hau hadaenauwu henee Heau henane naunaudāde dasee hathāauauvadee negudanauau wauchudaude, (naasenehethauhaugu neasauwauvahedauwunith hesevahede) Hāedauwunathane, Gauhā, nau hedanau hauddau nau najesa nananene haudauauwuu.
+Nau nauhauhaunee haethauwauthe hathaājenethe nau haeedane heaugusenadenau nau hanaāejathāaude hedauauwuu haevaveenethedauna Hejavaneauthu.
+Nau vahee haegaugauuthajaudene nau haevaveenethedaunanauau Hejavaneauthu, nau haeechauchaunaudenauau nāthajaude, Naunaudauhauthānauau nuu desene, hāheagu.
+Nau hāevathedaude haejathāau nau haenauhauva hauāyāhe Levi hanaaseenith, haetheaugune nedauudanauau hauāyaunau, nau jethauguhu hathauhuk.
+Nau haevanauthā, haegauhā, nau haethauguha.
+Nau Levi haevasevetheheha nehayau hedauauwuu, nau haewauthanauau hauāyāhehauau nau hauthauau haenedauguvā.
+Hau wauthaunauhāhehau nau Nesethajauhuhauau haeaunevā hethauguhādaunau, naudu haenethevethehewauna nau haenedaveyāwauna hauāyāhehauau nau wauchudauhuhauau, hathāhaugaunee?
+Nau Hejavaneauthusaun hanaāauchuhananadethāthee, hathāedāenaedethee hehauwuvathehā naudaunehāhew; hau hathāasauwauvahethee.
+Nāhauwujenauusa haudnadethu hethahethee hau wauchudauhuhauau hadnaugaudanenee hegaugauuthajaudenenau.
+Nau hathāhuk naudu hethauguhādaunau Jaun denauaunenaugauyānethe, nau devevethahethee, nau naasedauthee hethauguhādaunenau Nesethajauhuhauau; hau hanethenaunauau havethehethee nau havaveyāthee?
+Nau hathāhaugaunee, Gauhājeneenesehauva dāeyaunauauau nedauenenedaunee hauauwuu naugauyaude hajesanedaudaunāthee waunenenehew?
+Hau hese haudnauauchuu, haudneedanauwunana waunenenehe, nau heee hadnaāenaugauyāthee hena hese.
+Nau hanaāanadethaude jea jegausauhānee; Henane hehauwu jenane waunauyaunee neauthayew hadaugauthāyaunee, hith hesedauhuk, nau hadauwauyaunee needaudenauuu, nau jasaa needanee hadau wauyaunee hehauwuneauchauna gauthāyaunee.
+Nau hegau henane hehauwujenane waunauyaunee vasevenenaje gauthānenevajaunaa; nau wauāthe wauyaugu vasevenenaje haddaudeauau nevajaunau, nau hadgusenauauau, nau nevajaunau haddenanaunauuu.
+Hau waunauyauau vasevenenaje hadedaunee hadauwauyauau nevajau, nau nanesauuthadee.
+Nau hegau henane hesevanaagu gauthānevasevenenaje nauhauhaunee haevathehaa waunauyaunee; hanau gauthāyauau hethadee, hathauhuk.
+Nau hethauwuu naneseauwauau vadanesee, haeehedesa jenayaunaa; nau hethauguhādaunau haegaugauunauwu wauchuunethauauhanau, nau haevethenauau, haegauneegudenauau hejadenenau.
+Nau hauthauauau Nesethajauhuhau, Naudu hanesedauna waujaa nanavanau nesedaude vadanesee hathauhaugaunee?
+Nau Hejavaneauthusau hanaāauchuhananadethaude, Gauhājethaunauhaude nuu hasauau David neesedaude, nehayau deasenade, nau neethāenethaunāde.
+Neesejedāde Hejavaneauthu hedauauwunene, nau needanauau nau nevethee nauhauthethājauaujau, nau haevena heethāenethaunaunau; waujaa nanavanau veyāgu hau jasaa vevethahevahehauau?
+Nau hanaāāedauwunāthee, Heau henane nanethadāde vadanesee.
+Nau hethauwuu jea jasaa vadanesee haejedā vevethahenauauwuu nau haeautheda: nau henane haeanedau hejavese hejadenaa haeesevane,
+Nau wauthaunauhāhehau nau Nesethajauhuhau haeaunauyauhauvaa, wauau haadenenayauthā vadanesee; hadnejauaudaunauthee dauhanājauwauaunauthee.
+Hau haeaenauwu hegaugauuthajaudenenau nau hanaāanadethaude henanene hesevenasanith, Gauhā nau yethaagu nahethāe. Nau haegauhā nau haeyethaagu.
+Hejavaneauthusau hanaāāedauwunaude, haudnaudedaunathana nananena hanesadee; Gaujenanavanau vadanesee hethadāgu hasedaunee, nau wauāthe wauchudauneagu? henayauhāgu henaedede, nau wauāthe nanaunehāgu?
+Nau hanaāenaunauānede vahee, hanaāāedauwunaude henanene, Segauha hajade. Nau hanaasedaude: nau hejade haeenayauhune jasaa hasaunee.
+Nau haeechauchaunaudenauau hasenaunaude: nau hanaāaunauchuwuhadethee daun haudnesehauthee Hejavaneauthusaun.
+Hethauwuu hena hese, haeehau hauanee haudnevevethahede, nau haunaude naugaunee haevevethedauna Hejavaneauthu.
+Nau hāesenee, hanaāadethaude hethauguhādaunau; nau haeedana vadadauchunesenee, hanaāeneseaude vadauhanauau.
+Simoneau (jea haeaugauthea Peda haseauhuk), nau Andwheau henauhauwauau, James nau Jaun, Thenib, nau Bathaunaumew,
+Matthew, nau Taumis, James heau Atheas, nau Simon Zenautes haseadagu,
+Nau Judas James henauhauwauau, nau Judas Iskariot, hanane jea neheaudaunade Hejavaneauthusaun.
+Nau haejenauunethauna nau haetheaugunauau hethauauwuu, nau hadauchunanenethe hethauguhādaunau, nau haevasenauthenanedau henanedanede hehethee vahee Judea nau Dādaunedan, nau hehethee sasethauwu hadajee Tyre nau Sidon hethāejenauujaathehādaunau, nau haudnenayauhāthee hedasauwauvahedaunenau;
+Nau hathāenaunauthauwauvahethee wauchāhenethe haujaunau: nau haeenayauhaunauau,
+Nau haunauude hadauchaa haevadauvasanau hanau daunudesanaunee hevadaude nau haevahenayauha.
+Nau hanaāenāauhauwaude hethauguhādaunau, Hauwunaunana nananena hadavenuhunena; hanau nananena najanede Hejavaneauthau, hathauhuk.
+Hauwunaunana nananena hathāasenana hewaunehaa: hanau nananena hadnegaudana. Hauwunaunana nananena hathāevewauhuna hewaunehaa, hanau nananena hadnauchaunena.
+Hauwunaunana nananena, henaneda hasānavānā, nau jaasauaunānā, nau naunaunauthevānā, nau hausāgudenauthe haneseedaunenau hadauwausaunee, haugau Henane Heāhene heee.
+Haunauwuthajauau henee hesee heee, nau jajanauauau heee haunauwuthajaude: hanau, naune, hanavanasauau hadaugautheavadenenau hejavaa: hanau naneesedauyaugaune henesaunaunenau naneesehauhaugaunee haeyāhehau.
+Hau naunauthauau hadnauauchaudaune hathāeveaunauaune; haugau hanesedanauwuna hauwauthenaedede.
+Naunauthauau hadnauauchaudauna hathāegaudana; haudnasenana. Naunauthauau hadnauauchaudauna hathāauchaunena hewaunehaa, hadnaudauwuthajauna nau hadvewauhuna.
+Naunauthauau hadnauauchaudauna, daunhāene vahee henaneda hāethadenee hasenehethānā, hanau henesaunaunenau naneesehauyaugaune jayaudauwaeyāhehau.
+Hau hadāedauwunathava nananena hathāenedauvana, Vechauthaa nananena haujauthavenau, heneehaa hasānavādaunenau,
+Hauwunaunaa hāwauwauchuvādaunenau, nau hevevethasaa hāwauwauchuhādaunenau nananena.
+Nau henee haudauauvāde hajāeaunaa nau naugautha venene; nau hedanauaugu nananene hauddu jevaedanau jea naudauguvechude jevaethaa.
+Hevenaa daun henaneda hānedauwunādaunenau nananene; nau jeva jaenedauwunaa hedanauwunānagu daun hanetheyaunenau.
+Daun hasevathehānaune henaneda hesehānenagu, nechau jenaasehaude.
+Hith nananena vechauthaunagu daun havechauthādaunenau nananena, haddusevaveeneva nananena? haugau wauwauchudauhuhauau nechau nevechauthauthee hethāevechauthādaunenau.
+Nau hith nananena hethadāgu hasehaunā daun hāneneehādaunenau, haddusevaveeneva nananena? hanau naneesedauhaugaunee wauwauchudauhuhauau.
+Nau hith nananena hehaunagu daun hāneejauaunaudaunādaunenau, haddusevaveeneva? hanau wauwauchudauhuhauau nechau neehauhaugaunee wauwauchudauhuhau, hadnejanaasesedanuu.
+Hau vechauthaa nananena haujauthavenau, nau hethadeha hasedauna, nau hehānagu, jevajavathehāe; nau nananena haudaugautheavadenenau hadvasauau, nau nananena hadnaāedāeyaunenena Javaājauuthee: nau neneneehaude nethāejevaveenenethe nau hauhauganau.
+Hedauwuyaunee nananena, nananena Hāsaunaunenau jea hasedauwuyaunede.
+Jevaauchuwuu, nau nananene hadnaajauchuwuhane: nau jevaduguthāe nau nananena hadnehauwuduguhuva: hejaegudanauwuyāe nau hadnejaegudanauwunane nananene:
+Vāe, nau hadnevenana nananene, vavesethajauauthāe, dāayāe, nau dāesathāe, nau haunauwauauthāe, hauchauva, henane hadvenāna. Nechau hadnaasethajauaudaunāna hasethajauauthānā hadnanesethajauaudaunana.
+Nau hanaāanadethaude haejejegausuhu, Gaunanenauguhu jenenauājetha nanenauguhu? Gauhaudjenesauujanesenauau gauuhanaa?
+Thauguthāhe hehauwujavaāhe hechauhauthehādaune: hau haunauude hanesāde daun haunauudaunāde hathāhenith hechauhauthehādaune.
+Nau naudu hanauhaudauwu nananene hahavaa hejaheede hesesāe, hau haājevesehau havadauhaude hathāsewau hasesāe?
+Wauāthe hauddusenehethau nananene hahavaa, Jāedaā, hadaugauhauwunathe hajaheede hasesāe, hau daujenauhauwaude havadauhaude hathāsewau nehayau hasesāe? Nananene jayaudauwunaedehe, nedauau haugauhune havadauhaude hathāsewau nehayau hasesāe, nau hadenaāeneauvane hadenaāeneaugauhauwu jaheede hethāsathau hahavaa hesesāe.
+Hanau hauhaude hethahagu hehauwuseaude wausaunee vevenaudenau; nau wauāthe wauchahagu hauhaude hehauwuseaude hethadenee vevenaudenau.
+Hanau hadauchude hauhaude neaenaunede hanasaunee hevevenaudenau. Hanau hauchahevesee henanenauau hehauwunaadauhauānuu hauuyauchuwunau nau dauchuuwusee hehauwunaadauguunee dadajevenau.
+Henane hethāde hehethee hethadenee heda nenauuchaudede hethadenee; hau wauchāhede henane wausaunee heda nenauuchaudede wausaunee: hanau waunauthaa hehethee hedahaa hede nanadenaunee.
+Nau naudu, Vahadāhene, Vahadāhene, haesena, hau nejesedauna hayauhuhau hasenehethathana?
+Daun nādasāde nau nedaunānaugu hasenehenaunauau, nau hesedauhuk, haudnauhauthehathana haudnethāde:
+Henanene henee nenesedenethe hauauwu naathāde, nau henee nejayauchauhuu, nau naneejenanauau hauauwuu dasee hauunaugāe: nau nauunauuu naje neje naunauthuu jaathāsāe henee hauauwuu, nau hehauwunauauvathāau: hanau daunāaudaa hauunaugāe.
+Hau jaathedehe, nau janenaasedauthe, naathāde henanenau henee nedasauauvānethe vedauauwuu; nau neje jaathāsāe naunauthuu, nau nauhauhaunee naunenauauau; nau thauwusāe henee hauauwuu nevasauau.
+Wauhā hāevathanadede vahee hanasenehede daujajaathehade henanedanede, haejedā Capernaum.
+Nau jasaa vanenenaja hewauwaune haevechautha haeaugauwune, nau haeyānajane.
+Nau hāenedauwauthaude Hejavaneauthusaun, haeautheava vachaugananenau Jews, haeadetha hadjaunith nau hadnenayauhaunith hewauwaune.
+Nau hāedauchauthee Hejavaneauthusaun, haeautheauwaunauthasanauau haugaunaunee, hanau hethāde naa henane naa haudneenesedaude, hathauhaugaunee:
+Hanau vechaudauau nadedanenau, nau nenesedaunānauau vevethahenauauwuu.
+Heee Hejavaneauthusau hanaāejasesenethaunāde. Nau hāeauchauau hauauwu, vanenenaja haejajedauaunanenau henedaehauhau, Vahadāhene, jevawauchuthajau Nananene: haugau wauchāhenau hadjedāne naudauauwuu, hathauhuk:
+Nanaa nāejewauchanavadede dauudasathane: hau vavade nehedau hanadede, nau naudautheau hadeenanedanede.
+Hanau nananenau nanethenanenenau naunaudāhenau, nanethenu vanenanenauau, nau naāāedauwunauau hanesāde yehau nau naāejathāaude; nau jasaa, Nahāje, hathauau nau jaunaude; nau naudautheau, Nesede, hathauau, nau nanesedaude.
+Hejavaneauthusau hāenedauwaudauau nuu hayauhuhau, haegaugauanava, nau haenauthegauthaagu, nau hanaāāedauwunaude henanedanau hethāethauguhādaunau, Hadāedauwunathava, Haunauau nāhauwuveehau vasee hethauwuthajuhu (naa hathāde henane), hegau, hehauwuu haduu Israel.
+Nau henee hathāautheavathee, hāejaenuusathee hauauwuu, haeveehanauau wauwaune haeenanedanene henee neasauwauvāhenith.
+Nau hethauwuu jasaa hesee, hanaāehaude hedan Nain haseenauyāgu; nau haewauthanenau hethauguhādaunau henethaunādaunau, nau hauwauhuu henanedanede.
+Wauhā hāayānauusade hejavaaa dajanaunaa hedan, naune, naa najaa henane naunudanade, jasāsau henaune, nau haeenevesānene: nau haewauthane henanedanede hehethee hedan haenethaunaa.
+Nau hāenauhauwaude Vahadāde haeauwunauna, Najenaudāve, hathauhuk.
+Nau haeedasa nau haevasane nauaunechauthau: nau hethāenauaunechauhādaunau haedādauyaugunenau. Haunaua, hāedauwunathane, Thauwauthe, hathauhuk.
+Nau henee nenajaa haethauwaudaugu, nau haenaāejasesanadede, nau hanaāevenaude henaunene.
+Nau nāthajaude haeedasā vahee: nau haevaveenethedaunanauau Hejavaneauthu, Havathee haeyāhe hanejauaude hadedanene; nau, Hejavaneauthau haenauujādauna henesaunau, hahagaunee.
+Nau nuu dauauthedaunenede haenanadesanaune vahee Judea, nau nanadee gauānee vedauauwuu.
+Nau hethauguhādaunau Jaun haeauthedaunaa vahee nuu hayauhuhau.
+Nau Jaun haeadetha hanesenethe hethauguhādaunau haeyethautheava Hejavaneauthusaun, Gauhanane henee waudaudjaude? nau wauāthe gauhadnaudenauhauwau jasaa?
+Hāedauchauthee henanenauau, Jaun Dusaayāhe janādautheavānauau Nananene, hathauhaugaunee, hanaāenaudedaunauthee, Gauhanane henee waudaudjaude? nau wauāthe gauhadnaudenauhauwau jasaa.
+Nau vavade hāauchauau haeenayauha haewauthanenau vavavāauhuhau nau havathee haugauwude, nau wauchāhenith haujaun; nau haewauthanenau nanenauguhuhau haevena nauhauthau.
+Hejavaneathusaun hanaāāedauwunāthee, Najajathāauau, nau hadāedauwunauva Jaun hathāhaugaunee, hayewhu hanathauhauthāna nau hathadauvana; hasejaenauhauthāde nanenauguhu, jeneejavesāhe daujavesade, naunaujaunee hedaugauwudaunenau dauuyaudahethee, hayājadāhe daunedauvade, gaujauaudahehe daujaethauwauthede, hadavenuhu hethadenee waunauyaunee dauauthedaunade.
+Nau hauwunaunade daun najewauchuthajaudaunāde.
+Nau hāejathāaunethe Jaun hedautheaunau, hanaāejasesanadedauau henanedanede hasenaedenethe Jauneau, Hayew nananena haewaunenauhauthaunenau nauaunee? gaugauguyāse daunauauvasee?
+Hau hayew nananena hāewaunenauhauthaunenau? Gauhenane hedāchaunau hejajehaunenau hedāchaunau? Naune, nethāeneenuhuthee, nau neneenaedethee thanāsee nenauchuwunethe hedauauwunenenau.
+Hau hayew hāewaunenauhauthaunenau? Gauhaeyāhe? Haa, hadāedauwunathava nananena, nau javaāsee haeyāhehau.
+Naa nananene, wauthaunesee, Naune, hadjejenanauau Naudautheau hathaaguna, hadnesedaunāna hauvaunenau sayānee Nananena.
+Hanau nāedauwunathana, hadedanenau nethāenesaunevāna hesānauau hehauwujavaāse haeyāhe hathāde Jaun Dusaayāhe: hau hena haugajehede hanedauhuk henajanedaunene Hejavaneauthu javaāhehuk.
+Nau vahee henanedanede hathāenedaunāde, nau hauāyāhehauau, hanaāechuwauthethajaudaunauthee Hejavaneauthu, haenethedusaanā dusaayāhew Jauneau.
+Hau Nesethajauhuhauau nau nanavaavehehau yesee nehayau haeausagudenauau hevathehādaunene Hejavaneauthu, haejenethedusaanā (Jauneau).
+Nau Vahadāde hahagu, Hayew naudneedajenehethau henanedanede nuu henaedede? nau haethahenauthe?
+Waude dāeyaunauauau hathahethee theaugunauthe haudaunanauauwuu, nau danadethadethee, nau nanāhethee, Nevadauhana, hau nananena nejevadana; naudauwuthajaudauwunana nananena, hau nejevewauhuna.
+Hanau denauusade Jaun Dusaayāhe dejevethee jauaujaunau nau deejevanaa vasevenenaje; nau nananena nanethenaude haujaun, nethauna.
+Heau henane daunauusade dauvethede nau dauvanaa; Nauhauvaa naa henane naudaudāhe, nau vasevenenajevanehe, henedaehauhau hauāyāhehau nau wauwauchudauhuhau, nethauna.
+Hau haeyaude chaunuwuthajaudaunaude vahee hedāeyaunewau.
+Nau hanesāde Nesethajuhu haeadetha haudjewaunenethevethehevāde, nau haeyehau haejedā Nesethajauhu hedauauwunene, nau haejanaugu hadvethede.
+Nau, naune, hesā hedan, haeauhaugane, hāaenaunaude Hejavaneauthusaun daujanaugunith hadvethehenith Nesethajauhu hedauauwunene, haejāchaude jaāvasaa chauayau,
+Nau haetheaugu hegauwune heauthene haevewau, nau hanaāejasesahesadede heauthene heee hedejee nau haeheahenauwu heee henethaanene, nau haenedane heauthene, nau haechauane heee chauayau.
+Wauhā Nesethajuhu hāadethaude hāenauhauwaude, haejaevenanadethade, Naa Henane, haeyāheyaugu, hanaenaunaude daunhadāhenith nau daunhathāhenith nuu hesāne hevasanādaune: hanau wauwauchuduhu, hahagu.
+Nau Hejavaneauthusau hanaāāedauwunaude, Simon, haudnāedauwunathane nananene. Nau hanaāenehethaude, Hechauhauthethāhe, nanehe.
+Hena jasaa sayānedanauwuyau haenesenenau hesayānedanauwunādaunau: hanesāhenith yauthaunevadadausauau vāejethā, nau jasaa yauthauyauau.
+Nau hāeyauhuunee haunaudauhudaunene, haenanethauaunegudanauwuna nesauuu Jeāedauwune, hanaane hevechauthādaune javaānee?
+Simon hanaāejaāedauwunaude, Nauchāe nananenith heneehejavaāgudanauwunaune. Nau hanaāāedauwunaude, Nananene neaenauwu.
+Nau hanaāeyethaagude hesāne, nau hanaāāedauwunaude Simoneau, Gauhaunauhauwau nananene naa hesā? Nananenau nejedānau haudauauwuu, nananene hāehauwuvene naje heee nauaudau: hau neheahesadede nauaudau heee hedejee, nau neheahenauau henethaa.
+Nananene hāehauwunedane hau naa hesā hāenauusanaunauau hehauwuthauujenenedane nauaudau.
+Naudauguhua nauguu javeda nananene hajechauusānene hau naa hesā nechauanauau nauaudau heee chauayau.
+Naa hāedauwunathane nananene hewauchudaudenau waunauthanee gaunudanauwunade; hanau dauvechauthāde javaānee hau daun vanehaa gaunudanauwunade vavade hasevechauthāde vanehaa.
+Nau hanaāāedauwunaude hesāne, nananene hauwauchudaudenau jaegudanauwunane.
+Nau hethāenedauguvādaunau dauvethehethee hanaāejasesanadethee hegaugauuthajaudenenauau hanaa naa negudanauau wauchudaudenau jea?
+Nau hanaāāedauwunaude hesāne, Nananene hadethauwaudaude henayauhāne nananene; najesa hadnauwauthenesane.
+Nau hethauwuu waunee haejathāau nanadee hadauchanenee hedan nau hajaseehedan, dauaunauthedade nau daunaunauhauthethāde neethajaude waunauyaunee hasaunee henajanedaunene Hejavaneauthu: nau vadadauchunesenee haenethaunaa,
+Nau jasaa hesānauau, haeenayauhau dewauchāhenethe haujaunau nau vavavāauhuhauau, Mare haseadagu Magdalene, naunudanavathe nesaudauchu wauchāhenethe haujaunau,
+Nau Joanna henene Chuza Herod hadāhevāhe, nau Susanna, nau haewauthanauau hauthauauau, hevenādaunau hethāenetheyaunenenau.
+Nau hāeneenawauthaa henanedanede dauauāchaudenee, nau haeedasaa hehethee nanadee hedane, hanaāeanadede jegausauhānee:
+Jenayāhe haewauneneāgude hejenayaunau: hauthauau haejajanesanau vaunaa; nau haeauguhudaunene, nau neahehauau hejavaa haeaudauvanauau.
+Nau hauthauau haedasegaugauusanau hauunagāe; nau chauchaunu hāeveseuu, haenadadanau, hanau daujenajenee.
+Nau hauthauau haejajanesanau hegauau dauchuuwusee; nau dauchuuwuse haenauguveseaunau, nau haeajedaunanā.
+Nau hauthauau haegaugauusanau dasee hadauuthadee vedauauwuu, nau haeveseaunau, nau haeneeaunau vadadausauau jenayaude. Nau hāenehedauau nuu hayauhuhau, haevasenehe, Daun henaudaununede, nanehanedauvade.
+Nau hethauguhādaunau haenaudedaunaa, duthanau nuu jegausudede, hathāhuk?
+Nau hahagu, Nananena vanenana haudnaenauwuna jaeyaunau henajanede Hejavaneauthau: hau hauthauauau janegausauhuthee; hadnenauhauthāthee havajenauhaudauwu, nedauvahehauau havajaenauwu.
+Wauhā, heyew hasauau jegausudede: Jenayaunau hedenehede Hejavaneauthau.
+Henee vaunaa nanathee nenedauvathee; hanaāenauusade haujau, nau nedanauwunāthee hanadede hedahenauau, naseduhuu hethauwuthajauau, nau hadenanedanena.
+Henee hauunaugāe nanathee, nanedauvanauthe nesedanuu hanadedaunau nauguu haunauwuthajaude; nau nuu hehauwuthājenenauau, vanehaa nethauwauduu, nau nauauchaudaunauthe vasehadede naneenaunegauhuthee.
+Nau henee nejajanesāe thauhauthauchauyauau dauchuuwusee nanathee, hanesenedauvanauthe, naneejathāauthee, nau neenadejethathee heee haunaunethaude nau nethauyādahede nau haunauwudaude, heee nuu henaedede, nau hehauwunauuchaudenauau vevenaudenau hadauuyauthaunee.
+Hau henee hadauuthadenee vedauauwuu nanathee, hethauvahethee nau hethadenee hedahenau nenedauwauduu hanadedaunau, naunaunedethee, nau nenauuchaudethee vevenaudenau heee jenauwauaunee.
+Hegau henane, hāesedeauchauuu nauauuthayau, hehauwaugau heee vasenau, nau wauāthe hehauwujenane thānee hauvaa; hau nethānauau nauauuthayau neetheaugunee daun janedāde hadenauhaudauau nauauuthayāgu.
+Hayewhu hehauwuyauthesa, haudjauthasenesehee; wauāthe hayewhu hehauwuyau hadjaenaunee nau hadnejaunauau hauthasauau.
+Haunauyauhaudauwuu hanathadauvanā: daun nanethenaude, nananede haudnevenade; nau daunjanenethenaude, nananede haudnedanauwunade daun henetheyaunau.
+Hanaāedasāde henaune nau henethesaunau, nau haejeneedasaa heee dauneethenadedaunenee.
+Nau haeāedauwunaa jachau hathāhuk, Hānau nau hāthesaunauau theauguthee jathee, vanadaunauhauvānaune.
+Nau hanaāauchuhananadede nau hanaāāedauwunaude, Nānau nau nāthesaunauau nuu nanathee nanedauwauduu hedanadedaunene Hejavaneauthu, nau naasedauthee.
+Wauhā hethauwuu jasaa hesee, haejedā thewaunaa nauguu hethauguhādaunau: nau hanaāāedauwunaude, hadeyehaunau hauchaunau neajee: nau hanaāejathethuauthee.
+Hau hajechuauthee haenaugau: nau hanaāenauasaa neajee haenaudasa; nau haeechauchaunane naje, nau haeanedaudauwugaujauaudahede.
+Nau hanaāedauchauthee, nau haeauwaudananauau, Hechauhauthethāhe, Hechauhauthethāe, gaujauaudāhenauau, hathauhaugaunee Hanaāethauwauthede, nau hanaāeneudauau hasāse nau dasenaunanaunee naje: nau hanaāedauunauuu, nau hanaāedādauyauau.
+Nau hanaāenehethaude, daude hadethauwaudadenenau? Nau haenāthajaunauau haejenaunethajaunauau, Dauhuthenane naa, hanathadagaunee; haauchuwudede hasāse nau naje, nau hanaāethauwaudaunāde.
+Nau hanaāenuusathee vedauauwuu Gadarenes, hauchaunau Gananee.
+Nau hāeyehaude vedauauwuu, hena haenuchaunaa jathee hedan jachau henanene, haenethena haujaun dajechauau, nau haevedauauchauna, haejenaede hauauwuu, hau nedauthānavathe gaujauaudahehehau.
+Hāenauhauwaude Hejavaneauthusaun haevasanade, nau haechaagujanaugudauna, nau hanaāevasanadethaude, Hauddusehathe, Hejavaneauthusau, Nananene Heau Hejavaneauthau javaājauuthee? Nenedauwunathane Nananene jevanaunauchauthehe.
+(Hanau haenesedauwauna wauchāhenith haujaun hadjenauahenith hehethee henanene. Hanau nauaunee dauhusedanāde: nau naunaunehade neduguhude heee vāejethāduguthaunau nau nesaunajethaunau; nau haegaugauchauagude heeduguhudaunau, nau haejathethasauaunaa haujaun hesee nauaunee.)
+Nau Hejavaneauthusaun haenaudedaunaa, Haudusee? hathāhuk, Nau hanaāāedauwunaude, Waunauthade: hanau dewauthanethe haujaunau hethāchaudaunādaunau.
+Nau haenedauwunanauau hadjenesedauwaunathee hadjeyehauthee hethauvaa.
+Nau hena haewauthanauau neauthuwauchu nevethehethee hauanee: nau haenedauwunanauau hadjenanāthee wauhaunee. Nau haejenana.
+Hanaāenauahethee haujaunauau hehethee henanene, nau haewauhaunesanauau neauthuwauchuu: nau vahee neauthuwauchu haejathegauhunauau neenanee janahuu yesee neajee, nau haevanadeavenauau.
+Hāene henee nauchauwauthee daunauhauduu hasedaudenenee, haedaugauhunauau, nau haejathāaunauau nau haeaunauthedanauau hedan nau vedauauwuu.
+Hanaāeyehaudenee hadnauhauwuu daun hasedaudenee; nau haeedauchau Hejavaneauthusau, nau haeveehau henane, heneenenauthāde haujaunau, haetheaugu heauthene Hejavaneauthusaun, haeedāchaunene, nau haechuwuthajaune: nau haenāthajaudene.
+Henee nenauhauwauthee haeauthedanauau neesenayauhade nenethenaude haujaunau.
+Hadauchaa hathāauauvaa Gadarenes gauānee haejathethajenāhenauau; hanau dauusāhede: nau hanaāeyehaude nauauhuu jethee thewaunaa, nau hanaāejaesade.
+Wauhā henane nenauthāde haujaunau haenehethaa hadnenethaunāde: hau Hejavaneauthusau haejathethajenāhe, hathauhuk,
+Jaeyehau haudauauwuu, nau hadnauhauthethā hathāenavasauau hayewhu Hejavaneauthau hasehāne nananene. Nau hanaāejathāaude, nau haeautheda nanadee hathāaunee hedan hathāenavasaunee hayewhu Hejavaneauthusaun hasehāde.
+Nau hethauwuu hāejaenauusade Hejavaneauthusau, henanedanede haeneethajaudaunaa: hanau haevadauyauhauwau.
+Nau, naune, haejenauusa henane Jairus haseagu, nau hadāhevāhe vevethahenauauwuu: nau haeuāneseve Hejavaneauthusaun heauthene, nau haeadetha hadjewaunejedānith hedauauwuu:
+Hanau haenesāhene hedaunau wauau hanesenee jajenevāhe, nau haeayānajane. Hau hajesesade henanedanede haevauhaunaa.
+Nau hesā haeevathaude nesenee jajene heee, haevathede haunauude hevāejethāwau heee naudaunehāhehau, hau haejenayauhau,
+Haeedasa hegauwune, nau haevasane naunauchuu heduwune: nau chauchaunu haejenevathaude.
+Nau Hejavaneauthusau hanaa navasanāde hahagu? Hāevahethedauwaudenee, Peda, nau hathāenethaunāde, Hechauhauthethāhe, henanedanede vauhaunane nau naneethenane, nau hanaa navasanāde, nesehene? hathauhaugaunee.
+Nau Hejavaneauthusau, hanaadee vasanānau, hahagu: haenauwau daujasesenauauau vadaude hehethee nananenau, hahagu.
+Nau hāenauhaudauau naa hesā daujeyauthesee haejeyehau haeahenauau, nau hanaāechauāgujanaugudaunaude, haeauthedauna hauthasee vahee henanedanede hathavasanaude, nau hasenayauhāde chauchaunu.
+Nau hanaāāedauwunaude, Nauddau, nanehāauwauthenaedene: nananene hadethauwuthajaude henayauhāne nananene; najesa haunauwuthajau.
+Hajesanadede, hena haejau hanesāde hehethee hadāhevahew vevethahenauauwuu, haeāedauwuna, Haudauna najaa; jevajenaunevene Hechauhauthethāhe.
+Hau hāenedaunāde Hejavaneauthusaun, haenaāāedauwunāde, jevanāthajau: hethauwuthajau vavade, nau haudnenayauhade, hathāhuk.
+Nau hāejedāde hauauwuu, henanedane haejevadaujedāne, vavade Peda, nau James, nau Jaun, nau henesaunaune nau henaune hesāhedāeyaune.
+Nau vahee haevewauhudaune, nau haeaudauwuthajauhā: hau hanaāenehede, Jevavewauhuu; hehauwunaja, nauthe naugauhude.
+Nau haeauchauthanauau haevachunaunanauau, dauaenaunauthee daunajanethe.
+Nau haevanudana, nau hanaāedanaude hejadenene, nau hanaāanadethaude, Hesāhee, thauwauthe, hathauhuk.
+Nau hevadathuwu haejaedasaa, nau haethauwauthe chauchaunu nau hanaāenehede hadnauchauvavathe.
+Nau henehā haegaudauwuthajaunenau: hau haeāedauwuna hadjāedauvanethe henanedaa hasedaude.
+Hanaāadethaude vadadauchu nesenee hethauguhādaunau hauānee, nau haejaanauwuna naudahede nau hadvaheneedauthee nanadee vahee haujaunaa, nau hadnenayaudethee haugauwude.
+Nau haejenana hadnauthedaudauwunethe henajanedaunene Hejavaneauthu, nau hadnenayauhaunethe hasauwauvahehehau.
+Nau hanaāāedauwunaude, Jevaedanauwuu hayewhu heee hajavechaudenenau, daudause haugaudauhunau, daudause newaugusajaānauthau, daudause jauaujau, daudause vāejethā; daudause jevanesauguvechudaunaa.
+Nau daun hauauwuu hadaujedānā jenaadauna, nau jenaathejathāauna.
+Nau daun hajethauhauvādaunenau, hāenauahenā hena hedane, hadegauyāejaheva naudauuyāgu hadneaenaunathee.
+Nau hanaāejathāauthee, nau haeehedesanauau hauauwudan, haeauthedaudauwu hethadenee waunauyaunee, nau haevahenayauthānauau nanadee.
+Wauhā Herod naja haenedauva vahee hanasedaudenenee heee: nau haejaene, hanau haenaasenehedaunee gauuu, henee Jaun jaegauhāde hehethee denajaa;
+Nau gauuu, henee Elias naunauhauthethāde hedanayau: nau hauthauauau, hanesāde dajechauau haeyāhehauau jaegauhāde.
+Nau Herod haenehe, Jaun nedavaāsauau: hau hanaa naa, nanedauwauthau? Nau haevadaunauhauva.
+Nau vadauhanauau, hāejaenuusathee, haevahauthedaunaa hanasedaunethe. Nau hanaāedanaude, nau hanaāejathāauthee hevenanee hesee hadaunechaudanee hathauau hedan Bethsaida haseāgu.
+Nau henanedanede hāaenuu, hanaāethauguhauthee: nau haeesedana, nau haeauthedauna hasaunee henajanedaunene Hejavaneauthu, nau haeenayauha hathāevadauunayauhathee.
+Nau hāayānaesade, hanaāejenuusathee nesenee, nau hanaāenehethāde, Nanehāejathāaudenee henanedanede, hadeehaudenee hauauwudan nau vedauauwuu nauanee, nau hadenethee, nau hadejasedauthee vethewau: daunechaudaa hadaunauau.
+Hau, Venaa nananena hadevethehedaunee, hathauhuk. Nau hanaāāedauwunauthee, Hau nanethenauwunauau hehauwujavaānee hayauthaunāe jauaujaunau nau hanesethee nauwu; hanāyehaunee nau haunaudaunauhuu vethewau heee vahee nuu henanedanede.
+Hanau wauau haeyauthaune vasevadadausauau henanenauau hanaadauchuthee. Nau hanaāāedauwunaude hethauguhādaunau, Janauguhaa yauyauthauyauaugunauha.
+Nau hanaasedauthee, nau haevajanauguhanauau.
+Hanaāedanauau hayauthaunanenee jauaujaunau nau hanesenethe nauwu, nau hanaāejenāauguaude hejavaa, haevevethasa, nau haenaāejeanauau, nau hanaāevenaude thauguthāhehau haudjenanauwunethe hathaājedaunenee henanedanede.
+Nau haevethehedaune, nau haevahegaudaudene; nau haeauānenau jeyauwaunau hathāenathaudāe nesenee hanaadauchāe hanechauchaunāe nenethaudanee.
+Nau hethauwuu, haenesenane, dauvevethahede, Hethauguhādaunau haenethaunaa: nau hanaāenaudedaunaude, Hanaa nenehede henaneda daunanenau? hathauhuk;
+Hanaāauchuhananadethauthee, Dusaayā Jaun; hauhauthauauau nethee Elias; nau jasae nethee hanesāde dajechauau haeyāhehauau jaegauhāde.
+Hanaāenehethaude, hau hanaa nenehede nananena daunanenau? Peda hanaāauchuhanāedauwunaude, Chris Hejavaneauthau.
+Nau haeneenadauduvā, nau haenesedauwaunā hadjāedauwunaunethe henanedanau henee;
+Heau henane hadnasenede wauthanee heee hayewhu, nau hadnausāguthāde vachaugānanenau nau naja vevethahevahehauau nau wauthaunauhāhehauau, nau hadnaade, nau hadjaegauhāsanade nasese, hanathauhuk.
+Nau hanaāevahāedauwunaude, Hith henaneda jethauguhānaugu nanehanaunauchauthehadede, nau jeedane henaugauchu hayauwusenenee, nau najeethauguhaa.
+Daun haunaugaunayaudede hedenaedede hadnanadede: hau daun hanadede hedenaedede heee nadanayau, nananede hadnenayauhadede.
+Hauddusedau henane, vahesedanauaugu hathāauauvadenee, nau hanahadagu, nauwauāthe hausāguthadagu?
+Daun naudauthedaunāde nau nadanadedaunau, nananenith Heau Henane haudnaudauthedaunaunith, hāenauusathe nehayau hadauvasāthanith, nau Henesaunaune hadauvasāthanith, nau vadanee hautheaunauau hadauvasāthanethe.
+Hau hadethauwauthedaunathava hauthauauau theauguthee hede, haudnehauwuvajadauwu gaujauaudahede, haunaude haudnauhauduu henajanedaunene Hejavaneauthu.
+Nau hethauwuu wauau hanasaudauchuse hāesenehede, Hanaāedanaude Peda nau Jauneau nau Jameseau, nau hanaāenauauhusathee hauanee hadnevevethahethee.
+Nau hajesevevethahede haenauasāaune hedauchaveau haeanathadene, nau hedāchaunau haenaujaunenau nau haenaunauaugausauaunenau.
+Nau naune haeanadethaa hanesenethe henanenau, haenanenenau Mosaseau nau Eliaseau;
+Daunauhauthethāde hedanayau haenausāaune, nau haeauthedaude haudgaujauaudāde hadvathechauchaunaudede hehethee Dādaunedan.
+Hau Peda nau hethāenethaunādaunau haenauwaunanenau: nau hāauwaudauaunethe, haenauhaudauwunenau henauasāaude, nau hanesenethe henanenau haenethauguvaa.
+Nau hethauwuu, hāenauthāde, Peda hanaāanadethaude Hejavaneauthusaun, Hechauhauthethāhe, hethadee hasanedaunee hede: nau hadenesedauna hanasāe nenaunau; hanesadee Nananene, nau hanesadenee Mosese, nau hanesadenee Elias; haejaene daunhasenehede.
+Hajesanadede, haejenauusanau henaunauade, nau haeduguaunā: nau haenāthajaunaunauau daujedāthee henaunauadee.
+Nau haejeanadedaune hehethee henaunauadee, Naa nananede Navechauthau Nāa: nedaunaa, hāheagu.
+Nau hāesanadedaunee, Hejavaneauthusau haenesenane. Nau haeyaudenauau, nau haejāedauwunanauau henanedane hena hesee neanāthauhauduu.
+Nau hethauwuu, dauauthesenenee, hāejejanauhusathee hehethee jauaudanee, haegauāhenenau henanedanau hejajedauaunādaunenau.
+Nau, naune, henane hehethee henanedaa haevasanade, Hechauhauthethāhe, nenedauwunathane Nananene, daugauhauwune nāa: vavadenaanesāde nadāeyauneve, hathauhuk.
+Nau, naune, haujaun hedanāde, nau chauchaunu haedauyānade; nau haethauwuguthaa haevevechauchaunaude jeda, nau haeasenehaa haejechuwauthenauthaa.
+Nau nananenau neautheawu hāthauguhādaunauau hadnausāguthauthee; nau nejeneedauthee.
+Nau Hejavaneauthusau hanaāauchuhananadethaude, Hau hāhauwuthauwuthajau nau daujechuwauthenaedene, haudedauhujesenedauguvathe, nau haddauhujesenethauguvathe? Jāsene nananene hāa hede.
+Nau hajesejaude, haujaun haeauneguthaa, nau haethauwuguthaa. Nau Hejavaneauthusau haeneneuva wauchāhenith haujaun, nau haeenayauha dāeyaunauau, nau haejaevena henesaunaunene.
+Nau haevagaugauanadauwu hasevasenaudāhenith Hejavaneauthu, Hau hajesegaugauanaduu haunauude vahee hayauhuhau Hejavaneauthusaun hanasedaunith, Haeāedauwuna hethauguhādaunau,
+Chuwauthee nuu hanadedaunau jedānauha haunaudaununenau; hanau heau henane hadvenavathe hejadenene henanenau.
+Hau haejaenauwu nuu hasenehenith, nau haeyaudaunaunauau, haejaenauwu: nau haeeadaunaudedaunanauau hasenehenith.
+Hanaāegaugauudedaunee, hanaadee haudvasāthaa.
+Nau Hejavaneauthusaun, haeaenauwu hanasethajauthee hedahenauau, haeedana dāeyaunauau, nau haeauyejanauguna,
+Nau hanaāāedauwunaude daun hanesedanaude nuu dāeyaunauau naneseedaunaa hadnesedanānau: nau daun nāsedanāde haudnesedanaude nājejenanādaune; daun javaānadavenuhunede haunauude nananena vahee nananede hadnaasevasāthaa.
+Nau Jaun hanaāauchuhanāedauwunaude, Hechauhauthethāhe, neenauhauwaunauau hanesāde nenuguthaude haujaunau heee haneseede; nau needauduwaunauau, hanau dauhujenethaunānauau.
+Nau Hejavaneauthusaun hanaāāedauwunāde, Jevadauduvaa hāhauwasānavāne nanesevānauau.
+Nau hethauwuu, hāenauauchaunee hadneejejanauhudanāde, haechuwuyethaāne hadnehaude Dādaunedan,
+Nau haeautheava sayānee: nau hanaāejathāaunethe, nau hāejedāthee hajasee hauauwudan Samaritans, hadnesaanudaunāde.
+Nau haejesedanaa, hanau dauyethaāsade Dādaunedan.
+Nau hāene hethauguhādaunau James nau Jaun daunauhaudauwunethe nuu, hanaāenehenethe, Vahadāhene, gaujevadaunedauwaune heseda hadjejanauhusanauau hehethee hejavaa, nau hadnevadauchauuthee, neesedaude Elias?
+Hau hanaāeyethaādauusade, nau haeneneuva, Nananena hāhauwaenava daun vadathau nananena hadahena, hathauhuk.
+Hanau Heau henane hehauwuujau hadnenauaudede henanedanau hedenaededaunenenau, hau hadnenayauhaude. Nau hanaāeyehauthee jasaa hajasee hauauwudan.
+Nau hethauwuu, hajesethaugudethee vau, jachau henanene hathāhuk, Vahadāhene, nananenau hadnethauguhathane nananene daun nananene hanasesanaune.
+Nau Hejavaneauthusau hathauhuk, Gauauwuauau neyāethee, nau neaheauau hejavaa nenauhuchaunethee; hau Heau henane heyauhuunee nedauusevaānede.
+Nau hanaāenehethaude jachau, Jethauguhu, hau hathāhuk, Vahadāhene, nedauau nawaunejenanau nāsaunau.
+Hejavaneauthusaun hanaāāedauwunāde, Nanehajenanauthee gaujauaudahehehauau negaujauaudāhenethee: hau jathāau nananene nau haddauthedaude henajanede Hejavaneauthau.
+Nau jachau jee, hathāhuk, Vahadāhene, hadnethauguhathane nananene; hau jechuwauthehe nedauau nawaunenaunenechauthaunauau, hanedauthee nayāenau naudauauwuu.
+Nau Hejavaneauthusaun hanaāāedauwunāde, Hegau henane, dunauaugu thauauauwujethau, nau jaaāyaugu, hehauwunaathā henajanedaunene Hejavaneauthu.
+Nuu heee Vahadāde haeautheava hauthauau nesaudausauau jee, nau haeyeyethautheava hanenesenethe sayānee haunauude hedan nau vedauauwuu, haudnanādaunauusade.
+Henaheee hanaāenehethaude, Jenayaunau hethauwuwauthāe haneseuu, hau nesethāhehauau hajewauthathee: vevethahee nananena heee Vahadāde deseuujenayaunau, hadejejenanaude nesethāhehau hejenayaunaa.
+Jathāauau nananena hathaāsana; naune nananenau janenanathana neānee waude haudāsaunauau hejee hauchāhee.
+Jevanewuunauwuu nesevāejethāwaunau, newaugusajaānauthau, nau wauaunau: nau jevanaunenāthedaunaa henane hauvaunenau.
+Nau daun hauauwuu nananena hadaujedānā, Dādauyauha nuu hauauwuu, nedauau hadeva.
+Nau hith heau dādaunee hanedauyaugaune, nananena hadādaunahedaunenau hadnaadaudauyānusaa: hau jene hadjaegauusedaunāna.
+Nau vavade hauauwuu hadanedauva, hadevetheva nau hadevanava daun hayauhuhau hauchauvadenenau: hanau nesethāhe naunaudaunade. Jevaenejedāe hauauwuu.
+Nau daun hedan nananena hadaujedānā, nau hesedanānagu, hadevetheva daun hayauhuhau hajenanauwunādaunenau:
+Nau hadenayauhauva hasauwauvahehe daun hanedaude, nau hesau jeenanethāedauwunauna, Henajanede Hejavaneauthau hayāedasāna.
+Nau daun hedan nananena hadaujedānā, nau jesedanānagu hadjajathāauva hasesana hehethee hadaugauchaudāe hauauwudan, nau hesau jeenanesenehethauna,
+Daudause nauthejahathaugu nananena hadedanaunenau, heejahadāheagu, neyesegaunuhudee nananena: hau nananena hadethauwaenava nuu, henajanede Hejavaneauthau hayāedasāna.
+Hau hadāedauwunathava, hadjavaānanethauauyauau hena hesee heee Sodom, javaānee heee hena hedan.
+Naunauthauau hadnauauchaudauna, Chorazin; naunauthauau hadnauauchaudauna, Bethsaida; hanau havathenayauthau heheenesedaudeneagu jedauwuu Tyre nau Sidon, nuu hasehana nananena, dajechauau neaunaunevethajauduuhewauchudaudenenau, needanaugudaunee neauchuwaudenee naujuwau nau jaetha.
+Hau hadjavaānanethauauyauau heee Tyre nau Sidon hāenaudedaunadedaunee, javaānee nananena.
+Nau nananena, Capernaum, hanejanana yesee hejavaa, hadjaejanauhanee yesee hadauveeyauau.
+Daun hajaathehādaunenau nananena hadjaathehānau; nau daun hauwauchānavādaunenau nananena haudwauchānavānau; nau daun nauwauchanavāde hadwauchanauwaude najejenanādaune.
+Nau nesaudausauau haejaenauusanauau nauguu neethajaude, hanaāāedauwunauthee, Vahadāhene, daudause haujaunauau hanechauwauaunaunauau heee nananene haneseede.
+Nau hanaāāedauwunāthee, Nenauhauwauau Haujau waude jahagude hasejanesaa hehethee hejavaa.
+Naune, Nananenau vanenathana nananena naudahede hadnauguhudaunauna seseyānauau nau hauwauhaudathee, nau nanadee vahee henaudahede haujau: nau hegau hadneaseneva.
+Hau vahee nuu jevaneethajaudauwuu, haujaunauau dauuchauwauaunauna; hau henauthauneneethajauau hanau nananena haneseedaunenau dauwauthaunauhuu hejavaa.
+Hena hāauchauau Hejavaneauthusau haeneethajaune hevadathuwu, nau hanaāenehede, Nananenau vaveenethedaunathane Nananene, Hau Nāchau, Vahadāhene hejavaa nau vedauauwuu, hanau Nananene dauyaudaunaude nuu hayauhuhau hehethee nadaunahehehauau nau hathauwunanenauau, nau hadnauhauthehauva dāeyaunauauau: hethauwuu, Nāsaunau; waude hethadee nananena hasesānenau.
+Vahee hayauhuhau vanenānau Nāsaunau: nau hegau henane haenauna hanaadāne Heāhene, vavade Vāsaunau; nau hanaadāne Vāsaunau, vavade Vāa, nau nananede hanaadāne Heāwaune hadnenauhauthehāde.
+Nau hanaāejaedaugauhauwaude hethauguhādaunau, nau hanaāanadethaude hevenanee, Haunauwuthajaunauha hasesānenau dauhunauhaudauwuna hayauhuhau hānauhauthaunenau:
+Hanau nananenau hāedauwunathana, waunauthathee haeyāhehauau nau nenauchuwuthee nevadaunauhauduu hena hayauhuhau hānauhauthaunenau, hau hehauwuthauunauhaudauwu; nau devadaunedauwauduu hena hayauhuhau hānedauwauthaunenau, hau hehauwunedauwaudauwu.
+Nau, naune, jasaa nanavaavehe haetheaugu, nau haenaudayādauna, Hechauhauthethāhe, nauddusesedane jethauujenee henaedede? hathauhuk,
+Hanaāāedauwunāde, Hayew wauthaunesaa nanavaavedaunaa? Hādusasauhaude nananene?
+Nau hanaāāedauwunaude, Nananene hadvechauthau Vahadāde nananene Hejavaneauthau nauguu vahee nananene hadahaa, nau nauguu vahee nananene hadathuvaa, nau nauguu vahee nananene hadāahedaunaa, nau nauguu vahee nananene haugaugauuthajaudenaa; nau nananene hanedaudewau waude nehayau nananene.
+Nau hanaāāedauwunaude, Nananene hethauvāne: nanehasedaune, nau nananene hadnenaedene.
+Hau nananede, vanadauchuvanadede, hanaāenehethaude Hejavaneauthusaun, Nau hanaa nanedaudewau? hathauhuk,
+Nau Hejavaneauthusau hanaāauchuhanāedauwunaude, Jasaa henane haejathāau hehethee Dādaunedan hesee Jericho, nau haeesedanaa havedehehau, haethauwujedaunaa hedāchaunau, nau haeenesenehaa, nau haejathāaunenau, haenauthaa dauhayānajaa.
+Nau haejathedasaa jachau vevethahevahew hehethee: nau hāenauhauvāde, haejavechauthaa gauchuhunee.
+Nau vavade Levite, hāedadauau hadaunith, haeeda sa nau haenāauhauva, nau haejavechautha gauchuhunee.
+Nau jasaa Samaritan, daujādade, haeedasa hadaunith: nau hāenauhauwaude haeauwunauna,
+Nau haeyehau, nau haedugudauna hadauunesenenith, haeedaunauwuna javeda nau vasevenenaje, nau haedasana nehayau hedauneau, nau haenauuchauha vethehedaunauauwuu, nau haeaunauneha.
+Nau daunauganenee hāejathāaude, haeadane hanesanenee hevāejethāwau, nau haevena hadāhevahew, nau hadaunaunehau, hathauhuk; nau daun hasegaujauauthedanānaune jee, hāejaenauusanaune nananenau hadaunaudaunathane nananene.
+Hayewnau nuu hanasāe, hadeanathaunau, henedaudevādaune henee neesedanāde havedehehau?
+Nau hanaāāedauwunaude henee heauwunaunādaune. Hanaāenehethaude Hejavaneauthusau, nau jenaenesedaune nananene.
+Wauhā hethauwuu, daunausujavesathee, haenauusanauau jasaa hajaseehauauwudan: nau jasaa hesā haseagu Martha haejedana hedauauwunin.
+Nau haeenahavāe Mare haseeyaugaune, jea haejanaugude Hejavaneauthusaun heauthene, nau haenedauwaude hedanadedaunene.
+Hau Martha haeedauwauchune dauwauthanee hasedaude, nau haejeedasa, nau hanaāenehethaude, Vahadāhene, gauhajegaudauvanade daujenauthānau nahavaa daunesenesethānau? hāedauwunene hadenedahevānau.
+Nau Hejavaneauthusau hanaāauchuhanehethaude, Martha, Martha, nananene haunaunāhene nau dejanethajaudauwu waunauthāe hayauhuhau:
+Hau hanesadee hayewhu chaunauguauau: nau Mare hayāchauhauau henee hethadenee hadāde, hehauwuneejathechauhau nauthee.
+Nau hethauwuu, henee, daunausuvevethahede haedaunanenee, hāejenedaude, hanesāhenith hethauguhādaune hathāhuk, Vahadāhene, jeechauhauthehāa hadnesevevethahee, waude Jaun jea neesechauhauthehaude hethauguhādaunau.
+Nau hanaāāedauwunaude, hāene nananena vanevethahenā jeenanesenehena, Hāsaunaunene Nananede hanedaude hejavaa, Vadanauha Nananene haneseede. Nananene hanajanede hanājaunauau. Nananene hathanavāane hadnaasedaunee hasauau hejavaa, nau jee nuu vedauauwuu.
+Hejevenāa hadauchusenee hayauwusenee vethewau.
+Nau jejaegudanauwunāa hewauchudaudenedaunau hanau nechau nejaegudanauwunade haunauude hanesāde nethāesayānedanauwunāade. Nau jevaechauhāa nedauvasehadee; hau haugaunayauhāa hehethee hadau wausauau.
+Nau hanaāāedauwunaude, hanaa nananena hadnenedaehahede, nau hadneyehaude thaudajaa, nau hadethaude, Va, jeehe hanasāe jauaujaunau;
+Hanau nādae daunauujādaunānau, nau nananenau haeyauhuunee nauchauwaude?
+Nau hehethee jedauwuu hadnauchuhanehede nau hadnenehede, Jevajanethajuhu: dajanau wauwu haugauhude, nau nanesaunauau nanejauwu naudauvaa; nananenau nāhauwuneethauwauthe nau hajeneevenathane.
+Nananenau hāedauwunathana, hadnehauwuthauwauthene nau hadvenāde hanau dauhunedaehāwaude, auhanau dauneenāhede hadthauwauthenith nau hadvenāde daun hadauchuvathehāthe.
+Nau nananenau hāedauwunathana, Henedauwauau, nau hadnevenana; henaudethāe, nau hadneveedena; hewaudāhee (dajanau), nau hadnegaunedanauwunana.
+Hanau haunauude hanesāde nethāenedauwaude neneaudauwaude; nau henee nenaudethāde neveenauau; nau henee newaudāhaude (dajanaune) hadgaunanauwunade.
+Hith hāahenau nedauwunānagu jauaujaunau jasaa nananena henesaunaune, gauhadvenaa hauunaugane? wauāthe nedauwunāhuk nauwu, gauhadvena hauchuhanee gauhadnanene nauwunenith seseyāne?
+Wauāthe nedauwunāhuk naunau, gauhadvena hauwauhaudanethe?
+Hith nananena, hauhauganenagu, hadaenava hadnesevenauna hethadenee venadedaunau nananena hadāeyaunevenau: duthāee nananena hejavaa Hāsaunaunenau hadvenāva Vadanauwauthauwu nethāenedauwunauna?
+Nau neausāguthaude haujaun, nau heehauwanadene. Nau hethauwuu hāejathāaude haujau, hanaāejaanadede; nau henanedanede haegaugauuthajaudene.
+Hau jasaa hahagu, Nausāguthaude haujaunau heee Beelzehub najane haujaunaa.
+Nau hauthauau, haenaudayādaunaa, haenehethaa hadnauhauthaudenenee hehethee hejavaa.
+Hau haeaene hedenethajaudenene, haeāedauwuna, Hadauchaa najanede nanayāsenauaugu nehayau hadneyauhuu; nau hauauwuu hasānavadenaugu hauauwuu hadjanesaa.
+Hith, Haujau jea hasānavadagu, hauddusetheaugune henajanede? hanau nananena denehena nananenau deausāguthaugaunee haujaunauau hehethee Beelzebub.
+Nau hith nananenau hausāguthaugaunee hehethee Beelzebub haujaunauau, hanaa hāahenau hadnausāguthaude? hadedauchuwuwuna.
+Hau hith nananenau hejadenethedaunaugu Hejavaneauthau hausāguthaugaunee haujaunauau, hethauwuu henajanede Hejavaneauthau hedasāna.
+Henane danāahethe hedauchuaunau haunaunedehuk hedauauwuu, hevatheyaunau nedādauyaunee:
+Hau hāejavaādāāhenethe javaāhehuk hedasāhuk, nau veavehāhaugu, hadnedanauwunāde vahee hedauchuaunau heaanadauwaudenau, nau hadjaanenee hesehaudenau.
+Daun najenethaunāde hasānavānau: nau daun najenethauāyāvāde naneāsauauwaude.
+Hāenauthauthe wauchāde haujau henanene, nehedesade hadaujenajenenee, denaudedede dauyānusenade; nau janeveedethe, naneenehede, nananenau hadjaesanau naudauauwuu needaujenauahenau.
+Nau jaenauusathe, neveedede nesewaudeauhunee nau neyaudauthaunenee.
+Naeneejathāaude, nau naneedanauwaude hanesaudauchunethe hauthauau haujaunau javaānauhauganenethe javaāhede; nau naneejedāthee, nau nanejanauguthee: nau waunee henee henane naeneejavaānauhauganede nedauaunejeethāde.
+Nau hethauwuu, hajeseanadede nuu hayauhuhau, jasaa hesā hehethee henanedaa haevasanade, nau hathauhuk, Hauwunaunade henesaunehe hājanesauthāde Nananene, nau hethanau nedaunenane.
+Hau hahagu, Haa, nausunee, nauwunaunathee nethāejaathededuu hedanadedaunene Hejavaneauthu, nau naunaunedethee.
+Nau henanedanede hāeneenanauthenanedauhuu, hanaāejasesenehede, Nuu nanaa wausauau henaedede: nevadaunauhauthāthee; nau hegau nauhauthaude hadvenaunauau, hau vavade nauhauthau nananede Jonas haeyāhe.
+Hanau Jonas neesenauhauthehaude Ninevites, nechau jea Heau henane hadnaathāde nuu henaedede.
+Nenauchuwusā janauhuu hadjaegauhāde naudedaunadenesee nauguu henanenau nuu henaedede, nau hadnauthauwuvāna: hanau dejewaunejaathehaude hehethee hāauauvadenee naunaudāhenith Solomon; nau naune, hejavaāhedaune Solomon hanedaunith.
+Henanenauau hehethee Nineveh hadjaegauhāthee naudedaunadenesee nauguu nuu henaedede, nau hadnauthauwuvāna: hanau dauaugauthethajauduu hedauthedaunene Jonas; nau, naune, hejavaāhedaune Jonas hanedaunith.
+Hegau henane, hāesedeauchauuu nauauuthayau, hehauwujenane yauthee, daudause hehauwugaudauyauvasenaunaa, hau dasee nauauuthayauneetheaugunee, nethāejedāthee hadnenauhauduu naunauasādanee.
+Hanesenee vadanayannaa nanaa nevasesānee: nanaa hāenesadee hasesānenau nananena, nananene hadnaunauudauyauau hadanayau jea hanechauchaunaa hesee; hau hāene nananene hasesā wausuu, hadanayau jea hadnechauchaunaudene vaneeyauau.
+Haunauyauhaudauwauau hanau henee hesee hathāsadaude nananene jeva veeyauha.
+Hith nananene haunauudauyaugu hadanayau hanau hadnechauchaunaudene hesee, hadnehauwugauuveeyau haunauude hadnechauchaunaa hesee, waude naunauasādāe nauauuthayau nevenāna hesee.
+Nau hajesanadede, jachau Nesethajauhu haeadethaa hadnethevethehewaude: nau haewaunejedā, nau haejanaugu dauvethede.
+Nau hāene Nesethajauhu nauhaudauau, haegaudauvanava daujaheseuhunith nedauau hajesejevethehenith.
+Nau Vahadāhenith hathāhuk, Hewaunehaa nananena Nesethajauhuhauau neyauthahenauwuna jathee vāenaunau nau saenaunau; hau nananena hethauvaa hanechauchaunaudena vahedayaude nau hauhauganede.
+Nananena janethauvahena, gaujenane Hejavaneauthau nenesedede jathee gaujee henesede jedauwuu?
+Hau hevāe hauwuyau daun hanetheyaunenau; nau, naune, vahee hayauhuhau hadnesewaudeanauwunana?
+Hau naunauthauau hadnedasāna nananena Nesethajauhuhauau, hanau nananena hadvāna vadadauchu wauhaunauau nau naneujaudevejechau nau vahee hathāejajāesuu vejechau, nau hadjavechaudauwuna vavesauchuwude nau devechauthade Hejavaneauthau; nuu hāvachunaasedauna, nau hānanejenaudauwuna hauthauau nejesehee.
+Naunauthauau hadnedasāna nananena Nesethajauhuhauau, hanau nananena devechaudauwuna najatheaugudaunau jedauwuu vevethahenauauwuu, nau dejachauthana nedauaudaunauvadee.
+Naunauthauau hadnedasāna nananena, wauthaunauhāhehauau nau Nesethajauhuhauau, nanadaunahena, hanau nananena waude nedaugaudauyauhudaunee dejenauhauwuu, nau henanenauau nedasejavesathee hehauwaenaunā.
+Hanaāauchuhananadede hanesāde nanavaavehe, nau hathauhuk, Hechauhauthethāhe, nuu dauhanadene nananene naunaunauthevāana jea.
+Nau hathāhuk naunauthauau hadnedasāna nananena jea, nananena nanavaavehehauau, hanau nananena henenauchuna henanenauau nauguu henenauchude hehayaudee javechauhunee, nau nananena nehayau jevavasanauwuu henenauchudaunau heee hanesadee nananena hajadenenau.
+Naunauthauau hadnedasāna nananena, hanau nananena denesedaunauna gaujauaudahenauauwu haeyāhehauau, nau hāsaunaunenau denauauthee.
+Hethauwuu nananena haeyāna henee nananena wauhaunee nanāsedauthee hāsaunaunenau: hanau denauauthee, nau nananena nenesedena hegaujauaudahenauauwunenau,
+Naasauau jea hahagu hedaeyaude Hejavaneauthau, Hadjenanu haeyāhehauau nau vadauhanauau, nau hauthauau hadnenaathee nau hadnenaunaunauchauthehathee:
+Henee hevaevenau vahee haeyāhehauau, hanedaunee hehethee davadeesehee vedauauwuu, hadneenaudedauwuhuu nuu henaedede;
+Hehethee hevaevaa Abel nauuu hevaevaa Zacharias henee nenajaa nahethāe jaanaa nau vadannauauwuu: hethauwuu nananenau nehethathana nananena, hadneenaudedauwuhuu nuu heee henaedede.
+Naunauthauau hadnedasāna nananena nanavaavehehauau, hanau nananena dauhudanauwuna gaunaudauauha haeyaude: nananena hadnehauwujedāva nehayau, nau henee hathāejedāthee nananena najauaunauna.
+Nau daunenehedauau nuu hayauhuhau yesee, wauthaunauhāhehau nau Nesethajauhuhauau hanaāejaseseneenanaudedaunāde, nau haeneenadaunanauau hadnauthedaudauwunith hauwauhuu hayauhuhau;
+Haeaudenauthaa, nau hadnesedanauwunethe hayewhu hehethee hedenene, hadnāedauwauthauthee.
+Gaunauwuu, hāene hena hauāchaudenee hauānee haejedaguu hadauchaa henanedanede, dauwauthaa haeaunauguhudaunadenauau, hanaāejasesāedauwunaude hethauguhādaunau nedauau vahee, Haunauyauhaudauwauau nananena gauhaujau Nesethajauhuhauau, nenadaunahethee.
+Hanau hehauwuyauthesa, hathāeyauthesaa, daudause hehauwuyauthesa, nethāejaenaunee.
+Hanau daun nananena hasanadenā veeyaugu hadnedauwuhuu hesenee; nau henee nananena hasenehenā waunaudaunuu jedauwuu hadnauchunana dasee hauauwuu.
+Nau nananena hāedauwunathana Nādaehauhauau, Jevaesaa henee nenadethee henanedayāhau, nau heee hehauwauthesedaunauau.
+Hau nananena hāedauwunathana daun nananena hāchaunenau: Hesaa Naa, heee hesenaānagu naunaudāde hadgauusevāna hadaugauhauchanee; haa, Nananenau hāedauwunathana nananena, Hesaa.
+Hayauthaunethee hajaseaheauau gujeaudaunaune heee hanesāenee nevaāhenee, nau hanesāde hehauwunauneethedaunā Hejavaneauthu?
+Hau daudausee hadauchāe hāthaanenau haudauguhuanenau vahenayāee. Jevanāthajauau henaheee: nananena javaānauwauhuana hadauchuthee hajaseaheauau.
+Jea Nananenau hāedauwunathana, Daun naujaudauthehāde hesee henanedaa, nananede Heāhene henanene jea hadnehauwaudauthehaa hesee hautheaunau Hejavaneauthuu.
+Hau henee nauyauhāde hesee henanedaa hadneyauhade hathaāhenethe hautheaunau Hejavaneauthuu.
+Nau daun hayādaunaude Heāhene henanene, hadjaegudanauwunade: hau nananede henee hauhauganedauau Vadanauwauthauwu hadnehauwujaegudanauwunau.
+Nau hāejedanānā vevethahenauauwuu, nau hauchuwunanenauau, nau najanauau, jevagaugauanadauwuu wauāthe daunhayewhu nananena hadnesauchuhanehena, wauāthe daun nananena hadnesenehena:
+Hanau Vadanauwauthauwu hadnāedauwunāna nauauchaugu daun nananena hadnesenehena.
+Nau hanesāde hehethee hananedaa hathauhuk, Hechauthethāhe, hanadesene nasaa, hadegaugauanauwaunauau vatheyaunau.
+Nau hathāhuk, Henane, hanaa nanesehāde hadnauchuwuhathane nau hadjaanauwunathane nananene?
+Nau hasenehethauhuk, Haunauyauhaudauwauau, nau naseduhuu jevavathehāe: hanau henane hedenaedede hehauwunedahevaa wauthayāgaune hevatheyaunau henetheyaunau.
+Nau haeanadetha haejegausudenanadetha, Vedauauwuu jasaa nethauyāsenane haenautheauthā:
+Nau hasethajauhuk nehayau, hewauau hauaudnesedaunaune, hanau hajenethenauwau jedauwuu hadnedauthānauwau navethenau, hahagu?
+Nau hanaāenehede, nuu hadnaasedaunau: hadthauwunauwau nathāyānauauwuu, nau hadnesedenau hadjavaāvasauau; nau hadnaadauthānauwau vahee navethenau nau navatheyaunau.
+Nau hadnaāenehethauau navadathuwu, Vadathau, nananene nanethenauwu waunauthāe hanetheyaunau janenanee hadwauthāe jajene; hedanau nanethauaunenaedede, hevethehe, hevaveyā, nau haunauwunaede.
+Hau Hejavaneauthu hathāhuk, Nananene Hauhauga, nuu dauveeyauau nananene havadathuwu hadnedauwunane: heee hanaa hadnethenauau hajenayaunau?
+Nananede haenathaunau heveaunauaudenau, nau hehauwuveaunauau hesee Hejavaneauthu.
+Nau hathauhuk hethauguhādaunau, Naa nehethathana, Jevaegaugauanadauwuu hadenaededaunenau, daun hadnevethedaunenau; daudause heee hadanayaunenau, daun hadnāsaunenau.
+Henaedede javaāsaa vethevaa, nau vadanayau javaāsaa hāchaunaa.
+Gaugauanavaa huunauau: hanau dejejenayāthee nau dejegauausauhāthee; hehauwunethenauwu thāyānauauwu nau vethewau nedauthāsanenee; nau Hejavaneauthau nauchauwaude: gauhajavaāneenaedeva neahenaa?
+Nau hanaa nananena vanadauanāde heee neejahehee?
+Hith nananena wauhā jeneenesedaunagu henee haugajuhuu, naudu hajanethajaudauwuna hauthauau?
+Gaugauanadauwuu nenaugaānuu nejajaesaānuu neseveseuu: hehauwunesethānaunau, hehauwunethaudayānaunau; nau nausunee nāedauwunathana, henee Solomon vahee hevasāthade heehauwunaasenu hasaunee nuu.
+Hith wauhā Hejavaneauthau heneenudehuk wauchuunau, nuu desenee nauau, nau naugaagu hadneewaudedaunaunee; hāduthāejavaāvenāva hāchaunau, Hau nananena vanehaa hethauwuthajauna?
+Nau jevanaudedee nananena daun nananena hadnevethedaunenau, wauāthe daun hadnevaveyādaunenau, jevaauwaugaugauuthajauau.
+Hanau vahee nuu neauthudan hathāauauvaa nenaudethāthee: nau nananena Hāsaunaunenau haenauau henee nananena hāvathehādaunenau nuu hayauhuhau.
+Hau henaudedee nananena henajanede Hejavaneauthau; nau vahee nuu hayauhuhau hadnethedaunanauwunana nananena.
+Jevanāthajauau, hāhauwuwauthaheva; hanau nananena Hāsaunaunenau hayethanadauwunādaunenau hadvenāna henajanede.
+Heaudaunaa henee hanetheyaunenau, nau hauwunaunaa hadavenuhuhauau; jasedauau nesevāejethāwaunau henee nejethauuthauauchusāe, haenathaude haneduu hejavaa henee nejethauuyauhuu, nedaujavedadenee, hehauwujuudenauau nuvanauauau.
+Hanau haduu hadaenathaunenau, hena hadahenau jea hadnaaduuu.
+Duujehee, nau haunauauuthayaunenau gauhauchanauha;
+Nau nanehathahena henanenauau henee nedauyauhauwauthee hanau Hadahethedaunādaunenau, hāejejaesathe hehethee gauwuhaude; henee hāejenauusathe nau hadwaudāhaude, hadgaunanauwunade nauhauhaunee.
+Hauwunaunaa henee nesethāhehauau nananenethe, Vahadāde hāejenauusathe hadveenaude hadnaunauyauhauthānethe: hethauwāedauwunathana, hadduujede nehayau, nau hadjanauguhaude hadvethehenethe, nau hadjeedauchaude nau hadnaunauchauwaude.
+Nau hith jenauusahek naneseauwaude haunauyauhauthāhe, wauāthe jenauusahek nanaseauwaude haunauyauhauthāhe, nau hadveenaude hadnesaanunethe, hauwunaunaa henee nesethāhehauau.
+Nau nuu hāenauwuu, henee hith henane hedauauwuu haenauaugu daun hāauchaunee havedehew neeenauusanith, haunaunauyauhauwaude, nau hanājechuwauthedaunenauhunee hedauauwuu.
+Nananena hadnaaesaanuna jea, hanau Heau henane hadnauusade daun hāauchaunee hāejenauanauwaunā.
+Peda hanaāanadethaude, Vahadāhene, gauhanadethāa Nananene nuu heee jegausudede wauāthe vahee?
+Nau Vahadāde hahagu, Hanaa henee chuvahagu nau hesenaedehuk hadāhevāhe, nananede hadāhewaunādaune, hadnevenaude gauuu vethewau nauauchaunee?
+Hauwunaunaa henee nesethāhe, nananenith hadāhewaunādaune hāedasāthe hadveehāde hadnaasehāde.
+Hethauvaa hathāedauwunathana, henee hadnesehāde hadāhewaude vahee hethāenetheyaunau.
+Hau nau hith henee nesethāhe hesethajauhuk, Nadāhewaunāde jeguthenauusahek; nau henenesegauhahek henanenau nesethāhehau nau hesānau, nau hevethehagaunee nau hevaveyāhaugaunee, nau henaunauneseavagaunee;
+Hadāhevāhe henee nesethāhe hadnauusanith hajesesenenee hāejejauwuwuhauthe, nau, neeejaenauau, nau hadgudanāde nau hadjenanaude jethauwaudahehau.
+Nau henee nesethāhe haenauaugu hadāhewaunādaune hathanavāde, nau jesaanuhuk, daudaus dejeesedaude hathanavāthe hadnenenesegauhude dejauaunee.
+Hau henee jaenauaugu, nau hesedauhauk neseneneseguhededaunenee hanājauwaunenesegauhude, hanau daun hauwauhuvenāde nananede hadnauwaunedauwunade; nau nananede henane hauwauhauhauthade, nananede hadnauwaunedauwunade.
+Hadjejenanauwau heseda dasee vedauauwuu; nau hayew navathehāde wauwu gauhauchagu?
+Hau nanethenauwau dusaahede hadneedusaahedaunee; nau hanahauwaudauaunānau haunaude hesedaudeyāgu.
+Haneejaude hadjenanauau dādaunee vedauauwuu haāthanaveva? hadāedauwunathava, Hegau; hau wauāthe hanāgauanauwau:
+Hanau hehethee heee yauthaunenanedauneagu hanesadee hauauwuu hadgauanee, hadnasaunauthee hanesenethe, nau hadnesaunauthee hanāenethe.
+Henesaunaun hadgauanathee hadnasānauwaude heau, nau heau hadnasānavāde; hesā hadnasānauwaude hedaunau, nau hedaunau hadnasānavāde, hesā hesave hadnasānauwaude, nau hesave hadnasānavāde.
+Nau hanaāanadedauau jea henanedanede, hāenauhaudauwunā henaunauade jevechauuchaugu hehethee nesenaesade, chauchaunu nananena, Hadnauchuhajauwausauau; nau naenesauau.
+Nau hāenauhaudauwunā jenauhuu hanehedasāe, nananena, hadnasedaa; nau naenesauau.
+Nananena nanadaunahena, nananena naenauwuna hedauchaveau haunauau nau vedauauwuu; hau dusaudee haejaenauwuna nuu hewaunehaa?
+Haa, nau naudu daudause nananena haejaenauwuna hasethadee?
+Hāeyehauthānā hasānavādaunenau hauchuwunanenau, nausujavesanagu, nayātheneneevaa hadeenayauhāna; havaehauthāva najanauchuwunanee, nau najanauchuwunane havavena duguthāhew, nau duguthāhe havathānāva duguthānauauwuu.
+Hāedauwunathana havajeneenauthauva, haunaude vathaunaudauhunagu havāejethāvenau.
+Hena hethaa heee jachau haeauthedaunaa Gananeans, hevaewu Pinade haewauhaunauwuaunenau nedauausāyāthee.
+Nau Hejavaneauthusaun haeauchuhananadethā, Nauchāe nananena henee nuu Gananeans heauhaugayaugaunee javaānee vahee Gananeans, hanau daujeneethajauduu hayauhuhau?
+Nananenau nāedauwunathana, Hegau: hau, vavade nananena jaaugauthethajaunagu, nananena hadnavahethahena gaujauaudahede.
+Wauāthe hena nasaudauchunee, dasee hayauauwuu jedauwuu Siloam dethauwunauauau, nau haenanaā, gaugauanadauwuu henee gauhujavaānauhauganenauau vahee henanedanede henee theaugude jedawuu Dādaunedan?
+Nananenau nāedauwunathana, Hegau, hau vavade nananena jeneethajauhadede, nananena hadnavahethahena gaujauaudahede.
+Haeheanade jea nuu dajenehede; Jasaa henane haenethena hauuyauchunauhaudene haejenana jedauwuu dadajevenevese nethauchayaunaa; nau haejenauusa nau haenaunaudede vevenaudenau hanāvenee, hau haejeveede.
+Hanaāenehethaude nesethāhew hedadajevenevese nethauchayaunaa, Naune, nuu hanasāa jajene nananenau hanejaunau daujenaudedenau vevenaudenau nuu hauuyauchunauhaudee, hau hajeveedenau: dauwauhune; hadevachunauthauyauau vedauauwuu?
+Nau hanaāauchuhanadethāde, Vahadāhene, hauwaa nanehasene nuu heee jaje jea, nadeesenenesede, nau vehethe hadjenanauwau.
+Nau hith hāvāgaune vevenaudenau neee: nauhith jene, hadnaāedauwauhade.
+Nau haeechauhauthethā jasaa vevethahenauauwuu vadanesee.
+Nau, naune hena hesā haujaunehaeheaugauwu nasaudauchunee jajenee, nau haevajanā hauānee, nau haejeneechuwuwauthe nehayau.
+Nau hāene Hajavaneauthusau nauhauwaude, Haeadetha, nau hanaāāedauwunaude, Hesā, nananene haunaugunane hehethee hadaugauwudaunaa.
+Nau hanaāevasanaude: nau chauchaunu hanaāechuvāde, nau haevaveenethedauna Hejavaneauthu.
+Nau hauchuwunane vevethahenauauwuu haeauchuhananade nauguu hasenaunaude, hanau henee Hejavaneauthusaun denayauthānith vadanesee, nau haeautheda henanedaa, Hena nanedaudauchāe hese henane heenesethādaunau hanānaneejauna nau hanānaneenayauhana, hau hegau vadanesee.
+Vahadāde hanaāauchuhananadethaude, nau hathauhuk, Nananene nanadaunāhene, gauhājene dajee hanesahena vadanesee haugunauva hauwaugajevenau wauāthe naugauchaudaheauau hehethee hewauchuhauchauwauauwuu, nau gāyethaājethauva devanauhauna?
+Nau gaujenaasaunee naa hesā, hedaunau Ābraham, henee Haujau heduguthaune, naune, nuu nasaudauchunee jajene, hāaugunade hehethee nuu deduguhude vadanesee?
+Nau hāenehedauau nuu hayauhuhau, vahee hejauthauwau haeaudaudāhenenau: nau vahee henanedanede haeneethaujaudene heee vahee havathee hayauhuhau henee hesethaunau.
+Hanaāenehede, dusaune henajanede Hejavaneauthau? nau hayew naudnenehethau?
+Waude nejenanenee mausdaude, henane nedanauau, nau neneāgudede hejenayaunaa; nau neveseaudede, nau hāhe haeavadauhaudene; nau neahehauau hejavaa negauusee hedānaa.
+Nau jea hanaāenehede, Hayew naudneedajenehethau henajanede Hejavaneauthau?
+Waude nesaunauchaa henee hesā nedanauau nau nejenanauau nasau dejenauhunee thauauhanau haunaude devahenesaunadāe.
+Nau haeehedesa hauwauhauauwudane nau hajasedan, dechauhauthethāde, nau haejāda hesee Dādaunedan.
+Hanaāanadethāde hanesāhenith, Vahadāhene, gaujewauthanauau henee henayauhathee? Nau hanaāāedauwunaude,
+Neaunedauwauau hadejedāna hadaugaugunesāde dajanau: newauthana, Nananenau dāedauwunathana, hadnenaudedena hadnedaujedāna, hau hadnehauwuneedauva.
+Hāene hechauhauthethāhe hauauwuu thauwauthehuk, nau haugauhahagu dajanaune, nau nananena hanānaāetheauguna jathee, nau hanānaāewaudāhauna dajanau, hanānaāenehethauna, Vahadāhene, Vahadāhene, jegaunanauwunāa, nau hanānaāauchuhanehethāna nau hanānaasenehethāna, Hāhauwaenaunathe daun hadesane:
+Hanānaāenehethauna, Nevethehenauau nau nevaveyānauau hathaāhene, hau nananene dauthedaunāanehadaugauchaudee.
+Hau hadnaasenehede, Hāedauwunathane, Hāhauwaenaunathe daun hadesane; nayāsesave vahee nananena nesethāhehauau wauwauchudaude.
+Hena hadnevewauhudaunee nau hadnegaugauchaugudasenana, hāenauhauwaunā Abraham, nau Isaac, nau Jacob, nau vahee haeyāhehauau, Jedauwuu henajanede Hejavaneauthau, hau nananena nehayau nenuguthadena.
+Nau hadjenauuchaudenee hehethee nejeethevesesanith, nau hehethee nesenaesanith, nau hehethe nanavee, nau hehethee janauhuu, nau hadjanauguduu henajanedaunene Hejavaneauthu.
+Nau, naune, hena hedauaude hadnedauvade, nau hena nanedauvade hadnedauchude.
+Hajesesenee hena haejenauusa jasaa Nesethajauhuhauau, hasenehethāhuk, Nauahe, nau jathāau, hanau Herod hadnaāne.
+Nau hanaāāedauwunāthee, Najesaa, nau hadāedauwunauva hena vachuhuu, Naune, nenuguthu haujaunauau, nau nenayauthānau nuu desenee nau naugaagu, nau nanaseauwauau hesee hadnaāesedaunau.
+Hau hadnenesanau nuu desenee, nau naugaagu, nau jea hathavenaugaagu: hanau hehauwunaasau henee haeyāhe denaade Dādaunedan.
+Hau Dādaunedan, Dādaunedan, nanathee nenauauthee haeyāhehau, nau nenauchauwahathee hauunaugāe henee hejejenanauwunaudenenau; dauhudauchu naudnauāchauhaunauau nananena hadāeyaunewauau hauānee waude neauthuneahee dauānaude henesaunau hethauvaa hethaenaa, hau hāhauwuvathehāva.
+Naune haudauauwunenau, naunaudauwunana hadnadauyewu: nau hethauwuu nāedauwunathana, Nananena hadnehauwunauhauwuva haunaude nauauchaugu hadneenehena, Hauwunaunaa henee jaunaude heee heneseedaunene Vahadāhenith.
+Nau hethauwuu, daujedāde hedauauwunene hanesāhenith najane Nesethajauhuhau hadvethee jauaujau vadanesee, henee haeaunauyauhauvaa.
+Nau, naune, hena jasaa henane hathaāhede haenenesaunenauau.
+Nau Hejavaneauthusau haeauchuhananadetha nanavaavehehau nau Nesethajauhuhau, gaujenanavanau henayauthaude vadanesee? hāthauhuk.
+Nau haedādaunaugunauau. Nau hanaāedanaunith nau haeenayauha, nau haejenana;
+Nau haeauchuhananadetha, Hanaa hedauneau naugauchaudahehau wauāth waugaje janesenayaugaune hadaudaunaudenee, nau gauchauchaunu gauhadnauuguthauva vadanesee? hathauhuk.
+Nau haeeyauhuune nesenehethauthee jea nuu hayauhuhau.
+Nau haedadajenehetha henee hathāadethavathee, hāenauhauwaude hasayāchauhauwunethe najatheaugudaunau; hanaāāedauwunaude,
+Hāene nananena hadethaunā henanenauau gauwuhaudeneagu, jevajanauguu najatheaugudaunaa; havajavaānethā henane havajavaāheva henee hadethade;
+Nau henee hadethāde nau nananede hadjaude nau hadnethāne, Venene naa henane hadehedaugu; nau nananene haddayāhene janaugunenagu hesaudavaa.
+Hau hāene nananene hadethanenagu, haddeyehau nau hadjanaugu hesaudavaa henee hāene hadethāde hadjaude, hadethāne, Va javesa; hadnaāene nananene vechauthānaune henee hanethevethehevādaunauau.
+Hanau daun nanajathajaude nehayau hadnausādauaude; nau henee nausādauauadede nehayau hadnajanede.
+Hanaāenehethaude jea henee hadethādaune, Hāene nananene gauusevanenagu wauāthe hethunevethehevanenagu, jevaadesene hādaehauhauau, wauāthe hāthesaunauau, daudause hādauānauau, wauāthe nethauyādahagu hanedaudewau; havaadethaa jea, nau havaaunaudaunā.
+Hau hāene nananene vethehevanenagu, hadadethaunauau hadavenuhuhauau, henesenehehauau, jeneejavesahehauau, nanenauguhuhauau;
+Nau nananene hadnauwunaunane; hanau daujeneaunaudaunānaune: hanau nananene hadnaunaudaunane jaegauhadeneagu hathāethadee.
+Hāene hanesāde henee henethevethehevādaune daunedauwaudauwunith nuu hayauhuhau, Hauwunaunade henee hadvethee jauaujau henajanedaunene Hejavaneauthu, hathāhuk.
+Hanaāāedauwunaude, jasaa henane haeavathethunevetheheva, nau haeauwauhadethānanena;
+Nau haejenana hewauwaune dauethunevethehedaunee hadnāedauwunaunith henee hadethavathe, Jenajesaa; vahee hayauhuhau wauwu hanesejenanee.
+Nau vahee haenesadene hathauchuwuhadethee hadnudanathee. Nanedauwauaude hasenehethauhuk, Neaudaunaudauwau vedauauwuu, nau hadneyehaunau nau hadnauhaudauwau: Nehethathane hadnudanene.
+Nau jasaa ahagu, Neaudaunauthu yauthauyauna hedauhuwaugaje, nau hadneyehaunau hadnayāduuhuu: nenehethathane hadnudanene.
+Nau jasaa hahagu, hedauwunenenau, nau naajeneejaunau.
+Hanaāejenauusade henee wauwau, nau hanaāenauhauthehaude hadāhewaunādaune nuu hayauhuhau. Wauhā hechauhauthethāhe hauauwuu hanaāasenaunade hanaāāedauwunaude hewauwaune, Yegauhu nauhauhaunee hadaugauchaudāe nau hadaugauchauchanee hedane, nau hadjāthaunauau hede hathāadavenuhunethee, nau henesenehehauau, nau jeneejavesahehauau, nau nanenauguhuhauau.
+Nau wauwau hasenehethauhuk, Vahadāhene, naasedaunau hasenehesene nau nausunauthauyauau, hathāhuk.
+Nau Vahadāhede haeāedauwuna wauwaune, Yehau hathenavaunaa nau nethauchayaunaa nau hadjādasauaunaunauau hadejejedāthee, henee naudauauwuu hadeechauchaunaa.
+Hanau nāedauwunathane, henee hegau hena henanenauau neadethathee hadnehauwuvajadauwu nadethunevethehewau.
+Nau hena haenethaunau havathenanedanede: nau hanaāejaaagude, nau hanaāāedauwunaude,
+Hith daun henane hedasānaugu, hau jasānauwauhuk henesaunaune, nau henaune, nau henene, nau dāeyaunauau, nau henethesaunau, nau hedasāwau, haa nau nehayau hedenaedede jea, nāhauwuneethauguhaa.
+Nau daun janenevaa henaugauchu, nau thauguhānaugu, nāhauwuneethauguhaa.
+Hanaa nananena vanadaunesedede hayauauwun gauhadjejanaugu nedauau hadnayādede hadauchuunee, wauau hanaadauchanenee hesehenee?
+Havaene hesejenanauhuk hauunauganau, nau hanājeneesedede, vahee henee hathāenauhaudauau hadneevavavayaudenenee.
+Naa henane nenesedede, hau hajeneesedede, hanāthāde.
+Wauāthe daun naja, vadauvauthauhuk jachau najane, hanājanaugude nedauau, nau hanāgaugauanadauau wauau haneene nauguu vadadauchu vasevadadausauau hadnenuchaunaude henee hejevenahedaunau nauguu nesauau vasevadadausauau?
+Wauāthe, hajesenausujechaugunethe, hanāyethautheavede, nau hanānayāthenedauāwaunaude.
+Nau naasauau, daun nananena henee janenaunaudauau vahee henetheyaunau, nāhauwuneethauguhaa.
+Nejauauwuu hethadee: hau hith nejauauwuu jevanujaudāgu, hayew hadneenejauauwujauau?
+Daudause hehauwuuthade vedauauwuu, wauāthe heee vehethe; hau henanenauau hanāneāgudede. Daun henaudaununede heenedauvahek jaathedeha.
+Hanaāeauchaunāde vahee hauāyāhehau nau wauwauchudauhuhau heee hadjaathehāde.
+Nau Nesethajauhuhau nau Wauthaunauhāhehau haeneneedenenau, Naa henane hanesedanaude wauwauchudauhuhau, nau nanethevethehewaude, hathāhuk.
+Nau haeauthaunanadetha, hasenehethauhuk,
+Hanaa henane nananena hedauneede vadadausauau jauaunawaudā, hith hanauhauhuk hanesahenith, gauhadnautha theaudausauau nau theaudauchunee nauaunee, nau gauhadnaudeha henee naunethauaunith gauhaunaude hadveeha?
+Nau hāeveehauthe hadthāegauhaude hejaanaunaa, hadneneethajaude.
+Nau hāenauajegauhuthe, hadnadethaude hauānee henedaehauhau nau henedaudevādaunau, netheneethajaudauwunee hanau daujaveehauau naudauāve nenaunethauaude, hathauhuk.
+Nananenau hāedauwunathana, nuu hadnaasauau neethajaude hayāene hāene hanesāde wauwauchuduhu haunaunevethajauhuk javaānee theaudausauau nau theaudauchunee hathauwunane janenethenauau haunevethajaude.
+Daudause daun hesā nethenauaugu vadadauchu gauneevāejethā, hith hanadehuk hanesadenee gauneee, gauhadjedeauchauau nauauuthayau, nau gauhadwaudeau hauauwuu, nau gauhadvavesenaudene haunaude gauhadveede.
+Nau daun hāeveenuu hanadethaude henedaehauhau, nau henedaudevādaunau hauānee netheneethajauwuu, hanau daujaeveenauwau hanesadee nāanathau, hanāthaude.
+Naasauau, Nananenau nāedauwunathana, haneduu neethajaude hathaāhethee hautheaunauau Hejavaneauthuu hanesāde wauwauchuduhu haunaunevethajauhuk.
+Nau hasenehehuk, jasaa henane neseyaugaune heauhau:
+Nau hajauchaugade haenehetha henesaunaune, Nāchau jevene gauuu vatheyaunau henee nāudnedadahedaunau. Nau hanaāgauuvenaude hethāenetheyaunau.
+Nau haunauauhaejewauthanenau hese hajauchaugade hāesauānauau vahee hauānee, nauhanaāejathāaude hesee vavāaune vedauauwuu, nau hena hanaāevadauthedede hethāenetheyaunau heee hauhaugānenaedede.
+Nau hāevathedede vahee, hena haanaāenauauchauau naunauthauau hasenaude hena vedauauwuu; nau hanaāadavenuhunede.
+Nau hanaāeyehaude nau hanaāewauhaunesade nehayau hauwauhauauwunanenau henee vedauauwuu; nau haejenanaa hethauauwuu hadnauchauwaude neauthuwauchu.
+Nau hanāneanadauau hanāchauchaunaudede henaude heee jeyauwaunau henee neauthuwauchu hevethedaunenenau: hau hegau henanene hevenaa.
+Nau hāaenaudede hanaāenehede, Waunauthanethe hedautheaunau nāsaunau nenethenauau jauaujaunau naenedauchanenee nau nejeesesanenee, hau hadnenadaugauyānau?
+Hadgauhānau nau hadeyehaunau nāsaunau, nau hadnaasenehethauau, Nāchau, nananenau nanethenauwau wauchudaude hesee hayāene, nau yesee nananene,
+Nau nananenau hegau heee hāhauwautheāve: jenesehe waude haudautheaunauau.
+Nau hanaāegauhāde, nau hanaāedauchaude henesaunaune. Hau hajesejedauchaude, henesaunaune haenauhauvaa, nau haeauwunaunaa, nau haeyeseneegau, nau haeanaethesaunaunagutha, nau haenenedana.
+Nau heau hathāhuk, Nāchau, nananenau nanethenauwau wauchudaude yesee hayāene, nau nananene, nau nananenau hegau hāhauwautheneeāve.
+Hau henesaunaune hathauyaugaune hedautheaunene, Jādee chaunauguuthadee hu, nau hauyauunaa; nau thānauwunaa nechaunathathau hejadenaa, nau jedauaunenaa:
+Nau hadjāthauva hede daun gauchujāde wauuu, nau hadnauauva; nau hadvethehenauau, nau hadeaunauwuthajaunauau:
+Hanau naa nāa nenajaa, nau jaenaedede; nenaunethauaude, nau jaeveenade; nau hanaāejasesaunauwuthajauthee:
+Wauhā vanachauganith heau haeanedaune nauau: nau daunausujaude nau hāayānauusade hedauauwunenau, haenedauwaude haenevaudenene nau haevadaudenene.
+Nau haeadetha hanesānith haunauaheau, nau haenaudedauna dusedaudene hathauhuk.
+Nau haeāedauwunaa, Nananene hahavaa nauusade; nau nananene hāsaunau naunauaude gauchujānith wauuau, hanau daujaesedanaude nanethauaunee.
+Nau haeasenauna, nau haejejedā: hanaāejenauahenith henesaunaune, nau haedadadasevaa.
+Nau haeauchuhananadetha henesaunaune, Naune, nuu hawauthāe jajenee hāenesedaunathadenau, daudause hāhauwujethauwaudaunathe hanāene hanathauchuwuhunaune: hau haunauau nananene hāhauwuthauuvene haudāsau, henee hanānesedenau haunauwuthajaude nauguu nādaehauhauau:
+Hau chauchaunu hasenauusade naa hāa, hāgaujauauthedaunādaunau hāheenaededaunau heee henesahehau hesānau, nananene hanadaunaude gauchujānith wauuau.
+Nau hanaāāedauwunaude, nā, nananene nanethenaedevene, nau vahee henee nāthāenetheyaunau nanehanāhene.
+Dauudasadee henee haneenesehee haunauwuthajaude, nau hadneethajaunee: heee naa hahavaa denajaa, nau jaenaedede; nau denaunethauaude, nau jaeveenade.
+Nau hanaāāedauwunaude jea hethauguhādaunau, hena jasaa haenethauyādā henane, haenethena hadāhevahew; nau haenanene haeauthauwuvaa henee daunethauyādauchudede hevatheyaunau.
+Nau haeadetha, nau hanaāenaudedaunaude, Duthanee henee daunedaunathane nananene? nayāde hāadāhevadenau hanau nananene hadnehauwuguthadāheva.
+Hadāhevāhe, Hewauau hauaudnesedaunaune? hasethaujauhuk, hanau navahadāhewaunāde haedanauwunānau nadadāhewau: hajeneenauchauhānau; thaununedauwauhunenau.
+Haenauwau hadnesedaunau, henee hāenudanānaune hadāhewaude hadjedanethee hedauauwunenau.
+Hanaāadethaude haunauude hadāhewaunādaune hethāesayānedanauwunādaunene, nau hanaāāedauwunaude nanedauwauaunith, Dauhudauchanau hasayānedanauwunaudenau nananene nadāhewaunāde?
+Nau hāheyaugaune vadadausauau dejenauhuu javeda. Nau hanaāāedauwunaude Hedanau hauwauthaunauha, nau janaugu nauhauhaunee, nau hadwauthaunau yauthauyauau.
+Hanaāāedauwunaude jachau, nau dauhudauchanau hasayānedayaunau nananene? Nau hanaāāedauwunāde, Vadadausauau dejenauhunee thauauhanewauchuunau. Nau hanaāāedauwunaude, Hedanau hauwauthaunauha, nau hadwauthaunau nasaudausauau.
+Nau vahadāde haevaveenethedauna janechuvāhenith hadāhevahew, hanau dauhaenauau hasedaude: hanau dāeyaunauauau nuu hathāauauvaa hedenaededaunenau hāenuu javaānee hesenedāeyaunauauau.
+Nau nananenau hāedauwunathana nesedee nehayau henedaehāvadede heee nethauyādahede hehauwuthade; henee hāejenenaedenā hadeesedanāna nedaujethauujenenaededaunenee.
+Henane henee chaunuvāde heee haugajuhuyāgu haneechuvāde jea vasee: nau henane henee janechuvāde vanehaa hehauwuuchuvā jea vanasaunee.
+Hith naaheene nananena jechuvahena hāhauwuuthaheva nethauyādahede hanaa hadvenāde nananene hadanethaude hethauwuu veaunauaude?
+Nau hith nananena hejechuvahenagu heee henehanahede jasaa henane hanaa hadvenāde nananena henee hanehanahede.
+Hegau nesethāhe hehauwuneenesedauna hanesenethe hechauhauthethāhehau: jachau hanāasānauwaude hanesāhenith, nau hanāvechauthaude jachau; wauāthe hanādudevede hanesānith, nau hanāthauchaunauhauwaude jachau. Nananena hāhauwuneenesedaunauva Hejavaneauthau nau nethauyādahehehauau.
+Nau Nesethajauhuhauau jea, haeveenauwu vāejethā, haenedauwaudauwu vahee nuu hayauhuhau: nau haeauchaudanavanauau.
+Nau hanaāāedauwunaude nananena nethadee hasehadenā hathaāhethee henanenauau; hau Hejavaneauthau naenauau hadahenau: hanau henee nechauguanavadethee henanedaa newauchanavathee hathaāhenethe Hejavaneauthu.
+Nanavaavedaunau nau haeyāhehauau haunaude nauuu Jaun: heee hena henajanede Hejavaneauthau deheauthedaunee, nau haunauude henanenauau neheeneethenadethee.
+Nau hehauwunauthau hejavaa nau vedauauwuu heyauhuāgaune javaānee hanesadee haugajuhuu nanavaavede hadneeyauhuu.
+Daun hausānaude henene, nau heneyaugu gauchuhunee, wauchudaudehaugauthenenede: nau daun hausāyaune nanewaude wauchudaude.
+Hena jasaa nethauyāsenane, haeneenu haevejayaunenau nau haegaugunesaunenau, nau haeneechauna hadauchusenenee:
+Nau hena jasaa nedauwuhu Lazarus haseagu, haesaese hedajanaunaa haevahaseva,
+Haevadauugaudaude heee jeyauwaunau nejanesanenee hehethee nethauyāsenanene hevethehedaunene: jea hathave haeedasaa nau haenenesaudauwu hedasewaunau.
+Nau hethauwuu, henee nedauwuhu haenaja, nau haenauaunechauhaa hautheaunau yesee Abraham haenedauguva: nethauyāsenane jea haenaje, nau haejenanau;
+Nau hadauveeyaunee haeejenāauguau, haeaudauwuthajau, nau haenauhauva Abraham vavāaune, nau Lazarus haenedauguvane.
+Nau haeneduva nau hathauhuk, Nāchau Abraham, jeauwunaune, nau jeautheavene Lazarus, henee hadejegunauhade naunauchuu hejadenaa najee, nau hadedauyauvanauau nāthaune; hanau nananenau hanavachuunau nuu hesedaa.
+Hau Abraham hahagu, Nā, hāenau henee nananene deenaedene neesedanauwu neethadee hayauhuhau, nau neesaunee Lazarus neewausaunee hayauhuhau, hau hewaunehaa hauwauthenaedede, hau nananene naunauchauthenaedene.
+Nau jea vahee nuu, nahethāe nananee nau nananene haneduu vanasauau vanethaunauau janenanee: hadnejeneehedechaudenee hehethee hede hesee nananene hehauwuneau; daudause hehauwuneejeauchusanauau hadaunee, henee nevadaujauthee hehethee hethaa.
+Hanaāenehethaude, Vanevethedaunathane hena heee, Nāchau, henee nananene hadejejenanaude nāsaunau hedauauwuu:
+Hanau yaunauthaunethee nauhauwauauau henee hadeāedauwunaude, jea havajaunenau nuu haduu naunauchauthauau.
+Abraham hanaāāedauwunaude nanethenauthee Mosaseau nau haeyāhehau; jaathehaunauha.
+Nau, hegau, nāchau Abraham: hau hith hanesāde jaeyehauhuk hehethee degaujauaudāde, haunaunaunevethajauthee, hathāhuk.
+Nau hanaāāedauwunāde, Hith jenedaunauhaugaunee Mosaseau nau haeyāhehau, daudause hāhauwuneenadauwaunauau, daudause hanesāhenethe jaegauhāyaugaune hehethee degaujauaudāhenith.
+Hanaāāedauwunaude hethauguhādaunau, Hāhauwuneene hau henee dauusenadenau hadnauauchuu: hau naunauthauau hadnauauchaudaude daunjaunaude.
+Hanāneene henee thauayānauunaugane henauānauyaugu, nau seāguthadagu hadaje, hauhanāheejegaudauvāhenethe henee haneedauusenanethe jachau nuu hajasedāeyaunauau.
+Haunauyauhaudauwauau nehayau nananena: Hith hahavaenau havawauchuhāva, hadanadethauva; nau hith haunaunevethajauhuk, hadjaegudanauwunauva.
+Nau hith wauwauchuhānagu nesaudauchu hajesesenenee, nau nesaudauchu hajesesenenee naujaeyethaagudaunānagu, haunaunaunevethajaunau, hethānagu: nananena hadjaegudanauwunauva.
+Nau vadauhanauau, Vahadāhene, hethedaunanauwunāa hedethauwaudaudenede, hathauhaugaunee.
+Nau Vahadāhenith hathāhaugaunee, Hith nananena hethauwaudauwunagu hethāee hethāuu mausdaude jenayaunau, nananena hanāna nuu segaumau hunauhaudene, Hanāgauchauhana hethājee, nau hanājenanauna hadajee; nau hanāthauwaudaunāna.
+Hau hanaa nananena, hanāwauwaunavede hanāthauauauwujethānith wauāthe hananajauānith, hanāthauna waunee hāenauusathe hehethee nauau, Najese nau hadjanaugu nau hadvethe?
+Hau hanājenaasenehethauna, Hesetheva nayaudenee hadnevethehenau, nau duujehe nehayau, nau hadjeenechaudaune haunaude hesevethehenaugu nau hesaveyānaugu; nau heauhauwune jenaevethehene nau hadevaveyā?
+Gauhadvaveene henee wauwau hanau dauhunaasedaude henee hanasenehethāthe? Haunauchāe hegau.
+Naathahena, hāene nananena vahesedaunagu hena hayauhuhau hathauchuwuhana, Hāhauwuneejavaājasethānau wauwaunauau; vavade nanesedaunauau hadnesedaunuu, hadeva.
+Nau hethauwuu, daunausuyehaude Dādaunedan, haeehedesa nahethāe Samaria nau Gananee.
+Nau hāewaudasade jasaa hauauwudan, haenuchaunaa vadadauchu henanenau haenaujaune hedaugauwudaunenau, haetheaugunenau vavāaune:
+Nau haeneduvanauau, nau hanaāenehethauthee, Hejavaneauthusau, Hecauhauthethāhe, jeauwunauāa.
+Nau hāenauhauwaude hanaāāedauwunaude, Waunenauhauthehaa hadanayaunenau vevethahevahehauau. Nau hethauwuu, henee daunausuyehauthee, haejegaudauvāhenauau.
+Nau hanesāde, hāenauhaudauau henee dauunayauhade, haejaaagu, nau haevasenehe dauvaveenethedaunaude Hejavaneauthu,
+Nau haeuāneseve heauthene, haevaveenethedauna: nau haenaadāde Samaritan.
+Nau Hejavaneauthusaun haeauchuhananadethā, gaujenayauhaunauau vadadauchu? hau daude theaudauchu?
+Hajenauhauvathee hajejaeyehauthee hadvaveenethedaunauthee Hejavaneauthu, vavade naa henewauuhu.
+Nau haeāedauwuna, Gauhā, najesa: nananene hadethauwaudaude henayauhāne.
+Nau hāenaudedaunāde Nesethajauhuhau, daun henajanedaunene Hejavaneauthu hadneenauauchaunee, Haeāedauwuna, Henajanede Hejavaneauthau hadnehauwunauauchaune nausujauwuwuhadagu:
+Daudause hehedauneagu, Nauhaudauwuu hede, wauāthe, nauhaudauwuu hena, hanau, naune, henajanede Hejavaneauthau thanāsadena,
+Nau hanaāāedauwunaude hethauguhādaunau, Hese hadnauauchuu, hāene nananena vadaunauhaudauwunā jasae hese Heau henane, nau hadnehauwunauhaudava.
+Nau hadnanethāna, Nauhaudau hede; wauāthe nauhaudau hena; jevayehauau, wauāthe jevathauguhaa,
+Waude hasauau jahagude, henee naunauasānauuu hehethee naugauthanee naugauauwuu hejavaa neenauasādaa jasaa naugauthanee naugauauwuu hejavaa; hadnaasauau jea Heau henane hadnaasaunee hedeseve.
+Hau nedauau hadnanasenedauau wauthanee, nau hadnausāguthade nuu henaedede.
+Nau waudeneesaunee deenaedede Noe, hadnaasaunee jea hedeseve Heau henane.
+Neauwauthevethehedaune, neauwauthevaveyaudenee, neauwauthenenedaunee, neenenehathee, haunaude nauuu henee Noe dejedāde havathee thewaunaa, nau haenaāenanadauwuauau, nau haenauauhā vahee.
+Waudenaasauau jea deenaedede Lot; neauwauthevethehedaunee, neauwauthevaveyaudenee, neauwauthaudaunaudenee, neheaudaunaudenee hayauhuhau, neauwauthejenayaudenee, neauauvadenee;
+Hau hajesesenenee henee Lot haenaude Sodom haeesedanausaude nau haegauhauchanauauhauunauganauau hehethee hejavaa, nau haenauauhā vahee.
+Hadnaasauau hesee hāene Heau henane hāenauhauthethāthe.
+Henee hesee, hāanedauthe dasee hauauwuu, nau hevatheyaunau jedauwuu hauauwuu, nanehajejeauwusade hadejedanauau: nau henee hanedaude nauau, nanehajejejaejaude.
+Dauyuuwuu Lot henene.
+Daun vanadauunayaudede hedenaedede hadnanadede; nau daun hadnanadede hedenaedede hadnenayaudede.
+Nananenau nāedauwunathana, henee veeyaugu hadnesethee henanenauau hanesadenee hauau; hanesāde hadnedanade, nau jasaa hadnathauaude,
+Hanesethee hesānauau hadthauayāthee wauhaunee; hanesāde hadnedanade, nau jasaa hadnathauaude.
+Hanesethee henanenauau hadnanedauthee nauau; hanesāde hadnedanade nau jasaa hadnathauaude.
+Nau haeauchuhananadethanauau, Daude, Vahadāhene? Nau haeāedauwunā haduu vadanayau, hanaadauhauāneauhuthee neahehauau hauānee.
+Nau haeanadetha hauthaunauhānee nuu heee, hena henane hāvachudajauaunevevetha, nau hājethauujesevenauau;
+Hahagu haeanedau hedan hauchuwunane, haeejesa Hejavaneauthu, daudause hathauwunanenau:
+Nau haeanedau henevesā hena hedan; nau haejeedasa, Jeaugaunayewhu naujauthavaa, hathauhuk.
+Nau haejevadaunaasedau: hau waunee hasethajauhuk, hewauāthe nejechauau Hejavaneauthau, nau hathauwunanenau;
+Hau nausunee hanau naa henevesā hajanauchuhānau, hadenayauhauau havaedajauaunejau navanadauchuhaa.
+Nau Vahadāde hasenehehuk, Jaathehaa hasenehede janechuvāhede hauchuwunane.
+Nau gauhujavaneauthau gauhadnenayauha nehayau hanayāsanaunau, hauwauaudaunādaunau hesee nau dajāee, hau negudauchuhaude?
+Nananenau nananena nāedauwunathana henee hadnauchuhanenayauhaude, Hau hāejauthe Heau henane, gauhadveede hethauwaudaude nuu hathāauauvaa.
+Nau haeauthaunanadetha jachau nethauwaudaunadenethe nehayau henee dauchuvahethee, nau newauchānauwauthee hauthauau:
+Hanesethee henanenauau haeyehaunauau vevethahenauauwuu hadvevethahethee; hanesāde Nesethajuhu, nau jasaa hauāyāhe.
+Nesethajuhu haetheaugu nau haevevetha waude heee nehayau, Hejavaneauthau, nananenau vaveenethedaunathane, henee nāhauwunaathā hauthauau henanenauau hathahethee, hedanauwuyāhehauau, janechuvahethee, jatheaudauwuyāhehauau, daudause naa hathāde hauāyāhe.
+Nananenau nenaugauyānau nese hanesadee hauchauvadede, Nevānau vadadauchu vahee henee nāthāenetheyaunau.
+Nau hauāyāhe haetheaugu vavāaune, daudause haejejenāauguau hejavaa, hau haeanadesejāhede, Hejavaneauthau jeauwunaune wauchudaunau, hathauhuk.
+Nananenau nāedauwunathana, naa henane haejaeyehau hedauauwuu haeauwunaunau haejavaāhe jachau: hanau dathājee hanesāde henee nevadaujavaānajanethee nehayau hadnauwujenanade; nau henee nenehanethaunadede hadnejanade.
+Nau haejādaunanauau jea hajasedāeyaunauau, hadnevasanaude; hau hāenauhaudauwunethe hethauguhādaunau, haeneneuvanauau.
+Hau Hejavaneauthusau haeadetha, nau hahagu, Nanehajauthee hajasedāeyaunauauau, nau jevadauduvaa: naathāhenethe henehanahedaunau henajanede Hejavaneauthau.
+Hethauwuu nāedauwunathana, Daun hadjesedanauau henajanedaunene Hejavaneauthu hasenaedenethe hajasedāeyaunauau hadnehauwuneejedā.
+Nau jachau hauchuwunanene haenaudedaunaa, Hethāhene Hechauhauthethāhe, nauddusedau hadnedanauwau jethauujenenaedede? hathauhuk.
+Nau Hejavaneauthsaun haeāedauwunaa, Naudu hethāde haesene? henaneda hehauwuthā, vavade hanesāde, nananede, Hejavaneauthau.
+Nananene haenauwu nanavaavedaunau, Jevawauchudauau heee haugauthenenede, Jevanaa, Jevaaveda, Jevajayaudauwāedauwauthadee, Vechauchune nananene hāsaunau nau hānau.
+Nau hanaāenehede, Vahee nuu haunaunedenau heee daujeeseaunau.
+Wauhā Hejavaneauthusau hāenedauwaudauau nuu, Hanaāāedauwunaude, Hanesadee hāhauwusenethene: Vaheaudauna henee hāthāenetheyaunau, nau hadjaanauwunaunauau hadavenuhuhauau, nau nananene hadnethenauwu haenathau hejavaa, nau hadejau hadjethaugu.
+Nau hāenedauwaudauau nuu, haeaudauwuthajau: hanau deethauwunethauyā dāde.
+Nau Hejavaneauthausaun hāenauhaudauwunith henee dauaudauwuthajaude, Duthāenanauthaune henee nanethenuu veaunauaude hadnesejedāthee henajanedaunene Hejavaneauthu, hathauhuk.
+Hanau hehauwujajathaune heee camel hehedesahagaunee hajasevāhau nedaudaunaudenee, javaāneenauthaunee nethauyāsenane hadnesejedāde henajanedaunene Hejavaneauthu.
+Nau hathāenedauwauduu, Hanaa hadnenanedanede? hahagaunee.
+Nau hanaāenehenith, hayauhuhau hejethauuneethaunenau henanenauau neneedede Hejavaneauthau.
+Hanaāenehede Peda, Naune, naunaudauwunauau vahee, nau thaunauguhane.
+Nau haeāedauwuna, Hethauwuu nāedauwunathana, hena haunauude henane henee hehauwunaude hedauauwuu, wauāthe henehā, wauāthe henauhauwauau, wauāthe henene wauāthe henesaunau, heee henajanedaunene Hejavaneauthu hedenaededaunene,
+Nananede hadjavaānesedanauau nuu hewaunehaa, nau hathāauauvaa hadnauusanauau henaedede hadnejethauuvadauauau.
+Hanaāedanaude nesenee, nau hanaāāedauwunaude, Naune, hadneyehaunauau Dādaunedan, nau vahee hayauhuhau hathāewauthaunauhuu haeyāhehauau heee Heau henane hethauwunauauchauau.
+Hanau hadvenavathe Neauthu, nau hadvavavanauchuhāde, nau hadnaunaunauchaudauchuhāde, nau hadneguthahayauthāde.
+Nau hadnenesegauhude, nau hadnaāde: nau nasese hadnaāejaegauhāde.
+Nau haejaenauwu nuu: nau nuu hauthedau haeyaudaunaunauau, daudause haejaenauwu hathauthedaunāthee.
+Nau hethauwuu, hāayāedadauau Jericho, jasaa haenanenaugu henane haetheaugu nedechaudenenee dauhunedauwaude:
+Nau haenedauwaude henanedanede dadavechaudenenee, haenaudedauva haesedaudenenee.
+Nau haeaāedauwunau, henee Jesus Nazareth hanehedesade.
+Nau hanaāevasanadede, Hejavaneauthusau, nananene Heau David, jeauwunaune, hathauhuk.
+Nau henee nanedauvathee haeneneuvanauau haddādaunaugunith: hau haevasanade haugauthe, Nananene Heau David, jeauwunaune.
+Nau Hejavaneauthusau haedauusa, nau haeautheave hadjādaunade: nau hāayājenauusanith, haenaudedauna,
+Hauddusehathe henee hadenaasehathane? hathauhuk. Nau hanaāāedauwunaude, Vahadāhene, nanaa hadeesedanauwau nauhaudauwaude.
+Nau Hejavaneauthusau haenehetha, hanesedanauwu nananene nauhaudauwaude: hadethauwaudaude henayauhāne.
+Nau chauchaunu haeesedane henauhaudauwaude, nau haethauguha, haevaveenethedauna Hejavaneauthu: nau vahee henanedanede, hāenauhauduu, haevaveenethedaunanauau Hejavaneauthu.
+Nau Hejavaneauthusau haewaudasa nau haechaugusa Jericho.
+Nau, naune, haeanedau henane Zacchaeus haseagu, haenajawauna hauāyāhehau, nau haeveaunauau.
+Nau haeneenavadaunauhauva Hejavaneauthusaun haedāhenethe; nau haejeneene daunauthethenadedaunenee, heee daujaahede.
+Nau haesayāgau, nau haenauauhu sycomore hunauhaudee hadnauhauwaude: hanau hadnehedesanith.
+Nau Hejavaneauthusau hāejeedadauau, haeejaāne, nau haenauhauva, nau hathauhuk, Zacchaeus, nauhauhuhu, nau jeauwusa, hanau nuu desenee hadnanedaunau haudauauwuu.
+Nau haenauhauhu, nau haejeauwusa, nau haeedasa nauguu neethajaude.
+Nau hāenauhauvāhede, vahee haeneānaune, Henee hadneejādavenethe henanene henee wauwauchudauhu, hathāhuk.
+Nau Zacchaeus haetheaugu, nau haeāedauwuna Vahadāhenith; Naune, Vahadāhene, vayaugauuu naudaununaunau vanenu hadavenuhuhanau; nau hith hedanavanaugu hayewhu hehethee daun henane hanājayaudauvāedauwauthauau, hanājavaāvenauau yāyaunanee.
+Nau Hejavaneauthusaun haeāedauwunaa, Nuu desenee henayauthāhe hedadauau nuu hauauwuu, hanau nechau haneāvāde Abrahamvene.
+Hanau Heau henane nauusade hadnaudethāde nau hadnenayauhaude daun naunethauaunith.
+Nau hajesenedauwauduu nuu hayauhuhau, haeethedaunane nau haeauthaunauhānanadetha, hanau dauhuauchauau wauwu Dādaunedan, nau hanau daunauanaduu henee henajanedaunene Hejavaneauthu chauchaunu wauauhaadenauhauwu.
+Hanaāenehede henaheee, Jasaa naja haeehau vavāaune vedauauwuu hadnesedanauau heee nehayau najanede, nau hadjaejaude.
+Nau haeadetha vadadauchu hewauwaunauwau, nau haejaanauwuna vadadausauna vāejethā, nau haeāedauwuna, Hadeaudaunava haunaude jaenauusanaugu.
+Hau hauauwunanenau haeasānavaa, nau haeyethautheavedaunene thauguu, Nāhauwuvadaunethenauva naa henane nāhauwuvadaunajawaunāva, hathāhuk.
+Nau hethauwuu, henee hāejaenauusade, haeesedane najanede, hanaāauchuwuhaude nuu wauwaunau hadnadethaude, hevenaunau vāejethā, henee hadnaenauau haedauchu dathājee henane haedauchujavaājasedethe heee hedaudaunaunau.
+Hanaāejenauusade nanedauvade, Vahadāhene, havāejethāwau javaājasedede vadadausauna vāejethā, hathāhuk.
+Nau hanaāāedauwunaude, Hethadee, nananene hethāhene wauwau; hanau nananene nethauwaudauwu heee naugajuhuhuu hadnajawaudauwu vadadausauna hedan.
+Nau naneseauwaude haejenauusa, Vahadāhene, havāejethāwau javaājasedethee yauthauyauna vāejethā, hathāhuk.
+Nau vavade hanaasenehethaude, Hadnehanāhene yauthauyauna hedan jea.
+Nau jasaa haejenauusa, Vahadāhene, Naune, heyewnau havāejethāwau, neaunaunedenau nejenanauwau hāheāhaunaa, hathāhuk:
+Heee dauhusathane, hanau nananene daugaugaunauauwunanenene: nananene hedanau henee hājejenayaunau, nau hadegauuchu henee hājejenayaunau.
+Nau haeāedauwuna, hehethee nehayau hadenaa hadauchuwuhathane, nananene hauhauganene wauwau. Haenauwu henee daugaugaunauauwunanenenau, hedanauwau henee nājejenayaunau, nau hadgauuchauwau henee nājejenayaunau:
+Naudu gauhājevā navāejethāwau nedauhaenaeevāejethā, henee hāejaenauusanaune hadeesedanauwau nehayau javaānee?
+Nau haeāedauwuna henee daunauthetheaugunethe, Hedanauwunaa vāejethā, nau hadevenau henee vadadauchuvāejethāvade.
+(Nau hathāhuk, Vahadāhene, nanethenauau vadadauchuvāejethā.)
+Hanau hāedauwunathane, Henee dathājee hanesāde nanethenauau hadnevenade; nau henee janejasedede, daudause henee henetheyaunau hadnedanauwunade.
+Hau hena naujauthauwauau, henee najevadaunajawaunaunauau, hadjāthauva hede, nau hadnaunauauva hathaājenau.
+Nau hāesanāsenehede nuu, haenedauva, haenauauhuyehaunauau Dādaunedan.
+Nau hethauwuu, hāayānauusade Bethphage nau Bethany, haua Olives haseāgu, Haesayānautheava hanesenethe hethauguhādaunau.
+Najesaa nananena hesee hajasee hauauwudan hathaāsana, hathauhuk; nanaa waudasanagu hadveehauna dātheveehauchavesau hadduguhude, hehauwuthauune henane dachaugu: hadaugunauva, nau hadjāchaudauneva hede, hathauhuk.
+Nau hith daun henane naudedaunānagu, Naudu hauaugunauna hethānagu? hesau jenaasenehethauna, hanau Vahadāde haddaununaude.
+Nau henee hautheavathee hanaāejathāauthee, nau haeveehanauau neesenehethaude.
+Nau daunausunaugunauthee dātheveehauchavesaune, hedauneenith, Naudu haaugunauna dātheveehauchavesau? hathāhaugaunee,
+Nau hanaāāedauwunauthee, Vahadāde haddaununaude.
+Nau haenauuchaudaunanauau Hejavaneauthusaun: nau haedadasanauwunanauau hedāchaunenau dasee dātheveehauchavesaun, nau haeaugaugunaunanauau Hejavaneauthusaun dasee.
+Nau daunausuyehaude, haesasaanauwu hedāchaunenau vaunaa.
+Nau hāayānauusade, wauwu haeauwusa hauanee Olives, haunauude hadauchude hethauguhādaunau hanaāaunauwuthajauthee nau haevaveenethedaunanauau Hejavaneauthu nauguu haevasānadedaune heee vahee hathāenauthaunee henesethaunene henee henauhauthaunenau;
+Haunauwuthajauau Naja henee jaunaude haneneseede Vahadāhenith: danādauyauau hejavaa, nau vaveenethedauwuu javaājauudaa, hāheagu.
+Nau hauthauau Nesethajauhuhau hehethee henanedaa, Hechauhauthethāhe, neuwune hāthauguhādaunauau, hathāhuk.
+Nau haeauchuhanāedauwuna nau hasenehethauhuk, Nananenau nāedauwunathana henee, hith nuu dādaunaugagaunee, hauunauganauau chauchaunu hadneduhuthee.
+Hau hāayānauusade, hāenauhaudauau hedan, nau haevewau,
+Hanaāenehede, hith heaenauwunagu, ha nananene, ha nuu hadeseve, hayauhuhau naathuu hadādaunahedaunaa, hau hewaunehaa yaunaudaunane hasesāe.
+Hanau hese hadnedasāna henee haujauthauwauau hadnesedethee havathegauuha heee nananene, nau hadnechauchuaunāna nauanee, nau hadnaunaunehāna daudauna hehethee,
+Nau hadnanaunauvaenāna, nau hadāeyaunewauau hanedauchaunawaunauau; nau hadnehauwunaudanauwunā hanesāhenith hauunaugane hanathaugunethe; hanau nananene daujaenauwu hāenauujādaunathana.
+Nau hanaāeyehaude vadanedaunauauwuu, nau hanaāenudanaude henee neaudaunanethe jedauwuu, nau henee naudaunanethe;
+Hanaāāedauwunaude, Wauthaunauhuu, Naudauauwuu haneauauwunee hadnevevethahedaunee: hau nananena haesedena nedaunaudee heyāenau havedehehauau.
+Nau haeautheda hayauwusenenee vadanedaunauauwuu. Hau najanauau vevethahevahehauau nau wauthaunauhāhehauau nau najavahehauau henanedanede haeneenanaudehaa hadnaāde,
+Nau haeeyauhuune nesenehāde hanau vahee henanedanede haenāedevenenau dauhujaathehāde.
+Nau hethauwuu, henee jasaa hena hesee, denausunauthedade henanedanede vadanedaunauauwuu, nau haeauthedaude waunauyaunee hethadenee, najanauau vevethahevahehauau nau wauthaunauhāhehau haeedasaa nauguu vachaugananenau,
+Nau hanaāanadethauthee, Jeauthedaunāa, hayew hāenaudahede hāenesedaude nuu hayauhuhau? wauāthe hanaa henee havenāde nuu hāenaudahede?
+Nau hanaāauchuhananāedauwunaude, Nechau hadnaudedaunathana hanesadee hayewhu; nau hadjeāedauwuneva:
+Heedusaayāde Jaun, gauhuhuthaune hejavaa, wauāthe hehethee henanedaa? hathauhuk.
+Nau haeeegaugaugauudenauau, hith hesauhesenehethaunauaugu, hehethee hejavaa; hahagaunee, Naudu haejethauwaudaunauna? hanāthānauau.
+Hau hethaunauaugu, hehethee henanedaa; Vahee henanedanede hanāedaudauauvānauau hauunaugāe, hanau hethauwaenaunauthee henee Jauneau dauhaeyānith.
+Nau haeāedauwunanauau, daujeneauthedaunauthee daunathaunee.
+Nau Hejavaneauthusau hanaāāedauwunaude, Daudause gauhaudnauthedaunathava daun nāenaudahede nāenesedaude nuu hayauhuhau.
+Hanaāejasesanadedauau henanedanede heee dajenehede; Jasaa henane haejenane dadajevenevesenethauchayau, nau haeehathauauauwujethāhehau, nau haejathāau hesee vavāaune vedauauwuu haegudaunā.
+Hāenauauchaunee haeyethautheava wauwaune hesee thauauauwujethāhehau, henee hadjevenāde vevenaudenau hehethee dadajevenevesenethauchayaunaa: hau haeneneseguhuu, nau haejathethajenāhee jessaa.
+Nau jea haeyethautheava jachau wauwaune; nau haeneneseguhunauau jea, haedadayānauchuhanauau, nau haejathethajenāhee jessaa.
+Nau jea haeyethautheave nanaseauwaunee: nau haeanasenehanauau jea, nau haenuguthanauau.
+Hanaāenehede hadāhevāhe dadajevenevesaa, Hewauaujeesedaunaune? Hadautheawauau navechauthau nāa: Nauchāe hadeneehauthee hāenauhauwaunauthe.
+Hau thauauauwujethāhehauau hāenauhauwauthee, haegaugaugauudenauau, Naa nananede hadvanehanāde: nahājauau hadenauaune, henee headevanehanahedaunau hadenehanahenauau.
+Hanaāenuguthauthee dadajevenevesenethauchayaunaa, nau haenaanauau. Haudneduseha hadāhevāhe dadajevenevesenethauchayaunaa?
+Hadejaude nau hadnauauhaude nuu thauauauwujethāhehau, nau hadgauchuhuvāde dadajevenevesenethauchayau, hathauhuk, Nau hāenedauwauduu, hadnehauwunaasau, hahagaunee.
+Nau haenāauhauva, nau hanaāāedauwunaude, Dusau nuu henee wauthaunauhuu, Hauunauganau hauauvāhehauau hausāguthaunenau, hanānanenith hāhe hanadāde nedautheaunee?
+Daun janesee dasee nuu hauunaugane hadthauusee, hau dasejaneseagu hanānauchauwuthauathāaunaude.
+Nau najanauau vevethahehehauau nau wauthaunauhāhehauau chauchaunu haegaugauanavanauau hadnesedanauthee; nau haeedauwu henanedanede heee dauhāenuu henee dauhuanadede nuu dajenehede heee.
+Nau haeaunauyauhauvanauau, nau haeautheavanauau haunauyauhauthāhehau, hadnanadaunethānethe hadchuvāhevathe henanenau, henee hadnesedanauwunethe hedanadedaunau, henee hadenauuchaudaunauthee hejadenenau nau naunaudāhenethe hauchuwunanene.
+Nau haenaunaudedaunanauau, Hechauhauthethāhe, haenaunee henee hasenehenaune nau nethauwuchauhauthethāne, daudause hāhauwujāvedaugauhauwaunauau henanedanauau hegau, hau hanechauhauthethāne hesee Hejavaneauthuu hethauwuu:
+Gaunaasauau heee nananee hadnevenade hauāyaunau Caesar, gauwauāthe hegau?
+Hau haeaenauwu henadaunedaudenenau, nau hanaāāedauwunaude, Naudu haevadauvasehena?
+Jenauhauthehee vāejethāe. Hanaa hewauthaunenauaudene, nau hanaa hewauthaunauhanede? Haeauchuhanāedauwunanauau, Caesar.
+Nau hanaāāedauwunaude, Jauaunaudaunaa heee Caesar hayauhuhau henetheyaunau Caesar, nau Hejavaneauthau hayauhuhau henetheyaunau Hejavaneauthau.
+Nau haejeneesedanauwu hedanadedaunene hathaājedaunenee henanedanede: nau haegaugauanadauwu hedauchuhanehedaunene, nau hanaāedādaunauguthee.
+Hanaāejeedauchauthee jasae Sadducees, hayāthajauhuhau henee hadjejaegauhadenenee: nau haenaudedaunanauau,
+Hechauhauthethāhe, Moses hathauthaunauwunānauau, Hith daun henane henauhauwauau gaujauaudāheyaugaune, heneneyaugaune, nau gaujauaudāheyaugaune jedāeyauneveyaugaune, henee henauhauwauau hanādanaude henenene, nau hanānesaunede heee henauhauwauau, hathauhaugaunee.
+Hena heee haenesaudauchunauau henahavaevadehehauau: nau jasaa nedauau haeenene, nau haenaja haejedāeyauneve.
+Nau naneseauwaude haeneva, nau haenaja haejedāeyauneve.
+Nau nanaseauwaude haeneva; nau vavade hanaasene nanesaudauchuauwaude jea, nau haejenauthanauau dāeyaunauau, nau haegaujauaudāhenauau.
+Waunee vahee hesā haegaujauaudā jea.
+Henaheee jaegauhadeneyāgu hanaane hadnevādaune? heee hanesaudauchunethe daunevāde.
+Nau Hejavaneathusau haeauchuhanāedauwuna, dāeyaunauauau nuu hathāauauvaa nenevadedaunee, nau nenenehaudenee:
+Hau daun naunauguathee hadnenaededuu hena henaedede, nau jaegauhadeneagu hehethee gaujauaudahede, hadnehauwunevadedaune, hegau hadnenenehadedaune:
+Daudause hadnehauwauthenajadene: hadnaathahedaunee hautheaunauau; nau hadnenesaunevāthee Hejavaneauthu, naathedāeyaunenedaunee jaegauhade.
+Wauhā henee gaujauaudahehehauau hadjaegauhāthee, Moses denauhauthehade jauauadee, deadethāde Vahadāhenith Hejavaneauthu Abraham, nau Hejavaneauthu Isaac, nau Hejavaneauthu Jacob.
+Hehauwuujavaneauthune heyauhaudade, hau henaedede: hanau vahee haneenaededaunenee.
+Hanaāene jasaa wauthaunauhāhe haeauchuhananadetha, Hechauhauthethāhe. Nananene hethade hasenehene.
+Nau heee haejauthenaudedaunanauau.
+Nau hanaāāedauwunaude, Naudu haena hanee Chris Dāvid dauhuāwaude?
+Nau Dāvid nehayau hasenehede wauthaunauhanaa Psalms, Vahadāde hasenehethaude Navahadāhewaunādaune, Hadjejanaugudaune hejavesanee,
+Haunaude nadeesehaunauau haujauthauwauau hadnedaugāaugunene.
+Dāvid henaheee haeheenesea Vahadāhenith, dusee heau?
+Nau vahee henanedanede haenedaunau hanaāāedauwunaude hethauguhādaunau,
+Waudauau wauthaunauhāhehauau, neneanaduu javesanee sauaunausāchaude, nau vechauduu jachauthadede nedauaudaunauvadedaunenee, nau najatheaugudaunau vevethahenauauwuu, nau najanau nedaugunethe vanethehedaunenee;
+Naudauvāe henevesānau hedauauwunene, nau hanau denauhauthethāthee deguthevevethahethee: hadnathee hanesedanuu vanasaunee gudanadede.
+Nau haeejaāne, nau haenauhauvā nethauyāsenanene haejenanauwu hevaudenenau haenathaunaa.
+Nau haenauhauva jea jachau hadavenuhu henevesāne haethāgudene hanesāenee nevaāhenee vāejethāau.
+Nau hanaāenehede, hethauwuu nananenau nāedauwunathana henee naa hadavenuhunede henevesā javaājenanauau vahee;
+Hanau vahee nuu nanethauyādahethee dejenanuu dejenanauwunauthee Hejavaneathu: hau hadavenuhunede hajenanauau vahee heenaededaunau hathāenethenauau.
+Nau haehegaugaugauudenauau vadannauauwuu, haseneehenee nauguu hethāhenethe hauunauganau nau hausāyaunau, hanaāenehede,
+Nuu hayauhuhau hānauhauthaunenau, hesee hadnauauchuu, hadnehauwunathauau hanesāde hauunauga hanathaugude hadvajanesee.
+Nau hanaāenaudedaunauthee, Hechauhauthethāhe, hau hadduunaasau nuu? nau hayew hadnauhauwuu hadnesauau hāene nuu hayauhuhau hadneenauauchuu? hathauhaugaunee.
+Nau hanaāenehede, haunauyauhaudauwauau henee nananena hadejenanedaunehana: hanau hadnewauthathee hadjauthee Naneseedaunaa, Hanejavaneauthusaunenenau, hadnethee; nau hayānauauchauau: jevathauguhaa.
+Hau hāenedauwaudauwunā vauthadede nau jajayauthadede, jeva nathajauau, hanau nuu hayauhuhau hadnedauunauauchuu; hau hadneevadauauau hadguthauau.
+Hanaāāedauwunaude, jajaesenanedanedede hadnevauthadee jajaesenanedaa, nau najanede hadnevaudauau najanede:
+Nau hadnavathethauthauwunauauau vedauauawuu, nau hasenaude, nau havathaugauwude, nau naunaunauchaudauhauthaude nau hadvasauau naunauhauwuu hadnauauchauau hehethee hejavaa.
+Hau hadnejesejenauauchuu vahee nuu, hadnedanāna, nau hadnaunaunauchauthehāna, nau hadnevaudenee nananena hauāchaude, nau duguhunauauwuu, nau hadnenauuchauhana hathaājethee nenauchuwuthee nau hauchuwunanenauau hanau Naneseede heee.
+Nau hadnaasejenanauwunana heee haenathau.
+Hāenauwuu heeehena nananena hadahenauau, jevagaugauuthajauau nedauau daun hadnesenehena:
+Hanau hadvenathana vade nau haeyaude, vahee hasānavādaunenau hadnehauwuneayādaunāva hegau hayethaagudaunādaunenau.
+Nau nananena hadnavethevāthee nesauuu hanehānenau, nau hāthesaunenau, nau hādauānenau, nau hādaehahenau; nau jasae nanaena hadneenaana.
+Nau hadneevahasānavāhena vahee henanedaa hanau naneseede heee.
+Hau hegau hāthaanenau haudauguhuanenauau haudnehauwugaujauaudāhenaunau.
+Hanāedevedaunenau hadnaunaunehaudde havadathuwunau.
+Nau hāenauhaudauwunā Dādaunedan hadnechauchuaunāna vanenanenauau, nanehāaenauwuna henee nauauhadede wauwu hadneaudaa,
+Nanehadaugauhuthee hesee hauanee hathāanedauthee Judaea; nau henee hathāanedauthee nahethāe nanehanauahethee; nau jevajejedānauha henee hathāanedauthee gauchuhunee vedauauwuu.
+Hanau nuu hesee hadneauthedaudenee henee vahee hayauhuhau hathāewauthaunauhuu hadnethauwunaasauau.
+Hau naunauthaunee hadnethauauvāhethee hathāenesaunethee, nau hathāeneaunauhuthee hena hesee, hanau hena hadnavathasenaudenee vedauauwuu, nau hasenaunaudaunāhenauau nuu henanedanede.
+Nau hadneaunathāhethee gaugauthau, nau hadnejathechauhāthee hadwauwaunenethee vahee jajaesenanedanede: nau Dādaunedan hadnauguhethee Neauthu, haunaude Neauthu nauauchaudauhaugaunee.
+Nau hadnauhauthaunee hesesee, nau vegusesee, nau hauthuuu; nau nanadee hathāauauvaa hadnaunauādaugauhudaunee jajaesenanedanede, hadnehauwaenauwu; hadaje nau hadnaunaudānaunee;
+Henanenauau hedahenau hadnadenāthajaunee, nau hanau naunauyauhauduu hena hayauhuhau hadnauauchaunee dasee hathāauauvaa, hanau hathāenauthauau hejavaa hadnauauwunauauau.
+Nau hadnaāenauhauwauna Heau henane hadnenauusade henaunauade nauguu naunauthaunee nau hadnavathenauasāauau.
+Nau hāene nuu hayauhuhau hāenauauchuu, nauhadnaāenaunauānena; nau hadnejenāauguauna heee hadneejaenauthana hadnaāeaudaa.
+Nau hanaāedadajenehethaude; Nauhauvaa hauuyauchunauhaude, nau vahee hahaudenauau;
+Hāeguugauāhenauthe, hadnauhauwauna nau hadnaenauwuna nehayau henee veja dauhuaudaa.
+Hadnaasauau nananena hāenauhaudauwunā nuu hayauhuhau hadnethauwunaasauau, hāenauwuu henee henajanede Hejavaneauthau haneaudanee.
+Hethauwuu nāedauwunathana, nuu henaedede hadnehauwuvadauau, haunaude vahee hadnethauvāe.
+Hejavaa nau vedauauwuu hadneyauhuu; hau Nadanadedaunau hadnehauwuthauuyauhuunau.
+Nau haunauyauhaudauwauau nehayau, naseduhuu daunāene hadahenau havaehayaudenau heee haudauhauganedaunenau, nau havanadenenau, nau haunaunethaunenau nuu henaedede, nau henee hesee hadgauduaunāna hau hadnehauwaenava.
+Hanau waude nauyaudenau hadnauauchauau vahee hathāetheaugude dasee hathāauauvaa.
+Haunauyauhaudauwauau henaheee, nau hevevethahee dajauaunee, henee nananena hadeheenauguana hadegauchuhuauwuna vahee nuu hayauhuhau henee hadnauauchuu, nau haddetheauguna hathaāhede Heau henane.
+Nau hesenee haeechauhauthethā vadanauauwuu; nau hāeveeyaunee haenauā, nau haeadāne hauanee henee neseeyāgu hauanee Olives.
+Nau vahee henanedanede haejevanauuchaudene naugusāje daunauganenee hadaude vadannauauwuu, heee dauhujaathehāde.
+Wauhā hadneevasevenee janenesaunauchauanauhuu jauaujaunau haeayānauauchau, Hadavechaude neseāgu.
+Nau najanau vevethahevahehau nau wauthaunauhāhehauau haegaugauanadauwunenau hadnesenaāde; hau haeedauwu henanedanede.
+Hanaāejedāde Haujau Judas hejaveede Iscariot, haenethanedau vadadauchunesenee.
+Nau hanaāejathāaude, nau haeanadetha najanau vevethahevahehau nau haunauyauhauthāhehau, hadneseavedaudaunauwaude.
+Nau haeneethajaunauau, nau dechauchuwuhadethee hadvenāde vāejethā.
+Nau haesayānehetha, nau haeaunauyauhaudauwu hadneeneavedaudaunauwaude henanedanede.
+Hanaāenauauchauau hesee janenesaunauchauanauhuu jauaujaunau nanaa hadavechauthau hadnāede.
+Nau hanaāautheawaude Pedaheau nau Jauneau, Najesaa hadesaanudeva hadavechauthadede, hadevethenauau, hathāhaugaunee.
+Nau hanaāāedauwunauthee, Daudu hadauvathehāne hadnedauusaanuu?
+Nau hanaāāedauwunaude, Naune, hāejedānā hedan, hena henane hadnuchaunāna, hadnewauunauau hauānau hadjaāsanenee naje; hadethauguhauva hauauwuu hadnedaujedāde.
+Nau hadethauva henane hedauauwunede, Hechauhauthethāhe nejeethāne, daudu jādanauauwuu hadnedauvethenauau hadavechauthadede nauguu nāthauguhādaunauau?
+Nau hadnauhauthehāna vanasaunee dachauauwuu hadnesewaudeanee: hadnesaanuhuu.
+Nau hanaāeyehauthee, nau haeveedenauau neethāedauwunaude: nau hanaāesaanudethee hadavechauthadede.
+Nau hāenauauchaunee, hanaāejanaugude nauguu vadadauchunesenee hevadauhanau.
+Nau hanaāāedauwunaude, hethauwuvadauvethenau nuu hadavechauthadede naugu nananena hajesejasauwauwuthānau:
+Hanau nāedauwunathana, Nadnehauwauthevethe nuu, haunaude hadnauauchauau henajanede Hejavaneauthau.
+Nau hanaāedanauau vāenau, nau hanaāevāde vaveenede, nau hanaāenehede, Hedanauwuu nuu, nau hadjaanauwauva nehayau:
+Hanau nāedauwunathana, Naudnehauwuvanethede dadajevenenaje, hanaude henajanede Hejavaneauthau nauauchauyāgu.
+Nau hanaāedanauau jauaujau, nau hanaāevade vaveenede, nau haejeane, nau haevena, Nuu nanaa nadanayau havenadenenau: nuu hadneejenauneethedaunena, hathauhuk.
+Naasauau jea vāenau hāesethunevethehedaunee, Nuu vāenau waunauyauau hesānaavede Navaevaa, hanedaunauwunana, hathauhuk.
+Hau nauhauvaa, hejadenaa henee haneavedaudaunade nananenauau nanedauguvānauau vethehedaunaa.
+Nau hethauwuu Heau henane hadjathāaude, neesedauwaunade: hau naunauthaunee henee henane haneavedaudaunaudenenee.
+Nau hanaāenaunaudedaunadethee nehayau, hanaadee hadnesedaude nuu.
+Nau hena jea haeneenayaudenauau, hanaadee hadjavaāvasāthaa.
+Nau hanaāāedauwunaude, Nenauchuwuthee Neauthuu haevahadahethedauwu; nau henee nanethenuu naudahede nanadee hesenaedehehauau neseadagaunee.
+Hau jevanaathāhee: hau henee havasāthawaunādaunenau, hadenahavaewauva; nau henee naja waude henee henechauthāhehau.
+Hanaa vanasāthaa, henee vanethede, wauāthe henee henechauthāhe? gaujenane henee vanethede? hau hanedaudaunathana waude henee henechauthāhe.
+Nananena daudajauaunenethaunena denaunaunauchauthehanau.
+Nau janenanauwunathana najanede, waude Nāsaunau nejeesejenanauwunānau;
+Hadevethehena nau hadevaveyāna navethehedaunaa Nanajanedaunaa, nau hadetheaugudauwuna najatheaugudaunau hadnauchuwuhauna vadadauchunesenee jajaesenanedanede Israel.
+Nau Vahadāde hanaāenehede, Simon, Simon, nauhauwune, Haujau nevadaunethenāne, hadvachuuguthāne waude thauauhanewauchuunau:
+Hau nevevethasathane, henee hadethauwuthajaude hadejenadegaudenauau: nau hāejauaugauthethajaunaune hadedāewaunauau hahauwauauau.
+Nau haenehetha, Vahadāhene, Nananenau hanesaanunau hadnenenethaunathane, nesauna duguhunauauwuu, nau gaujauaudahedaunaa.
+Nau haeāedauwuna, hāedauwunathane, Peda, neauthuneāhe hadnehauwunedu nuu desenenee, hajesejenehenaune nasau hadnethedauwaune henee nananene daujaenaunene.
+Nau hanaāāedāuwunaude, Deathavejenanathana hāehauwunewauunava nesevāejethāwau, nau newaugusajaānauchu, nau wauaunau, gauhājevathehāva hayewhu? Hegau, hathauhaugaunee.
+Hanaāāedauwunaude, hau hewaunehaa henee nanethenauau nesevāejethāwau nanehaedanauau, nau jea henewaugusajaānauchu; nau henee janenethenauau gaugauchu, nanehaeaudaunade heddu, nau jeaudaunaude gaugauchu.
+Hanau nāedauwunathana, henee nuu wauthaunauhuu hethauwunaathauthaunauhunau, Nau haewauhaunuau wauwauchudauhuhau: hanau nethauthedauthanau hethauvaa.
+Nau hathauhaugaunee, Vahadāhene, nauhaudau, heyewnau hanesāe gaugauthau. Nau haeāedauwuna, Naadauchāe.
+Nau haejenaua, nau haejathāau, nesedaude, haua nee Olives; nau hethauguhādaunau jea haethauguhaa.
+Nau hāanauusade, haeāedauwuna hevevethahee henee hadejejedāna vasehadede.
+Nau haejāvesa hehejese nejechauthaunenee, nau haechagujanaugu, nau haevevetha,
+Nāchau, hith Nananene vadauusedaunenagu, jegudanauwune nuu vāenau hehethee Nananenau: hau nāhauwuvathehaa, hau Nananene, hadnaasauau, hathauhuk.
+Nau haenauhauva hautheaune hehethee hejavaa, haedadāevaa.
+Nau haeneenajeneethajau haeneenavevetha: nau heguwauaude waude davathejajaneauthee vaewauau dejanesee vedauauwuu.
+Nau hāegauhāde hehethee devevethahede, nau haejeedasa hethauguhādaunau, Haeveena haeseenaugauhunenau heee haudauwuthajaude,
+Nau haeāedauwuna, Naudu haenaugauhuna? gauhāe nau vevethahee, hadejejedāna vasehadede.
+Nau hajesanadede, haenauhauwu havathenanedanede, nau henee Judas neseade, jasaa vadadauchunesenee, haenedauva, nau haeayāedasa Hejavaneauthusaun hadnedanaude.
+Hau Hejavaneauthusaun hathāhuk, Judas, gauhāavedaudauna Heau henane gauhadneenedanau?
+Hāene henethauguvādaunau daunauhaudauwunethe hadnesehade, Vahadāhene, gauhadjedauauwaunauau heee gaugauchu? hathauhaugaunee.
+Nau hanesāde haedauauva hewauwaunavene vasnajane vevethahevahew, nau haegauadathāhe hejavese.
+Nau Hejavaneauthusau haeauchuhananadetha, Hauwaa nanesedau nuu. Nau haevasane henaudaununene, nau haeenayauha.
+Hejavaneauthusau hanaāenehethaude najavevethahevahehau, nau haunauyauhauthāhehau vadannauauwuu, nau vachaugananenau, hejewaunedasādaunau, Gauhāejauva, waude heee havedehe, nauguu gaugauthau nau vachau?
+Denethenaedevathana hayauwusenee vadannauauwuu, nananena hāehauwudaneva: hau nuu nauauchaudauna, nau naunauthauau vaneeyauau.
+Hanaāedanauthee, nau haejathechauhanauau, nau haejedananauau Vasenajane vevethahevahew hedauauwunene. Nau Peda haejesedauchu.
+Nau hāesewaudedaunathee nahethāe hadauvasenejesauau, nau haeauājanaugunauau, Peda haejanaugudauna.
+Hau jasae hesāhedāeyaune haenauhauvaa daujanaugudaunaude hejava hesedaa, nau haenaunauchaudauhauvaa, nau hathāhuk, Naa henane jea nanethenaedewaude.
+Nau haeethedauwautha, Hesā, nahauwaenaunau, hathauhuk.
+Nau naunade jachau haenauhauvaa, nau hathāhuk, Nananene jea hanehedāhene. Nau Peda hahagu, Henane, nananenau hegau.
+Nau heee jasaye denauachauau waunee jachau haeethauwunehene, hathāhuk, hethauwuu naa jea nanethenaedewaude; hanau nananede Gananaean.
+Nau Peda hahagu, Henane, Nāhauwaene daun nesenehene. Nau chauchaunu, daunausunanadede, neauthuneāhe haenedu.
+Nau Vahadāde haejaaagu, nau haenāauhauva Pedaheau. Nau Peda haethauchuthajaude hedanadedaunene Vahadāhenith, neesenehethāde, Hajesejeneduhude neauthuneāhe, nananene hadnethedauwauchune nasauna.
+Nau Peda haenaua, nau haeneenavewau.
+Nau henanenauau henee daununauthee Hejavaneauthusaun haevavavanauchuhanauau, nau haedaudauauvaa.
+Nau hāesajeājethauthee, haeanadeāhenauau, nau haenaunaudedaunanauau, Haeyāhe, hanaa henee haudauauvāde? nethāhuk,
+Nau wauthanee haeewauwauchuvaa nanāsanadethāde.
+Nau chauchaunu hasenaugusājenee, vachaugananenauau henanedanede nau najanauau vevethahehehauau nau wauthaunauhāhehauau haeauāchaudaunanauau, nau haejedananauau hadauhanadethee,
+Gauhanane Chris? jeāedauwunāa, hathauhaugaunee. Nau haeāedauwuna, Hith Nananenau hāedauwunathanagu, nananena hanājethauwaudaunena:
+Nau hith nananenau jea naudedaunathanagu, nananena hanājauchuhananadesena, wauāthe hanājejenanena.
+Hewaunehaa heee Heau henane hadtheaugude hejavese naunaudāhenith Hejavaneauthu.
+Hanaāenehethee vahee, Gauhanane Heau Hejavaneauthau? Nau haeāedauwuna, Hasenehena Nananenau.
+Nau hahagaunee, Hehauwauthevathehāanauau naudedauyaunauau? hanau nehayau nanedaunaunauau Nehayau hedenaa.
+Nau haunauude henanedanede haegauhadene, nau haeyehaudaunanauau Pinade.
+Nau hanaāevavasevāde, Vaneenaunauau naa gauchuhuchaudede jajaesenanedanede, nau nedauduwaude hadjevenauthee hauāyaunau Caesar, daunahagu Chris Nenauchuwude, nethadede, hathauhaugaunee.
+Nau Pinade haenaudedauna, Gauhanane Dauhunauchuwuhunene Jews? hathauhuk, Nau haeauchuhanāedauwunaa, Hethauvāne.
+Hanaāāedauwunaude Pinade najanau vevethahehehau nau henanedanede, Nāhauwuveedenaune wausaunee naa Henane.
+Nau haenaunauchauthedauhaudene, wauwauyauchudede henanedanede, hanechauhauthethāde hehethee vahee Jewsevedauauwuu, jejasesee hehethee Gananane nauuu nuu vedauauwuu, hathauhaugaunee.
+Hāene Pinade nedauwauthaude Ganane, haenaudedauva wauau hagananenanene.
+Nau chauchaunu hāesaenauau henee daunaadāde Herod hadaunajavanethe, haeathavenane Herod, jea haeanedau Dādaunedan hena hesee.
+Nau hāene Herod nauhauwaude Hejavaneauthusaun haevaseneethajau: heee devadaunauhauwaude dajauaunee hanau dauhuwauthanedauwauthaude; nau haevadaunauhaudauwu jasaa venauneguthau hadnesedaunith.
+Haenaunaudedauna hauwauhuu hanadedaunau; hau haejauchuhananadethaa.
+Nau najanau vevethahehehau nau wauthaunauhāhehau haetheaugunenau nau haenaunaunauchauthevaa.
+Nau Herod nauguu vauānanenau haejenananauaugaugauyaune, nau haevavavanauchuhanauau, nau haeneenuhanauau neaudahenenee hu, nau haevenanauau jea Pinade.
+Nau hajesesenenee Pinade nau Herod haeenedaehāvadenauau nesauuu: hanau nedauwuu haeasānavadenauau nehayau.
+Nau Pinade, hāesauānadethaude najanau vevethahehehau nau hauchuwunanenau nau henanedanede,
+Haeāedauwuna, Nananena nauuchaudaunena naa Henane, nanahagu henee gauchuhuchaudede henanedanede: nau, naune, nananenau, haunauchuwuhauau hathaāhena, nāhauwuveedenaune wausaunee naa henane heee henee hayauhuhau nanāsevasewauna:
+Hegau, hehauwune Herod: hanau neathavejenanauwunathane; nau naune, hehauwuneenauau hehauwugaudauwudau.
+Hadnenesegauhaa, nau hadjenanauau.
+(Hanau hadnaugauhusenaasedaude hadjenanaude hanesāhenethe vasevethehedauneagu.)
+Nau haunauude haevasānadenauau jasānee, Hausāguthaa naa, nau jejenanauwunāaa Barabbas, hahagaune:
+(Nananede hanau jasaa nejaevauāde hedan, nau hanau nenaade, nethānade duguhunauauwuu.)
+Pinade henaheee, haevadaujenana Hejavaneauthusaun, haeanadetha jea.
+Hau haeneānaune, Saethechuhuu, Saethechuhuu, hahagaunee.
+Nau haeāedauwuna nanaseauwaunee, Dusee, dusewauchudau? Nāhauwuveedenaune hadneegaujauauthehaude: Hadnaasedaunau hadnenesegauhaa, nau hadnaāejenanauau.
+Nau haeneenavasānadenauau, haeneenavadausaethechuhunauau. Nau haeneānadenauau nau najanau vevethahehehauau haeechauwauauwaunauau.
+Nau Pinade haechuwaudā henee hadnaasaunee hasevathehāthee.
+Nau haejenanauwuna nananede henee hanau nejaevauāde nau nenaade haethānau duguhunauauwuu; nananede heenedauwaudenenau; hau haevā Hejavaneauthusaun hathanauwauthee.
+Nau hāejathechauhauthee, haeedananauau hanesāhenith Simoneau, hehethee Cyrenene, hananeedesade vedauauwuu, nau hananene haenehanauwunanauau naugauchu, henee hadnanewauunauwunith thauguu Hejavaneauthusaun.
+Nau hena haethauguhaa havathenanedanede, nau hesānau, haeaudauwuthajauha nau haevewauhunauau heee.
+Hau Hejavaneauthusau haejaaāne haeāedauwuna, Dādaunedan hedaunauhau, jevahevewauhuu heee Nananenau, hau heevewauhuu nehayau, nau heee hadāeyaunevenau.
+Hanau, naune, hese janādauuu, hadneenehedaunee, Haunauwuthajauau jenesaunehehauau, nau henaudaunenau henee nejethauujanesāthee, nau hethanenau hehauwunethuaunenau.
+Heee hadnaāejaseseneheduu hauane, Gauduaunānauau; naa jauaudane, gaudauyauhunauau.
+Hanau hith heenesedauhaugaunee nuu hayauhuhau janadanegauaheyaugaune hauhaudene, haudneedusedaune wautheyaugu?
+Nau hena haenesenauau gauchuhunee jea, wauwauchudauhuhau, haenethaunaa hadnaugunaade.
+Nau hāene hāedaduu, Calvary hanaaseenee, hena haesaethechuhunauau, nau wauwauchudauhuhau, hanesāhenith hejavese, nau jachau nauwauthe.
+Haenaāenehede Hejavaneauthusau, Nāchau jaegudanauwunene; hanau daujāenuu hasedauthee. Nau haejaanauwaunenau, hedāchaunene, nau haeheedaudauusadaunenau.
+Nau henanedanede haetheaugudaune dauhasauhauvade. Nau hauchuwunanenau jea nauguu haeauchaudanavaa, haseneheyaugaune, Nenayauhaude hauthauau; Nanehanehanenayauhadede hethauwuu Chrisdeyaugu, Neayāsanāde Hejavaneauthu.
+Nau vanenanenau jea haenaunaugauthedaunaa, haeedasaa, nau haevenaa naneujaudenee dadajevenenaje,
+Nau hathāhuk, Hethauwunajawaunaudagaunee Jews, henayauhade nehayau.
+Nau haewauthaunau jea haewauthaunauhune hejavaa hedanadedaunene Greek, nau Latin, nau Hebrew, Naa Nanajawaunaude Jews.
+Nau jachau wauwauchudauhu chaunaunauaunith haewauwauchuvaa, Hethauwuu Chrisdenagu, henayauhade Nehayau nau nananee, hathāhuk.
+Hau jachau haeauchuhananadene haedauduva, Gauhajeadaunau Hejavaneauthau, hanau nananene nanesadee hathauchuwuhane? hathauhuk,
+Nau neehanauau; hanau hanesedanauwunauau nanāsedaunauau: hau Naa hehauwuwauchudau.
+Nau hanaāenehethaude Hejaneauthusaun, Vahadāhene, dauyewuwuthedaune hāanauusanaune Hanajanede.
+Nau Hejavaneauthusaun hathāhuk. Hethauwuu hāedauwunathane, Nuu desenee hadnethenaedevene Paradise.
+Nau hāethauthaunesade, nau hanaāeveeyauau nanadee vahee hathāauauvaa haunaude nanasuusee hāenauauchauau.
+Nau hesese haeveenenauau, nau hauguthau Vadannauauwuu haethauwunauau nahethāe.
+Nau Hejavaneauthusau hāevasānadede, Nāchau, hajadenaa hadaunaunehau Navadathuwu, hahagu: nau hāesenehede nuu, haevadauwauthauwu.
+Wauhā vanenenaja hāenauhaudauau hasedaudenenee, Haeauwauaudauna Hejavaneauthu, Hethauwuu naa chaunuvāde Henane, hahagu.
+Nau vahee henanedanede henee hathāejeauānuusathee hadnauhauwauthee, haenauhaudauwu hanasedaudenenee, haeanadesejāhedenauau, nau haejaajegauhudaune.
+Nau vahee henedaehauhau, nau hesānau hethāethauguhādaunau hehethee Gananee, haetheaugunenau vavāaune, haenauhaudauwu nuu.
+Nau, naune, henane Joseph haeesee, najananadehe; nau haeethā, nau haechuvā:
+(Naa haejechuwaudā hasenehedaunenee nau hasedaunethe;) haenaadāde Arimathaea, hedan Jews: nananede jea nehayau haeejauwuwude henajanedaunene Hejavaneauthu.
+Naa haeyehau Pinade, nau haenedauwaude hedanayaunene Hejavaneauthusaun.
+Nau haejanana, nau haeauyauuna naunaujānaunee, nau haejenana nedauthānavathe gaujauaudahehehau hauunaugāe, haunauau henane haejethauujenanau.
+Nau hena hesee haeesaanudaune, nau vadanesee dayānauauchauau.
+Nau hesānau jea, hejenauunethaunādaunau hehethee Gananee, haethauguhaa, nau haenauhaudauwu hadausaesenanethe, nau hedanayaunene hathaudanee.
+Nau haejaenauthau, nau haeesaanudenauau hathāeneevaudenee nau chauayaunau; nau haedauyānusenauau vadanesee hasauau nanavaavede.
+Wauhā nanedauwaudaa hesee hauchauvadede, hajesejevesesanith haejeedadauwu hadausaesenanith, haenauuchaudenauau hathāeneevaudenee heesaanuthaunenau, nau jasae hauthauau nauguu.
+Nau haenauhauvanauau hauunaugane haeausānene hehethee hadausaesee.
+Nau haejedānauau, nau haejeveedenauau hedanayaunene Vahadāhenith Hejavaneauthusaun.
+Nau hethauwuu daugaudauwuthajauthee heee, naune, hanesenethe henanenau haetheaugudaunā haenauasāaunenau hedāchaunene:
+Nau daunāthajauthee, nau haenaunauagunauau vedauauwuu, haeāedauwunā, Naudu nananena haenaudehauna hanenaededaunaude nethee gaujauaudahehehau?
+Hehauwanedau hede, hau jaegauhāde: dauyewuwuu neethāedauwunāna denausunanedaude Gananee,
+Neesenehede, Heau henane hadvenavathe hejadenene wauwauchudaunanenau, nau hadsaethechauhude, nau nasese hadjaegauhāde.
+Nau haedauyewuwunauau hedanadedaunene,
+Nau haenaudauwu hehethee needausaesenanith, nau haeauthedaunanauau vahee nuu hayauhuhau jasānee, nau vahee hauthauau.
+Haenane Mare Magdalene, nau Joanna, nau Mare henaune James, nau hauthauauau hesānauau henee henethaunādaunenau, neauthedaunauthee nuu hayauhuhau vadauhanau.
+Nau hedanadedaunenau hathanadauwuyaugaune gaugauyaune, nau haejethauwaudaunaunauau.
+Hanaāegauhāde Peda, nau haeyeseneegau hadausaesenanith, nau haeewauguau, haenauhaude naunaujānaunee haeānaudanenau jessaa, nau haenaude, haegaugauanade hasaunee.
+Nau, naune, hanesenethe haeyehaunenau henee hajesesenee hajasee hauauwudan Emmaus haseagu, hehethee Dādaunedan wauau nesaudauchu nau gauuu daugauha.
+Nau haeanadenauau wauhaunee vahee nuu hayauhuhau hasaunee.
+Nau hethauwuu, henee, dauanadethee wauhaunee nau haenaunaudedaunadenauau, Hejavaneauthusau Nehayau haeeauchauna, nau haenethauna.
+Hau hesesānenau haedunenenau henee hadjaenaunauthee.
+Nau haeāedauwuna, Hayewnau hadanadedaunenau nuu henee nananena hānegudaudenenau, daujajāwauaunadena, nau daudaneāauna?
+Nau jasaa hanaaseede Cleopas, haeauchuhananadethaa, Gauhanane vavade dauhadavesane nuu Dādaunedan, nau gauhajaene hayauhuhau hasedaudenee hena nuu hesee?
+Nau haeāedauwuna, Hayewnau? Nau haeāedauwunaa, Heee Hejavaneauthusau Nazareth, nananede Haeyāhe naunaudāde hanasedaude nau hedanadede hathaāhenith Hejavaneauthu nau vahee henanedanede:
+Nau najanauau vevethahevahehauau nau hadauchuwunanevene neesevānethe gaujauaudahede hadneauchuwuhade, nau nesaethechauhude.
+Hau nejauwuwuhaunauau Nananede hadnenayaudede Israel: nau nauguu vahee nuu, desenee nanasāe hesee hāesenesedaudenee.
+Haa, nau jasae hesānauau jea hadahenauau nenāvānauau, naugusāge neanedauthee hadausaesenanith;
+Nau dejeveedethee hedanayaunene, nejenuusathee, neauthedathee, henee jea haenauhauvanauau hautheaunau neethāhaugaunee henee daujaenaedeyaugaune.
+Nau hauthauauau hānethaunādaunene deyehaunauau hadausaesee, nau haeveedenauau vavade hesānauau neesenehenethe: hau haejenauhauvanauau.
+Hanaāāedauwunaude, Hau hāhauwaenava nau gaunauanuu hadahenau hethauwaudanee vahee henee haeyāhehauau nethauthedathee:
+Naasauau Chris hadnasenede nuu, nau hadjedāde hadnedauvasāthaa.
+Nau jeeejasesee Mosese nau vahee haeyāhehauau, neevavesāedauwunaude heee vahee hanathauthaunauhunee hayauhuhau hadnesenaedede Nehayau.
+Nau haeeauchauwu hajasee hauauwudan hasesathee: nau nehayau haenanedauneha hadjavesade.
+Hau haeneenadaunanauau, hathauhaugaunee, Hanedaudaunāa: hayānaesade, nau hesee hayāenauwusanauau. Nau haejedā hadnanedaudaunaude.
+Nau hethauwuu, daujanaugude haenethevetheheva, Haeedane jauaujau, nau haevaveene, nau haejeane, nau haevena.
+Nau hesesānenau haegaunanenenau, nau hanaāaenaunauthee; nau haeeyauhaudenauau.
+Nau hadāhene gauhauchāe hethauvaa, hanathadagaunee jaee, deanadethānauau jāthee, nau hāegaunanauwunānauau wauthaunauhanau?
+Nau haegauhānauau chauchaunu nau haejaeyehaunauau Dādaunedan, nau haeveehanauau jasānee haeaunauudaunāhenenau, nau hauthauau henee hanedaudaunādaunenau,
+Vahadāde gauhāde hethauwuu, nau haenauhautheha Simon, hathahaugaunee.
+Nau haeauthedanauau hayauhuhau hanasedaunith hadesathee, nau hasaenaunāde daujeanauau jauaujau.
+Nau daunausunanadethee, Hejavaneauthusau Nehayau haetheaugu nahethāe hadauthee, nau hathāhaugaunee, Danādauyauau vanenathana.
+Hau haenānauaunauau nau haenāthajaunauau, nau hasethajauhaugaunee henee haenauhauvanauau vadathu.
+Nau hathauhuk, Naudu nananena haenāthajauna, nau naudu haegaugauuthajauna gauhānauha hadahenau?
+Nauhaudauwuu Najadenau nau Nauaudau, henee Nananenau nehayau: Vasanee, nau nauhauwuu; hanau vadathau hehauwudausānune nau hehauwudechaunave, hathauhauwuna.
+Nau dauhanadede, haenauhautheha hejadenau nau heaudau.
+Nau haejethauwuthajaunauau heee haunauwuthajaude, nau haegaugauuthajaunauau, Haeāedauwuna, Gauhajevetheneva hede?
+Nau haevenanauau hanesāhenith nauwu haeaujaunene, nau gauhauaugunaugauye.
+Nau haeedane, nau haevethe hathaājenethe.
+Nau haeāedauwuna, Nuu nanāe hanadedaunau hāauthedaunathadenenau, denausunethenaedevathana, henee vahee hayauhuhau hadnethauwunauauchuu, hanathauthaunauhuu henanavaavede Mosese, nau haeyāhehauau, nau psalms heee Nananenau.
+Hanaāegaunanauwunaude hadnaenauwunethe, henee hadnaenauwunethe wauthaunauhanau,
+Nau haeāedauwuna, Hathauthaunauhuu, nau naasauau Chris hadnasenede, nau hadjaegauhāde hehethee gaujauaudahede nasese:
+Nau henee haugauthegaugauuthajaude nau hadjaegudanee wauchudaudenau hadnautheduhunee heee Heneseede nanadee jajaesenanedanede, hehethee Dādaunedan.
+Nau nananena haenauwuna nuu hayauhuhau.
+Nau, naune, Nananenau vanenathana sayānee Nāsaunau hau theauguu hedan Dādaunedan, haunaude nananena hāchauwunagu nauguu naudahede hehethee hejavaa.
+Nau haejasesenedauwauna hajechaudanee Bethany, nau haeegauha, nau haevevethasa.
+Nau hethauwuu, daunausuvevethauchaude, Haenautha, nau haeejechauhau jethee hejavaa.
+Nau haevevethedaunanauau, nau haejaeyehaunauau Dādaunedan nauguu vaseneethajaude:
+Nau dajauaunee haeanedaunauau jedauwuu Vadannauauwuu, hauwaunede nau haevevethedaunanauau Hejavaneauthu. Hethauvaa.
 
 
 
