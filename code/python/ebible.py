@@ -38,6 +38,7 @@ from bs4 import BeautifulSoup
 from pandas.core.groupby import groupby
 
 from settings_file import write_settings_file
+from rename_usfm import rename_usfm
 
 global headers
 headers: Dict[str, str] = {
@@ -407,7 +408,7 @@ def check_folders_exist(folders: list, base: Path, logfile):
 
     if missing_folders:
         print(
-            "The following {len(missing_folders)} folders are required and will be created if you continue."
+            f"The following {len(missing_folders)} folders are required and will be created if you continue."
         )
         for folder in missing_folders:
             print(folder)
@@ -502,7 +503,7 @@ def main() -> None:
 
     translations_csv_url: str = r"https://ebible.org/Scriptures/translations.csv"
     eBible_url: str = r"https://ebible.org/Scriptures/"
-    file_suffix: str = "_usfm.zip"
+    file_suffix: str = ".zip"
 
     corpus_folder: Path = base / "corpus"
     downloads_folder: Path = base / "downloads"
@@ -765,6 +766,8 @@ def main() -> None:
             )
             shutil.move(str(misplaced_private_project), str(dest))
 
+    rename_usfm(projects_folder)
+    rename_usfm(private_projects_folder)
     # Move any redistributable projects for the private_projects to the public_projects folder.
     # moved_public_projects = move_projects(public_projects_in_licence_file, parent_source_folder = private_projects_folder, parent_dest_folder = project_folder)
     # for moved_public_project in moved_public_projects:

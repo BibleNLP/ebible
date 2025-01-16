@@ -24960,1157 +24960,1157 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Aaba Tiopiro: Hiiro uubi-ro rimoi-do iiobodimo raarai, odii tauo piꞌatimo, ioromahoroi-da made himoꞌa uubi-ro idomai-da iaꞌaumoi-da ioroaduꞌutimo emerai-ha pirimaꞌaimo.
+<range>
+Aaꞌo rauri, Aaba Tiopiro, moo rio-ka ara madei ata ma riꞌati meaha, ka ma rotiodoai rooi-do, mabu ioromahoroi-da iiobodimo raarai mea hiꞌa-ha tauo piriooho.
+Moo-ro iibai rododiai mabu roo umoo hiꞌa ma iiꞌi-ri, roo turiaha iematomudioumo raarai, Iesu-ri ihaha-ka.
+Heroda Iudea Pai iemidioi-da, pemidio Aiai poue iemaꞌatidioumo dubui ata, ruu pairai Sakaraia-ka, ruu Abaidia guui meree-ka, Aiai Dubuae omaꞌati paꞌai-da. Ruu ooboi Erisabeta, Aiai poue iemaꞌatidio dubui, Arori guui-da oobo-ka.
+Riiti oroiꞌioi mea oobo-ra dubu-raka Iehoma hohoi-da. Paidubui madei-re, ka Bubui-re ai-pimabedioido.
+Irai riiti meree bia, mabu Erisabeta kaaro-ka, kamia riiti paꞌuri hiꞌa-ka.
+Himio ata, Sakaraia himia paꞌai uubi rautu irudeme motoi-da omaꞌati himioi ioohiai-da, ruu poue omaꞌati ma aꞌai-ri, Iehoma hohoi-da,
+pouei emaꞌati bubui pobodoumo, rii oorio paꞌaimo, aaꞌo omaꞌati ma aꞌai meree ma emeeꞌaumoi-ri poohoumo, ruu apuimoi-ka, ribo mea herei ma iitoi-ri, irudeme motoi rioi Dubuae totoi-da.
+Aaꞌo himio mabui-da, ribo mea herei iitoi-da, turiaha uubi kekai-da ai-pirudemeumo.
+Kaida poobodi ruui-do Paidubui arerui, herei iito totoi iha tui hapuoi-da.
+Sakaraia-ro ruu iemeeꞌai-da urio podaudio, ka ruu toei-ro aiha peidai.
+Irai arerui-ro ruu oduuꞌai-ka, “Toe aꞌaiꞌa, Sakaraia. Iehoma-ro, roo irudemeai tauo oromai maaka, roo ooboi Erisabeta-ro, roo meree emetei aꞌai ohio, ka pairai ita idodo, Ioare.
+Rooi-do geema geꞌii-ro ooꞌai aꞌai, kamia hiiro-hiiro uubi geꞌii aꞌai aꞌai kaumo Ioare oobodi-da.
+Mabu Paidubui, hohoi-da ruu erehe hiꞌa dubu-ro ooꞌai aꞌai. Ruu-ro mire obo idioꞌa. Ka ruu Dubuae Urioi-ro maamui topii haato imamiai aꞌai.
+Hiiro Isaraꞌera uubi imaimai aꞌai rii himia Paidubui, Iehomai-do.
+Ka ruu Paidubui epuui-da odai aꞌai, urioi-re erehei-reida, himogabo dubui Eria aibo. Abeamiꞌoi kaukai ma imeheꞌeai, mereei rautu gaaꞌu-ha ma emidioumo. Ka ruu-ro iroroomidio tiatoi, imaimai aꞌai, mea emidio oroiꞌioi eito. Uubi imaumodii aꞌai, Paidubui ooꞌui eito.”
+Sakaraia-ro arerui atohetai-ka, “Moo-ro ara raai ihahai, raꞌaibou-da umoo iiꞌi raꞌai? Moo dubu paꞌuri-ka, kamia moo ooboi rautu paꞌuri-ka.”
+Arerui-ro ruu oduuꞌai-ka, “Moo Gabiriera-ka. Moo Iehoma hohoi-da rotii, ka moo ruu-ro rotiodoai ara made meai roo ma romoaduꞌoi-ri.
+Irai roo-ro, moo madei eidai bia, ara madei ihahai ruu himia hiꞌa himio mabui-da oobodiiꞌai. Mabu roo-ro madei eidai biai-ri, roo oroaduꞌuti oropoiꞌoi aꞌai. Roo piroha emidioi aꞌai, modau-die aaꞌo madei ihahai moobodii.”
+Aatu himioi uubi pauo piraromoumo, Sakaraia irudeme motoi-da tutuu-ha iomotiimoi-ri.
+Ka ruu iohuuꞌoi-da, made aaꞌoi modobo bia uubi eito. Rii-ro umoo iiꞌi-ka, ruu aape raa tauo eaꞌa maaka, irudeme motoi-da. Ruu-ro rii-do madei aaꞌoi modobo tiatoi-ri, tui-da perememeꞌuio.
+Ruu iirudemea himio mabui ioropoiꞌoi-da, ruu aiha paraimai motoi eito.
+Ipi-ro iopoꞌii-da, ruu ooboi Erisabeta topii emeeꞌai-ka, ka tu-hapuo (5) ome motoi haato pemidio.
+Erisabeta-ro aaꞌoi-ka, “Paidubui-ro ara raai tauo ododiai maaka mooi-do. Doꞌou ara himiou, ruu rioi tauo obodii maaka, ka moo uubi-ro ireemehiipodioumoi, ai-remahuꞌeta.”
+Erisabeta topii tikiti (6) omei ioohiai-da, Aiai Iehoma-ro arerui Gabiriera potiodoai, goꞌotoi Rasaretai-to Garereia goroi-da.
+Ruu made pomodau, Iosepa iomodabuaimo meree-behei eito. Ruu, rii Pai, Damida guui meree-ka. Meree-behei pairai, Maria-ka.
+Arerui ooꞌui-ka, ida paaꞌo, “Miroi roo rautu-ka! Paidubui, roo rautu-ka. Ruu geema hiꞌa geꞌii-ka rooi-do.”
+Maria iraromoi pauo pimidai arerui iaaꞌo madei-da, ka ruu rio-ka umoo ma iiꞌi madei ihahai.
+Arerui-ro aaꞌoi-ka, “Maria, toe aꞌaiꞌa. Aiai Iehoma geꞌii-ka rooi-do.
+Roo topii emeeꞌai aꞌai, ka ohio-meree ootoi aꞌai, ruu pairai ita ahoꞌoo, Iesu.
+Ruu geema-ro ooꞌai aꞌai, ka ruu ahoꞌoi aꞌai kaumo ohu hiꞌai Paidubui Meree. Aiai Iehoma-ro ruu Pai ododiai aꞌai, ruu rariai Damida emerai.
+Ka ruu Iakobo aramiꞌoi Pai emidioi aꞌai, ka ruu Pai erarai oropoiꞌoi aꞌai bia.”
+Maria-ro ruu madei pomoaimai, “Ararau mooi-do raꞌaibou oobodi maꞌai? Mabu moo dubu tama umoo bia.”
+Arerui-ro omoaimai-ka, “Dubuae Urioi-ro roo atimai aꞌai, Aiai Iehoma erarai, rooato, ooꞌai aꞌai, aaꞌo rau-ri, Dubuae mereei ahoꞌoi aꞌai kaumo, Iehoma meree.
+Iraromai, roo riamabiai Erisabeta, pooꞌa ruu paꞌuri, uubi aaꞌoi ruu kaaro-ka, irai doꞌou, ruu topii tikiti (6) omei-ka.
+Ata raa aahuu bia Aiai Iehomai-do.”
+Maria-ro aaꞌoi-ka, “Moo Paidubui himoꞌa meree-ka. Roo aaꞌo emerai mooi-do ita oobodi.” Ka arerui-ro, ruu aiha pemeheai.
+Tutuu bia, Maria hioi-to eremaumodi-ka, ioroi, roꞌoa-roꞌoa goꞌoto atai-to, Iudea goroi-da.
+Hiei-da ruu odoroi-ka, Sakaraia motoi, Erisabeta geꞌii made emaꞌai-ka.
+Ka Erisabeta-ro, Maria geꞌii madei ioromai-da, ruu topii ioidio mereei geꞌii ai-piamuhiodidio. Ka Erisabeta Dubuae Urioi-ro aiha piimamiai,
+ida geema madei-to paaꞌo, “Roo turiaha upibaiꞌoi-da, Iehoma meai, geegai roo reꞌei-daka, roo topii emidio mereei-re.
+Moo raꞌu meai-ra, Paidubui maamui-ro moo ma raamiai?
+Mabu, roo madei aaꞌoi-da moo topii emidio mereei geꞌii iapuhiodidio.
+Geꞌii-ka, roo boꞌu-ro iraromo pupuo eidai, Paidubui iaaꞌo madei ihahai oobodi aꞌai.”
+Ka Maria-ro aaꞌo-ka, “Moo kaukaui-da, Paidubui ai-remarahue;
+Moo urioi rautu geema geꞌii raꞌai, Aiai moo oitorai Dubui-ri,
+mabu ruu-ro, moo ruu himoꞌa meree, oobo behai, iraromai-ri. Doꞌou imodau iiꞌai aꞌai himioi, turiaha uubi-ro moo geꞌii-to ahoꞌoodioi aꞌai kaumo,
+mabu Erara Aiai-ro, mooi-do aꞌai raara paipai-ri. Ruu pairai Dubuae-ka.
+Ruu giiꞌepui odai aꞌai, roo boꞌu-ro memaabe ruui-do, doꞌou abeamiꞌoi eito, mereei eito, aramiꞌoi eito, rariamiꞌoi eito.
+Ruu tui-da paipai aiaꞌaia raara pidodiai, ka boiꞌo-ro oroomomioumo, rii himia iraromoi-da, ruu-ro iburuti-ka.
+Ruu-ro pai erara iemidioumo uubi ai-pimooruodio, ka himoꞌoi pimioo.
+Ruu-ro rioi goroꞌoro uubi meamea raarai-da piomoto, ii raara hiiro-hiiro uubi tutuu-ha pitiodoai.
+Ruu-ro, ruu himoꞌa mereei, Isaraꞌera ai-pomoaabai, ruui-do giiꞌepu iraromoi piraromai,
+Aberahamo himia rariamiꞌoi eito iaraa-ha, rimo abeamiꞌoi eito iaaꞌo aiboi.”
+Maria, Erisabeta rautu, retoꞌa-gaaꞌu (3) ome aibo pemidio, ida paraimai goꞌotoi eito.
+Erisabeta mereei araraꞌii-ka, mereei aiha pooto, ohio.
+Ruu riaraamiꞌoi-re, ruu taitai uubi-reiro, ruu Paidubui-ro iomoaabai mea geegai ioroomaimoi-da, geꞌii paꞌaimo ruu rautu.
+Puura gaaꞌui ioroohodi didimoi, mereei tama ahiai idabuaimoi-ka, ka pairai ma idodoumo Sakaraia, ruu abeai pairai-da.
+Irai ooto maamui-ro aaꞌoi-ka, “Abia, ruu pairai, Ioarei-to, ita ahoꞌoumo.”
+Rii-ro ruu oduuꞌaimoi-ka, “Roo riaraamiꞌoi-da, iire pairai ahoꞌoumo bia.”
+Ka rii-ro mereei abeai ememeꞌuioi-ka, mereei ruu-ro boꞌui-to ahoꞌoi maꞌai.
+Ka Sakaraia erememeꞌuioi-ka iꞌati raa-ri. Ka rii urio podaudioumo ruu iꞌati-da, “Ruu pairai Ioare-ka.”
+Aaꞌo ipi haato, Sakaraia madei araꞌerai-ka, Aiai aiha pemarahue.
+Riiti taitai uubi, geega toe paꞌaimo, ka madei iodai-da roꞌoa-roꞌoa mati Iudeaito, uubi-ro aaꞌo raarai madei aiha poromoaꞌoiamo.
+Diamoi ioroomaimoi-da, uubi geemai-ro ai-piraromoumo, ida paraatomo, “Ara mereeu raꞌu-ro ooꞌai maꞌai?” Mabu ruu Paidubui erara meree-ka.
+Dubuae Urioi-ro, Ioare abeai Sakaraia iimamiai-da, araibau peremamaihidio:
+“Ai-remarahue kaumo Paidubui Iehoma, Isaraꞌera uubi Urio Abeai, mabu ruu tauo ooꞌu maaka, ruu uubi oroiꞌioi eito ma imaimai-ri.
+Ruu-ro erehe hiꞌa ioitouti mereei tauo rimaꞌai maaka, Damida guui-da, Damida Iehoma himoꞌa meree-ka.
+Aiai-ro epuui-to dubuae himogabo uubi madei modoboi, ruu iereemamaihidio aiboi,
+ruu-ro rimo iahiꞌii aꞌai, rimoi-do boho uubi-re, kamia rimoi-do udo uubi-rei erehei goroi-da.
+Ruu-ro rimo rariamiꞌoi giiꞌepu pimaꞌai, mabu ruu-ro ai-piraromai rii rautu iereemedeeꞌaumo Dubuae madei.
+Rimo rariai Aberahamo rautu iereemedeeꞌaido madei,
+rimo boho uubi erehei goroi-da ma riahiꞌii, ka ruu himoꞌa ma raꞌaimo toe tiato-ha.
+Ka rimo ruu hohoi-da, dubuae-ra gamoꞌo-raida ma rodaumo, rimo oroiꞌioi aꞌai himioi-da.
+Ka roo, moo meree, roo ahoꞌoi aꞌai kaumo hoꞌu hiꞌai Paidubui himogabo dubu. Mabu roo Paidubui epuui-da odai aꞌai, ruu gaboi emaumodi,
+ruu uubi umoo ma imaꞌai, oroiꞌioi eito ma iiraimaimo, rii memihoi imapihiti-da.
+Mabu Aiai geema giiꞌepu-ka rimoi-do, aaꞌo rau-ri rimo ioitouti aꞌai mereei oaho himioi hehei aibo oruoi aꞌai aromoi-da,
+hehei-da ma emidioumoi-ri, duꞌi-da emidio uubi-re, ka oroihi duꞌi-da emidio uubi-re, ka rimo otoi gamoꞌo gaboi-da ma rimadaꞌuimo miroi eito.”
+Ka mereei pupuo-ha piiꞌi tuupi-re urioi-rei rautu, ka opuhe mati-da pemidio, ida didimoi-to poobodi uubi geemai eito, Isaraꞌeraato.
+Aaꞌo himioi, Roma hepui paidubui, Kaisara Agusito-ro, erara made edeꞌai-ka, uubi gamara paira bukai-da, pairai ma ideꞌaumoi-ri, Roma hepu geemai goroi-da.
+Epuu paira imeꞌei-ka, Kurerio Suria hepui gamara iiemidioi-da.
+Ka turiaha uubi aiha piiraimutimo, rii himia-himia rariamiꞌoi, goꞌoto-goꞌotoi eito, pairai ma imodoumoi-ri.
+Ka aaꞌo rau-ri Iosepa, Rasareta goꞌotoi emeheai-ka Garereiaato, odai Beterehemai-to, Iudea goroi-da ooꞌa. Ruu rariai Damida ioobodi goꞌotoi-ka. Mabu ruu Damida guui-da dubu-ka.
+Ruu iodai-da, ruu iomodabuaimo ooboi Maria, ai-pomodau pairai gaaꞌu-ha ma ideꞌaidoi-ri. Maria topii irio hiꞌai-ka.
+Beterehemaa-to, mereei aiha pararaꞌii,
+kiauka, ruu boma mereei aiha pooto ohio, hipurai-da omoomai-ka, boromokaui duui iihodioumo ipuai-da, aiha pomutaꞌa. Mabu dima motoi-da, riiti emidio hiaꞌe tiato-ka.
+Ka aaꞌo duoi, mamoei iaꞌe uubi aamiꞌa, aaꞌo goꞌotoi taitai hauꞌii-da, mamoei paꞌai dabi paꞌaimo.
+Ida poobodi Paidubui Arerui, ka Iehoma erehe hiꞌa hehei-ro, rii turiaha imemiai-da, iha toei paꞌaimo.
+Irai Arerui-ro aaꞌo-ka, “Toe aꞌaimoꞌa, moo-ro riꞌo meai-re, kamia hiiro-hiiro uubi-ro geꞌii hiꞌa, ma aꞌaimo made rimomoꞌu.
+Doꞌo hiꞌau riꞌo oroiꞌioi eito imodai aꞌai mereei, Damida goꞌotoi-da tauo oobodi maaka, Iehoma-ro Iapui Paidubui, ruu Pai-ka.
+Ka riꞌo-ro umoo ma iiꞌimoi-ri emeeꞌai aꞌai kaumo, ruu hipurai-da omoomatidio, boromokau duu_i iihodioumo ipuai-da oidio.”
+Ka tutuu bia hiiro hiꞌa areru oobodimoi-ka aromoi-da, ruu rautu oodabuaimoi-ka, Iehoma raahoaꞌei-da emarahueumoi-ka,
+“Aromoi hoꞌu hiꞌai-da, Aiai Iehoma emarahueumo, kamia miroi hepui-da mooꞌa-ka, Aiai Iehoma-ro geꞌii imaꞌai uubi eito!”
+Arerui aromoi eito iraimaimoi-da, mamoei dabi uubi-ro, oromoaduꞌoi-ka, “Aiha rodau kaumo, Beterehemai-to, Paidubui-ro rimo made, imetiodoai raai emeeꞌai.”
+Ka horehore-ha podaumo, Maria-ra Iosepa-rai imeꞌai-ka, meree gagei boromokaui duui iihodioumo ipuai-da poidio.
+Rii-ro iemeeꞌaumoi-da uubi imoaduꞌuti-ka, arerui-ro mereei iatomudio emerai.
+Ka aaꞌo madei ioromidioumo uubi turiaha urio podaudioumo.
+Maria-ro aaꞌo raarai aiha piraromai moꞌui-da, ka pupuo hiꞌai-to piraromo.
+Mamoei dabi uubi-ro Iehoma raahoaꞌei-da emarahue-ha piraimaimo. Mabu rii-ro turiaha ioromidioumo, kamia ieaꞌaumo raarai arerui-ro aiha iatomudio emerai-ha pimeeꞌaumo.
+Puura gaaꞌui iorohodi didimoi-da, mereei tamai ahiai-ka, pairai aiha pidodoumo Iesu. Arerui-ro iemaꞌai pairai-ka, ruu maamui topi-da orododiai tiatoi-da.
+Riiti dubuae ma iiꞌidoi-ri, ieremaumodido himioi ioropoiꞌoi-da, Mose bubui-da iaaꞌo emerai, Iosepa-ra Maria-rairo ruu aiha pomodaido, Ierusaremai-to, ma oaꞌueumoi-ri Paidubui eito.
+Paidubui bubui-da iꞌatimo emerai, “Epuu tutuei ohio-ra, ma oaꞌuei Paidubui eito”.
+Kamia ai-podaido, poue raa ma omomohuduaimoi-ri, Paidubui bubui ohidioi-ri, iaaꞌo emerai, badu-oti tiato-ro ooꞌaato, ka upi momoꞌooti-to.
+Aaꞌo himioi Ierusaremaa-to pemidio dubu ata paira-ka Simiora, ruu mea hiꞌa-ka. Kamia Aiai ai-pemabeedio, ruu ai-pomoti Isaraꞌera uubi ma imoabai meree-ri. Dubuae Urioi ruu rautu-ka,
+ruui-do Dubuae Urioi-ro, tauo pomoaꞌeemia, ruu iihiai aꞌai bia, modau-die Paidubui iapui mereei memeeꞌa.
+Urioi-ro Simiora iimaamiai-da, ruu aiha podoro irudeme motoi eito. Ka maamu-ra abea-rairo Iesu pahapahai iomooꞌuidoi-da, bubui iaaꞌo raarai idomoiatidioi, Simiora-ro mereei aiha poobai ruu tui-da, ka Iehomai-do geꞌii made aaꞌoi-ka,
+<range>
+“Ara doꞌou, Aiai-o, roo ieremamaihidio madei ihahai tauo oobodi maaka, roo-ro moo, roo himoꞌa mereei, rotiodoai iihiai eito, miroi-da.
+Mabu moo himia idomai-da tauo remeeꞌa maaka, uubi ioitouti aꞌai mereei.
+Roo-ro aiꞌoi eremaumodi, uubi abeai hohooi-da,
+roo rioi, roo hehei Iesu-ro, imoaꞌemiai aꞌai, Iuda guui-da paira tiato uubi eito, kamia tomioi imomoꞌui aꞌai, roo himia uubi Isaraꞌerai-do.”
+Mereei maamu-ra abea-rai urio podaudioido, Simiora mereei-ri iaaꞌo raarai-da.
+Simiora-ro meai imaꞌai-ka riibi, ida paaꞌo mereei maamui Mariai-do, “Ara mereeꞌu Iehoma-ro papui, ruuato hiiro uubi Isaraꞌera-to iraahioi aꞌai kaumo, kamia hiiro uubi ireibuai aꞌai kaumo. Ruu Aiai reꞌei-da hooho-ro oroaꞌeemia, ka hiiro uubi-ro eremamaraiboi aꞌai kaumo,
+kamia rii piro-piro iraromoi hauꞌi eito imobodii aꞌai. Ka eꞌa hiꞌua aibo pauo iraromoi-ro, roo himia hiꞌa kaukai amuai aꞌai.”
+Ka hiei-da pemidio paꞌuri hiꞌa himogabo oobo ata, ruu pairai-ka Ara, Paruera meree-behei-ka, Asa guui-da. Ruu semeri (7) burio beha pemidio dubui rautu, ka doꞌou, ruu eiti-poa (84) burioi-ka, himui. Ruu-ro irudeme motoi emeheai bia, duo-ra himio-raida ruu-ro Iehoma ai-pemarahuedio, imaꞌui-re irudemei-rei rautu.
+<range>
+Aaꞌo himio mabui haato, ruu eredeꞌai-ka, kiauka Aiai eito keito made aaꞌoi-ka, ka mereei made imoaduꞌoi-ka turiaha goꞌoto-goꞌotoi ioroomotiimo uubi eito, Iehoma-ro Ierusarema-ra Isaraꞌera-ra uubi, ma ioitouti-ri.
+Iosepa-ra Maria-rai, Paidubui Bubui modoboi-da imaꞌaimo omaꞌati, ioropoiꞌoi-da rii ireheꞌeai-ka iiraimai, Garereia hepui eito, rii himia goꞌotoi Rasaretai-to.
+Mereei pupuoi rautu-ha piiꞌi, ruu pupuo moꞌui geema-ha pooꞌa. Aiai meai, aiha pooꞌa ruuato.
+Turiaha burioi Orohodi mahuai eito, Iesu maamu-ra abea-rai ioroaꞌoiadioumo emerai, imidai-ka odai Ierusaremai-to.
+Iesu tuero (12) burioi-da, rii odaumoi-ka mahuai eito, rii iꞌatidioumo emerai.
+Mahuai ioropoiꞌo didimoi, rii aiha pireheꞌeaimo iraimai goꞌotoi eito, maamu-ra abea-rai umoo iiꞌi bia, meree ohioi Iesu aiha pemeheaimo Ierusaremaato.
+Riiti-ro ai-piraromoido tabai goroi-da imimadaꞌui, irai himio gaaꞌui didimoi-da pomahoroido ororoohoi riaraamiꞌoi-re uubi-rei tuia-tuiai.
+Irai riiti-ro emeeꞌaido bia. Aaꞌo rau-ri, ai-piraimaido Ierusaremai-to ruu oohoi.
+Retoꞌa-gaaꞌu (3) himioi didimoi-da pemeeꞌaido, ruu irudeme motoi-da, Iuda imatomudio uubi tuiai-da pemidio, iroomidio-ra iatohe-rai paꞌai.
+Ka turiaha uubi urio podaudioumo, ruu umooi iemeaꞌaumoi-da, mabu ruui-do iatoheumo madei, gamoꞌo-ha pimoaimuti.
+Ruu maamu-ra abea-rairo iemeeꞌaidoi-da, pauo-ha piraromoido, kaida paaꞌo maamui-ro, “Moo meree, ireibai raꞌu-ri ododiai rimoiti-do? Roo abeai-re mooi-re, roo-ro hora kaukau ridodiai, roo oohoi-da.”
+Iesu-ro madei imoaimai-ka, “Riꞌoiti-ro moo raꞌu-ri rooho duido, riꞌoiti umoo ma iiꞌi, moo abeai motoi-daka.”
+Irai riiti-do iaaꞌo madei, riiti-ro umoo eidaido bia.
+Ka ruu rautu atuha piraimaibiimo Rasaretai-to. Ka riiti-ro ruu iotomuido madei ai-peidai. Ka ruu maamui-ro ara raarai aiha piraromo, ka pupuo-ha pideꞌa ruu kaukai-da.
+Ka Iesu tuupi-re moꞌui-rei rautu, iha aahuu-aahuui pitoꞌa, Aiai Iehomai-re uubi-reiro ruu ihaha rioi pemaꞌaimo.
+Roma pai, Kaisara Tiberu, iemidio pipitiri (15) burioi-da, pemidio, Poroto Pirato, Iudea gamarai. Heroda ruu Garereia hepui pai-ka, ka ruu raamu-abeai, Piripi, Iturea-ra Tarakori-rai hepui pai-ka, Risaria ruu Abirere hepui pai-ka.
+Ka Arasi-ra Kaiopasi-rai, Iehomai-do poue emaꞌati uubi epuuhoroti-ka. Ka aaꞌo himioi Aiai Iehoma madei ooꞌui-ka, Sakaraia mereei Ioarei-do, opuhe mati-da.
+Ka aaꞌo madei itooi-da aaꞌo-ha poroaꞌoia Ioridara oomoi hapuo-hapuoi, “Ireheꞌeaimo riꞌo memihoi reꞌei-da oboi-da ma imaaheemoi, ka Iehoma-ro riꞌo memihoi imapihiti aꞌai.”
+Tauo-ha piꞌati, Iehoma himogabo dubui Aisaia bukai-da, “Ata meree itoo aaꞌo opuhe mati-da, ‘Paidubui gaboi emaumodimo rooꞌo-ha, ruu ma ooꞌui.
+Roꞌoai boboi iiopoumo, roꞌoai ubu-ubui patapata idodiaimo, Kima gaboi ma iꞌimuti, gamoꞌo-ha ma iiꞌai, roꞌoai bobo-boboi ma imoopoi.
+Ka Iehoma-ro, uubi ioitouti iotiodoai mereei, turiaha uubi-ro eaꞌai aꞌai kaumo.’”
+Hiiro hiꞌa uubi iohai-ka, Ioarei-do, obo ma imaaheemoi-ri, ruu-ro rii-do aaꞌoi-ka, “Riꞌo auo-ka! Riꞌo boꞌu-ro imoaduꞌo Iehoma otiodoai toto aꞌai riiboi-da riꞌo odaudioi aꞌai kaumo?
+Ire raarai ita idodiaimo, ka ruuato riꞌo-ro oroahuꞌomai aꞌai kaumo riꞌo memihoi-da tauo pireheꞌeaimo. Ka riꞌo himia ipituiai-da omahoroumoꞌa oromoaduꞌuti araibau, ‘Aberahamo riꞌo rariai-ka.’ Moo-ro riꞌo ai-riduuꞌai Iehoma-ro ara roꞌoa kopi-kopi-da Aberahamo koemai uubi idodiai modobo-ka!
+Ibuoi tauo-ha peremaumodi, ruꞌai hipi-da ma iahioi-ri turiaha, mea hura aꞌai tiato ruꞌai iahioi aꞌai erai tuiai-da miheuꞌato.”
+Ka uubi-ro ruu atohetai-ka, “Rimo raꞌaibou aꞌai-ra?”
+Ioare-ro rii imoaimai-ka, “Boꞌu reꞌei-darie retoꞌa (2) teti, ata gaaꞌui ma emaꞌai hobou-ha mereei eito, kamia boꞌu reꞌei-darie dui, ma eremaꞌati.”
+Kamia taketi imoamee uubi aamiꞌa, ooꞌumoi-ka, oboi-da ma imaaheemoi-ri, ka rii-ro ruu atohetai-ka, “Imatomudio dubu-o, rimo raꞌaibou aꞌai raꞌai duumo?”
+Ruu-ro rii pimoaimai, “Roma gamarai bubui-ro iedeꞌa modoboi ohui-da imoamei bia.”
+Heamo uubi aamiꞌa-ro ruu atohetai-ka, “Rimo mia raꞌaibou-ra? Rimo raꞌaibou aꞌai-ra?” Ioare-ro rii imoaimai-ka, “Meree ata mori, erehe eito oaidai bia, kamia auma tiato mereei, ematuhuti aibo ahoꞌoi bia. Riꞌo himia taꞌii-ha ma imidai udo tiato-ha.”
+Uubi iraromoi, iioi omahoroi-ka, kamia rii ioroomotidioumo, Ioare Iehoma-ro, uubi imoabai-ri iapui mereei roꞌoamooꞌa-o?
+Ka Ioare-ro rii turiaha iduuꞌai-ka, “Riꞌo moo-ro oboi-da rimaaheemo, irai meree ata raa mooꞌu. Moo ruu aibo bia, ruu geema-ka, moo mea bia ruu oto tamai imi ma romopimuti, ruu-ro riꞌo Dubuae Urioi-re, erai-reida, imaaheemoi aꞌai.
+Ruu ruꞌa hurai itode kukui tui-da ai-oꞌapudio, ruꞌa hurai ma itodei-ri, meai ruu du motoi-da, ma iraahoꞌoi, ka memihoi oropoiꞌo tiato erai eito ma ipeduai.”
+Himia-himia emerai-da poaduꞌo, Ioare-ro paimeai, uubi eito, ka uubi ai-pimoaduꞌuti, rii ioroiꞌioumo emerai-da ma ireheꞌeaimo.
+Irai Ioare-ro pai dubui Heroda erehe madei-to pemaaꞌo, mabu ruu raamu-abeai, ooboi Herodia ai-poahiꞌi, kamia hiiro-hiiro memiho raara ai-paꞌai.
+Kamia Herodai-do memiho hiꞌa iiꞌi, Ioare ruu-ro duꞌi motoi-da pibiꞌa.
+Turiaha uubi oboi imaaheemo didimoi-da, Iesu obo oaahemai-ka. Ka ruu iirudemeai-da, aromoi aiha paraꞌerai.
+Ka Dubuae Urioi, ruiai emerai pooruo, ruu ohui-da emiꞌei-ka. Ida made ata aromoi-da paaꞌo, “Roo moo rio mereei-ka, moo iha geꞌii raꞌai rooi-do.”
+Ka Iesu omaꞌati iiomahoroi, ruu teeti (30) burioi-ka. Uubi iraromoumoi ruu Iosepa mereei-ka. Iosepa Heri mereei-ka,
+Heri Matatu mereei-ka, Matatu Remi mereei-ka, Remi Mereki mereei-ka, Mereki Iarai mereei-ka, Iarai Iosepa mereei-ka,
+Iosepa Matataia mereei-ka, Matataia Amosa mereei-ka, Amosa Rahumu mereei-ka, Rahumu Eseri mereei-ka, Eseri Ragai mereei-ka,
+Ragai Mahata mereei-ka, Mahata Matataia mereei-ka, Matataia Semeira mereei-ka, Semeira Ioseka mereei-ka, Ioseka Ioda mereei-ka,
+Ioda Iorara mereei-ka, Iorara Resa mereei-ka, Resa Serubabere mereei-ka, Serubabere Searetiere mereei-ka, Searetiere Reri mereei-ka,
+Reri Mereki mereei-ka, Mereki Adi mereei-ka, Adi Kosama mereei-ka, Kosama Eramadama mereei-ka, Eramadama Eo mereei-ka,
+Eo Iosua mereei-ka, Iosua Eriesere mereei-ka, Eriesere Iorima mereei-ka, Iorima Matatu mereei-ka, Matatu Remi mereei-ka,
+Remi Simiora mereei-ka, Simiora Iuda mereei-ka, Iuda Iosepa mereei-ka, Iosepa Iorama mereei-ka, Iorama Eriakimi mereei-ka,
+Eriakimi Merea mereei-ka, Merea Mera mereei-ka, Mera Matata mereei-ka, Matata Ratara mereei-ka, Ratara Damida mereei-ka,
+Damida Iese mereei-ka, Iese Obeda mereei-ka, Obeda Boasi mereei-ka, Boasi Saramora mereei-ka, Saramora Rasora mereei-ka,
+Rasora Amiradaba mereei-ka, Amiradaba Adamira mereei-ka, Adamira Ari mereei-ka, Ari Hesarora mereei-ka, Hesarora Perese mereei-ka, Perese Iuda mereei-ka,
+Iuda Iakobo mereei-ka, Iakobo Isaꞌako mereei-ka, Isaꞌako Aberahamo mereei-ka, Aberahamo Tera mereei-ka, Tera Rahora mereei-ka,
+Rahora Seruga mereei-ka, Seruga Reu mereei-ka, Reu Perega mereei-ka, Perega Eba mereei-ka, Eba Sera mereei-ka,
+Sera Keirara mereei-ka, Keirara Apasada mereei-ka, Apasada Sema mereei-ka, Sema Roa mereei-ka, Roa Remeka mereei-ka,
+Remeka Metusera mereei-ka, Metusera Eroka mereei-ka, Eroka Iareda mereei-ka, Iareda Maharera mereei-ka, Maharera Kerara mereei-ka, Kerara Erosi mereei-ka,
+Erosi Seta mereei-ka, Seta Adamu mereei-ka, Adamu Iehoma mereei-ka.
+Iesu ereheꞌeai-ka, araimai Ioridara oomoi-da. Ka Dubuae Urioi-ro ruu iimamiai-da, aiha pomodau opuhe ipi eito.
+Ka hiei-da Satari-ro pematuhuti poati (40) himioi-to. Aaꞌo himioi-da, ruu raa ata uuho bia, ka ruu iha dui boboi peereaꞌaa.
+Ka Satari-ro aaꞌoi-ka ruui-do, “Roo Aiai Iehoma mereei-ro ooꞌaato? Ara roꞌoa kopi pupuo made ma emaꞌai, ka ruu du-ro orododiai aꞌai.”
+Irai Iesu-ro omoaimai-ka, “Iehoma made bukai-da, tauo piꞌatimo, ‘Uubi dui haato, oroiꞌioi aꞌai bia.’”
+Kiauka, Satari-ro ruu omioi-ka, ohu hiꞌa mati atai-to, ka ruu-ro horehore-ha pomoaꞌemia turiaha ara hepui pai emidio erara raarai.
+Satari-ro ruu oduuꞌai-ka, “Moo-ro emaꞌai raꞌai rooi-do, turiaha erarai ara raarai rautu, mooi-do piremaꞌai ka moo-ro boꞌui-do emaꞌai riraromo, moo-ro emaꞌai raꞌai.
+Ka turiaha ara raarai roo-ro imidai aꞌai, roo aia mihimai, mooi-do emarahuei.”
+Iesu-ro omoaimai-ka, “Iehoma made bukai-da, tauo piꞌatimo, ‘Roo Paidubui Iehoma-haido ma emarahuei, ka ruu omaꞌati behai-ha ma ododiai.’”
+Kiauka Satari-ro ruu omodai-ka, Ierusaremai-to, ka irudeme motoi ohu hiꞌai-da itoꞌaidoi-ka, ida paaꞌo ruui-do, “Roo Aiai Iehoma mereei-ro ooꞌaato? Eemediꞌa goroi eito.
+Mabu, Iehoma made bukai-da, tauo piꞌatimo, ‘Aiai Iehoma-ro ruu arerui made imaꞌaiꞌai, roo mea hiꞌa-ha ma emaabeumoi-ri.’
+Tauo piꞌatimo, ‘Rii-ro, roo oꞌapuai aꞌai kaumo, rii tui-da, ka roo otoi temeteme eidai aꞌai bia, roꞌoai-da.’”
+Irai Iesu-ro ruu omoaimai-ka, “Iehoma made bukai-da tauo piꞌatimo, ‘Roo Paidubui Iehoma, roo-ro emahibai-da, edeꞌai bia.’”
+Ka Satari-ro Iesu ematuhuti turiaha ioropoiꞌoi-da, ruu-ro, Iesu emeheaibuai-ka.
+Kiauka Iesu ereheꞌeai-ka Garereiai-to araimai, ka Dubuae Urioi erarai ruuato aiha pooꞌa. Ka ruu pai aburai-ka turiaha aaꞌo mati iooꞌa modoboi.
+Ruu-ro idabu motoi-da ai-pimatomudio, ka turiaha uubi-ro ruu ai-pemarahueumo.
+Iesu odai-ka Rasaretai-to, ruu ioomotoumo mati eito. Ka Sabati himioi-da, ruu odai-ka idabu motoi eito, ruu iꞌatidio aiboi. Ruu eibuai-ka, Iehoma made bukai ma iaapoi-ri.
+Ka himogabo dubui, Aisaia titi aiha pemaꞌaimo. Apopoi-ka, iꞌatimo mati aiha pemeeꞌa:
+“Paidubui Dubuae Urioi moo rautu-ka, mabu ruu-ro moo ai-pirapui, mea madei aꞌamii uubi eito ma rimoaduꞌuti-ri. Ruu-ro moo ai-pirotiodoai, uubi made ma rimaꞌai-ri, rii duꞌi motoi-da iitohitiimoi, moo-ro iiahiꞌii raꞌai, ka idomai tiato uubi idomai ma iaamodiimo, ka pauo hiꞌa emidio oroiꞌioi reꞌei-da ma rimodaadeai,
+ka oaduꞌo himioi tauo oohiai maaka, Paidubui ruu himia uubi, oroiꞌioi eito ma imaimai-ri.”
+Iesu-ro titi otohiti-ka, aiha pemaꞌai imoabai mereei eito, ka ruu aiha pemiꞌei. Idabu motoi rioi iemidioumo uubi, turiaha idomai ruu-hato piiꞌaa,
+ruu-ro rii-do, aaꞌoi-ka, “Ara titi-madei doꞌou ihahai tauo obodii maaka, moo-ro iriapoi-da, riꞌo-ro imoromidioumo emerai.”
+Rii turiaha-ro, ruu geꞌii pemaꞌaimo, kamia urio podaudioumo, ruu puꞌoi-da iohuꞌo made meai-da. Ka rii-ro aaꞌoi-ka, “Ruu Iosepa mereei-ra?”
+Iesu-ro rii-do aaꞌoi-ka, “Moo umoo-ka, doꞌou riꞌo-ro, aaꞌoi aꞌai kaumo, ara obeegiri mooi-do, ‘Doketa, roo himiaha-ro, oodomoia.’ Riꞌo-ro moo ata oduuꞌai aꞌai kaumo, ‘Ata raa ma raꞌai-ri ara rimo himia goꞌotoi-da, Kaperaraumaato iorododiaimo aiboi, riꞌo-ro ioromidioumo emerai.’”
+Iesu-ro aaꞌoi-ka, “Moo-ro riꞌo ihaha riduuꞌai araibau. Himogabo dubui ruu himia goꞌotoi-da, emabeumoi aꞌai bia.
+“Moo iaha roromiidiioumo: ihaha-ka, Eria himioi-da, upi himui hiiro-ha pemidioumo Isaraꞌeraato, aaꞌo himioi mihae iaꞌuti bia retoꞌa-gaaꞌu (3) burioi-re tikiti (6) omei-reida, du tiato miomai-ro turiaha aaꞌo hepui aiha peidai.
+Ka Eria otiodoai bia meree atai-do Isaraꞌera goroi-da, irai oobo himu atai-do podau, goꞌotoi Sarapetai-to, Sidoro hepui-da.
+Ka hiiro hiꞌa tauo pemidioumo, mobibi gimoi rautu, Isaraꞌeraato, himogabo dubui Erisa himioi-da, irai gaaꞌubuo ata oodomoia bia, iiꞌi Suria dubui Ramari beha-ka.”
+Idabu motoi uubi-ro iioromaimoi-da, rii turiaha udo paꞌaimo.
+Rii iireibuaumoi-da, Iesu aiha pohiꞌitimo, goꞌotoi kekai eito, ka ai-pomodaumo rii goꞌotoi iididimo roꞌoai ohui eito, rii rio-ka, ruu ohiꞌiodidioi roꞌoai dodoroi-da,
+irai uubi tuiai aiha poroohodii, ka ruu himia gabo-ha podau.
+Kiauka, Iesu aiha podau Kaperaraumai-to, goꞌoto ata-ka, Garereia goroi-da, ka Sabati himioi-da, uubi imatomudioi omahoroi-ka.
+Rii urio podaudioumo, ruu iimatomudio emerai-da, mabu ruu erehei rautu-ha poroaduꞌuti.
+Idabu motoi rioi-da pemidio, memiho urio rautu dubu ata. Ruu aapoꞌiai-ka, pai rautu madei-to,
+“Aaa, Rasareta Iesu-o, roo raꞌu rio maꞌai rimoato? Roo rimo imodoboai amooꞌu? Moo umoo-ka, roo boꞌu-ra: roo Aiai Dubuae himoꞌa mereei-ka!”
+Iesu-ro erehei-to aaꞌoi-ka, “Piroha! Ohuuꞌo ara dubui-da.” Kiauka memiho urioi-ro, aaꞌo dubui aiha peheuꞌato, rii turiaha hoho reꞌei-da, ka aiha pohuꞌodidio ruuato, ruu omodoboa tiato-ha.
+Uubi urio podaudioumo, ka rii himia-ro ai-poroduꞌaitutiimo, “Raꞌaibou made raumo ara? Erehei-re pupuoi-rei rautu, ara dubui-ro, memiho urioi made imaꞌai-da, aiha ihuꞌodidioi-ka.”
+Ka Iesu pai, aiha paburai, aaꞌo hepui-da.
+Idabu motoi emeheai-ka Iesu, ka ai-podau Simora motoi eito. Simora emapua maamui hamamaa gimo paꞌai, ka rii-ro, Iesu oduuꞌaimoi-ka, ruu ma omoabaimoi-ri.
+Iesu odai-ka totoi kekai-da aiha potoꞌa, ka hamamaa gimoi made emaꞌai-ka, ruu ma emeheai-ri. Kiauka gimoi-ro, ruu iemeheai-da, ruu gaaꞌubuo-ha peibua, ka ruu-ro, rii iiho du imododia-ka.
+Himioi ioopiꞌoma didimoi-da, uubi-ro, Iesui-do imooꞌumoi-ka, turiaha boiꞌo-ro emidioumo, himia-himia gimoi rautu, ka ruu tui iiaꞌoi-ka rii ohui-da, ka rii turiaha meaha iiꞌimoi-ka.
+Memiho urioi hiiro uubiato pihuꞌotutiimo, ka pairautu madei-to paaꞌoumo, “Roo Aiai Iehoma mereei-ka.” Iesu-ro memiho urioi bubu made imaꞌai-ka, rii made aaꞌo tiato-ha ma iiꞌai-ri, mabu rii umoo iiꞌimoi-ka, ruu uubi imoabai-ri, iotiodoai mereei-ka.
+Himioi ioahoi-da, Iesu-ro, goꞌotoi emeheai-ka odai, muio-ipi eito. Ka uubi-ro omahoroi-ka ruu oohoi, ka rii-ro ruu iemeeꞌaumoi-da, rii-ro emahibai-ka ruu emadohoi, ruu-ro rii imeheaiꞌai-ri.
+Irai rii-do ruu-ro aaꞌoi-ka, “Moo-ro ma rimoaduꞌuti, Iehoma pai emidio erara mea madei, goꞌoto aamiꞌai pairi, mabu ire moo Aiai Iehoma-ro ododiai-ri irotiodoai omoaꞌati-ka.”
+Ka ruu-ro idabu motoi rioi-da, ai-pimatomudio, Iudeaato.
+Himio ata, Iesu Geresareta damoi kekai mioi-da potii, ida uubi ooꞌumoi-ka ruui-do, irai ai-poromotoꞌoimo Aiai Iehoma madei, oromidioi.
+Ruu-ro retoꞌa (2) peeti imeꞌai-ka, mioi-da piaꞌoaimo, raa iobo uubi-ro pimeheaimo, ka rii pohoi pimoruꞌoumo.
+Iesu oroi-ka aaꞌo peei atai-da, aaꞌo peei Simora peei-ka, ruu atohetai-ka, ma iꞌimaibuai-ri tuia aiboi eito. Iesu emiꞌei-ka peei rioi-da, ka uubi hiiroi, pimatomudio.
+Kiauka, ruu oroaduꞌuti ioropoiꞌoi-da, Simorai-do aaꞌoi-ka, “Peei oabu gomoi eito, rooi-re, ka roo aamiꞌai-rei rautu, pohoi ma idobiaumo, raa ma iobomo.”
+Simora-ro omoaimai-ka, “Epuudubu-o, rimo duo tutuui biai roroaꞌoia maakaumo, ata raa iobo bia. Irai roo-ro aaꞌoi-ri, pohoi idobiai raꞌai kaumo.”
+Rii-ro iodobiaumoi-da, hiiro hiꞌa raa piohiaimo, pohoi taitai-ka arahiuti.
+Imemeꞌuioi-ka, rii aamiꞌai pee atai rioi-da, rii imoabai ma ooꞌumoi-ri. Rii iooꞌumoi-da peeti, hiiro hiꞌa raa piomutimo, peeti taitai-ka ioruoi.
+Ida Simora Petero-ro, iobodimo raai ieaꞌai-da, ruu popupopu pihimai, Iesu hohoo reꞌei-da, ida paaꞌo. “Odadeai moo reꞌei-da, Paidubu-o! Moo memiho dubu-ka!”
+Ruui-re, ruu rautu aamiꞌai-rei, urio podaudioumo, rii ioboumo raa hiiroi iaꞌaumoi-da.
+Gaaꞌu aibo-ka, Simora aamiꞌai ihahai, Sebedi meree ohiooti-ka, Iemisi-ra Ioare-rai. Iesu-ro Simorai-do aaꞌoi-ka, “Toe aꞌaiꞌa, doꞌoi imodau ooꞌaiꞌai himioi, roo-ro uubi iohi aꞌai.”
+Rii peeti itomaimoi-ka, mioi ohui eito, turiaha raarai imeheaimoi-ka, Iesu obodooi.
+Himio ata, Iesu goꞌoto ataato pemidio, ka hiei-da dubu ata, ruu tamai turiaha mobibi haaro piiꞌa, ruu-ro Iesu iemeeꞌai-da hohoo reꞌei-da ihimai-ka. Ruu oroaroi-ka, ida paaꞌo, “Paidubu-o, roo rio-ro ooꞌaato, moo odomoiai ka rodomoia.”
+Iesu tui ruu ohui-da iaaꞌoai-ka, ida aaꞌo-ka, “Iee, moo rio-ka, doꞌo hiꞌau roo meaha-ka.” Kiauka mobibi gimoi-ro, ruu emeheai-ka.
+Ka Iesu-ro bubu made emaꞌai-ka, “Meree ata omoaduꞌoꞌa, gamoꞌo-ha odau poue emaꞌati dubui eito. Ka roo ruui-do oroahuꞌomai aꞌai. Poue ita aꞌai, Mose bubui-da, iaaꞌo modoboi. Ka uubi-ro umoo iiꞌi aꞌai kaumo, roo meaha-ka.”
+Irai Iesu odii geega iiꞌi-ka, ka hiiro hiꞌa uubi ooꞌumoi-ka, ruu oromidioi, kamia gimoi-da ma idomoi-ri.
+Irai ruu odai-ka muio mati atai-to, irudemei-ri, ruu iꞌatidio aiboi.
+Himio ata, Iesu iimatomudioi-da, Pariseia uubi-re, ka bubui imatomudio uubi-rei, hiei-da pemidioumo, ioꞌumo uubi turiaha goꞌoto goꞌotoi-da Garereia goroi-da, ka Iudea goroi-daire, kamia Ierusaremaatoi-re. Paidubui erarai aiha pooꞌa, Iesu-ro, gimo uubi ma idomoi-ri.
+Dubu aamiꞌa-ro, dabu mereei omooꞌumoi-ka, tioi rautu, tautapei-da, ka rii-ro emahibai-ka, omodoi-ri motoi rioi eito, Iesu hohoo reꞌei-da, ruu ma omutaꞌaumoi-ri.
+Irai uubi hiiroi-ri, rii pauo pemeeꞌaumo ruu ibiiꞌai. Ka rii-ro ruu ai-pomioumo motoi ubui eito, hiaꞌe ododiai-ka ubui-da. Ka ruu omooruoi-ka tautapei-da, uubi tuiai-da, Iesu hoho reꞌei eito.
+Iesu-ro, rii pupuo iraromoi iimeaꞌai-da, ruu-ro dabu dubui eito aaꞌo-ka, “Dubu-o, roo memihoi tauo remapihiti maaka.”
+Bubui imatomudio uubi-re, ka Pariseia uubi-reiro oomahoroi-ka rii himiai-do oromoaduꞌuti, “Boꞌu-rie ara Iehoma pairai omodoboa dubui? Iehoma beha-ka, memihoi imapihiti dubui.”
+Iesu umoo iiꞌi-ka, rii iraromoi, ida aaꞌo-ka rii-do, “Raꞌu-ri miraromo duumo, ire raarai?
+Modobo bia-ra, araibau aaꞌoi, ‘Roo memihoi tauo emapihiti maaka,’ kamia modobo-ra aaꞌoi, ‘Eibua, ma imadaꞌui.’
+Moo-ro imoahuꞌomai raꞌai riꞌoi-do, Uubihaubi mereei erara-ka, ara hepui-da, uubi memihoi ma imapihiti.” Kiauka ruu-ro aaꞌoi-ka dabu dubui eito, “Moo-ro ai-raaꞌo, eibua, roo tautapei ooꞌa tioi oꞌapuai, ka odau motoi eito.”
+Kiauka gaaꞌu-ha peibua rii turiaha hohoi-da, ruu iorobu tioi oꞌapuai-ka, odai motoi eito, Iehoma emarahue-ha.
+Rii urio podaudioumo, ka Iehoma rii-ro ai-pemarahueumo iha toei rautu, ida paaꞌoumo, “Urio odaudio raara tauo riaꞌa maakaumo, ara himioi-da!”
+Aaꞌo didimoi, Iesu odai-ka. Ida pemeeꞌa taketi imoamee dubui, pairai Remi, ruu ai-pemidio, taketi imoamee motoi-da. Iesu-ro aaꞌoi-ka, “Moo robodoo.”
+Ka ruu eibuai-ka, turiaha raarai imeheai-ka, Iesu obodoi.
+Kiauka Remi-ro, Iesu geema iiho omododiai-ka, ruu motoi-da, hiiro taketi imoamee uubi-re, ka uubi aamiꞌai-re, turiaha emiꞌeituti-ka iihoi.
+Pariseia uubi-re, kamia bubui imatomudio uubi-reiro, pauo peaꞌaumo, ida paaꞌoumo, Iesu iimatomudio mereei eito, “Riꞌo iiho-ra idio-rai, memiho uubi-re, kamia taketi imoamee uubi-rei rautu, raꞌu-ri maꞌai duumo?”
+Iesu-ro rii madei pimoaimai, “Gimo tiato uubi doketa rio aꞌai bia. Gimo uubi haa-ro oohoi aꞌai kaumo doketa.
+Moo irooꞌui mea emidio uubi iahoꞌoi ooꞌu bia ma ireheꞌeaimo, irai moo ai-pirooꞌu memiho uubi ma riduuꞌai, memiho oroiꞌioi-da ma ireheꞌeaimo.”
+Aamiꞌa uubi-ro, Iesui-do aaꞌoi-ka, “Ioare iimatomudio uubi imaꞌui-ra, iirudeme rai geega-ha piꞌatidioumo, kamia Pariseia uubi-ro uubi iimatomudio uubi rautu, gaaꞌu emerai piꞌatidioumo. Irai roo obodoumo uubi, iiho-ra idio-rai aꞌai kaumo.”
+Iesu-ro rii madei pimoaimai, “Riꞌoi-do modobo-ra, riꞌo madei-da, oio idabuai oobo-ra dubu-rai idabuai eito, imiamaꞌue-ka uubi, iiho tiato ma emidioumo, oio idabuai oobo-ra dubu-rai, dubui riꞌo rautu emidioi-da? Abia.
+Irai himioi ooꞌui aꞌai, oio orobai oobo-ra dubu-rai, dubui rii reꞌei-da, ma omodadeai-ri. Aaꞌo himioi-da iamaꞌue uubi imaꞌui emidioi aꞌai kaumo.”
+Iesu-ro, ara obeegiri imoaduꞌoi-ka, “Meree ata-ro, oio hipurai oaheꞌai aꞌai bia, pamo hipurai-da, ma oateai-ri. Ruu-ro aia mododiai, ruu-ro, oio hipurai raato tauo ododiai maaka, kamia oio hipurai-da, tauo hipurai oateai aꞌai bia.
+Kamia meree ata-ro, oio mire oboi aatei aꞌai bia tauo mire obo beumai-da. Aaꞌo emerai aia mododiai, oio mire oboi-ro, beumai apoꞌiai aꞌai, ka mire oboi hepui eito oruodi aꞌai, kamia beumai rautu memiho iiꞌi aꞌai.
+Aaꞌo rau-ri, oio mire oboi, oio beumai haato, ma aatei.
+Meree ata-ro, oio mire oboi rio aꞌaiꞌai bia, tauo mire oboi idio didimoi-da. Ruu-ro aaꞌoi aꞌai, ‘Tauoi mea hiꞌa-ka.’”
+Iesu, uiti hauꞌi tuia-tuiai pimadaꞌui Sabati-da, ka ruu obodo uubi-ro uiti epu-epui imeꞌei-ka, tui-da ihiiꞌautiimoi-ka, ihai aiha piihoumo.
+Aamiꞌa Pariseia-ro rii iatohetai-ka, “Raꞌu-ri maꞌai duumo, rimo bubui-da eremaabe raai, memiho-ka iibai aꞌai Sabati-da.”
+Iesu-ro rii imoaimai-ka, “Riꞌo-ro tauo piapoumo, Damida raꞌu aꞌai, ruui-re, ruu aamiꞌai-rei, dui boboi-ro iiohiai-da.
+Ruu odoroi-ka, Aiai Iehoma motoi rioi eito, poue iemaꞌaimo paramai eidai-ka, uuhoi-ka, ka aiha pimaꞌai ruu rautu dububaiꞌoi eito. Irai rimo bubui-ro ai-aaꞌo, Iehomai-do poue emaꞌai paramai, uuho beha meree-ro uuhoi aꞌai bia, poue emaꞌati mereei ata haa-ro uuhoi aꞌai.”
+Iesu-ro, omoopai-ka, “Uubihaubi mereei, ruu Sabati Paidubui-ka.”
+Sabati ata, Iesu odoroi-ka, idabu motoi rioi eito. Ka ai-pimatomudio, ida dubu ata hiei-da pemidio ruu iha tui dabu-ka.
+Pariseiaiꞌoi-re, kamia bubu imatomudio uubi aamiꞌai-reiro, rii rio-ka Iesu memiho raa ataato ma ememeeꞌaumo, ka Iesu ma emaaꞌoumo. Ka rii-ro taitai hiꞌa-ha paarodiomo, ruu-ro Sabati-da meree ata odomoiai amaꞌai.
+Irai Iesu umoo iiꞌi-ka, rii raꞌu iraromoumo, ka tu dabu rautu dubui eito aaꞌoi-ka, “Eibua turiaha uubi hoho reꞌei-da otooꞌa.” Ruu eibuai-ka hiei-da aiha pitooꞌa.
+Ka Iesu-ro rii-do aaꞌoi-ka, “Moo-ro riꞌo ai-riatohetaii, rimo bubui-ro raꞌu rimapui Sabati-da ma raꞌaimo-rai, mea ododiai-ra ee, memiho ododiai-ra, oroiꞌioi omoabai-ra ee, omodoboai-ra?”
+Ruu-ro rii turiaha iiarodio, ida paaꞌo, aaꞌo dubui eito, “Itutuai roo tui.” Ruu-ro aiha pododiai, ka ruu tui meaha iiꞌi-ka.
+Irai rii pupuoi-to udo-ro, imidai-ka. Ka rii himia tuiai-da oromoaduꞌuti omahoroumoi-ka, rii-ro Iesu raꞌu omododiai maꞌai duumo.
+Ata himioi, Iesu ioroi-ka roꞌoai ohui eito, irudemei. Ka duo tutuui hiei-da pirudeme Iehomai-do.
+Himioi ioahoi-da, ruu iimatomudio mereei iahoꞌootiai-ka, ruui-do. Ida piapui, tuero (12) uubi beha, ruu-ro pairai ai-pimaꞌai, iiapui made himoꞌa uubi.
+Rii pairai-ka, Simora (Iesu-ro ruu pairai ai-pahoꞌoo Petero) ka ruu riai Eridurui-re, Iemisi-re, Ioarei-re, Piripi-re, Bataromi-re,
+Mataioi-re, Tomasi-re, ka Iemisi (Arepeosi meree-ohioi-ka), Simora (ruu Serote paꞌai dubu-ka),
+Iudasi (Iemisi meree-ohioi-ka), Iudasi Isikariota, Iesu oaꞌuei aꞌai mereei-ka.
+Iesu roꞌoai hoꞌui-da tuero (12) himoꞌa uubi rautu iooruoi-da, hamei-da otooꞌai-ka, ruu iimatomudio uubi hiiroi aaꞌo reꞌei-daka. Turiaha mati-mati-da iooꞌumo uubi geemai Iudea-toire, Ierusarema-toire, kamia tuia geegai barai iiꞌaa goꞌoto paipai, Taiai-re, Sidoroi-rei goroi-da.
+Rii ai-pooꞌumo ruu oroomidioi, kamia gimoi-da rii ma iidomoi, memiho urioi-ro iimaꞌobeumo uubi rautu ai-pooꞌumo, ka aiha piidomo.
+Turiaha uubi-ro emahibai-ka ruu ahimodi, mabu erarai ruuato ai-pohuꞌo, ka rii turiaha aiha pidomo.
+Iesu-ro ruu iimatomudio mereei iaꞌaa, ida paaꞌo, “Geꞌii-ka riꞌo boiꞌo-ra, raara tiatoi, Iehoma pai emidio erarai riꞌoido-ka!
+Geꞌii-ka riꞌo doꞌou rioi goroꞌoro-ra, riꞌo kaupaꞌe iiꞌi aꞌai kaumo! Geꞌii-ka riꞌo doꞌou idebi-ra, riꞌo mari aꞌai aꞌai kaumo!
+“Geꞌii-ka riꞌo uubi-ro rio-tiato amimaꞌai duumo, aia miraibo duumo, ee amimehipo duumo, kamia aia maaꞌo duumo, riꞌo turiaha memiho uubi-ka, mabu Uubihaubi mereei obodoumoi-ri.
+Riꞌo ibai-ha amimodoboa duumo, riꞌo geꞌii geema hiꞌa, hete rautu ma oroamauti, mabu geema hiꞌa taꞌii ai-oroomotii, aromoi-da. Rii himia rariamiꞌoi aibo-ka. Rii rariamiꞌoi-ro, aatu memiho raarai tauo piꞌatidioumo, Iehoma himogabo uubi eito.
+Memiho hiꞌa-ro ooꞌai aꞌai, riꞌo doꞌou raarai hiiro-hiiro uubi eito, mabu riꞌo pauo tiato oroiꞌioi-da tauo pemidioumo!
+Memiho hiꞌa-ro ooꞌai aꞌai, riꞌo doꞌou kaupaꞌe uubi eito, riꞌo rioi goroꞌoro aꞌai aꞌai kaumo! Memiho hiꞌa-ro ooꞌai aꞌai riꞌo boiꞌo-ro mari maꞌai duumo doꞌou, riꞌo giiꞌepu idebi aꞌai aꞌai kaumo!
+“Memiho hiꞌa-ro ooꞌai aꞌai, riꞌo turiaha uubi-ro, geꞌii amimaꞌai duumo, mabu rii rariamiꞌoi-ro, gaaꞌu emerai raara piꞌatidioumo ierematuhutidioumo himogabo uubi eito.
+“Irai riꞌo boiꞌo-ro roromidio duumo moo, riꞌo ai-riduuꞌai, riꞌoi-do boho uubi giiꞌepu-ha ma imaꞌai, meai-ha ma imododiai, riꞌoi-do udo aꞌai uubi-ri,
+riꞌo boru made imaꞌai uubi-ri, Aiai Iehoma ma atohetai, ruu meai ma imaꞌai, kamia riꞌo memiho imododiai uubi eito, aiha ma irudemeai.
+Meree ata-ro, roo mapeho tamai aia maatotai, hapuo atai rautu ma ememeheꞌeai, maatotai-ka. Meree ata-ro, riꞌo gugaꞌo hipurai aia mimoaidai dubu-urioi rautu ma emaꞌai.
+Ma imaꞌati, riꞌoi-do aamiꞌa raara-ri oroaro uubi eito, meree ata-ro, riꞌo ata raa aia mimaidai, oomaahoi bia.
+Riꞌo rioi aamiꞌai-ro, riꞌoi-do ma ododiaimo emerai, riꞌo haa-ro ma ododiai rii-do.
+“Riꞌo giiꞌepu imaꞌai uubi behai giiꞌepu amimaꞌai duumo, ka raꞌu-ri eidai maꞌai duumo, riꞌo-ro mea taꞌii? Abia! Memiho uubi rautu, rii giiꞌepu imaꞌatidio uubi, giiꞌepu imaꞌatidio kaumo!
+Kamia riꞌo meai, riꞌoi-do mea ododiai uubi behai eito amododiai duumo, raꞌu-ri eidai maꞌai duumo riꞌo-ro mea taꞌii? Abia! Memiho uubi rautu imiꞌatidio duumo aaꞌo emerai!
+Ka riꞌo-ro aia mimaꞌai duumo, riꞌo tui imoaimai-ri iraromo uubi behai eito, raꞌu-ri eidai maꞌai duumo mea taꞌii? Abia! Memiho uubi-ro, aamiꞌa memiho uubi eito, imiꞌatidio duumo, gaaꞌu emerai, rii-ro imaꞌai modoboi-ha ma imoaimaimoi-ri!
+Abiarie! Riꞌoi-do boho uubi, riꞌo-ro giiꞌepu-ha ma imaꞌai, meai-ha ma imododiai, ka ma imaꞌai, irai omoaimai-ri, oroomotii bia. Riꞌo ibai amododiai duumo, taꞌii geema-ha ooꞌai aꞌai, ka riꞌo mia ohu hiꞌai Paidubui meree iiꞌi aꞌai kaumo. Mabu ruu giiꞌepu hiꞌa-ka, memiho uubi-re, kamia ruui-do, keito made aaꞌo tiato uubi-rei eito.
+Ka riꞌo abeai Iehoma aibo, uubi giiꞌepu ma imaꞌai.
+“Uubi aamiꞌai aumai imaapoi bia, ka Iehoma-ro, riꞌo aumai imaapoi aꞌai bia. Aamiꞌai iahoꞌooi bia, rii aꞌai memihoi taꞌii ma aꞌaimoi-ri, ka Iehoma-ro riꞌo aꞌai memihoi taꞌii ma aꞌaimoi-ri, iahoꞌooi aꞌai bia. Aamiꞌai-ro riꞌoi-do aꞌai memihoi ma imapihiti, ka Iehoma-ro riꞌo memihoi imapihiti aꞌai.
+Aamiꞌai eito ma imaꞌai, ka Iehoma-ro, riꞌoi-do imaꞌai aꞌai, ka riꞌo imaꞌai aꞌai huru haato modoboi-da, ka geema hiꞌa modoboi oruodii aꞌai riꞌo tui eito, riꞌo tui-da iꞌapudioi modobo tiatoi. Aamiꞌai eito riꞌo-ro imaꞌati emerai, Iehoma-ro riꞌoi-do imaꞌati aꞌai.”
+Ka Iesu-ro ara obeegiri imoaduꞌoi-ka, “Idomai tiato dubu atai-ro, idomai tiato dubu atai, omodai modobo bia, ruu-ro aia mododiai, riiti orohuꞌumoi aꞌai kaido boboi-da.
+Umooi ooho uubi-ro, rii imatomudio dubui umooi oohoodii aꞌai bia, irai turiaha uubi, ruu ematomudioi aia moropoiꞌo, ruu ematomudio dubui aibo iiꞌi aꞌai.
+“Roo riaraamui idomai ooꞌaa ruꞌa horoi-ha, raꞌu-ri memaroꞌo, kamia roo himia idomai ooꞌaa ruꞌa ipi, ereaꞌaa bia-ra?
+Roo riaraamui eito aaꞌoi modobo bia, ‘Riaraamu-o, roo idomai ooꞌa ruꞌa horoi, ma arahuurai,’ kamia roo himia idomai ooꞌa ruꞌa ipi, eereaꞌaa bia-ra? Riꞌo daea uubi-ka! Epuui roo himia idomai ooꞌaa ruꞌa ipi-ha ma araahurai, ka roo-ro hauꞌi-ha iaꞌai aꞌai, roo riaraamui idomai ooꞌa ruꞌa horoi ma ahuurai-ri.
+“Mea hiꞌa ruꞌai-ro memiho hura imamirai aꞌai bia, kamia memiho ruꞌai-ro, mea hura imamirai aꞌai bia.
+Turiaha ruꞌai, ruu himia imamirai hurai haato oibomai-ka, riꞌo-ro topo hiꞌa ruꞌa hurai, eepeeapeeai-da, idoꞌoi aꞌai bia, kamia mire hurai, iimuui-da idoꞌoi aꞌai bia.
+Mea mereei-ro, imooꞌui aꞌai mea raarai, ruu kaukai-da irahoꞌoo mea raarai-da. Kamia memiho mereei-ro, imooꞌui aꞌai memiho raarai, ruu kaukai-da irahoꞌoo memiho raarai-da. Puꞌoi-da, oroaduꞌoi-ka, kaukai-da raꞌu hiiro-ro miiꞌa.
+“Riꞌo-ro moo raꞌu-ri rahoꞌoo duumo, ‘Paidubu-o, Paidubu-o’, irai mia riꞌo-ro, idodiaimo bia, moo-ro riꞌo imoaduꞌuti raarai.
+Meree ata mooi-do aia mooꞌu, ida aamoromidio moo madei, kaida aia midodiai moo aaꞌo raarai, moo-ro riꞌo imoaꞌemiai raꞌai, ruu raꞌaibou mereei-ra.
+Ruu dubu ata aibo-ka, moto pididi, aboi boboi goro hiꞌa piobuti, motoi aahuu ma otii-ri. Oomoi borei iooꞌui-da, motoi amaꞌadeai-ka, irai aaꞌo motoi biai poohiai, oomuo bia, mabu motoi aahuu hiꞌa-ha pididi.
+Kamia moo madei imoroomidio, irai moo aaꞌo raarai idodiai bia-ra, ruu dubu ata aibo-ka, motoi ididi, abo tiato, hepu behai-da. Borei-ro aaꞌo motoi iohiai-da, aiha piiraahiai, ka ruu iiraahiai-da, memiho hiꞌa ha piiꞌi!”
+Iesu ara raarai turiaha oroaduꞌuti ioropoiꞌoi-da uubi eito, ruu odai-ka Kaperaraumai-to.
+Hiei-da, Roma heamoi epuuhoro dubui-ro, rio pemaꞌatidio, ruu himia moto himoꞌa meree ata, gimo hiꞌa-ka, iihiai toto-ha paꞌai.
+Heamoi epuuhoro dubui-ro, Iesu pai ioromai-da, Iuda epuuhoro uubi aamiꞌa itiodoai-ka, Iesu ma atohetaimoi-ri, ma ooꞌui-ri ruu himoꞌa mereei ma omodomoiai.
+Rii iooꞌumoi-da Iesui-do iha hiꞌa-ha oroarotiai-ka, “Mea hiꞌa-ka, roo-ro ruu ma omoabai.
+Ruu-ro giiꞌepu imaꞌai rimo uubi, ka ruu himia-ha pididi idabu motoi, rimo-ri.”
+Ka Iesu odai-ka, rii rautu. Ruu auꞌo bia motoi-da, heamo epuuhoro dubui-ro riaraamui itiodoai-ka, ruu ma oduuꞌaimoi-ri araibau, “Paidubu-o roo pauo iraromoꞌa, moo mea bia, roo ma odoro moo motoi rioi eito.
+Aaꞌo rauri, moo himia iraromoi-da, moo modobo biai reereeaꞌa maaka, ma rooꞌu rooi-do. Irai made beha-ha aaꞌo, ka moo moto himoꞌa mereei ma oodomoiai-ka.
+Moo roo aibo dubu ata-ka, epuuhoro uubi aamiꞌa goro ato-ka. Heamo uubi moo goroi-daka. Moo-ro arahiou aia roduuꞌai, ‘Odau!’ Ruu odai aꞌai. Kamia aure hiei aia roduuꞌai, ‘Ooꞌu,’ ooꞌui aꞌai. Moo himoꞌa mereei aia roduuꞌai ‘Ara raai ododiai,’ ruu-ro ododiai aꞌai.”
+Ara madei Iesu-ro ioroomai-da urio podaudio. Ka ruu iobodoumo uubi iimeteai-da aaꞌo-ka, “Riꞌo moo-ro ai-riduuꞌai, Aiai eito pupuo iraromo meree ata, moo-ro, emeeꞌa bia araibau Isaraꞌera goroi-da.”
+Madei iomodaumo uubi ireheꞌeai-ka, iiraimai epuuhoro dubui motoi eito. Kaida pemeeꞌaumo ruu himoꞌa mereei mea tauo-ha piiꞌi.
+Tutuu bia Iesu odai-ka, Raira goꞌotoi eito, ruu iimatomudio mereei rautu, geema uubi-ro pobodoumo.
+Ruu goꞌotoi eito iidouti gaboi hohoi-da iereedeeꞌai-da, pimeeꞌa rituo mereei tuupi rautu, iooꞌumo uubi. Iihiai mereei, himu oobo ata, meree-ohio gaaꞌu-ka, ka rituoi rautu iooꞌumo uubi, maamu himui rautu gaaꞌu-ha piihuuꞌoumo.
+Paidubui-ro ruu iemeeꞌai-da, iha giiꞌepui pemaꞌai, ka ruu-ro aaꞌoi-ka, maamu himui eito, “Idebi aꞌaiꞌa.”
+Ka ruu imadaꞌui-da, aihimodi-ka rituo mereei iorobu tautapei. Ka iomodaumo dububaiꞌoi aiꞌoi mitooꞌa duumo. Iesu-ro aaꞌoi-ka, “Meree dodobai-o, roo moo-ro ai-roduuꞌai, eibua.”
+Iihiai mereei eibuai-ka, aiha pemiꞌei, ka ruu oroaduꞌuti oomahoroi-ka. Kiauka Iesu-ro, ruu aiha pemaꞌai maamui eito.
+Rii turiaha toei-ro imidai-da, Aiai aiha pemarahueumo, “Geema hiꞌa himogabo dubu tauo oobodi maaka, rimo tuiai-da.” Rii-ro aaꞌoumoi-ka, “Aiai tauo ooꞌu maaka, ruu uubi oroiꞌioi-da ma ideꞌai-ri.”
+Iesu pai aburai-ka, turiaha Iudea hepui, aamiꞌa mati-mati rautu.
+Ioare Babatiso iomoaduꞌoumoi-da, ruu himia iimatomudio mereei-ro, Iesu iidodiai raarai, ka Ioare-ro iahoꞌootiai-ka retoꞌa (2) mereeti, iduuꞌai-ka.
+Odaido, Paidubui atohetai, “Roo Aiai Iehoma-ro ooꞌu made ioaduꞌo mereei-ra, ee, dubu ata aromoti duumo?”
+Riiti iooꞌuidoi-da Iesui-do aaꞌoidoi-ka, “Uubi obo imaaheemo dubui, Ioare-ro, riitiodoai mama, roo ma ratohetaidoi-ri, ‘Roo ruu-ro ooꞌu made ioaduꞌo mereei-ra, ee, dubu ata aromotii duumo?’”
+Aaꞌo himioi haato, Iesu-ro hiiro gimo uubi pidomo, tuupi goroi gimoi-da, memiho urioi iimobodidio, ka hiiro idomai duꞌi uubi, iaꞌai iimaꞌati.
+Iesu-ro Ioare iimatomudio mereeti iduuꞌai-ka, “Iraimaido, ka ita omoaduoido Ioare, riꞌoiti imiaꞌaido raarai, kamia imiromidioido madei, idomai duꞌi, ai-iaꞌaa kaumo, oto memihoi ai-imadaꞌui kaumo, tamai mobibi gimo rautui, mea imiiꞌi duumo, hepatoi mumuroi, ai-iromidio kaumo, rituoi imireibuio duumo, oroiꞌioi eito, ka pai meai, irimoaduꞌuti, raara tiato uubi eito.
+Moo eaꞌa uubi-ro, rii iraromoi mooato irahio bia-ra, rii geꞌii-ha ma aꞌai.”
+Ioare iimatomudio mereeti iodaido didimoi-da, Iesu-ro omahoroi-ka Ioare oaduꞌoi uubi geemai eito, “Riꞌo aaꞌo himioi iodaumoi-da Ioarei-do, opuhe mati-da, riꞌo-ro raꞌu eaꞌai iraromoumo? Ioare tataꞌoi paha gaaꞌu aibo, ruurui-ro eꞌimotatidioi-da, ma emeeꞌaumoi-ri agiraromoumo? Aabiarie.
+Riꞌo auꞌoi-da raꞌu eaꞌai odaumo? Dubu ata-ra, muari hiꞌa hipura rautu? Aaꞌo emerai hipura meameai, kamia mea oroiꞌioi-da emidio uubi imeꞌai aꞌai, ohu hiꞌa pai motoi-da!
+Moo romoaduꞌoumo, riꞌo raꞌu eaꞌai odaumo auꞌoi-da? Himogabo dubu-ra? Ie, iaha-ka, irai riꞌo-ro geega hiꞌai eaꞌa duumo, himogabo dubui-ro omiorai.
+Ara Ioare ruu-ka, Iehoma made bukai-ro ai-aaꞌo: ‘Moo-ro otiodoai raꞌai himoꞌa mereei, roo epuui-da, roo gaboi ma omododia-ri.’”
+Iesu-ro odabuai-ka, “Riꞌo moo-ro ai-riduuꞌai, Ioare geega-ka, ruu aibo ata, emidio bia epuui-to, kamia doꞌou, ara hepui-da. Irai keehibuo hiꞌai boꞌu-rie, Iehoma pai emidio erarai-da, ruu Ioare-ro omiorai-ka.”
+Turiaha uubi-ro ruu ai-poroomaimo, rii-re kamia taketi imoamee uubi-reiro poromaimo, ka rii ai-poroahuomaimo, rii iraromoi Iehoma gaboi meaha-ka mabu rii Ioare-ro oboi-da ai-pimaaheemo.
+Irai Pariseia uubi-re kamia bubui imatomudio uubi-reiro Iehoma rioi ai-paraiboumo, rii himia rioi-ri, kaida rii rio tiato paꞌaimo, Ioare-ro, oboi-da imaaheemoi.
+Iesu imatomudioi aiha podau, “Ka moo-ro doꞌou uubi raꞌuato idoboai raꞌai? Rii raꞌui aibo-ra?
+Rii hauꞌi tuiai-da emidio meree keeke aibo-ka. Aamiꞌai-ro aamiꞌai iduuꞌai-ka, ‘Rimo geꞌii raahoaꞌei iabotuti-da, riꞌo hete omaumo bia! Rimo idebi raahoaꞌei iabotuti-da, riꞌo idebi aꞌaimo bia!’
+Uubi obo imaaheemo dubui Ioare tauo pooꞌu, ruu imaꞌui iemidio kamia mire obo idio bia. Kaida riꞌo-ro paaꞌoumo, ‘Ruu memiho urio rautu-ka!’
+Uubihaubi mereei tauo pooꞌu, ka ruu iiho kamia idio, ka riꞌo-ro paaꞌoumo, ‘Ara dubui ma eaꞌaumo, iiho-toto hiꞌa dubu-ka, kamia mire obo idio hiꞌa meree-ka. Ruu taketi imoamee uubi-re kamia memiho uubi-rei rautu, riaraamu-ka.’
+Irai Iehoma umooi ieidaimo uubi-ro, ihahai imoaꞌeemiai aꞌai kaumo, rii oroiꞌio emerai-da.”
+Pariseia dubui Simora-ro Iesu amaꞌuei-ka, ruu motoi-da du ma iihoumoi-ri. Ka Iesu odai-ka ruu motoi eito. Ka aiha pemiꞌeitutimo, iihoi.
+Aaꞌo goꞌotoi-da memiho oroiꞌio oobo ata, ai-pemidio. Ruu-ro ai-poroomai Iesu Pariseia dubui motoi-da dui iihoi, kiauka ruu-ro ribo mea herei, gaigarua keehi rautu, ruu oomodai-ka.
+Iesu taitai haato potoꞌa otoi reꞌei-da, idebi imaꞌai-die idebi huoi-da otooti imimoruꞌo. Kiauka ruu epuui muhoi-da otoi iaditi-ka, otooti ihomeai-ka, ka ribo mea herei-da otoi imadouti-ka.
+Ida Iesu ioꞌopai dubui-ro himia poromoaduꞌo, “Ara dubui ihaha Iehoma himogabo dubui ata-ro ooꞌaato, ruu umoo mei ooꞌa-ka ara ruuato ateai ooboi memiho oroiꞌio oobo-ka.”
+Kiauka Iesu-ro aaꞌoi-ka, “Simora, moo made keehi ata ararie rooi-do.” Simora-ro omoaimai-ka, “Ie, imatomudio dubu-o, romoaduꞌo.”
+Iesu-ro aaꞌoi-ka, “Retoꞌa dubuoti, dubu atai-do abitore mori-ri paaꞌoido, atai K500, atai K50.
+Aaꞌo dubuoti-ro, mori omoaimai modobo tiatoi-ri, abitorei ai-pimahurai. Aaꞌo dubu oti-da, rii abitorei imahurai dubui, ihaha boꞌu-ro rio emaꞌai maꞌai?”
+Simora-ro omoaimai-ka, “Moo iraromoi-da abitorei geema-ha ioahurai mereei-ro rio emaꞌai aꞌai.” Iesu-ro aaꞌoi-ka, “Roo iaha aaꞌo.”
+Ruu-ro aaꞌo ooboi eemeteai-ka, ida paaꞌo Simorai-do, “Ara ooboi roo-ro ameaꞌa? Moo roo motoi irodoroi-da, moo otoi imoruꞌo obo emaꞌai bia. Irai ruu idebi huoi-da rimoruꞌo maaka, ka ruu epuui muhoi-da riaditi toatoa-ha.
+Moo, roo motoi irodoroi-da, roo-ro moo ohomeai bia, irai ara ooboi-ro, moo ototi ihomei emahurai bia, moo irooꞌui-da imomahoroi-ka, imooꞌu doꞌou.
+Roo-ro moo epuui here ohiꞌauti bia. Irai ruu-ro moo ototi riboi mea hiꞌa herei-da rihiꞌauti.
+Moo-ro, roo ai-roduuꞌai, ara ooboi, hiiro memiho tauo remapihiti maaka. Aaꞌo rauri, ruu geema giiꞌepu oahuꞌomai, mooi-do. Irai boꞌu remapihiti keehibuo memiho, ruu keehibuo giiꞌepu oahuꞌomai aꞌai.”
+Kiauka, Iesu-ro aaꞌo ooboi oduuꞌai-ka, “Roo memihoi tauo remapihiti maaka.”
+Ruu rautu gaaꞌu-ha iihoumo uubi himia-ro aratohetai-ka, “Ara boꞌu-rie, uubi memihoi ma imapihiti?”
+Ida Iesu-ro aaꞌo ooboi oduuꞌai-ka, “Roo himia pupuo iraromoi-ro, roo mea tauo ododiai maaka. Miroi-da odau.”
+Aamiꞌa himioi didimoi-da, Iesu odai-ka goꞌoto goꞌotoi, pai meai madei Aiai Iehoma pai emidio erarai, imoaduꞌuti-ha. Ruu iobodoumo tuero (12) mereei rautu,
+ka aamiꞌa upibaiꞌoi, ruu-ro memiho urioi imobodidio, kamia gimoi-da idomoiatidioi rautu gaaꞌu-ha. Maria, paira atai Magadara, ruu reꞌei-da semeri (7) memiho urio pomobodidio,
+Ioara, Heroda raarai iemeaꞌa dubui Kuda, ooboi-ka, Tusara, aamiꞌa upibaiꞌoi rautu ai-poromoabaimo, rii himia raarai-da, Iesu iimatomudio mereei ma imoabaimoi-ri.
+Goꞌoto goꞌotoi-da, iorohoumo uubi aiha pororuꞌudio, ka turiaha ioodabuaimoi-da, Iesu-ro ara obeegiri imoaduꞌoi-ka.
+“Dubu ata, raa mate hurai pipeduo, aamiꞌai oto gaboi-da pirahioumo, ka uubi-ro iatuꞌuti-ka, momoꞌoi iooꞌumoi-da aiha piihoumo.
+Aamiꞌai roꞌoa-roꞌoa hepui-da pirahioumo, iiꞌimo irai, pahai ai-pirademeumo, obo tiatoi-ri, ka aiha poroihiimo.
+Aamiꞌai oroꞌoro tamitami tuiai-da pirahioumo, iiꞌimo irai tamitami-ro ai-piaatioumo, ka aiha poroihimo.
+Aamiꞌa hurai mea hepui-da pirahioumo, iiꞌimoi-da mea hiꞌa, iha paꞌaimo, patu gaaꞌu-gaaꞌui-da ai-pimeꞌaumo haridere (100) gaaꞌu aibo.” Aaꞌo madei iaaꞌo didimoi, Iesu-ro geema madei-to aaꞌoi-ka, “Roo iroomidio hepato rautu-ra, ka oroomidio.”
+Ruu himia iimatomudio uubi-ro aiha patohetaimo, aaꞌoi-ka araibau, “Ara obeegiri raꞌu moroaduꞌo?”
+Ka ruu-ro rii madei imoaimai-ka, “Piro-piro madei, Iehoma pai emidio erarai, tauo imaꞌai maaka, riꞌoi-do. Irai aamiꞌai eito, obeegiri-to rimoaduꞌuti, mabu rii-ro meaꞌa duumo, irai eaꞌai aꞌai bia, moromidio duumo, irai umoo iiꞌi aꞌai bia.
+“Ararie obeegiri oaꞌeemiai, raa matei Iehoma madei-ka.
+Raa matei oroaꞌoia oto gaboi-da irahioumoi, araibau-ka, madei imoromidio duumo uubi-ro, irai Satari ooꞌui-ka madei omodadeai, rii kaukai-da, rii-ro madei ihahai eidai mooꞌai-ri, kamia rii oroiꞌioi eidai toe.
+Raa matei roꞌoa-roꞌoa hepui-da irahioumoi araibau-ka: madei imoromidio duumo uubi-ro, geꞌii rautu, irai, madei kaukai goroi eito hipi odai bia. Rii-ro keehibuo iraromoi-ka, irai erematuhuti ooꞌui-da, rii irahioi-ka.
+Oroꞌoro buꞌi-da iiraahioumoi, madei oromidioumoi-ka. Irai ipi-da, araibau raara-ro imomurudioi-ka: oroiꞌioi iraromo pauo, iiho-toto oroiꞌio, kamia hepui geꞌii. Ka rii aahuu iiꞌi modobo bia, mabu rii ai-piaatioumo oroꞌoro tami-ro aaꞌo rauri rii kaurau orobiꞌo ruꞌa hura aibo-ka.
+Raa mate hurai, mea hepui-da irahioumoi, araibau aaꞌo, madei rii-ro imoromidio duumo, ka mea eremaabei kaukai-da, aahuu ioohidioi-ka, raa matei iiꞌi-da, meamea hura-ro ma iohui emerai.
+“Meree ata-ro, ramepai adiai-da ipuai-da atimai aꞌai bia, kamia edeꞌai aꞌai bia totoi goroi-da. Abia, ka aiha edeꞌa, ramepai himia totoi hoꞌui-da. Ka motoi eito iido uubi-ro, ramepai hehei eaꞌai aꞌai kaumo.
+“Piro-piro raꞌu-ro mopiꞌomatidio, hehei-ro obodi aꞌai hauꞌi eito. Ka raꞌu momurudio, ruu memeeꞌa duumo, kamia momooꞌu duumo hehei eito.
+“Roo-ro ara madei mea hiꞌa-ha ma oromidioi, mabu roo reꞌei-da raꞌu-ro mooꞌa, ruu hoꞌui-da, roo emaaꞌoai aꞌai. Kamia boꞌu meree reꞌe ato-ra tuahai, ruu reꞌei-da ooꞌa keehibuoi rautu turiaha omoahurai aꞌai.”
+Iesu riamiꞌoi maamui rautu ai-podaumo ruui-do, ruu rautu ma odabuaimoi-ri, irai modobo bia, mabu uubi hiiro-ka.
+Ata meree-ro aaꞌoi-ka Iesui-do, “Roo riamiꞌoi maamui rautu, raamomoti duumo kekai-da, rii rio-ka, roo ma emeeꞌaumo.”
+Rii turiahai-do Iesu-ro aaꞌoi-ka, “Aiai Iehoma madei, boꞌu-ro moromidio, kamia, ruu rioi boꞌu-ro mododiai, moo maamu-ra riamiꞌo-raika.”
+Ata himioi, Iesu oroi-ka peei-da, ruu himia iimatomudio uubi iduuꞌai-ka, “Ma raabumo damoi hapuoi eito.” Ka aiha pahiꞌiaimo aabui.
+Iaabumoi-da, Iesu uro utaꞌai-ka. Tutuu bia tuomoi omumuai-ka tuiai-da, oboi araatei omahoroi-ka peei-da. Kiauka, rii oroihi modobo haato pideꞌa.
+Ruu iimatomudio uubi odai-ka Iesu oitorai, ida paaꞌoumo, “Paidubu-o, Paidubu-o! Rimo aiha oroihi raꞌai kaumo!” Iesu eibuai-ka, tuomo-ra aubo-rai erara made imaꞌai-ka, kiauka tuomo-ra aubo-rai aadohuti-ka, piroha iiꞌi-ka.
+Kiauka ruu-ro rii turiaha iduuꞌai-ka, “Heiꞌe-rie, riꞌo pupuo iraromoi?” Ka rii turiaha urio podaudioumo, ka toei hohoi-ha peremeeꞌaumo, ka hiei-da rii himia aratohei-ka, “Ara dubui boꞌu-rie? Tuomo-ra aubo-rairo, ruu madei-ha oroomai kaumo!”
+Iesu iimatomudio uubi rautu iaabumoi-da, arioi-ka, Gerasaato, Garereia damoi hapuoi-da.
+Iesu iaramotoi-da memiho urio rautu dubui-ro emeeꞌai-ka, ruu aaꞌo mati-da dubu-ka. Tutuu hiꞌa poroaꞌoiadio hipura tiato-ha, kamia motoi-da emidioi modobo bia, oroihi uubi iruꞌumodioumo roꞌoa uuꞌui-da pemidiodio.
+Ruu-ro Iesu iemeeꞌai-da, made geema aapoꞌiai-ka, Iesu otoi reꞌei-da irahiai-ka, ida paaꞌo geega madei-to, “Iesu, ohu hiꞌai Aiai meree! Roo raꞌu rio maꞌai mooato? Moo ai-roroaro rooi-do, moo ata riibo emaꞌaiꞌa!”
+Ruu aaꞌo emerau paaꞌo, mabu Iesu-ro memiho urioi tauo piduuꞌai ruuato ma odadeaimoi-ri. Hiiro himio-ka, ruu memiho urioi-ro oaꞌoiai, uubi-ro emaꞌoidioi-ka, oto-ra tu-rai otohiti-ka aahuu hiꞌa imi-da. Irai iahiuti-ka, ka memiho urioi-ro omodai-ka opuhe mati eito.
+Iesu-ro atohetai-ka ruu, “Roo pairai boꞌu-rie?” Ruu-ro omoaimai-ka, “Moo pairai-ka, ‘Hiiro’,” mabu hiiro memiho urio-ro pemidioumo ruuato.
+Memiho urioi-ro, Iesui-do oroaroi-ka, rii giimui-to iitiodoaiꞌa.
+Aaꞌo reꞌeu-da boomo paꞌa geemai goꞌu paꞌaimo, roꞌoai tamai-da. Ka memiho urioi-ro oroarotiaimoi-ka, Iesui-ro, rii erara ma imaꞌai boomo paꞌai haito ma odaumoi-ri, kiauka Iesu-ro madei imaꞌai-ka.
+Aaꞌo dubui-da, rii ihuꞌodidioumoi-da, boomoi haato pimamiaꞌaiimo, ka turiaha aaꞌo boomo paꞌai, dodoroi iromodoimoi-da, aiha paaꞌumutimo.
+Boomoi dabi uubi-ro ieaꞌaumoi-da, rii hioi-to podaumo goꞌotoi-re kamia geemaꞌeema paꞌeai-rei, iemidioumo uubi imoaduꞌuti.
+Uubi odai-ka, ioobodi raai emeeꞌai. Rii iooꞌumoi-da Iesu emeeꞌai-ka, memiho urioi-ro iemeheaimo dubui, ruu oto reꞌei-da pemidio hipurai rautu, kamia mea hiꞌa iraromo moꞌui rautu. Ka rii toe peereaꞌaumo.
+Idomai-da ieaꞌaumo uubi-ro pimoaduꞌutimo, aamiꞌai, aaꞌo dubui ioodomoia emerai.
+Ka turiaha Gerasa hepu geemai uubi-ro Iesu oarotiai-ka, ruu-ro rii ma imeheai-ri. Mabu rii toe hiꞌa paꞌaimo. Kiauka Iesu peei-da aiha poroo imaahiꞌiai.
+Memiho urioi-ro, iemeheaimo dubui-ro Iesu atohetai-ka, “Moo ai-rooꞌu, roo rautu.” Irai Iesu-ro aiha potiodoai, oduuꞌai-ka,
+“Araimai, goꞌotoi eito, imoaduꞌuti, Iehoma-ro, rooi-do imododiai raai.” Ka ruu araimai-ka goꞌotoi, uubi imoaduꞌuti, Iesu-ro ruu iomododiai emerai.
+Ka Iesu iaraimai-da damoi hapuoi eito, uubi-ro geꞌii rautu poꞌopaimo, mabu rii ruu-ha pomotiimo.
+Ida pooꞌu idabu motoi epuuhoro dubui Iairusi, Iesu emaabei-ri ihimai-ka, Iesu oto reꞌei-da, Iesui-do pupuoi-to oroaroi-ka ma odaidoi-ri, ruu motoi eito.
+Mabu ruu meree behei gaaꞌubuo hiꞌa-ka, burioi tuero-ka (12), iihiai tooto paꞌai. Iesu hiei eito iodai-da, uubi tuia-tuiai-ha pimadaꞌui.
+Rii tuiai-da tuero (12) burioi-to, ora gimo piꞌatidio oobou rautu-ka. Ruu turiaha iiꞌapudioi, tauo-ha pipoiꞌo, ruu ma odomoiamoi-ri uubi imaꞌati-da, irai ruu meree ata-ro ma odomoiai modobo bia.
+Ka ruu iooꞌui-da, Iesu rautu iodaumo uubi iiꞌi-da, aiha porooꞌopai. Ka Iesu hipurai keehibuo iaihimodi-da, ruu iꞌatidio ora gimoi-ro aiha pemeheai, gaaꞌu hiꞌa-ha.
+Iesu-ro aaꞌoi-ka, “O, moo boꞌu-ro rahimodi?” Rii turiaha ai-paratuhutimo. Petero-ro aaꞌoi-ka, “Epuudubu-o, roo rautu rimo hiiro uubi-ro rimadaꞌui kaumo, uubi roo rautu tamai imaraihimo duumo.”
+Ida Iesu-ro aaꞌoi-ka, “Ie, moo meree ata-ro raihimodi, moo himia-ro umoo tauo riiꞌi maaka, moo erarai aamiꞌai-ro, emeheai-da.”
+Aaꞌo ooboi umoo iiꞌi-ka, ruu tauo poibomai. Ka ruu aamohoꞌoo-ha pooꞌu, emaabei-ri ihimai-ka, Iesu hoho reꞌei-da. Turiaha uubi hohoi-da, Iesu omoaduꞌoi-ka, ruu-ro Iesu iaihimodi mabui, ka ruu gimoi gaaꞌu hiꞌa-ha ioroopoiꞌoi.
+Iesu-ro aaꞌo ooboi eito aaꞌo-ka, “Moo meree-behe, roo pupuo iraromoi-ro, roo mea tauo ododiai maaka, miroi-da odau.”
+Iesu aaꞌo madei ioroaduꞌuti-da, himoꞌa meree ata ooꞌui-ka, Iairusi motoi-da, “Roo meree-behei tauo iihiai maaka, imatomudio dubui aiha oomaimutiꞌa.”
+Ka Iesu-ro, oroomai-ka. Ida paaꞌo, Iairusi-do, “Toe aꞌaiꞌa, roo iraromoi pupuo-ha ooꞌa. Ka ruu oodomoiaiꞌai.”
+Iesu, Iairusi motoi-da iereedeeꞌai-da, ruu-ro uubi aamiꞌa iꞌopai bia, ruu rautu ma iidoumoi-ri, ii Petero, Ioare, Iemisi, kamia meree-behei maamu-ra abea-rai haa-ro piidoumo.
+Turiaha uubi giiꞌepu idebi paꞌaimo, meree-behei eito, ida paaꞌo Iesu-ro, “Idebi aꞌaimoꞌa, mereei iihiai bia, irai ruu uro orobu.”
+Rii-ro ruu mari pemaꞌaimo, mabu rii umoo-ka, mereei rituo-ka.
+Irai Iesu-ro, ruu tui-da oꞌapuai-ka, ida pupuoi-to paaꞌo, “Moo meree, eibua.”
+Ruu oroiꞌioi araimai-ka. Kiauka, ruu gaaꞌu hiꞌa-ha peibua, ida Iesu-ro iduuꞌai-ka, uuho raa ata ma emaꞌaimoi-ri.
+Abea-ra maamu-rai urio podaudioido, ida Iesu-ro iduuꞌai-ka, meree ata omoaduꞌoumoꞌai-ri, raꞌu-ro oobodii.
+Iesu-ro, ruu tuero (12) iimatomudio mereei, iahoꞌootiai-ka, gaaꞌu-ha, erarai ma imaꞌai-ri. Memiho urioi ma ibodidioumoi-ri, kamia gimoi ma idomoumoi-ri.
+Ida rii itiodoai-ka, Aiai Iehoma pai emidio erarai ma imoaduꞌutimoi-ri, kamia gimoi ma idomoumoi-ri.
+Ka ruu-ro rii iduuꞌai-ka, “Tu hai-to odaumo, garaꞌu bia, ipi haaꞌo bia, du bia, mori bia, kamia teti ata bia.
+Riꞌo raati-da miꞌopai duumo, geꞌii rautu aaꞌo motoi haato ma emidioi, modau-die, riꞌo-ro aaꞌo goꞌotoi memeheai duumo.
+Riꞌo uubi-ro, geꞌii rautu iꞌopai tiato-ra, ire goꞌotoi ita emeheaimo, ka otoi tuoꞌoi ita imamahuruutiimo. Ka riꞌo-ro, rii iraromo imaꞌai aꞌai kaumo.”
+Ruu iimatomudio mereei emeheaimoi-ka, turiaha goꞌotoi pai meai imoaduꞌuti-ri, kamia uubi ma idomoiatidioumoi-ri, turiaha mati-da.
+Aaꞌo himioi Garereia paidubui-ka Heroda, ruu-ro ai-piroomidio, turiaha raarai iorododiaimoi. Ka ruu pauo hiꞌa piraromo, mabu aamiꞌa uubi-ro iaaꞌoumoi, Ioare oboi-da imaaheemo dubui, ata paraimai oroiꞌioi eito.
+Aamiꞌai-ro ai-paaꞌoumo, Eria-ro poobodii, kamia aamiꞌai-ro ai-paaꞌoumo, tauo hiꞌai himogabo dubui ata-ro paraimai oroiꞌioi eito.
+Heroda-ro aaꞌoi-ka, “Ioare epuui moo-ro pirahiai, irai moo iroomidio raarai, aꞌai dubui boꞌu-rie?” Ka ruu-ro ai-pemahibaituti, Iesu ma emeeꞌai-ri.
+Iesu iiapui made himoꞌa uubi iiraimaimoi-da, ruu omoaduꞌuti-ka, turiaha rii iaꞌaimo raarai. Ruu-ro, rii himia hiꞌa beha-ha iꞌopai-ka odai, goꞌoto atai-to, pairai Besaida.
+Uubi geemai-ro aaꞌo pai ioroomaimoi-da, Iesu obodoumoi-ka. Ruu-ro, geꞌii rautu piꞌopai imoaduꞌuti, Aiai Iehoma pai emidio erarai ooꞌaa emerai, kamia ruu-ro idomoiatidioi-ri, rio iaꞌaimo uubi ai-pidomoiatidio.
+Himioi ooꞌuoi iomahoroi-da, Iesu iimatomudio tuero (12) uubi ooꞌumoi-ka Iesui-do, ida poduuꞌaimo, “Uubi itiodoai ma odaumo, ara taitai goꞌoto-ra paꞌea-rai eito, iihoi-re irobu mati-re ma ioohoumo, mabu ara hiou opuhe mati-ka.”
+Irai Iesu-ro rii-do aaꞌoi-ka, “Riꞌo himia-ro, iomotoumo uubi.” Rii-ro omoaimai-ka, “Turiaha rimo reꞌei-da iiꞌai, tu-hapuo (5) parama ipi beha-ka, retoꞌa raai-re. Roo rio-ra rimo-ro ma rodaumo ara uubi hiiroi du imemei?”
+(Aaꞌo reꞌei-da paipi tauseri (5,000) aibo-ka, dububaiꞌo behai.) Iesu-ro aaꞌoi-ka, ruu iimatomudio mereei eito, “Uubi idomoiatidioumo, pipiti (50) aibo, paꞌa gaaꞌu-gaaꞌui-da, ma emiꞌeitutiimo.”
+Iesu iaaꞌo emerai, ruu iimatomudio mereei-ro iododiaimo didimoi,
+Iesu-ro, tu-hapuo (5) parama ipi, raati rautu iimidai-da, imaromiai-ka aromoi eito. Aaꞌo raarai-ri, Aiai Iehomai-do geꞌii made aaꞌoi-ka, aiha pihebuti imaꞌai-ka, ruu iobodoumo mereei eito, uubi ma imaꞌatiimoi-ri.
+Rii iihoumo kaupaꞌe hiꞌa. Ka Iesu iobodoumo uubi-ro, ioromoameheaimo riaꞌei, iidabuaimoi-da, tuero (12) rehai pidodiaimo.
+Ata himioi Iesu ai-pirudemea himia gaaꞌu-ha, ida pooꞌumo ruu iimatomudio mereei, ruui-do. Ruu-ro rii iatohetai-ka, “Uubi aaꞌoi-da, moo boꞌu-rie?”
+Rii-ro omoaimai-ka, “Aamiꞌai-ro ai-aaꞌo kaumo, roo Ioare-ka, uubi oboi-da, imaaheemo dubui-ka, aamiꞌai aaꞌoi Eria, kamia aamiꞌai aaꞌoi roo tauoi himogabo dubui ata-ro paraimai oroiꞌioi eito.”
+Ruu-ro rii iatohetai-ka, “Riꞌo mia? Riꞌo aaꞌoi-da, moo boꞌu-rie?” Petero-ro omoaimai-ka, “Roo Iehoma-ro iapui Paidubui-ka.”
+Ka Iesu-ro erehe hiꞌa ereemaabe made imaꞌai-ka, ara raai meree ata omoaduꞌoumoꞌai-ri.
+Ka ruu-ro rii iduuꞌai-ka, “Uubihaubi mereei, memiho hiꞌa temeteme eidai aꞌai. Maraibo duumo, epuu otii uubi-ro, Iehoma poue emaꞌatidio uubi epuu uubi-re, kamia bubui imatomudio uubi-re. Ruu iihiai-da edeꞌai aꞌai kaumo. Irai didimoi-to, retoꞌa-gaaꞌu (3) himioi-da, ruu oitorai aꞌai oroiꞌioi eito.”
+Ka ruu-ro, rii turiahai-do aaꞌoi-ka, “Meree ata-ro, rio amaꞌai moo obodoi, ruu himia dodo ma ororiiꞌii, satauroi ma aaꞌotai, ka moo ma robodoi turiaha himioi.
+Roo boꞌu-ro miraromo, roo himia oroiꞌioi araahoꞌoi, ka aatoai aꞌai, irai boꞌu oroiꞌioi maatoai moo-ri, ruu oroiꞌioi arahoꞌoi aꞌai.
+Raꞌaibou mea-ro ooꞌai maꞌai, meree ata-ro hepu geegai ma eidai, kaida, ruu himia oroiꞌioi ma aatoai? Aaꞌa, mea bia!
+Uubi-ro moo hiipo aremaꞌai duumo, kamia moo imatomudioi-re, ka rii Uubihaubi mereei-ro, aaꞌo emerai hiipo imaꞌai aꞌai, ruu himia tomioi-re, Abeai tomioi-re, kamia dubuae arerui tomioi-rei, rautu ooꞌui aꞌai-da.
+Riꞌo moo-ro iaha hiꞌai riduuꞌai, riꞌo aamiꞌai araarie, oroihi aꞌai bia modau-die, Aiai Iehoma pai emidio erarai, memeeꞌa duumo.”
+Ara madei iaaꞌoi-da, eiti (8) himio aibo, tauo poroohodi, Iesu-ro Petero, Ioare, kamia Iemisi iꞌopai-ka, iioi roꞌoai hoꞌui eito irudemeai.
+Ruu irudemeai-da, hohoi ata aibo poroaꞌoomo, ka ruu hipurai rautu bereberei hehei aibo-ro pioohiai.
+Aaꞌo ipi haato, retoꞌa dubuoti iobodidoi-ka, ruu rautu poroaduꞌutido, riiti Mose-ra, Eria-raika.
+Aromoi tomioi rautu piobodiido, Iesu Ierusaremaato iihiai aꞌai emerai poroaduꞌutibiimo, Aiai Iehoma madei modoboi.
+Petero aamiꞌai rautu uro hiꞌai pirobu, irai rii idomai iiaamodiimoi-da, ruu emeeꞌai-ka, tomioi rautu, retoꞌa dubuoti rautu potii.
+Aaꞌo dubuoti-ro, Iesu iemeheaidoi haato, Petero-ro aaꞌoi-ka, Iesui-do, “Epuudubu-o, raꞌu meai-ra rimoibi araa-rie! Rimoibi-ro, retoꞌa-gaaꞌu (3) moto epuu imoamodoi raꞌai kaumo, roo himia, Mose himia, ka Eria himia.” (Ruu ihaha umoo bia ruu raꞌu aaꞌo).
+Ruu ioroaduꞌuti-da dumo kopi aiha poobodi, duꞌi-ro rii iatimai-ka, ruu iimatomudio mereei iha toei paꞌaimo dumoi-ro rii iiatimai-da.
+Kiauka made ata dumoi goroi-da aaꞌoi-ka, “Ara moo meree-ohioi-ka, ruu moo-ro ai-pirapui, ruui-do oromidioumo.”
+Madei ioropoiꞌo didimoi-da, Iesu aaꞌo dubuoti-ro emeheai-ka. Irai aaꞌo himioi, Iesu iimatomudio mereei-ro, iaꞌaumo raarai aiha piohiidioumo, meree ata omoaduꞌuti bia.
+Himio atai-da, Iesu rautu retoꞌa-gaaꞌu (3) iimatomudio uubi, roꞌoai-da piooꞌumo, ida uubi paꞌa geema-ro imeeꞌai-ka.
+Ida aaꞌo uubi tuiai-da, dubu ata-ro, geema madei-to paaꞌo, “Epuudubu-o! Roo moo-ro ai-roarotiai, moo meree-ohioi, gaaꞌu hiꞌa-ka, ma rememeeꞌai-ri.
+Ruu memiho urioi-ro iimamiiai-da, made geega gaaꞌu aapoꞌiai-ka, eheuꞌatoi-ka hepui-da, iimoaimuti-ka, ka ipuugaahei iamootiai-ka. Ka memiho urioi-ro, ruu aaꞌo emerai omodoboadio, ka pauoi-to emeheai-ka.
+Roo iimatomudio uubi tauo rimoarotiai maaka, irai rii-ro memiho urioi omobodiomai modobo bia.”
+Iesu-ro omoaimai-ka, “Riꞌo moꞌui gamoꞌo hiꞌa tiato uubi-ka, Iehomai-do riꞌo pupuo iraromo kaukai, keeke hiꞌa-ka. Moo riꞌo rautu, raꞌaibou tutuu emidioi-ra? Moo haꞌima-ro tauo piroohiai, riꞌo pupuo iraromoi iiꞌimo bia.” Ruu-ro aaꞌo dubui eito aaꞌoi-ka, “Roo mereei omooꞌu, ara hiou eito.”
+Meree-ohioi iomooꞌumoi-da, memiho urioi-ro, hepui-da eheuꞌatoi-ka, iimoaimutii oomahoroi-ka. Iesu-ro pupuo madei-to memiho urioi obodiomai-ka, ka meree-ohioi aiha poodomoia, ka abeai eito meree-ohioi omoaimai-ka.
+Turiaha uubi urio podaudioumo, Aiai Iehoma erehe erarai ieaꞌaumoi-da. Irai Iesu iaꞌai raarai uubi-ro geꞌii rautu, geema poomaabumo, kaida ruu himia iimatomudio mereei eito aaꞌoi-ka,
+“Dodo iiꞌimoꞌa moo-ro riꞌo iduuꞌai aꞌai raai! Uubihaubi mereei imaꞌai aꞌai kaumo, uubi erarai eito.”
+Irai iimatomudio uubi umoo bia ara madei ihahai iaaꞌo emerai, mabu madei rii moꞌui-da ai-pimoapiꞌoma, kamia rii toe paꞌaimo ruu atohetai aaꞌo raarai hapuoi.
+Iimatomudio mereei himia eemaaꞌoi oomahoroi-ka, riiato, boꞌu-ro ooꞌai maꞌai geema hiꞌai.
+Iesu umoo tauo-ha piiꞌi, rii moꞌui-da raꞌu iraromoumoi, ka ruu-ro, meree-keehi ata oꞌopai-ka, ruu taitai-da omotoboai-ka,
+kaida aaꞌo-ka rii-do, “Ara meree-keehi boꞌu-ro moꞌopai, moo pairai-da, moo tauo roꞌopai maaka, kamia moo boꞌu-ro roꞌopai, moo irotiodoai mereei rautu tauo oꞌopai maaka. Mabu riꞌoato keehibuoi boꞌu-rie, ruu-ka geema hiꞌai.”
+Ioare-ro aaꞌoi-ka, “Paidubu-o, rimo-ro dubu ata reaꞌaa duumo, memiho urioi, roo pairai-da ibodiidio. Ka rimo-ro ruu ai-roduuꞌai duumo ma emahuurai-ri, mabu ruu rimo paꞌai-da bia.”
+Iesu-ro aaꞌoi-ka ruui-do, kamia aamiꞌa iimatomudio mereei rautu, “Riꞌo-ro ruu emadohomaimoꞌa, mabu roo omoamoo tiatoi boꞌu-ra, ruu roo rautu-ka.”
+Iesu aromoi eito omio himioi taitai-ro ioohiai-da, ruu iraromo peidai, ka odai omahoroi-ka Ierusaremai-to.
+Ka ruu-ro made himoꞌa uubi epuui-da itiodoai-ka, Samaria goꞌoto atai-to, ruu raara ma emaumodiimoi-ri.
+Irai aaꞌo goꞌotoi uubi-ro, ruu oꞌopaimo bia, mabu rii umoo-ka, ruu didimoi-to Ierusaremai-to odai aꞌai.
+Ruu iimatomudio uubi-da, Iemisi-ra Ioare-rairo aaꞌo raai ieaꞌaidoi-da, rii-ro aaꞌoi-ka, “Paidubu-o, roo rio-ra rimo-ro erai ma rahoꞌoumo aromoi-da, ma ooruoi, rii ma iruuroi?”
+Iesu-ro riiti iimeteai-ka, erehe madei-to imaaꞌo mamai-ka.
+Kiauka Iesu iimatomudio mereei rautu, aiha podaumo goꞌoto atai-to.
+Rii gaboi iimadaꞌuimo himioi haato, dubu ata-ro Iesui-do aaꞌoi-ka, “Roo raati odai maꞌai, moo-ro roo obodoi-ha raꞌai.”
+Iesu-ro ruui-do aaꞌoi-ka, “Buꞌi umui medee uuꞌu rautu-ka. Kamia momoꞌoi toto rautu-ka, irai Uubihaubi mereei hora utaꞌa mati tiato-ka.”
+Ruu-ro aaꞌoi-ka, dubu atai eito, “Moo robodoo.” Irai aaꞌo dubui-ro aaꞌoi-ka, “Paidubu-o, epuui tauo, moo abeai uuꞌumai raaraimai.”
+Iesu-ro omoaimai-ka, “Oroihi rii himia rituoi-ha ma oruuꞌumoi. Roo-mia odau Aiai Iehoma pai emidio erarai imoaduꞌuti.”
+Meree ata-ro aaꞌoi-ka, “Moo-ro roo obodoi raꞌai, irai tauo moo ai-raraimai, moo riaraamui giiꞌepu-umoo made imaꞌai.”
+Iesu-ro, ruui-do aaꞌoi-ka, “Meree ata-ro, hepui auhioi oomahoroi-da, ruu aia mereemeteuti didimoi eito, ruu modobo bia, Aiai Iehoma pai erarai goroi-da emidioi.”
+Aaꞌo didimoi-da Paidubui-ro iapui-ka, ata semeriti-tui (72), itiotuti-ka retoꞌa (2), retoꞌa (2), ruu epuui-da ma odaumoi-ri, ruu odai iieremaumodi mati-mati modobo.
+Ruu-ro rii-do aaꞌoi-ka, “Paꞌeai raarai iiho modobo tauo poohiai, irai iaꞌuubo uubi retoꞌati-ka, paꞌeai raarai ihai ma idabuaimo. Ma irudemeai paꞌeai rautu mereei eito, ka ruu-ro iaꞌuubo uubi ma itiodoai.
+Odaumo! Riꞌo moo-ro ai-ritiodoai mamoe paha-paha aibo, buꞌi umui tuiai eito.
+Mori ioidio haaꞌo, ipi haaꞌo, kamia oto tamai rautu, riꞌo-ro iꞌapudioumoꞌa. Gaboi ipi-da meree ata rautu tutuu-ha oroaduꞌuti bia.
+Riꞌo odai-da raati moto modoro, epuui aiha ma aaꞌoi, ‘Miroi ooꞌa, ara motoi-da.’
+Miroi umoo meree-ra, riꞌo miroi ruu reꞌei-da ooꞌai aꞌai, ii miroi umoo tiato meree-ra, miroi ma oaimai riꞌo himiai-do.
+Aaꞌo motoi-da ma emidioi, riꞌo raꞌu mimedeꞌa duumo ma iihoi, kamia ma idioi, mabu omaꞌati mereei taꞌii imidai aꞌai. Moto aamiꞌai-to oroaꞌoiai bia.
+Riꞌo goꞌoto atai-to aia modau duumo, ida aia mioꞌopai duumo, riꞌo hoho reꞌei-da ideꞌa, dui ma iihoi.
+Gimoi ma idomoiatidioi aaꞌo goꞌotoi-da, ka uubi ma iduuꞌai, ‘Aiai Iehoma pai emidio erarai riꞌo taitai-daka.’
+Ka riꞌo goꞌoto atai-to aia midoo duumo, ida geꞌii rautu ioꞌopaimo tiato-ra, ma odai gaboi ipi eito, ida ma aaꞌoi,
+‘Riꞌo goꞌotoi tuoꞌoi, rimo otoi-da imaratemoi, ai-rorotobiiti kaumo, riꞌo himiai-do. Irai ita iraromoumo, Aiai Iehoma pai emidio erarai riꞌo taitai eito, tauo ooꞌu maaka.’
+Moo-ro riꞌo iaha hiꞌai riduuꞌai, aumai iimaapo himioi-da, Aiai-ro Sodoma iemaꞌai riiboi keehibuo-ka, irai ire goꞌotoi, geega riibo omiiꞌai aꞌai.
+“Korasi goꞌotoi-o, memiho hiꞌa-ro ooꞌai aꞌai, rooi-do! Besaida goꞌotoi-o, memihoi hiꞌa-ro ooꞌai aꞌai, rooi-do! Mabu riꞌo reꞌei-da, iaꞌaimo urio odaudio raarai, Taia-ra Sidoro-ra goꞌototi-da aꞌai ato, aaꞌo mati epuui uubi mei emiꞌeituti kaumo, idiꞌidi hipurai-da mei aatimo kaumo, tuoꞌoi-da, ida garadodoumo, mabu rii memihoi reꞌei-da tauo pireheꞌeaimo.
+Irai Aiai-ro Taia-ra Sidoro-ra goꞌototi iimaꞌai riiboi keehibuo-ka, irai aumai iimaapoi aꞌai himioi-da, riꞌo omiiꞌai aꞌai riiboi geema-ka.
+Kaperarauma goꞌotoi-o, roo himia oroomioi amaꞌai aromoi eito? Bia, roo omooruoi-ha aꞌai, giimui-to.”
+Ka Iesu-ro aaꞌoi-ka, ruu iimatomudio mereei eito, “Riꞌo boiꞌo-ro miroomidio duumo, ka moo iroromidio duumo, kamia riꞌo boiꞌo-ro miraibo duumo, moo araiboi aꞌai kaumo, kamia moo boiꞌo-ro raraibo duumo, rii-ro moo irotiodoai abeai rautu araiboi aꞌai kaumo.”
+Ka iitiodai, semeriti-tu (72), dububaiꞌoi iha geꞌii rautu piiraimaimo, rii-ro aaꞌoi-ka, “Paidubu-o, rimo-ro memiho urioi, roo pairai-da, erehe irudemea made irimaꞌaimoi-da, rii-ro rimo aiha piriroomaimo.”
+Iesu-ro rii iduuꞌai-ka, “Moo-ro, Satari aiha pireaꞌa aromoi-da, bereberei emerai piiraahiai.
+Oromidioumo! Riꞌo erarai tauo pirimaꞌai, auo-ra, duukorope-rai hoꞌu-hoꞌui, ma oroaꞌoiaumoi-ri, kamia riꞌo Boho Mereei pupuoi ma omoapoiꞌoumoi-ri, ka ata raa-ro, riꞌo temeteme imaꞌai aꞌai bia.
+Irai geꞌii aꞌaimoꞌa, memiho urioi-ro riꞌo madei iiromidio duumoi-ri, ii geꞌii-ha ma aꞌai, mabu riꞌo pairai tauo-ha, paraꞌatiimo aromoi-da.”
+Aaꞌo himioi haato, Iesu Dubuae Urioi-ro iimamiai-da, ruu geega geꞌii paꞌai, ida paaꞌo, “Aba-o, aromo-ra hepu-rai, Paidubu-o! Moo-ro, roo ai-remarahue, mabu roo-ro tauo pimoahuꞌomai ara raarai, umoo tiatoi uubi eito, irai umooi-re moꞌui uubi-rei, reꞌei-da, ai-pimopiꞌoma ara raarai. Ie, Aba-o, roo iraromo meai modoboi-da, tauo oobodii maakaumo.
+“Moo Abeai-ro raarai turiaha piremaꞌai. Meree ata umoo bia, meree-ohioi boꞌu-rie, Abea behai umoo-ka, kamia meree ata umoo bia, Abeai boꞌu-rie, meree-ohio behai umoo-ka. Ka mereei-ro rio aꞌai ruu abeai aamiꞌa uubi eito ma imoaꞌemiai, ka rii-ro umoo iiꞌi aꞌai kaumo ruu.”
+Kiauka Iesu ereheꞌeai-ka, ruu iimatomudio meree behai imoaduꞌuti, “Riꞌo meaha tauo iiꞌi maakaumo, doꞌou orododiai raarai, ma iaꞌaamoi-ri.
+Riꞌo ai-riduuꞌai, hiiro himogabo uubi-re, kamia Pai uubi-reiro, rio paꞌaimo, riꞌo iaꞌaa raarai ma iaꞌaumoi-ri, irai iaꞌaa bia, kamia riꞌo iromidioumo madei ma iromidioumo, irai iromidioumo bia.”
+Bubui imatomudio dubui ata, rio-ka Iesu dii ma emedeeꞌai, ruu-ro atohetai-ka, “Imatomudio dubu-o, moo raꞌu aꞌai raꞌai tutuu oroiꞌioi ma reidai-ri?”
+Iesu-ro ruu omoaimai-ka, “Iehoma made bukai-ro, raꞌaibou aaꞌo? Roo-ro oaꞌeemiai-da raꞌu moroaduꞌo?”
+Aaꞌo dubui-ro omoaimai-ka, “Roo-ro Paidubui Iehoma, roo kaukai-re, roo urioi-re, roo pupuoi-re, roo iraromoi-re turiaha ma emaꞌai. Ka roo taitai mereei giiꞌepu ma emaꞌai, roo himia-ro giiꞌepu eremaꞌai aiboi.”
+Iesu-ro aaꞌoi-ka, “Roo ihaha aaꞌo, ara raarai ita idodiai, roo oroiꞌioi aꞌai.”
+Irai bubui imatomudio dubui rio-ka ruu himia iraromoi-da meai-to arahoꞌoi, ka Iesu atohetai-ka, “Moo taitai mereei boꞌu-rie?”
+Iesu-ro odii ataato omoaimai-ka araibau, “Dubu ata ai-poodoi Ierusaremaato Ierikoi-to, ida piroi-ro poohiaimo, hipurai imomopimutimo, iaiꞌiiaumo aumo-aumoi aꞌai-da pemeeheaimo, rii odai.
+Ka aaꞌo himioi Aiai poue iemaꞌatidioumo dubui ata gaaꞌu, gaboi poodoi, irai aaꞌo dubui iemeeꞌai-da, aiha pemahee hapuoi-ha poodoii.
+Irudeme motoi-da imoabai dubu ata, gaaꞌu gaboi poodoi aatu emerai, aaꞌo dubui emeeꞌai-ka, ka aiha pemeeheai hapuoi-ha poohodii.
+Irai Samaria dubu ata, hiei-ha pooꞌu, ida aaꞌo dubui-ha pemeeꞌa, ka ruu-ro iemeeꞌai-da, ruu kaukai-da iha giiꞌepui peereaꞌa.
+Ruu-ro oomodai-ka, tamai ratoi iiꞌaa reꞌei mire obo-ra, here raai-da imimoruꞌo, umai itohiti-ka, aiha pomiꞌai ruu iomodau doriki-da aiha paaꞌoai, omodai-ka dima motoi-da aiha pedeꞌa, ka hiei-da peaꞌaamo.
+Himio atai, retoꞌa (2) mori huraati iruutiai-ka, motoi ieaꞌaa dubui emaꞌai-ka, ida poduuꞌai, ‘Meaha ita eaꞌaa, roo raꞌu eheuꞌai maꞌai ruuato, moo-ro omoaimai raꞌai arahiou hoꞌui-da.’”
+Kiauka Iesu-ro madei opoiꞌoi-ka, “Roo iraromoi-da, retoꞌa-gaaꞌu (3) uubi-da piroi-ro iaiꞌiiaumo dubui tama taitai aibo mereei boꞌu-rie?”
+Bubui imatomudio dubui-ro aaꞌo-ka, “Ruu giiꞌepu iemaꞌai dubui-ka.” Iesu-ro aaꞌoi-ka, “Ka roo odau, gaaꞌu emerai ita aꞌai.”
+Ka Iesu, ruu iimatomudio mereei rautu iodaumo gaboi ipi-da, pemeeꞌaumo, goꞌoto ata. Hiei-da oobo ata paira-ka, Mata, ruu-ro Iesu geꞌii rautu poꞌopai ruu motoi eito.
+Ruu ria meree-behei, pairai Maria, Paidubui hoho reꞌei haato peiꞌei, ka ruu imatomudio emerai-ha poroomidio.
+Mata geꞌii aꞌai bia, turiaha omaꞌati ruu himia haa-ro ma omaꞌati, kaida iooꞌui-da paaꞌo, “Paidubu-o, roo-ro emaabei meaha-ra? Moo ria meree-behei-ro ai-remeheai maaka, turiaha omaꞌati moo himia haa-ro ma romaꞌati-ri. Ruu oduuꞌai ma ooꞌui, moo ma romoabai!”
+Paidubui-ro, ruu madei pomoaimai, “Mata, Mata! Roo iraromoi pauo-ka, kamia auma-ka, roo iraromo raara hiiroi-da,
+irai gaaꞌubuo geema hiꞌa raa rooi-do, roo-ro rio aꞌai. Maria ruu, mea hiꞌa raai rio iiꞌi maaka, ka omodadeai aꞌai bia ruu aaꞌo raai reꞌei-da.”
+Ata himioi, Iesu ai-pirudemea mati ataato. Ka irudemeai ioropoiꞌoi-da, ruu iimatomudio mereei ata-ro aaꞌoi-ka, “Paidubu-o, rimo irudemeai ma rimatomudio, Ioare, iimatomudio mereei, iimatomudio emerai.”
+Iesu-ro aaꞌoi-ka rii-do, “Irudemeai-da, araibau-ha ma irudemeai, Aba-o, Roo dubuae pairai ita emaabeumo; Roo pai emidio erarai mooꞌu-ka.
+Rimo himio gaaꞌu-gaaꞌu modobo dui, rimaꞌati.
+Rimo memihoi rimapihiti, mabu rimo-ro aamiꞌa uubi, rimoi-do aꞌai memihoi imapihiti-ka. Ka rimo imatuhuti raarai-da, ita rimomurudio.”
+Iesu-ro aaꞌoi-ka, ruu iimatomudio mereei eito; “Roo-ro ma iraromo, roo riaraamu rautu-ra, ida ruui-do ma odau duoi tuia hiꞌai, ida ma aaꞌo, ‘Riaraamu-o, moo retoꞌa-gaaꞌu (3) du kopiato romoabai.
+Mabu moo riaraamu ata, auꞌo matiato ooꞌu maaka mooi-do, irai moo ata raa tiato-ka, ruu ma remaꞌai!’
+Kaida, rioi mereei-ro, araibau amaaꞌo, ‘Moo pauo emaꞌaiꞌa! Birii tauo romoopai maaka, moo mereei rautu uro mati-daka. Moo eibuai modobo bia, roo ata raa ma romoabai.’
+Irai moo-ro riꞌo ai-riduuꞌai, ruu eibuai aꞌai bia, ruu roo riaraamui-ri, roo ata raa ma emaꞌai, irai roo-ro ruu aia matohe ata-atai hiipo tiato-ha, ruu eibuai aꞌai, roo aaꞌo raarai turiaha emaꞌai aꞌai.
+“Ka moo-ro riꞌoi-do ai-raaꞌo, ma atoheitai, ka riꞌo-ro eidai aꞌai kaumo, ma oohoi, ka riꞌo-ro emeeꞌai aꞌai kaumo, birii ma aamaꞌedei, ka birii araꞌerai aꞌai riꞌoi-do.
+Mabu boiꞌo-ro matohe duumo, rii-ro eidai aꞌai kaumo, boiꞌo-ro moohoo duumo, rii-ro emeeꞌai aꞌai kaumo, kamia birii araꞌerai aꞌai, birii amaaꞌede uubi eito.
+Riꞌo abeamiꞌoi eito modobo-ra, roo mereei auo ma emaꞌai, ruu raa-ri oroaroi-da? Bia, modobo bia!
+Kamia duukoropei emaꞌai amaꞌai, ruu kokoro hurai-ri oroaroi-da? Bia, modobo bia!
+Irai riꞌo memihobaiꞌo umoo-ka, riꞌo mereei meamea raara imaꞌati. Aromoi Abeai, geema hiꞌa rio aꞌai, Dubuae Urioi imaꞌati, ruui-do oroaro uubi eito.”
+Iesu-ro memiho urioi iobodiomai-da, made oroaduꞌuti tiato dubui-da, memiho urioi aiha pohuuꞌodidio. Ka memiho urioi iohuuꞌodidioi-da, aaꞌo dubui oroaduꞌuti oomahoroi-ka. Ka turiaha uubi geemai, urio podaudioumo.
+Irai aamiꞌa uubi-ro paaꞌoumo, “Berisaburo-ro emaꞌai Iesu erarai, memiho urioi ma ibodiidio-ri. Ka Berisaburo turiaha memiho urioi epuuhoroi-ka.”
+Aamiꞌai, rii rio-ka Iesu ma emahibaimo, ka ruu atohetaimoi-ka, urio odaudio raa ata, ma obodii-ri. Ka rii umoo ma iiꞌimo, ruu erarai Iehoma reꞌei-da ooꞌu.
+Irai Iesu, umoo iiꞌi-ka, rii iiraromoumoi. Ruu-ro aaꞌoi-ka rii-do, “Hepu ata, ruu himia, aia moroaheuti rii himia heamo ma aꞌaimoi-ri, ara hepui tutuu ooꞌai aꞌai bia, gaaꞌu aibo-ka, dubu ata, motoi-da, meree Abea emidioi, aia goroaheuti, ara dubui motoi otii aꞌai bia.
+Kamia Satari ruu himia paꞌai aia moroaheuti heamo ma aꞌaimoi-ri, ruu pai emidioi mati raꞌaibou ooꞌai maꞌai? Bia, modobo bia! Riꞌo-ro ai-aaꞌo kaumo, moo memiho urioi Berisaburo erarai-da riibodiidio.
+Ha, moo Berisaburo erarai-da ariibodiidio, ka riꞌo iibodoumo uubi boꞌu erarai-da, iibodiidioumo memiho urioi? Rii Berisaburo erarai-da, ibodidioumo bia. Ka eaꞌai-da, riꞌo hobou aaꞌo kaumo!
+Irai moo-ro, memiho urioi, Aiai Iehoma erarai-da ariibodiidio, ka Iehoma Pai emidio erarai, riꞌoi-do tauo ooꞌu maaka.
+“Pupuo dubui, heamo raarai rautu, modobo-hara, ruu himia motoi-da, ruu raarai meaha iiꞌai aꞌai.
+Irai pupuo hiꞌa dubui-ro, ruu aia moohiai, ida ruu pupuoi aia momoapoiꞌo, ka ruu iimomotii heamo raarai oaidai aꞌai turiaha, ka aamiꞌa uubi eito, imaꞌati aꞌai.
+“Roo, moo rautu bia-ra, ka roo-ro moo ihaha omoamoi aꞌai; meree ata, moo omoabai tiato-ra ibuꞌiidioi-da, ruu-ro iburuti aꞌai.
+“Memiho urioi-ro, meree ata aia memeheai, ka ruu oroaꞌoiai-ka, toatoa hepui, hora ahue mati ma emeeꞌai-ri. Ida ata mati emeeꞌa tiato-ra, ruu-ro himiai-do aaꞌoi-ka, ‘Moo araimai rodau, moo himia motoi eito.’
+Ka ruu araimai-da, motoi emeeꞌai-ka, tomio-ha tauo-ha potobioumo.
+Ka ruu ohuuꞌoi-ka kekai eito, ida imooꞌui-ka, aamiꞌa semeri (7) memiho hiꞌa urioi, ruu-ro omiorai, hiei-da ma emidioumoi-ri. Turiaha iidoi oropoiꞌoi-da, aaꞌo mereei memiho hiꞌai-da ereedeeꞌai-ka, ruu epuui-to iiemidio emerai oohodii-ka.”
+Iesu, aaꞌo emerai iaaꞌoi-da, oobo ata-ro, paꞌai tuiai-da, geema madei-to paaꞌo, “Geꞌii-ka, roo ooto-ra, oomoto-rai iaꞌai ooboi!”
+Irai Iesu-ro, ruu madei omoaimai-ka. “Ie, irai geꞌii hiꞌa-ro ooꞌai aꞌai, Iehoma madei, oroomidio-ra, obodoo-rai aꞌai uubi eito.”
+Uubi-ro Iesu iomaaꞌeumoi-da, ruu-ro aaꞌoi-ka, “Memiho hiꞌa-ka, doꞌou ara himioi uubi! Rii ai-oroaro kaumo, urio odaudio raa-ri, irai ata raa imaꞌai aꞌai bia. Ka moo-ro rii-do imaꞌai aꞌai raai Iora iaꞌai urio odaudio raa gaaꞌu behai-ka.
+Aatu emerai-ka, himogabo dubui, Iora iaꞌai raai, Ririma uubi eito, ka Uubihaubi Mereei aaꞌo emerai raa-ha aꞌai aꞌai, doꞌou ara himioi uubi eito.
+Aumai imaapoi aꞌai himioi, Seba pai ooboi otooꞌai aꞌai, doꞌou ara himioi uubi ma imehiipoi-ri, mabu ruu himia hepui-da, auꞌo pooꞌu, Soromori orootomu madei oroomidioi-ri, kamia riꞌo umoo-ra ara hioꞌou-da, ata raa, raa-rie. Moo-ro riꞌo ai-riduuꞌai Soromori pai-ro omioorai-ka.
+Aumai imaapoi aꞌai himio-da, Ririma uubi otooꞌai aꞌai kaumo, riꞌo imehiipoi-ri, mabu rii tauo pireheꞌeaimo memiho oroiꞌioi-da, Iora orootomui iiromidioumoi-da, ka riꞌo moo-ro umoo ridodiai, meree ata raa-rie Iora goro-ka, ruu hoꞌu-ka!
+“Meree ata-ro ramepai adiai-da, opiꞌomai aꞌai bia, kamia ipuai goroi-da edeꞌai aꞌai bia. Bia modobo bia! Ruu-ro aiha edeeꞌai aꞌai ramepai ooꞌa reꞌei-da, uubi iidouti-da, hehei ma eaꞌaumoi-ri.
+Roo idomai ramepai aibo-ka, roo tuupi eito. Roo idomai meaha-ra, ee-ka roo tuupi hehei-daka. Ii roo idomai memiho-ra, ee-ka roo tuupi duꞌi-daka.
+Meaha ma ereaꞌai, roo tuupi hehei duꞌi iiꞌi bia!
+Roo turiaha tuupi, hehe hiꞌai-dara, hapuo ata duꞌi ooꞌa bia-ra, ka turiaha hehe-haka, ramepai ma iradi emerai rooato.”
+Iesu oroaduꞌuti ioropoiꞌoi-da, Pariseia dubu ata-ro, ai-paamaꞌue, ruu rautu ma iihoidoi-ri, ka ruu motoi iodoroi-da, aiha pemiꞌei, dui ma iihoi-ri.
+Pariseia dubui urio podaudio Iesu ieaꞌai-da, dui iihoi-ha poomahoro, tui imoruꞌo tiatoi-da.
+Paidubui-ro ruui-do aaꞌoi-ka, “Riꞌo Pariseia uubi, kapusi-ra mereki-rai kekai tamai imoruꞌo kaumo. Irai riꞌo goroi oroiꞌioi, iiho-toto, kamia memihoi geega-ka.
+Riꞌo amaamo-ka! Iehoma-ro kekai iododiai-da, rioi ododiai bia-ra? Ie, tauo pododiai.
+Irai kapusi-ra mereki-rai, rioi raarai, ma imaꞌati, raara tiato uubi eito. Ka riꞌoi-do turiaha raarai riiꞌimo tiato iiꞌai aꞌai.
+“Pariseia uubi-o, memiho hiꞌa-ro ooꞌai aꞌai riꞌoi-do! Riꞌo-ro emaꞌatidio kaumo, Aiai Iehomai-do, modobo kerei, keekeebaiꞌo topo ribo raabari, kamia aamiꞌa raara paꞌeai-da. Irai riꞌo-ro, aamiꞌai eito gamoꞌo oroiꞌioi idodiaimo bia, ka riꞌo Aiai Iehomai-do, giiꞌepu aꞌaimo bia. Riꞌo-ro ire raarai aiha ma aꞌai, ka riꞌo iibodiidioumo bubui riꞌo-ro haꞌima aꞌai bia.
+“Pariseia uubi-o, memiho hiꞌa-ro, ooꞌai aꞌai, riꞌoi-do! Riꞌo rio-ka idabu mati-mati-da, hoho reꞌei totoi, kamia raarai oromoamee mati-da, imaabee rautu ma imoaduꞌutimo.
+Memiho hiꞌai ooꞌai aꞌai riꞌoi-do, mabu riꞌo, tu rato tiato egai boboi aibo-ka, uubi-ro umoo iiꞌi tiato-ha, hoꞌui ma oroaꞌoiaumo.”
+Bubui imatomudio dubui ata-ro, aaꞌoi-ka ruui-do, “Imatomudio dubu-o, roo-ro ireibai iaaꞌodioi-da, roo-ro rimo rautu, ai-rimaaꞌutidio!”
+Iesu-ro omoaimai-ka, “Bubui imatomudio uubi-o, kamia memiho hiꞌa-ro ooꞌai aꞌai riꞌoi-do! Riꞌo-ro iaaꞌo kaumo, uubi hoꞌui-da riiboi, ka riibo hiꞌa-ka, imaꞌoiai modobo bia, irai roo himia-ro, tu hura gaaꞌu omiiꞌai aꞌai bia, rii ma imoabai riiboi-da.
+Memiho hiꞌa-ro ooꞌai aꞌai riꞌoi-do! Riꞌo-ro idodiai kaumo mea hiꞌa roꞌoa uuꞌui, oroihi himogabo uubi-ri, aaꞌo himogabo uubi, riꞌo rariamiꞌoi-ro piimotoumo.
+Riꞌo himia aꞌai raarai-da ai-oobodi kaumo, riꞌo rariamiꞌoi iaꞌaimo raarai, rio aꞌai kaumo. Rii-ro piimotoumo himogabo uubi, ka rii iruꞌumo roꞌoa uuꞌu boboi riꞌo-ro imititi kaumo.
+Aaꞌo raꞌu-da, Iehoma mooꞌui umooi-da ai-paaꞌo, ‘Moo-ro, rii imetiodoai raꞌai himogabo uubi, kamia made imaꞌoia uubi, rii-ro aamiꞌai iimotoi aꞌai kaumo, ka aamiꞌai imodoboai aꞌai kaumo.’
+Ka doꞌou ara himioi uubi rii aumai-da ideꞌai aꞌai, mabu tauoi himogabo uubi, rii-ro iimotoumoi-ri hepui iododiai himioi-da, imooꞌu doꞌou.
+Abera iaiꞌiia himioi-da, iooꞌu Sekaraia iaiꞌiiaumo, ruu poue totoi-re, ka dubuae hiꞌa mati-re, ipituiai-da, paiꞌiiaumo. Ie, riꞌo moo-ro ai-riduuꞌai, riꞌo doꞌou ara himiou uubi, rii-ri auma eidai aꞌai kaumo.
+“Bubui imatomudio uubi-o, memiho hiꞌai ooꞌai aꞌai riꞌoi-do! Riꞌo-ro oꞌapudio kaumo moꞌui motoi birii aꞌeuti raai. Riꞌo himia iidoo bia, ka riꞌo-ro imomurudio kaumo, iido tooto aꞌaimo uubi!”
+Iesu, aaꞌo mati iemeheai-da, bubui imatomudio uubi-re, kamia Pariseia uubi-reiro, riibo madei-to peemeehiipoumo, ka rii-ro hiiro hiꞌa raara ai-patoheumo.
+Ruu oraꞌe pemedeꞌaumo, ruu memiho raa ata, aaꞌoato ma oohiaimoi-ri.
+Aatu himioi-da, hiiro hiꞌa tauseri (1,000) uubi gaaꞌu-ha ioodabuaimoi-da, aamiꞌa uubi, aamiꞌai hoꞌu-hoꞌui-da ai-potooꞌutiimo. Iesu-ro epuui-da ruu iimatomudio mereei eito aaꞌoi-ka, “Ita eremaabeumo, Pariseia uubi paramai iaupaituti tuoꞌoi aibo-ka, moo-ro ai-raaꞌo, rii daea uubi-ka.
+Raꞌu momurudio, eremapotai aꞌai, kamia goro hiꞌai iipiꞌomatidioi, umoo iiꞌi aꞌai kaumo.
+Kaida roo-ro duꞌi-da raꞌu maaꞌo, himioi tuia hiꞌai-da, oromidioi aꞌai kaumo, ka haadoai-to raꞌu maaꞌo, oropatidio ruuꞌai goroi-da, motoi ubui-da pairautu madei-to, aaꞌoi aꞌai kaumo.
+“Moo-ro riꞌo moo riaraamui ai-riduuꞌai, toe aꞌaimoꞌa tuupi boiꞌo-ro aiꞌiiai maꞌai duumo rituo-ha, irai memiho raa ata ododiai aꞌai bia didimoi-da.
+Riꞌo moo-ro imapui raꞌai, riꞌo-ro boꞌu toe emaꞌai maꞌai duumo, Iehoma toe ma emaꞌai, ruu erara-ka, ruu-ro aiꞌiia didimoi-da, riibo mati eito ma epeduai. Ie, riꞌo moo-ro ai-riduuꞌai ruu beha-ha toe ma emaꞌai.
+“Tu-hapuo (5) miroria, retoꞌa (2) mori hurai-to, ideꞌai amaꞌai? Ie, iaha-ka, Iehoma-ro gaaꞌubuo miroriai ata, dodo iiꞌi aꞌai bia.
+Kamia roo epuui muhoi turiaha tauo piahoꞌouti, kaida toe aꞌai bia, roo muari hiꞌa-ka, turiaha miroriai aibo bia.
+“Moo-ro riꞌo ai-riduuꞌai, boꞌu-ro maaꞌo turiaha uubi hoohoi-da, ruu mooi-doka, Uubihaubi Mereei-ro, gaaꞌu emerai aaꞌoi aꞌai rii-do, Iehoma arerui hohooi-da.
+Irai boiꞌo-ro raraibo duumo moo, turiaha uubi hoohoi-da, Uubihaubi Mereei-ro rii aaꞌo emerai iraiboi aꞌai Iehoma arerui hohooi-da.
+“Meree ata boꞌu-ro maaꞌo omoamoo made ata, Uubihaubi Mereei eito, modobo-ka emapihiti, irai boꞌu-ro maaꞌo memiho omoamoo raara Dubuae Urioi eito, emapihiti aꞌai bia.
+“Rii-ro riꞌo aia mimooꞌu duumo, idabu motoi uubi-re gamarai-re kamia aamiꞌa epuuhoro uubi hohooi-da iatohei, pauo iraromoi bia, riꞌo raꞌu aaꞌoi maꞌai duumo riꞌo himia oroomatuei ma aꞌai.
+Mabu Dubuae Urioi-ro, riꞌo imatomudioi aꞌai aaꞌo himio mabui-da, riꞌo raꞌu aaꞌoi-rie.”
+Dubu ata-ro uubi hiiroi tuiai-da paaꞌo Iesui-do, “Imatomudio dubu-o, moo raamui oduuꞌai, rimoiti abeai-ro irimoameheai raarai, ma roromotoodeaido.”
+Iesu-ro ruu omoaimai-ka, “Dubu-o, moo erarai boꞌu-ro remaꞌai riꞌoiti raarai ipituiai-da ma rimotoodeai-ri?”
+Ka Iesu-ro rii-do aaꞌoi-ka, “Meaha ereaꞌaumo, ka ita ereemaabeumo riꞌo himia, rurubu oroiꞌioi-da, mabu oroiꞌioi, ihahai uubi iraahoꞌoo raarai-da ododiai bia, iahoꞌouti bia, raꞌaibou raara hiiro meree-ra.”
+Kaida pimoaduꞌo, Iesu-ro ara obeegiri, “Raara hiiro dubu ata hepu rautu-ka, aaꞌo hepui-da paꞌea raarai mea hiꞌa-ha piooumo.
+Ruu himia-ro iraromoi oomahoroi-ka, ‘Moo paꞌea raarai iraahoꞌoo mati tiato-ka, moo raꞌu aꞌai raꞌai?’
+Ruu himia oromoaduꞌoi-ka, ‘Moo araibau aꞌai raꞌai, moo paꞌea raarai-re, kamia dui iiꞌa motoi iagogouti raꞌai, paipai ma riititi-ri, ka moo raa hurai-re, kamia aamiꞌa dui hiei-da iraahoꞌooi raꞌai.
+Ida, moo himiai-do ai-raaꞌo, moo raara hiiro dubu-ka! Moo rio aꞌai meamea raarai turiaha burioi iiꞌadioi aꞌai, pauo tiato oroiꞌioi ma reidai-ri iiho idioi ma raꞌai, geꞌii rautu ma remidio!’
+Irai Iehoma-ro aaꞌoi-ka ruui-do, ‘Roo amaamo-ka! Doꞌou duoi roo oroiꞌioi oaidai raꞌai, ka roo ieremaumodi raarai turiaha boꞌu-ro imidai maꞌai, roo-ro imeheai aꞌai-da?’”
+Ka Iesu-ro obeegiri opoiꞌoi-ka, “Araibau-ka, raara hiiro-hiiroi boiꞌo-ro moromomohi duumo, rii himia-haido, rii Iehoma hohoi-da, raara tiato-ka.”
+Kaida Iesu-ro paaꞌo, ruu iimatomudio mereei eito, riꞌo moo-ro ai-riduuꞌai, pauo iraromoi bia iiho dui eito, riꞌo ma oroiꞌioumoi-ri, kamia tuupi imaꞌoia hipurai eito!
+Oroiꞌioi ihaha raa-ka, duui aibo bia, kamia tuupi ihaha raa-ka, imaꞌoia hipurai aibo bia.
+Oaꞌoai ma iraromoumo, rii ruꞌa hura ioodouti bia, kamia paꞌea raa iaꞌuboumo bia, rii duu iraahoꞌoo moto tiato-ka, rii Iehoma-ro iomoto, riꞌo muari hiꞌa-ka, momoꞌoi aibo bia.
+Meaha-ra, riꞌo pauo iraromo rautu emidioi, pauo iraromoi-ro, roo oroiꞌioi keehibuo, tutuu omotutuomai amaꞌai? Abiarie.
+Roo-ro ara keehibuo raai ododiai modobo bia-ra, ka raꞌu-ri pauo iraromoi-ra, aamiꞌa raarai eito.
+Ma iaꞌaumo buꞌi kopoi raꞌaibou miiꞌi duumo, rii omaꞌatimo bia, kamia hipura idodiaimo bia, rii himia-ri. Irai moo-ro riꞌo ai-riduuꞌai, Soromori hipurai tomioi aibo bia, kopoi tomioi, muari hiꞌa-ka.
+Iehoma-ro iidodiai, buꞌi tataꞌoi tomioi, tataꞌoi doꞌou araarie, toutu uubi-ro, iipeduai aꞌai kaumo, erai-ro ma iruuroi-ri. Iehoma-ro rii hipurai imaꞌati emerai, riꞌo ihaha imaꞌati amaꞌai? Ie, ihaha imaꞌati aꞌai! Riꞌo pupuo iraromoi keeke hiꞌa-ka!
+“Kamia raꞌuri-ha iraromoi-ra, iiho-ra, idioi-rai eito, pauo iraromoi bia.
+Ara hepui-da, Iuda guui-da paira tiato uubi, turiaha himioi ai-iraromodio kaumo, aaꞌo raarai. Riꞌo abeai umoo-ka, riꞌo rio-ka aaꞌo raarai.
+Kaida Iehoma pai emidio erarai ma iraromoi, ka ruu-ro ara hepui-da, riꞌo oroiꞌioi iraromo raarai, imaꞌati aꞌai.
+“Toe aꞌaimoꞌa, paꞌa keehi-o, riꞌo Abeai geꞌii-ka, ruu Pai emidio erara ma imaꞌai-ri, riꞌoi-do.
+Turiaha riꞌo raarai ma ideꞌai oromoamei-ri, ka mori, raara tiato uubi ma imaꞌati. Oroaheꞌa tiato mori haaꞌo, ita eremaumodiimo, ka riꞌo mea irahoꞌoo raarai ita ideꞌaumo aromoi-da. Ka rii oropoiꞌoi aꞌai bia, mabu piro ata-ro imeꞌei aꞌai bia, kamia tete ata-ro itoeꞌauti aꞌai bia.
+Riꞌo kaukai iiꞌai aꞌai, meamea raarai iiꞌaa reꞌei-da.
+“Ma ereemaumodi, raꞌu-ro ooꞌui maꞌai eito, ka ma orododiai, oobodii aꞌai raarai eito, kamia ramepai ma adiai,
+himoꞌa uubi-ro, rii epuuhoro dubui ma omotiimo emerai, oobo-ra dubu-rai idabuai mahuai reꞌei-da, ooꞌui aꞌai aiboi. Ruu araimai-da, birii amaaꞌedei aꞌai, ka birii gaaꞌu hiꞌa-ha ma emaꞌeraimo.
+Geꞌii hiꞌa-ka, himoꞌa uubi rii epuuhoro dubui-ro, oroiꞌioi-da amimeeꞌa ruu araimai-da, kamia tauo ageremaumodiimo! Moo-ro riꞌo ihaha riduuꞌai, ruu eremaumodi aꞌai, ka rii iduuꞌai aꞌai ma emiꞌeitutimoi-ri, ruu-ro ma iomotoi-ri.
+Ruu duoi tuiai-da, kamia didimoi-to ooꞌui aꞌai-da, rii tauo ageremaumodiimo, ida amimeeꞌa, rii geꞌii hiꞌa-ka.
+Kaida riꞌo umoo hiꞌa ma ooꞌai, motoi rautu mereei umoo-ra piroi, ooꞌui aꞌai himioi, ruu-ro omoaꞌuei aꞌai bia motoi ma ehebiai-ri.
+Ka riꞌo rautu ma eremaumodi, mabu Uubihaubi Mereei ooꞌui aꞌai himioi, riꞌo umoo ooꞌai aꞌai bia.”
+Petero-ro atohetai ka, “Paidubu-o, ara obeegiri rimo behaido-ra, ee turiaha uubi rautu-ra?”
+Paidubui-ro omoaimai-ka, “Ka boꞌu-rie mea eremaabe emidioi, kamia moꞌui rautu himoꞌa mereei? Ruu beha-ka, epuuhoro dubui-ro, epuuhoro meree ododiai aꞌai motoi ma eaꞌai-ri, kamia aamiꞌa moto himoꞌa uubi duui ma imaꞌati-ri, duui imaꞌati himio hiꞌai-da.
+Geꞌii hiꞌa-ka, ire moto himoꞌa mereei, ruu epuuhoro dubui, araimai-da, ruu aaꞌo emerai aꞌai-da amemeeꞌa!
+Ie, riꞌo moo-ro ai-riduuꞌai, moto epuuhoro dubui-ro, motoi himoꞌa mereei epuuhoro apui aꞌai, ruu raarai turiaha ma emeaꞌai-ri.
+Irai ire himoꞌa mereei-ro, ruu himiai-do aibau amaaꞌo, ‘Moo epuuhoro dubui, tutuu hiꞌa himio eidai ma araimai-ri.’ Kaida ruu-ro iimotoi amoomahuꞌuai, aamiꞌa moto himoꞌa upi dubui, iiho-ra idiorai-da imaꞌai, kamia amaamo oboi-da.
+Kaida ruu epuuhoro dubui ata himioi ooꞌui aꞌai-da motoi eito, himoꞌa mereei-ro ruui-do omoti tiato himioi-da, kamia ruu umoo iiꞌi tiato himioi-da, epuuhoro dubui-ro ruu amaꞌadei aꞌai, ka otiodoai aꞌai iroomidio tiato uubi eito, rii rautu ma emidioi-ri.
+“Moto himoꞌa mereei umoo-ra, ruu epuuhoro dubui-ro, raꞌu omaꞌati emaꞌai, irai ruu-ro aꞌai bia, kamia ruu-ro ereemaumodi bia-ra, ka ruu pairautu hiꞌa ororihoi aꞌai.
+Irai moto himoꞌa mereei umoo bia-ra, ruu epuuhoro dubui-ro raꞌu omaꞌati emaꞌai, kamia ruu-ro memiho aia maꞌai, ruu modobo-ka, keehibuo aibo ororihoi. Hiiroi emaꞌai mereei eito, hiiro-ri oroaroi-ka. Kamia hiiro hiꞌa emaꞌai mereei eito, hiiro hiꞌa-ri oroaroi-ka.”
+“Moo ai-pirooꞌu hepu geemai erai-da adiai, ka moo rio-ka ara erai iradi ma oomahoroi!
+Moo temetemei-da ma romoꞌuumidioumoi-ri romotii, ka pauo iraromoi odai aꞌai moropoiꞌo!
+Riꞌo iraromoi-da, moo miroi aromooꞌu ara hepu geemai eito? Abiarie, miroi bia, irai himia orootoodei!
+Doꞌou ara ipi-da, imodau iiꞌai aꞌai himioi, maamu, abea, meree, tu-hapuoi-to orootoodei aꞌai kaumo, retoꞌa-gaaꞌui-ro (3) retoꞌai (2) imoamoi aꞌai kaumo, kamia retoꞌai-ro (2) retoꞌa-gaaꞌui (3) imoamoi aꞌai kaumo.
+Abeamiꞌoi-ro ohio mereei imoamoi aꞌai kaumo, ka ohio mereei-ro abeamiꞌoi imoamoi aꞌai kaumo. Maamiꞌoi-ro buhe mereei imoamoi aꞌai kaumo, ka buhe mereei-ro maamiꞌoi imoamoi aꞌai kaumo. Daamiꞌoi-ro eteamiꞌoi imoamoi aꞌai kaumo, ka eteamiꞌoi-ro daamiꞌoi imoamoi aꞌai kaumo.”
+Iesu aaꞌoi-ka uubi eito, “Riꞌo-ro bubui aia meaꞌaa duumo, himioi ooruo hapuoi-da ioroi-da, riꞌo-ro gaaꞌu hiꞌa-ha aaꞌoi aꞌai kaumo, ‘Mihaei ooꞌui aꞌai,’ kiauka mihaei aiha ooꞌui-ka.
+Kamia riꞌo-ro aia mereaꞌaa duumo, hapuo atai koroboi omumui-da, ka riꞌo-ro aaꞌoi-ka, ‘Mati erara-ro oohiai aꞌai.’ Kiauka, erarai-ro oohiai-ka.
+Riꞌo daea uubi-ka! Riꞌo-ro hepu-ra aromo-rai imiaꞌaa duumo, riꞌo umoo-ka raꞌu-ro oobodi maꞌai, irai raꞌu mabu-ra riꞌo-ro ara himioi orododiai raarai ihahai umoo iiꞌi tiato?
+“Riꞌo-ro himia ma eaꞌaumo, mea ododiai raai raꞌu-ra?
+Meree ata-ro, roo aia meemehiipo, pauoi-to ma emahibai idomoiai-ri, roo omodau toe-ka, bubu uubi hohooi eito. Roo-ro aꞌai tiato-ra, roo oaredioi aꞌai kaumo, bubu uubi hohoo reꞌei eito, ka ruu-ro roo imaꞌai aꞌai idi uubi eito. Kaida roo edeꞌai aꞌai kaumo, duꞌi motoi-da.
+Ka roo hieꞌei-da, emidioi aꞌai modau-die, roo iaraa mori gaaꞌui-da, taꞌii maꞌai-die.”
+Aaꞌo himioi-da uubi aamiꞌa, hieꞌei-daka, rii-ro poduuꞌaimo Iesu, Pirato-ro Garereia uubi iimoto emerai, Iehomai-do poue raarai iemaꞌatidioumoi-da.
+Iesu-ro rii imoaimai-ka, “Ire Garereia uubi aaꞌo emerai gaboato agimotoumo, riꞌo iraromoi-da, rii memiho hiꞌa uubi-ra, aamiꞌa Garereia uubi rautu idoboai-da?
+Abiarie! Ka riꞌo moo-ro ai-riduuꞌai, riꞌo ireheꞌeai tiato-ra memihoi-da, riꞌo rii rautu oroihi aꞌai kaumo.
+Raꞌaibou-ra ire eitiri (18) uubi iimotoi Siroamua-to, moto tutuu ata iirahiai, rii hoꞌui-da? Riꞌo iraromoi-da rii memiho hiꞌa uubi-ra, aamiꞌa Ierusarema uubi rautu idoboai-da?
+Abiarie! Ka riꞌo moo-ro ai-riduuꞌai, riꞌo memihoi-da ireheꞌeai tiato-ra, ka riꞌo rii rautu oroihi aꞌai kaumo.”
+Ka Iesu-ro rii ara obeegiri imoaduꞌoi-ka, “Dubu ata ai-pemidio, ruu hura iiho ruꞌa ata, mire paꞌeai-da potii. Ruu ai-poroaꞌoiadio ruꞌai hura ma imeeꞌai-ri, irai hura imeeꞌai bia.
+Ka ruu paꞌeai iemeaꞌa mereei eito aaꞌoi-ka, ‘Moo retoꞌa-gaaꞌu (3) burio tauo pirorooho, ara ruꞌai-da hura ma rimeeꞌai-ri, irai moo-ro, ata hura iohuiato imeeꞌa bia. Ita eꞌebo, ruu-ro hepui meai hobou eidai.’
+Irai paꞌeai ieaꞌaa mereei-ro pomoaimai, ‘Dubu-o, tauo emeheai, burio gaaꞌu ata, moo-ro mabui emauhuuti raꞌai, ka romomoohi roro hepu ata-to.
+Kaida ruꞌai hura amimamirai goroi burioi-da, meaha-ka, ii tuaha-ra, ka emeꞌeboi raꞌai.’”
+Sabati ataato, Iesu ai-pimatomudio idabu motoi-da.
+Ka oobo ata, memiho urioi-ro tuupi ai-paamia eitiri (18) burioi-to, hieꞌei-daka. Aaꞌo ooboi gamoꞌo-ha otooꞌai modobo bia.
+Iesu-ro ruu iemeeꞌai-da, ahoꞌootiai-ka, ruu ma ooꞌui-ri, ida poduuꞌai, “Oobo-o, roo doꞌou gimoi-ro, emeheaiꞌai.”
+Ka Iesu tui ruu hoꞌui-da ideꞌai-da, ruu aiha pitooꞌa gamoꞌo-ha, kiauka Iehoma emarahuei-ka.
+Irai, idabu motoi epuuhoro dubui, iha udoi paꞌai, Iesu-ro meree ata Sabati-da iodomoiai-ri, kaida ruu-ro aaꞌoi-ka uubi eito, “Rimoi-doi, tikiti (6) himio-ka ma romaꞌatimo, ka aaꞌo himioi-da, riꞌo ma ooꞌui idomoiatidioi-ri, ii Sabati-da ooꞌui bia!”
+Paidubui-ro rii imoaimai-ka, “Riꞌo daea uubi-ka! Riꞌo meree ata modobo-ka boromokau, kamia doriki, omohuuꞌoi kekai eito, Sabati-da obo ma idioi-ri!
+Ka ara ooboi Aberahamo aramui-ka, Satari-ro paamia eitiri (18) burioi-to, ka ruu modobo-ka, Sabati-da odomoiai!”
+Iesu-ro rii iimoaimai madei-ro, ruui-do heamo uubi hiipo hiꞌa-ha pidodiai, ii aamiꞌai geꞌii hiꞌai paꞌaimo, ruu iaꞌai raara meameai-ri.
+Iesu-ro aratohetai-ka, “Iehoma pai emidio erarai raꞌaibou-rie? Moo-ro raꞌu ato odoboai raꞌai?
+Ka ruu araibau-ka, dubu ata-ro keehibuo hiꞌa ruꞌa hura, ma aroi hepui-da, ka aaꞌo raa matei iiꞌi-da, ruꞌa-ro amorododiai, ka momoꞌoi motoi aaꞌo ruꞌai ekei-da, ititi aꞌai kaumo.”
+Ata Iesu-ro aratohetai-ka, “Iehoma pai emidio erarai, moo-ro raꞌu ato odoboai raꞌai?
+Ka ruu araibau-ka, oobo ata-ro hiiro hiꞌa parama, paramai iaupai muramurai rautu ma iaꞌomei, ka paramai geema iiꞌi aꞌai.”
+Iesu goꞌoto-goꞌotoi, imatomudio-ha podau, ruu iodau modoboi Ierusaremai-to.
+Meree ata-ro Iesu atohetai-ka, “Paidubu-o, kiauka-ra, retoꞌati uubi beha-ra, ee aamiꞌai imoabai amaꞌai?” Iesu-ro aaꞌoi-ka rii-do,
+“Pauoi-to ma emahibai gohe keehi ma odoro, mabu hiiro uubi-ro emahibai aꞌai kaumo iidoi, irai modobo ooꞌai aꞌai bia, rii ma iidoumoi-ri.
+Irai, motoi abeai eibuai-da birii aia momoopai, ka riꞌo birii amaꞌedei oomahoroi aꞌai kaumo, ida aaꞌoi aꞌai kaumo, ‘Epuuhoro dubu-o, rimo birii rimaꞌerai, ma riidoumo!’ Ruu-ro aaꞌoi aꞌai, ‘Moo umoo bia riꞌo, riꞌo raati-da mooꞌu duumo.’
+Kaida riꞌo-ro omoaimai aꞌai kaumo, ‘Rimo roo rautu iiho idioi piraꞌaimo, roo-ro pirimatomudio, rimo himia goꞌotoi-da!’
+Irai ruu-ro ata aaꞌoi aꞌai, ‘Moo umoo bia riꞌo, riꞌo raati-da mooꞌu duumo, oodadeaimo moo reꞌei-da, riꞌo turiaha memiho raara idodiai uubi-ka!’
+“Aberahamo, Isaꞌako, Iakobo kamia Iehoma himogabo uubi iaꞌai aꞌai-da, Iehoma pai emidio erarai-da, riꞌo giri iimodoruuti rautu idebi iootoi aꞌai kaumo, riꞌo kekai eito iipeduai aꞌai-da.
+Uubi ooꞌui aꞌai kaumo turiaha mati-mati-da, emiꞌeituti aꞌai kaumo mahuai aꞌai-da, Iehoma pai emidio erarai-da.
+Amoromidio duumo, doꞌou boiꞌo-ra epuui-da, rii epuui-da iiꞌai aꞌai bia, kaida doꞌou boiꞌo-ra didimoi-da, rii epuui-da iiꞌai aꞌai.”
+Aaꞌo himioi-da, aamiꞌa Pariseia uubi iooꞌumoi-da, paaꞌoumo Iesui-do, “Roo ara mati ita emeeheai, ita odau mati atai-to, mabu Heroda rio-ka roo rituo-ha aiꞌiiai.”
+Iesu-ro rii imoaimai-ka, “Odaumo ire buꞌi umui oduuꞌai, ‘Moo memiho urioi riibodidio, ka uubi rautu iridomoiatidio, doꞌou ara himioi-re toutui-re, ka aaꞌo didimoi-da, oropoiꞌoi aꞌai moo omaꞌati.’
+Irai moo aiha rodau doꞌou, toutui-re, kamia ara himioti didimoi-re, mabu mea bia himogabo dubui, ata matiato iihiai, Ierusarema haato iihiai meaha-ka.
+“Ierusarema! Ierusarema! Roo-ro piimoto himogabo uubi, roꞌoa kopi-da iiamaꞌede, Iehoma-ro riꞌo iimetiodoai, made himoꞌa uubi! Hiiro himio, moo rio-ka, riꞌo turiaha, moo tamui-da ma rimoꞌomaatidio, kokoro maamui-ro, kokoro keekei imoꞌomaatidiodio emerai, ruu tamui goroi-da, irai riꞌo-ro moo omoaꞌue bia!
+Amoromidio duumo, riꞌo motoi muio iiꞌai aꞌai. Moo-ro riꞌo ihaha hiꞌai riduuꞌai, riꞌo-ro moo eaꞌai aꞌai bia modau-die, ida himio ata ooꞌui aꞌai, riꞌo-ro aaꞌoi aꞌai kaumo, ‘Iehoma meai ruu rautu-ka, boꞌu-ro mooꞌu Paidubui pairai-da.’”
+Sabati ata-to, Iesu ai-podau Pariseia uubi epuuhoro dubu ata, motoi-da ma iihoidoi-ri, kamia uubi-ro ihaha pemaꞌotidioumo, ruu aꞌai raa ma emeeꞌaumoi-ri.
+Oto-ra tu-rai iaupaimo dubui hieꞌei-da emeeꞌai-ka.
+Kaida piatohetai Iesu-ro, bubui imatomudioumo uubi, Pariseia uubi rautu, “Rimo bubui-da modobo-ra, Sabati-da uubi idomoiatidioi, ee modobo bia-ra?”
+Irai rii piroha piiꞌimo. Iesu-ro aaꞌo dubui, oꞌapuai-ka, iodomoiatidio, ka aiha potiodoai.
+Kaida piatohetai, “Sabati-da riꞌo meree ata meree ohioi, kamia boromokau, boboi-da aia moohuꞌumatidio, roo-ro hioi-to omioi amaꞌai?”
+Irai rii-ro, modobo bia ruu madei omoaimai.
+Iesu-ro umoo iiꞌi-ka, iiamaꞌue uubi-ro totoi-da meamea mati-ha iarahoꞌoutimoi, ka ruu-ro obeegiri imoaduꞌoi-ka.
+“Roo meree ata-ro aia maamaꞌue, oobo-ra dubu-ra idabuai mahuai eito, mea mati haato emiꞌei bia. Aamiꞌa himioi, oobodii aꞌai roo pai-ro omiorai pai, aamaꞌuei aꞌai kaumo,
+kaida riꞌoiti gaaꞌu-ha iamaꞌue mereei ooꞌui-da, roo oduuꞌai aꞌai, ‘Ire mati omoameheai.’ Kaida roo hiipo hiꞌai ereaꞌai aꞌai, ka roo goro hiꞌai-da emiꞌei aꞌai.
+Kaida roo aia maamaꞌue duumo ma odai goro hiꞌai mati ataato ma emiꞌei, ka roo aamaꞌue mereei ooꞌui-da rooi-do aaꞌoi aꞌai, ‘Abeata-o, eibua ara mati eito.’ Ka roo pairai emaabei aꞌai kaumo aamiꞌa iiamaꞌue uubi hohoi-da.
+Boiꞌo-ro morododiai duumo rii himia pai, rii iimoruoi aꞌai kaumo, kamia boiꞌo-ro iimoruoumo, rii pai idodiai aꞌai kaumo.”
+Ka Iesu-ro iiamaꞌue mereei eito aaꞌoi-ka, “Roo-ro himio tuia du, kamia adimo du, amimaꞌai, roo riaraamui iamaꞌuei bia, roo taitai hiꞌai uubi-re, roo riamiꞌoi-re, roo raamiꞌoi-re, roo ora-gaaꞌu-ha uubi-re, kamia roo raara hiiro riaraamui-re, mabu rii-ro roo kama aamaꞌuei aꞌai kaumo, aaꞌo emerau-da, roo taꞌii aꞌai aꞌai kaumo, roo raꞌu ododiai rii-do.
+Roo mahuai aꞌai-da, raara tiato uubi, dabu uubi, tuupi hapuoi ioroihiimo uubi, ka idomai tiato uubi ma iamaꞌuei,
+ka roo meai eidai aꞌai, mabu rii-ro roo kama omoaimai aꞌai bia. Iehoma-ro, roo taꞌii omoaimai aꞌai, meaha iemidioumo uubi rituoi-da ireibuai aꞌai himioi-da.”
+Iiamaꞌue uubi ata-ro, gaaꞌu-ha iihoumo mati-da, ara madei ai-poromidio, ruu-ro aaꞌoi-ka Iesui-do, “Geꞌii hiꞌa-ro ooꞌai aꞌai mahuai-da emiꞌeituti aꞌai uubi eito, Iehoma pai emidio erarai-da!”
+Iesu-ro aaꞌoi-ka ruui-do, “Dubu ata-ro geega mahua paꞌai, ka hiiro uubi piamaꞌue.
+Mahuai himioi iohiai-da, ruu raa himoꞌa mereei otiodai-ka, ruu-ro iiamaꞌue uubi iduꞌaituti, ‘Ooꞌumo, raarai-da riꞌo turiaha tauo imaumodii maaka.’
+Irai omahoroumoi-ka, iiorobodoumoi-da, aamiꞌa orohodi made aaꞌoi, epuui mereei-ro aaꞌoi-ka, ‘Moo hepu reidai-die, ida eaꞌai odai raꞌai, moo giiꞌepu madei roaidai.’
+Atai-ro aaꞌoi-ka, ‘Moo teri (10) boromokau rimidai-die, moo ai-rodau rii imahibai, ida moo giiꞌepu madei roaidai.’
+Ata gaaꞌui-ro paaꞌo, ‘Moo ooboi doꞌou romia maaka, ida moo ooꞌui aꞌai bia.’
+“Ka moto himoꞌa mereei iaraimai-da, turiaha raarai aiha pomoaduꞌuti epuuhoro dubui eito, ka ruu iha udoi paꞌai, ida paaꞌo, ruu moto himoꞌa mereei eito, ‘Hioi-to odau gabo geegai, kamia goꞌotoi gabo keekei eito, ka iꞌopo raara tiato uubi-re, tuupi hapuoi ioroihiimo uubi-re, dabu uubi-re, ka idomai iaꞌa tiato uubi-re.’
+Kiauka, moto himoꞌa mereei-ro aaꞌoi-ka, ‘Dubu atau-o, roo-ro imaaꞌo emerai tauo-ha orododiai maaka, irai ruuꞌai hiaꞌei imooꞌa.’
+Epuuhoro dubui-ro aaꞌoi-ka, ruu moto himoꞌa mereei eito, ‘Odau, hepu geegai gaboi-re, ka aamiꞌa oto gaboi eito, uubi pupuoi-to iduꞌaituti, ma ooꞌumo moo motoi huru ma iiꞌi-ka.
+Riꞌo moo-ro ai-riduuꞌai, moo-ro epuui-da iiriamaꞌue uubi mereei ata-ro moo adimo dui, topo odoboai aꞌai bia.’”
+Himio ataato, hiiro hiꞌa uubi Iesu rautu pimadaꞌuimo, ruu iereemeteai-da paaꞌo rii-do,
+“Meree ata aia mooꞌu mooi-do, ida ruu moo-ro ematomudio meree iiꞌi amiraromo, ruu abea-ra maamu-raire, oobo-ra meree keeke-raire, raamiꞌo-ra mabiamiꞌo-raire, kamia ruu himia hiꞌa oroiꞌioi-re, kekai-da ma ideꞌai, ka ruu moo-ro ematomudio meree iiꞌi modobo-ka.
+Riꞌo boiꞌo-rie satauroi iaꞌotatidio tiato, kaida moo didimoi-da moo ma robodoumo, riꞌo modobo bia moo-ro imatomudio meree iiꞌimoi.
+“Riꞌo meree ata moto tutuu ma ididi-ri aia meremaumodi, epuui-to roo emiꞌei aꞌai, ka emeꞌuioi aꞌai mori modoboi, roo moto tutuui ma opoiꞌoi-ri.
+Kamia roo mori modobo bia-ra, roo moto tutuui opoiꞌoi aꞌai bia, goroi ododiai oropoiꞌoi-da, ka turiaha boiꞌo-ro meaꞌa duumo raꞌu-ro morododiai, roo mari emaꞌai aꞌai kaumo, mabu roo motoi opoiꞌo bia.
+Rii-ro aaꞌoi aꞌai kaumo, ‘Roo moto tutuui ididi tauo poomahoro, irai omaꞌati opoiꞌoi modobo bia.’
+“Gaaꞌu aibo-ka, paidubu ata aia moobodi teri tauseri (10,000) beha uubi rautu, ma araiꞌiai-ri paidubu atai tueriti tauseri (20,000) dubui rautu, ka ruu araiꞌiiai eito odau tiatoi-da, ruu emiꞌei aꞌai, ma iraromoi-ri, ruu pupuoi modobo-ra, ata paidubui rautu ma araiꞌiaidoi-ri.
+Kamia ruu modobo tiato-ra, ka made himoꞌa uubi itiodoai aꞌai, paidubu atai ma emeeꞌaumoi-ri, ka miroi ma ododiaimo ruu taitai eito oohiꞌia tiatoi haato.”
+Iesu-ro madei opoiꞌoi-ka, “Aaꞌo emerai gaboi-da, roo ioohiidio raarai imeheai bia-ra, roo modobo bia moo-ro ematomudio meree iiꞌi.”
+“Damerai meai meaha-ka, irai ruu himia meai aia moropoiꞌo, ata gabo ooꞌa bia, damerai ruu himia meai ata ma orododiai.
+Aaꞌo damerai mea bia, raa matei imomohi hepu toꞌoi eito, iipeduai aꞌai kekai eito. Ida riꞌo hepato rautu-ra oromidioumo.”
+Ata himioi taketi imoamee uubi, kamia aamiꞌa memiho oroiꞌio uubi rautu, ai-pooꞌumo Iesu oromidioi.
+Ka Pariseia uubi, bubui imatomudio uubi rautu, piro-piro made aaꞌoi oomahoroumoi-ka, “Ara dubu, memiho uubi geꞌii rautu imiꞌopo, kamia rii rautu imiiho!”
+Ka Iesu-ro rii ara obeegiri imoaduꞌoi oomahoroi-ka.
+“Riꞌo meree ata haridere gaaꞌu (100) mamoei ma iaꞌai, ida gaaꞌubuo ata ma araatoai, ka roo raꞌu aꞌai maꞌai? Ka roo-ro rairiti-rairi (99) imeheai aꞌai, hauꞌii-da. Ka odai aꞌai iaraatoai gaaꞌui oohoi, modau-die memeeꞌa.
+Roo-ro emeeꞌai aꞌai-da, geꞌii hiꞌa rautu, berai-da aaꞌotai aꞌai,
+momooꞌu-die goꞌotoi eito, kaida iahoꞌoi aꞌai roo riaraamui-re, roo taitai uubi-re gaaꞌu-ha, ida aaꞌoi aꞌai rii-do, ‘Moo geꞌii hiꞌa-ka, moo iaraatoai mamoei tauo remeeꞌa maaka. Ooꞌumo geꞌii ma raꞌaimo!’
+Aatu emerai-ka, riꞌo moo-ro ai-riduuꞌai, aromoi-da geꞌii hiꞌa-ro ooꞌai aꞌai, gaaꞌubuo hiꞌa memiho oroiꞌio mereei ereheꞌeai-da, imaabee rairiti-rairi (99) uubi geꞌii aibo bia, boiꞌo-ro iraromoumo, rii tauo pireheꞌeaimo.”
+“Kamia oobo ata teri (10) mori hura-hura rautu-ra, ida aamaatoai ata gaaꞌui, ruu raꞌu aꞌai maꞌai? Ruu-ro ramepai adiai aꞌai, ka ramepai hehei-da motoi otobioi aꞌai, mea hiꞌa-ha oohoi aꞌai, modau-die memeeꞌa.
+Ida ruu-ro emeeꞌai-da, ruu riamabiai-re, ruu riaraamui-re, kamia ruu taitai uubi-rei rautu, turiaha iahoꞌooi aꞌai gaaꞌu-ha, ida aaꞌoi aꞌai rii-do, ‘Moo geꞌii hiꞌai-ka, moo iaraatoai mori tauo remeeꞌa maaka. Ooꞌumo, geꞌii ma raꞌaimo!’
+Aatu emerai-ka, riꞌo moo-ro ai-riduuꞌai, Iehoma arerui geꞌii hiꞌa-ka, gaaꞌubuo memiho oroiꞌio mereei ereheꞌeai-ri.”
+Ida, Iesu-ro paaꞌo, “Dubu ata, ruu meree ohioti rautu-ka.
+Riai-ro aaꞌoi-ka ruui-do, ‘Aba-o, moo paira raarai romotoodeai doꞌou.’ Ka aaꞌo dubui-ro, ruu raarai itoodeai-ka riiti ipituiai-da, riiti paipai.
+Himio aamiꞌa, ioropoiꞌoumo didimoi-da, riai raarai mori-to pomoaameumo, ka aaꞌo mori rautu, goꞌotoi emeheꞌai-ka. Ruu aiha podau auꞌo hiꞌa hepu atai-to, ka mori aiha pipoiꞌo, ereemaabe tiato oroiꞌioi-da.
+Ruu raarai ioropoiꞌoi haato, aaꞌo hepui-da, du tiato himioi oohiai-ka, ka aaꞌo himiou-da ruu ata raa oromoameheai bia.
+Ka ruu odai-ka, aaꞌo hepui dubu atai-do, omaꞌati. Ka aaꞌo dubui-ro, ai-potiodoai ruu paꞌea geegai eito, boomoi ma emeaꞌai-ri.
+Ruu dui bobo hiꞌa paꞌai, ka ruu rio-ka boomoi iihoumo birii hurai ma iihoi. Mabu meree ata-ro, ruu uuho raa ata emaꞌai bia, ma uuhoi-ri.
+Iarai-da, ruu mooꞌui imaimai-ka, ida poromoaduꞌo ruu himiai-do, ‘Turiaha moo abeai eito taꞌii-ri omaꞌati uubi, geemaꞌeema hiꞌai imiiho duumo, irai moo ara hiou-da, dui boboi iihiai raꞌai!
+Moo eibuai aꞌai-da, odai raꞌai, moo Abeai eito, ida aaꞌoi raꞌai, “Aba-o, moo Iehomai-re, rooi-re, riꞌoiti hohoi-da, memiho piraꞌai.
+Moo modobo bia roo-ro, roo mereei-to ma rahoꞌo, moo rooi-do taꞌii-ri omaꞌatimo meree gaaꞌu ata, aibo ita rododiai!”’
+Kiauka, ruu eibuai-ka, araimai abeai eito. “Ruu auꞌo hiꞌai haato, pemeeꞌa abeai-ro, ka kaukai-da giiꞌepu hiꞌa pemaꞌai, iaahootiai-da emaiꞌiimai-ka, aiha pohomeai.
+“Mereei-ro aaꞌo-ka, ‘Aba-o, moo Iehomai-re, rooi-re, riꞌoiti hohoi-da memiho piraꞌai, ida modobo bia moo, roo mereei-to ma rahoꞌoo.’
+Irai abeai-ro, ruu moto himoꞌa uubi iahoꞌootiai-ka, ruu-ro aaꞌoi-ka, ‘Hioi-to, muari hiꞌa hipura, omomooꞌumo, ma atimaimo, tui kakahii garaa omioumo, oto tama omiourioumo.
+Ka odaumo, mea hiꞌa daꞌodaꞌo, roro boromokau, omooꞌumo, aiꞌiiaumo, ka geꞌii, mahua rautu ma raꞌaimo!
+Mabu, ara moo mereei, tauo piihiai, irai doꞌou ruu ai-oroiꞌio, ruu ai-paraatoai, irai ruu tauo remeeꞌa maaka.’ Kiauka, mahua-ra gama-rai aiha poromahoro.
+“Aaꞌo himioi, raamu-abeai hauꞌii-daka. Ruu iaraimai-da, motoi taitai-ro ioohiai-da, gama-ra hete-rai diamoi-ha, piroomai.
+Ka ruu-ro, moto himoꞌa meree atai, ahoꞌotiai-ka, ida, patohetai, ‘Raꞌu maꞌai duumo?’
+Moto himoꞌa mereei-ro omoaimai-ka, ‘Roo riai, tauo araimai maaka motoi eito, ka roo abeai-ro, mea hiꞌa daꞌodaꞌo, roro boromokau aiꞌiia maaka, mabu roo riai mea hiꞌa-ha araimai maaka.’
+“Raamui iha udoi paꞌai, ka motoi eito odoro bia, ida pohuuꞌo abeai, oduuꞌai-ka, ma odoroi-ri rioi eito.
+Irai raamui-ro, ruu abeai omoaimai-ka, ‘Amoromidio, ara burio hiiroi, moo rooi-do piromaꞌati, taꞌii tiato-ha, roo moto himoꞌa meree aibo. Ka moo-ro, roo rio raa ata, ododiai tiato ooꞌa bia. Roo-ro, moo raꞌu remaꞌai? Gouti keehi ata bia, moo mahua ma raꞌai, moo riaraamui rautu.
+Irai, ara roo meree ohioi-ro, roo raarai imoi-da pomoapoiꞌo. Ka ruu imaraimai-da, mea hiꞌa daꞌodaꞌo, roro boromokau, emaiꞌiia maaka!’
+Abeai-ro omoaimai-ka, ‘Moo meree, roo ara hiou-da emidio, moo rautu, turiaha himioi. Ka moo reꞌei iiꞌaa raarai, turiaha roo raara-ka!
+Irai meaha-ka, geꞌii ma raꞌaimo, mabu roo riai ai-piihiai, irai doꞌou ruu ai-oroiꞌio, ruu ai-paraatoai, irai ruu doꞌou tauo remeeꞌa maakaumo!.’”
+Iesu-ro aaꞌoi-ka, ruu iimatomudio uubi eito, “Raara hiiro-hiiro dubu ata, ai-pemidio, ruu raa himoꞌa dubui-ro pemeaꞌaa raarai. Raara hiiro-hiiro dubui ai-poduuꞌaimo, ruu raarai iemeaꞌaa dubui-ro ruu raarai ai-pomohuꞌomai.
+Kiauka, ruu ahoꞌootiai-ka rioi eito, ida paaꞌo, ‘Raꞌu-rie ara raau, moo-ro ai-riromidio, uubi reꞌei-da? Moo remaꞌai turiaha roo omaꞌati emerai geuai, mabu roo moo raara emeaꞌa meree aibo bia, doꞌou modau-die, ooꞌai aꞌai himioi eito.’
+Ka raarai iemeaꞌaa dubui-ro, himia poromoaduꞌo, ‘Moo epuu dubui-ro, omodadeai aꞌai omaꞌati-da, moo raꞌu ododiai raꞌai? Moo pupuo hiꞌa bia, boboi iobuti, kamia moo hiipo-ka, uubi imoaroi.
+Iee, doꞌou moo umoo tauo riiꞌi maaka, moo raꞌu aꞌai raꞌai, ka moo omaꞌati emeheai-da, moo taitai uubi emidioi aꞌai kaumo, rii-ro moo rii motoi eito, geꞌii rautu oꞌopoi aꞌai kaumo.’
+“Ka raa himoꞌa dubui-ro, raarai iimaꞌati uubi iahoꞌoi-ka, ruu epuuhoro dubui, raarai ma omoaimutiimoi-ri. Ruu-ro meree atai atohetai-ka, ‘Roo reꞌei-da, moo epuuhoro dubui, raꞌaibou omoaimai-ro miiꞌa?’
+Ruu-ro omoaimai-ka. ‘Orime herei haridere (100) gaigarua.’ Raa himoꞌa mereei-ro poduuꞌai, ‘Roo omoaimai araa-rie, emiꞌei, ka pipiti-ha (50) iꞌati.’
+Ka ruu-ro atai atohetai-ka, ‘Roo raꞌaibou omoaimai-ro mooꞌa?’ Ida ruu-ro omoaimai-ka, ‘Turiaha gaaꞌubuo tauseri (1,000), geegaꞌeega apoho uiti-ka.’ Ka raa himoꞌa mereei-ro, aaꞌoi-ka, ‘Roo omoaimai pepai araarie, eiti-haridere-ha (800) iꞌati.’
+“Aaꞌo emerai iorododiaiai-da, memiho raara himoꞌa dubui, epuuhoro dubui-ro, ai-pemarahue, mabu raarai iemeaꞌaa dubui-ro, iododiai moꞌui, ruu-ro mea hiꞌa-ha, peaꞌaa. Ka ara hepui uubi moꞌui hiꞌa-ka, aamiꞌa uubi rautu raara idodiai, irai hehei uubi ibai bia.”
+Kaida Iesu-ro paaꞌo, “Riꞌo moo-ro, ai-riduuꞌai, riꞌo himia riaraamu orododiaimo, ara hepui raarai rautu, ka aaꞌo raarai oropoiꞌoi aꞌai-da, riꞌo geꞌii rautu ma iiꞌopaimoi-ka, tutuu oroiꞌio motoi eito.
+Boꞌu-rie, keeke raarai meaha imaaꞌotidioi, ka ruu-ro, geegaꞌeega raarai mea hiꞌa-ha, imaaꞌotidioi aꞌai. Kamia boꞌu-rie keeke raarai meaha imaaꞌotidio tiato, ka ruu-ro geegaꞌeega raarai mea hiꞌa-ha imaaꞌotidioi aꞌai bia.
+Kamia ara hepui raarai, riꞌo-ro meaha imaaꞌotidio tiato-ra, ka riꞌo-ro meamea hiꞌa raarai meaha imaaꞌotidioi aꞌai bia.
+Kamia dubii dubu ata, raarai riꞌo-ro emamaaꞌotidio tiato-ra, ka riꞌo himia raarai, imaꞌai aꞌai bia.
+“Raa himoꞌa mereei-ro, retoꞌa epuuhoro dubuoti, raa himoꞌa aꞌai modobo bia. Ruu-ro atai rio tiato emaꞌai aꞌai, ka ata behai rio emaꞌai aꞌai. Kamia roo-ro, Aiai Iehomai-re, mori-re, gaaꞌu-ha imoabai modobo bia.”
+Pariseia uubi-ro, Iesu ioroaduꞌuti madei ioromidioumoi-da, mari pemaꞌaimo, mabu rii rio hiꞌa-ka mori,
+ida Iesu-ro aaꞌoi-ka, “Riꞌo aaꞌo uubi-ka, boiꞌo-ro miꞌatidio duumo, aamiꞌai idomai gaboi-da ma imarahueumoi-ri, irai Iehoma umoo-ka, riꞌo kaukai. Uubi-ro, riꞌo pai iraromo raarai, Iehoma idomai-da, hobou raa-ka.
+“Mose bubui-re, kamia himogabo uubi-ro iꞌatimoi-re, raꞌu iimatomudioumo imooꞌu, Ioare Bapatiso himioi eito, aaꞌo himiou didimoi-da, Aiai Iehoma pai emidio erarai, mea madei ai-pimoaduꞌutimo. Kamia hiiro uubi, pauoi-to iidoo toto aꞌai kaumo.
+Irai aahuu hiꞌa-ka, aromo-ra, hepu-rai, ma araatoaimo, ii modobo bia bubui hapuo keehi ata, omodadeai.
+“Dubu ata ooboi aia memeheai, kaida oobo ata amomia, ruu imo aꞌai-ka, kamia boꞌu-ro momia emeheai ooboi, ruu rautu imo-ka.”
+Kaida pimoaduꞌo ara obeegiri Iesu-ro. “Raara hiiro-hiiro dubu ata, ai-porododiaitutidio, geemaꞌeema hiꞌa taꞌii hipurai-da, kamia ioroiꞌioi, hoꞌu hiꞌa poroiꞌio, turiaha himioi.
+Kamia raara tiato dubu ata, ruu pairai, Rasaro, turiaha ruu tuupi umai haa-ro piiꞌa, ruu ai-poaꞌoiadioumo raara hiiro-hiiro dubui, birii eito.
+Ruu rio aꞌai-ka, raara hiiro-hiiro dubui, araaho iiho du toꞌurei, ma iihoi-ri, kamia umui ooꞌumoi-ka, ruu umai ma ohomeumoi-ri.
+“Ka raara tiato dubui iihiai-ka, ka arerui-ro, ruu urioi aiha pomodaumo Aberahamo taitai eito. Kaida raara hiiro-hiiro dubui rautu aiha piihiai, uuꞌumaimoi-ka.
+Kaida, giimui uubi reꞌei-da, geega temeteme paꞌai, ida iimaromiai-da, pemeeꞌa Aberahamo auꞌo hiꞌai-da, Rasaro ruu kekai-da pemidio.
+Kaida geega madei-to paaꞌo, ‘Aba Aberahamo, moo giiꞌepu remaꞌai! Rasaro otiodoai tu hurai oboi-da ma odobiai, ka moo totobei guuaꞌo ma rododiai, mabu moo temeteme hiꞌa-ka, ara erai tuiai-da.’
+“Irai Aberahamo-ro, omoaimai-ka, ‘Moo meree, roo-ro amiraromo, roo ioroiꞌio himioi-da, rooi-do meamea hiꞌa raarai-ro piiꞌa, irai Rasaroi-do memiho hiꞌa raarai-ro, piiꞌa. Ka ruu doꞌou geꞌii-daka, ahiou-da, kamia roo, temetemei-daka, irehieꞌei-da.
+Kamia ire gomo hiꞌa boboi ireirie rimo ipituiai-da, kaida boꞌu rio-rie ooꞌui, modobo bia, kamia modobo bia meree ata ma aabui roo hapuoi eito.’
+Raara hiiro-hiiro dubui-ro aaꞌoi-ka, ‘Aba Aberahamo, moo ai-roroaro, Rasaro otiodoai ma odai, moo abeai motoi eito.
+Moo riamiꞌoi tu-hapuo (5) ohiobaiꞌo-ka, moo rio-ka ruu ma odai, rii umoo idodiai, rii ooꞌu toe-ka temeteme mati eito.’
+“Aberahamo-ro aaꞌoi-ka, ‘Mose, kamia himogabo uubi, iꞌatimo madei rii umoo-ka, rii-ro ma oromidioi.’
+Raara hiiro-hiiro dubui-ro, omoaimai-ka, ‘Irai, Aba Aberahamo, meree ata aia meibua, iihiai-da, ka ma odai-ri, rii iduuꞌai, ka rii ireheꞌeai aꞌai kaumo, memihoi-da.’
+Irai Aberahamo-ro aaꞌoi-ka, ‘Rii Mosei-re, kamia himogabo uubi-rei eito iroomidio tiato-ra, ka iihiai-da eibuai aꞌai mereei, madei oromidioi aꞌai bia.’”
+Iesu-ro ruu iimatomudio mereei eito aaꞌoi-ka, “Uubi memihoi-da iiraahioi aꞌai raarai ai-iobodiituti kaumo, irai memiho hiꞌa-ro ooꞌai aꞌai, aaꞌo erematuhuti oomahoroi aꞌai mereei eito.
+Memiho-ka meree ata gigii-da, roꞌoa kopi geega otohiai, ka tibiri tuiai-da ma epeduai, irai memiho hiꞌa-ro ooꞌai aꞌai meree keehi ata boꞌu-ro momodau memiho raara ma aꞌai-ri.
+Kaida meaha ma ereaꞌai roo raꞌu maꞌai. “Kamia roo riaraamui memiho oroiꞌio amaꞌai, erehei-to ma otomui, ida ruu memiho oroiꞌioi aia memeheai, ka ruu memihoi ma emapihiti.
+Kamia rooi-do memiho oroiꞌio amaꞌai, himio gaaꞌui goroi-da semeri (7) modoboi-to, ka orooho semeri (7) himio gaaꞌu-gaaꞌui-da, ruu-ro aia maaꞌotuti, ‘Moo memiho oroiꞌioi tauo pirimeheai’, ka roo-ro ruu memihoi ma emapihiti.”
+Iiapui made himoꞌa uubi-ro aaꞌoi-ka, Paidubui eito, “Rimo pupuo iraromoi geegaꞌeega rimododiai.”
+Paidubui-ro imoaimai-ka, “Riꞌo pupuo iraromoi hiꞌuai hura keekei aibo-ra, ka riꞌo-ro ara ruꞌa geegai oduuꞌai aꞌai kaumo, ‘Roo aaꞌuubai hipi rautu turiaha, ka odau tibiri tuiai-da ma araraaro,’ ka ruu-ro, roo aaꞌo modoboi ododiai aꞌai.
+“Kamia riꞌo gaaꞌubuo ata, himoꞌa meree rautu-ra, ida hepui ma auhioi, ee, mamoei ma iaꞌai hauꞌii-da, ida aaꞌo reꞌei-da araimai-da, roo-ro ruu oduuꞌai amaꞌai, dui hioi-to ma iihoi-ri?
+Abiarie! Modobo bia! Roo-ro ruu oduuꞌai aꞌai, ‘Moo adimo dui remaumodii, meaha orododiai, ka roo dui iito hipurai oromio, ka moo roomoto, moo riiho-ka, riidio-ka, roo dui didimoi-to iihoi aꞌai.’
+Himoꞌa mereei, iraromoi aꞌai bia epuuhoro dubui-ro, keito made ma emaꞌai ruu rioi ododiai-ri.
+Aaꞌo emerai-ka roo rautu, roo ododiai-ri oduuꞌai raarai turiaha aia midodiai, ma aaꞌoi, ‘Rimo raa himoꞌa uubi beha-ka, rimo himia omaꞌati raꞌai kaumo.’”
+Iesu gaboi iimadaꞌui-da, Samaria-ra, Garereia-rai, ieremahiaimo hiaꞌei-ha podau, Ierusaremai-to.
+Iesu goꞌoto ata podoro, ida pimeeꞌa, teri (10) dububaiꞌo mobibi gimoi rautu, rii auꞌoi haato pitooꞌutiimo.
+Ida pai rautu madei-to paaꞌoumo, “Iesu-o! Epuudubu-o! Rimo giiꞌepu rimaꞌai!”
+Iesu-ro, rii iimeeꞌai-da piduuꞌai, “Odaumo, Iehomai-do poue emaꞌatidio dubui-ro, riꞌo ma imaꞌeemuti.” Ka rii iodaumo goroi haato, tamai oodomoiaumoi-ka.
+Ata gaaꞌui-ro himia iereemeeꞌai-da, ruu tauo-ha poodomoia, ka ruu iaraimai-da Iesui-do, Iehoma geegaꞌeega madei-to, pemarahue.
+Ruu iimohorai-ka, Iesu oto reꞌei-da, keito made aaꞌoi-ka. Aaꞌo dubui Samaria dubu-ka.
+Iesu-ro aaꞌoi-ka, “Ire hiei-da turiaha imodomoiaumo teri-da (10), rairi (9), heiꞌe-ra?
+Mabui raꞌu-rie, mati ata meree haa-ro araimai, Iehoma emarahuei?”
+Iesu-ro aaꞌo-ka ruui-do, “Eibua, odau, roo pupuo iraromoi-ro, roo mea tauo ododiai maaka.”
+Himio ata, Pariseia uubi aamiꞌa-ro, Iesu atohetaimoi-ka, “Iehoma pai emidio erarai raa himiou ooꞌui maꞌai?” Ruu-ro, rii imoaimai-ka, “Iehoma pai emidio erarai, roo-ro eaꞌai-ri iraromo emerai-da, eaꞌai aꞌai bia.
+Meree ata-ro, araibau aaꞌoi aꞌai bia, ‘Emeeꞌa araarie!’ Kamia, ‘Auꞌoirie!’ Mabu Iehoma pai emidio erarai riꞌo reꞌei-da ireirie.”
+Ida Iesu-ro ruu iimatomudio uubi eito aaꞌoi-ka, “Himio ata ooꞌui aꞌai, roo-ro rio hiꞌa aꞌai aꞌai, Uubihaubi Mereei ooꞌui aꞌai himioi ma eaꞌai-ri, irai roo-ro eaꞌai aꞌai bia.
+Aamiꞌai-ro aaꞌoi aꞌai kaumo riꞌoi-do, ‘Emeeꞌaumo, auꞌoirie!’ Kamia, ‘Emeeꞌaumo araarie!’ Irai odai bia kekai eito oohoi.
+Aromoi hapuo atai-da, bereberei aia meremabeai, ruu hehei-ro aromoi adiai aꞌai, ka hehei aabui aꞌai hapuo atai eito, ka Uubihaubi Mereei himioi-da, aaꞌo emerau orododiai aꞌai.
+Irai epuui-da, ruu geema hiꞌa riibo, omiꞌai aꞌai, ka maraibo duumo, doꞌou ara himioi uubi-ro.
+Roa himioi-da, iooꞌa emerai ooꞌai aꞌai, Uubihaubi Mereei himioi-da.
+Turiaha uubi, iiho idioi paꞌaimo, upi dubu iiorooboumo, ida pooꞌu aaꞌo himioi, Roa oroi-ka pee geegai-da, borei iooꞌui-da turiaha uubi aiha piimoto, rituo-rituo-ha.
+Roti himioi-da, iooꞌa emerai, turiaha uubi iiho idio, oroomoamee, iodouti, kamia ititi paꞌaimo.
+Irai aaꞌo himioi-da, Roti-ro, Sodoma goꞌoto geegai iemeheai-da, erai erara hiꞌa roꞌoa kopi-kopi rautu, aromoi-da mihaei emerai paaꞌo, turiaha aiha piimoto.
+Aaꞌo emerai orododiai aꞌai Uubihaubi Mereei himioi ooꞌui aꞌai-da.
+Aaꞌo himiou-da, meree ata motoi ubui-dara, ruu ooꞌuoi aꞌai bia, motoi rioi-da raarai ma imidai-ri. Aatu emerai meree ata hauꞌii-dara, ruu araimai aꞌai bia motoi eito, raarai ma imidai-ri.
+Iraromaimo Roti, ooboi!
+Boiꞌo-ro miraromo duumo, rii oroiꞌioi iraahoꞌoi, iatoai aꞌai kaumo, kamia boiꞌo oroiꞌioi miatoai duumo, rii oroiꞌioi iraahoꞌoi aꞌai kaumo.
+Riꞌo moo-ro ai-riduuꞌai araibau, aaꞌo duoi-da, retoꞌa mereeti, gaaꞌu-ha irobui aꞌai, atai eidai aꞌai, atai emeheai aꞌai.
+Retoꞌa (2) ooboti, raa-hurai iatuꞌuti aꞌai kaido, atai eidai aꞌai, atai emeheai aꞌai.”
+<range>
+Iimatomudio mereei-ro, Iesu atohetai-ka, “Heiꞌe-rie, Paidubu-o?” Ruu-ro imoaimai-ka, “Rituo tuupi ratii-darie, oaꞌoai odabuai aꞌai kaumo, hiꞌei-da.”
+Ka Iesu-ro ruu iimatomudio mereei obeegiri imoaduꞌoi-ka, rii ma imatomudioi-ri, rii turiaha ma irudemeumo aiboi, ka irudemei-da rii haꞌima aꞌaimoꞌai-ri.
+Iesu-ro aaꞌoi-ka, “Goꞌoto ata-to ai-pemidio bubui umoo hiꞌa dubu ata, Iehomai-do toe iꞌatidio bia, kamia uubi imaabeedio bia.
+Ka oobo himu ata, aaꞌo goꞌotoi-da pemidio, ruu ai-poroohodio, aaꞌo dubui eito, ruu kiritooto iemaꞌatidio mereei bubui-da ma omodadeai-ri. Ruu-ro aaꞌoi-ka, ‘Moo romoabai, moo meree ata-ro kiritooto remaꞌatidio!’
+Tutuu himio, ruu rio tiato piꞌatidio omoabai, irai iarai-da, ruu himiai-do oromoaduꞌoi-ka, ‘Moo Iehomai-do toe iꞌatidio bia, kamia moo uubi imaabeedio bia,
+irai ara oobo himui-ro, turiaha himioi moo aiha romorooho, aaꞌo rau-ri, moo-ro eaꞌai raꞌai ruu odomoiai bubui-da. Mabu moo-ro aꞌai tiato-ra, ruu aiha oroohoi aꞌai, ka iarai-da, moo haꞌima ododiai aꞌai!’”
+Ka Paidubui-ro aaꞌoi-ka, “Oromidioumo, ire bubui umoo hiꞌa dubui aaꞌo raai, irai ruu memiho-ka.
+Ida Iehoma-ro, ruu himia uubi bubui-da imoabai amaꞌai, ruu himio-ra duo-raida atohei-ri, ma imoabai-ri? Modobo-ka. Kamia ruu-ro rii emera-ha imoabai amaꞌai? Abiarie, modobo bia.
+Moo-ro riꞌo ai-riduuꞌai, rii rioi-da bubui-da imoabai aꞌai, ka hio hiꞌai-to ododiai aꞌai. Irai Uubihaubi Mereei ooꞌui aꞌai-da, pupuo iraromo moꞌui emeeꞌai amaꞌai ara hepui-da?”
+Aamiꞌa uubi-ro ai-piraromoumo, rii beha mea-ka, rii iraromoi-da uubi amiꞌai mea bia, kaida pimoaduꞌo Iesu-ro, ara obeegiri.
+“Retoꞌa dubuoti, ai-piioido irudeme motoi-da irudemeai, atai Pariseia dubu-ka, atai taketi imoamee dubui-ka.
+“Ka Pariseia dubui ruu himia-ha pitooꞌa, iirudemeai-da paaꞌo, ‘Iehoma-o, moo keito raaꞌo rooi-do, moo turiaha uubi aibo bia, moo iiho-toto meree bia, moo erematuhuti meree bia, kamia moo imo-dubu bia, kamia moo aire taketi imoamee dubui aibo bia.
+Moo puura gaaꞌui goroi-da retoꞌa himio, imaꞌui emidioi-ka, kamia moo puura gaaꞌui goroi-da, imeeꞌatuti teri (10) raarai-da, gaaꞌubuoi roo emaꞌai-ka.’
+“Irai taketi imoamee dubui auꞌo aibo haato pitooꞌa, ruu hohoi imaromia bia aromoi eito, gomoi aramaꞌedeai-ka, ida paaꞌo, ‘Iehoma-o, moo giiꞌepu remaꞌai, moo memiho meree-ka.’”
+Iesu-ro aaꞌoi-ka, “Riꞌo moo-ro ai-riduuꞌai, riiti iodaidoi-da himia-himia motoi eito, Iehoma hohoi-da mea hiꞌa iiꞌi mereei taketi iimoamee dubui-ka, Pariseia dubui bia. Boiꞌo-ro, moroomomiourio duumo, rii ioruoi aꞌai kaumo, kamia boiꞌo-ro, moromomoruodio duumo, rii iioi aꞌai kaumo.”
+Uubi aamiꞌai, meree keekei ai-pimooꞌumo, Iesu tui rii hoꞌui-da ma iaaꞌoi-ri, kaida iimatomudio mereei-ro, ieaꞌaumoi-da erehe madei-to pimaaꞌoumo,
+irai, Iesu-ro meree keekei aiha piahoꞌoo, ida paaꞌo “Imeheaimo, meree keekei mooꞌumo-ka mooi-do, mabu Iehoma pai emidio erarai, rii aibo uubi-ro eidai aꞌai kaumo.
+Moo-ro riꞌo ihaha riduuꞌai, boꞌu-ro eidai tiato maꞌai, meree keehi aibo, Iehoma pai emidio erarai, ruu-ro odoroi aꞌai bia.”
+Iuda epuuhoro dubu ata-ro, Iesu atohetai-ka, “Mea imatomudio dubu-o, moo raꞌu ododiai raꞌai tutuu oroiꞌioi ma reidai-ri?”
+Iesu-ro, ruu atohetai-ka, “Roo-ro moo raꞌu-ri meai-to rahoꞌoo? Meree gaaꞌu ata mea bia, Iehoma beha-ka.
+Roo umoo-ka Iehoma bubui, ‘Imo aꞌai bia, maꞌoamo aꞌai bia, piro aꞌai bia, meree ata paira ematuhuti aibo, ahoꞌoi bia, roo maamu-ra, abea-rai, ma imaabei.’”
+Aaꞌo dubui-ro omoaimai-ka, “Moo keehibuoi imooꞌu doꞌou, moo-ro ara bubui turiaha tauo pirimaabedio.”
+Iesu-ro aaꞌo madei ioroomai-da, ruui-do aaꞌoi-ka, “Gaaꞌu hiꞌa raa ireirie, roo-ro ma ododiai, roo reꞌei-da iiꞌaa raarai turiaha taꞌii-to ita omameumo, ka mori raara tiato uubi ita imaꞌati, kaida roo-ro, meamea raarai imeeꞌai aꞌai aromoi-da, ka ooꞌu, moo robodo.”
+Irai aaꞌo dubui-ro, ara madei ioroomai-da, ruu giiꞌepu hiꞌa paꞌai, mabu ruu raara hiiro-hiiro dubu-ka.
+Iesu-ro, ruu giiꞌepu hohoi ieaꞌai-da, paaꞌo, “Aahuu hiꞌa-ka, raara hiiro-hiiro mereei-ro, Iehoma pai emidio erarai goroi odoroi,
+aahuu-ka kameroi, iroi gaꞌerei ma odoroi, kaida aahuu hiꞌa-ka raara hiiro-hiiro mereei-ro, Aiai Iehoma pai emidio erarai goroi odoroi.”
+Ioromidioumo uubi-ro, ruu atohetaimoi-ka, “Ka roo aaꞌo raarai ihaha-ro ooꞌaato, tutuu oroiꞌioi boꞌu-ro eidai maꞌai?”
+Iesu-ro imoaimai-ka, “Raꞌu-rie modobo tiato raai uubi eito, Iehomai-do modobo-ka.”
+Kaida Petero-ro aaꞌoi-ka, “Ka ma emeeꞌa, rimo goꞌoto-goꞌotoi ai-pirimeheaimo, roo ma robodoumoi-ri.”
+Iesu-ro aaꞌoi-ka rii-do, “Moo-ro, riꞌo ihaha riduuꞌai, meree ata-ro, goꞌotoi aia memeheai, ooboi-re, riaraamui-re, maamu-ra abea-raire, kamia mereei-re, Iehoma pai emidio erarai iraromoi-ri,
+ruu-ro hiiro hiꞌa meai imidai aꞌai ara ooꞌa himioi-da, ka tutuu oroiꞌioi, emaꞌai aꞌai ooꞌui aꞌai himioi-da.”
+Iesu-ro ruu iimatomudio tuero (12) mereei, imodadeai-ka kekai eito, ida paaꞌo rii-do, “Oromidioumo! Rimo ai-riioo kaumo Ierusaremai-to, ka turiaha raarai iaha hiꞌai oobodi aꞌai kaumo himogabo uubi-ro iꞌatimo emerai Uubihaubi Mereei-ri.
+Ruu emaꞌai aꞌai kaumo Iuda guui-da paira tiato uubi eito, ka madei-da emerioi aꞌai kaumo, omomoruodioi aꞌai kaumo, ka oobei-da mamouti duumo.
+Ka rii-ro ruu ororihoi aꞌai kaumo, ka maiꞌia duumo rituo-ha, irai retoꞌa-gaaꞌu (3) himioi didimoi-da, oroitorai aꞌai oroiꞌioi eito.”
+Irai iimatomudio tuero (12) mereei-ro, umoo iiꞌimo bia, ruu turiaha iaaꞌo raarai, madei iha hiꞌai ai-pimoapiꞌoma rii reꞌei-da, kamia rii-ro umoo iiꞌimo bia, Iesu ioroaduꞌuti raarai.
+Iesu Ieriko taitai ioohiai-da, idomai tiato dubu ata, gaboi barai-da pemidio, ai-poroarodio.
+Kaida piromidio uubi hiiroi iorohotutimoi-da, ruu-ro araatoi-ka, “Raꞌu maꞌai duumo?”
+Rii-ro ruu oduuꞌaimoi-ka, “Rasareta dubui Iesu-ro orohodi.”
+Ruu-ro geema madei-to aaꞌoi-ka, “Damida mereei Iesu-o, moo giiꞌepu remaꞌai!”
+Iesu hoho reꞌei imadaꞌuimo uubi-ro udoi-to ai-pemaaꞌoumo, ka oduuꞌaimoi-ka piroha ma iiꞌi-ri, irai pairautu hiꞌa madei-to aaꞌoi-ka, “Damida mereei-o, moo giiꞌepu remaꞌai!”
+Iesu iimadaꞌui-da, otoꞌai-ka, ida paaꞌo, “Omooꞌumo,” ka omooꞌumoi-ka Iesu taitai eito, Iesu-ro atohetai-ka,
+“Roo raꞌu rio maꞌai, moo-ro ma romododiai?” Ka ruu-ro omoaimai-ka, “Paidubu-o, moo rio-ka ma riaꞌa.”
+Iesu-ro aaꞌoi-ka ruui-do, “Ka iaꞌa! Roo pupuo iraromoi-ro, tauo odomoia maaka.”
+Ruu idomai gaaꞌu hiꞌa-ha odomoiai-ka, kiauka aiha pomahoro Iesu obodoi, Iehoma emarahue-ha. Turiaha uubi-ro ieaꞌaumoi-da, Iehoma aiha pemarahueumo.
+Iesu Ieriko iodoroi-da, goꞌotoi tuiai imadaꞌui omahoroi-ka.
+Aaꞌo reꞌei-da taketi iimoamee uubi epuuhoro dubu ata pairai-ka, Sakaio, ruu raara hiiro-hiiro dubu-ka.
+Ruu rio-ka Iesu ma emeeꞌai, ruu boꞌu-rie, uubi hiiroi tuiai-da, irai modobo bia mabu ruu komubuo dubu-ka
+Aaꞌo raꞌu-ri, ruu hioi-to podau rii epuui-da gaabi aibo ruꞌai pioro Iesu ma eaꞌai-ri, mabu Iesu aaꞌo reꞌei gaboi-ha orohodi aꞌai-ri.
+Iesu aaꞌo mati eito iooꞌui-da, imaromiai-da paaꞌo Sakaioi-do, “Sakaio, oruo hioi-to, mabu moo roo motoi-da emidioi raꞌai ara himioi.”
+Sakaio hio hiꞌa-ha pooꞌuo, ka Sakaio-ro Iesu geꞌii hiꞌa rautu poꞌopai.
+Turiaha iomahoroi-da, ieaꞌaumo uubi piro-piro made aaꞌoumoi-ka, “Ara dubui ai-odau memiho dubui motoi eito.”
+Sakaio iotoꞌai-da paaꞌo, Paidubui eito, “Paidubu-o, oromidio! Moo raarai itoodei raꞌai raara tiato uubi ma rimaꞌati-ri. Kamia moo-ro meree ata aia rematuhia, ruu iroaidai raai omoaimai raꞌai, kamia ata retoꞌa-gaaꞌu (3), ruu hoꞌui-da, taꞌii aꞌai raꞌai.”
+Ka Iesu-ro aaꞌoi-ka, ruui-do, “Ara motoi eito omoaabai, oroiꞌioi tauo ooꞌu maaka, ara himioi-da. Mabu ara dubui Aberahamo aramui ata-ka.
+Uubihaubi mereei ai-pooꞌu iaratoaimoi iohoi, ka ma imooꞌui oroiꞌioi eito.”
+Ida uubi-ro ara madei ioromidioumoi-da, Iesu-ro iemahurai reꞌei-da omahoroi-ka, ida pimoaduꞌo ara obeegiri. Ruu taitai hiꞌa-ka Ierusaremaato, kaida rii-ro ai-piraromoumo Iehoma pai emidio erarai ihaha-ka, oobodi aꞌai.
+Kaida Iesu-ro paaꞌo, “Hoꞌu epuuhoro dubu ata, ai-podau auꞌo hiꞌa hepui-to, Pai ma edeeꞌaumoi-ri, ka didimoi-to ma araimai goꞌotoi eito, pai ma emidioi-ri.
+Ruu emeheai tiatoi-da, ruu tuuoti (10) moto himoꞌa uubi iahoꞌotiai-ka, mori gaaꞌu-gaaꞌui iimaꞌati-da, piduuꞌai, ‘Ita oroomaemeumo, ara mori-da, moo odai aꞌai muioi-da.’
+Ruu himia uubi-ro, rio tiato pemaꞌaimo, ruu pai ma emidioi-ri, ka aaꞌo raꞌu-ri, made himoꞌa uubi pemetiodoaimo, didimoi-da, pai epuuhoro dubui, ma omoaduꞌoumoi-ri, ‘Rimo rio bia ara dubui, rimo pai emidioi.’
+“Aaꞌo dubui paidubu tauo pododiaimo, kaida iaraimai-da, made edeꞌai-ka, ruu moto himoꞌa uubi ma oobodimoi-ri ruu hohoi-da, umoo ma iiꞌi-ri raꞌaibou idodiaimo.
+Epuu mereei ooꞌui-ka, ida paaꞌo, ‘Paidubu-o, moo tuuoti (10) mori hura-hura piridodiai, roo-ro iremaꞌai mori gaaꞌui-da.’
+Ruu-ro aaꞌoi-ka, ‘Mea hiꞌa paꞌai. Roo mea moto himoꞌa meree-ka. Roo keeke raarai-da iraromoi ooꞌai-ri, roo moo-ro tuuoti (10) paipai goꞌoto epuuhoro edeꞌai raꞌai.’
+Epuui moto himoꞌa mereei didimoi mereei, ooꞌui-ka, ida paaꞌo, ‘Paidubu-o, moo-ro tu-hapuo (5) mori hura-hura piridodiai, roo-ro iremaꞌai mori gaaꞌui-da.’
+Aaꞌo moto himoꞌa mereei eito, ruu-ro aaꞌoi-ka, ‘Roo tu-hapuo (5) paipai goꞌoto epuuhoro aꞌai aꞌai.’
+“Ata moto himoꞌa mereei ooꞌui-ka, ida paaꞌo, ‘Paidubu-o, ara-rie roo mori, moo-ro ai-piremedeeꞌa, hipura keehi-da iretebeai.
+Mabu roo aahuu dubu-ka, kamia roromo-ka, moo rooi-do toe piraꞌai, roo raa bia, irai eidai-ka, idoꞌoi-ka roo-ro iodouti tiatoi.’
+Ruu-ro aaꞌoi-ka aaꞌo mereei eito, ‘Roo memiho moto himoꞌa meree-ka! Moo-ro roo himia madei modoboi-da odoboai raꞌai! Roo umoo-ka moo aahuu dubu-ka, kamia roromo-ka, moo raa bia irai eidai-ka, idoꞌoi-ka moo-ro iiodouti tiatoi.
+Kamia raꞌu mabu ato-ra, roo-ro moo mori iiꞌa motoi-da emedeꞌa tiato? Kaida moo-ro ma rimidai hoꞌui-da emaꞌoai mori rautu, iiraimai-da.’
+“Kaida ruu-ro iotimo uubi eito aaꞌoi-ka, ‘Mori omodadeaimo ruu reꞌei-da, ka emaꞌaimo tuuooti (10) mori hurai iꞌapudio moto himoꞌa mereei eito.’
+Irai rii-ro paaꞌoumo, ‘Paidubu-o, ruu tuuoti (10) mori hura-hurai imiohidio!’
+Ruu-ro pimoaimai, ‘Moo-ro riꞌo ai-riduuꞌai, boꞌou reꞌei-da miiꞌa raarai, ka hiiroi ruui-do ma emaꞌai. Irai boꞌu-ra raara tiatoi, ka ruu reꞌei ooꞌa keehibuo rautu, turiaha ooaidai aꞌai.
+Ka, doꞌo hiꞌai, ire mooi-do heamo uubi, rii boiꞌo-ro rio tiato aꞌaimo, moo rii Paidubu ma riiꞌi, imooꞌumo, ahiou eito ma imotoumo moo hohoi-da.’”
+Iesu aaꞌo madei iaaꞌo didimoi-da, ruu rii epuui-da pidiai Ierusaremai-to.
+Ka ruu iooꞌui-da, Betapagi-re Betari-re goꞌotoi taitai, Orime roꞌoai-da, ruu iimatomudio mereei-da, retoꞌai (2) itiodoai-ka, epuui-da ma odaidoi-ri,
+ara madei rautu, “Odaido auoirie epuui ooꞌa goꞌotoi eito, riꞌoiti iidoi-da emeeꞌai aꞌai kaido otoꞌa hoho doriki ata orotohiatidioi-da, meree ata-ro emiꞌei bia ruu ohui-da. Ita omopimoido, ka ita omooꞌuido ara hiou eito.
+Meree ata-ro aia maraato, raꞌu-ri momopimo duumo, ita omoaduꞌoumo, ‘Epuuhoro dubui rio-ka.’”
+Iodaidoi-da, turiaha raarai Iesu-ro iaaꞌo emerai-ha pimeꞌaido.
+Riiti-ro doriki imi iomopimoidoi-da, doriki abeai-ro paaꞌo, riiti-do, “Raꞌu-ri momopimo duido riꞌoiti-ro?”
+Riiti-ro pomoaimaido, “Epuuhoro dubui rio-ka.”
+Ka riiti-ro doriki aiha pomodaido Iesui-do, riiti turiaha ohui hipura tutuꞌutui, doriki hoꞌui-da aiha pihoꞌoutido, Iesu omoabaidoi-ka, ma ioroi-ri.
+Iesu doriki-da iooꞌui-da, uubi hipura tutuꞌutui aiha pihoꞌoutimo gaboi ipi-da.
+Ruu iooꞌui-da Ierusarema taitai eito, Orime roꞌoai ioruodio gaboi-da, ruu iimatomudio uubi geemai-ro, Iehoma pairautu madei-to pemarahueumo, kamia keito made aaꞌoumoi-ka, rii-ro turiaha pai raarai iaꞌaumoi-da.
+Rii-ro paaꞌoumo, “Iehoma meai ai-ooꞌa, Paidubui-da, boꞌu-ro mooꞌu Iehoma pairai-da, kamia miroi ai-ooꞌa aromoi-da, ka hoꞌu hiꞌai Iehomai, ai-remarahue kaumo!”
+Kaida aamiꞌa Pariseia uubi-ro paaꞌoumo uubi tuiai-da Iesui-do, “Imatomudio dubu-o, roo iimatomudio mereei erehe madei-to imaaꞌo piroha ma iiꞌimo!”
+Iesu-ro imoaimai-ka, “Moo-ro riꞌo ai-riduuꞌai, rii piroha amiiꞌi duumo, roꞌoa kopi-kopi-ro geegaꞌeega made aaꞌoi aꞌai kaumo.”
+Ruu iohiꞌiai-da goꞌoto geegai taitai eito, kaida ruu-ro ieaꞌai-da, idebi pemaꞌai.
+Ka ruu-ro aaꞌoi-ka, “O, riꞌo umoꞌu-ha umoo ita iiꞌimo, riꞌo geꞌebadi raꞌu-ro imomooꞌui maꞌai! Irai riꞌo-ro doꞌou eaꞌaa bia!
+Himio ata ooꞌui aꞌai, riꞌo boho uubi-ro, roꞌoa hepu marai-da iimoaaꞌei aꞌai kaumo, ka riꞌo rioi-da imomurai aꞌai kaumo, turiaha hapuo-hapuoi-da.
+Riꞌo ihaha itoeꞌauti aꞌai kaumo, ka riꞌo hoai rioi uubi-re, roꞌoa kopi ata emeheai aꞌai bia, ruu himia boboi-da. Mabu riꞌo-ro oibomaimo bia, Iehoma iooꞌu himioi, riꞌo imoabai.”
+Iesu irudeme motoi iodoroi-da, raarai ioromoameumo uubi ibodidioi omahoroi-ka kekai eito.
+Ka rii iduuꞌai-ka, “Iehoma made bukai-da tauo piꞌatimo, ‘Moo motoi irudeme moto-ka,’ irai riꞌo-ro ai-pemeheꞌeaimo piroi opiꞌo mati-to!”
+Turiaha himioi Iesu ai-pimatomudiotuti, irudeme motoi-da. Ka Iehoma poue emaꞌati uubi epuuhoro uubi-re, bubui imatomudio uubi-re, kamia uubi epuuhoro uubi-re, rii rio-ka Iesu ma aiꞌiaumo.
+Irai rii-ro ruu ma aiꞌiaumo gabo emeemeꞌa bia, mabu turiaha uubi ruu-ha poromidioumo. Rii rio bia made ipi ata ihimoi.
+Ata himioi Iesu irudeme motoi-da uubi pimatomudio, ka pai meai madei imoaduꞌuti-ka, Iehomai-do poue emaꞌatidio uubi epuuhoroiꞌoi-re, bubui imatomudio uubi-re, ka pai uubi-re turiaha ooꞌumoi-ka Iesui-do.
+Kaida paaꞌoumo ruui-do, “Rimo ma riduuꞌai, raꞌu eraraato maꞌai roo-ro ara raarai? Boꞌu-ro emaꞌai roo erarai, ara raarai ma aꞌai-ri?”
+Iesu-ro rii pimoaimai, “Doꞌou moo-ro riꞌo ai-riatohetai, moo ma roduuꞌaimo, Ioare uubi oboi-da imaaheemo erarai Iehoma reꞌei-da agooꞌu, ee, uubi reꞌei-da agooꞌu?”
+<range>
+Rii himia-ro omahoroi-ka oromoamoi, “Rimo-ro raꞌu aaꞌoi raꞌai duumo? Rimo-ro aia raaꞌo duumo, ‘Iehoma reꞌei-da pooꞌu,’ ruu-ro aaꞌoi aꞌai, ‘Ka raꞌu mabu-ra riꞌo pupuo iraromoi Ioareato ideꞌa, tiato?’
+Kamia rimo-ro araibau araaꞌo duumo, ‘Uubi reꞌei-da pooꞌu,’ ara uubi hiiroi-ro, rimo roꞌoa kopi-da iamaꞌadei aꞌai kaumo rituo-rituo-ha, mabu rii iraromoi-da umoo tauo piiꞌimo, Ioare himogabo dubu-ka.”
+Kaida rii-ro pomoaimaimo, “Rimo umoo bia ara erarai aati-da ooꞌu.”
+Kaida Iesu-ro paaꞌo rii-do, “Ka moo-ro riꞌo iduuꞌai aꞌai bia, raꞌu eraraato raꞌai ara raarai.”
+Kaida pimoaduꞌo Iesu-ro uubi ara obeegiri, “Dubu ata, mire paꞌea pioodouti, ka imaꞌai-ka ma emeaꞌaumoi-ri uubi eito, ka goꞌotoi iemeheai-da, tutuu hiꞌa-ha pemidio iodau mati-da.
+Himioi iohiai-da mire hurai ma idoꞌoumoi-ri, himoꞌa mereei otiodoai-ka, ruu mire paꞌeai emeaꞌai imeheai uubi eito, ruu omotoodeai mire hurai ma emaꞌaimoi-ri, irai paꞌeai emeeꞌai imeheai uubi-ro himoꞌa mereei ai-pamoꞌoboumo, imotiodoaimo araimai tuhaito-ha.
+Ka ata himoꞌa mereei otiodoai-ka, irai mire paꞌeai emeaꞌai imeheai uubi-ro ai-paiꞌiaumo, iemaꞌaumo, otiodaimoi-ka araimai tuhaito-ha.
+Kaida potiodoai ata himoꞌa mereei, mire paꞌeai emeaꞌai imeheidio uubi-ro aiha pamaꞌadeumo, rato-ratoi rautu omohuꞌoi-ka kekai eito.
+Kaida mire paꞌeai rautu mereei-ro paaꞌo, ‘Moo raꞌu aꞌai raꞌai? Moo himia hiꞌa meree ohioi otiodoai raꞌai, eaꞌai-da ihaha-ka, rii-ro ruu emaabei aꞌai kaumo.’
+Irai mire paꞌeai eaꞌaumo uubi-ro iemeeꞌaumoi-da, rii himia poroduuꞌaimo, ‘Ara paꞌeai rautu dubui mereei-ka, ma raiꞌiaumo rituo-ha, ka ruu raarai, rimo raara-ro ma iiꞌai-ka.’
+Kiauka rii-ro, ruu omohuꞌoi-ka, mire paꞌei-da, rituo-ha imaiꞌiaumo.” Iesu-ro iatohetai-ka, “Ka raꞌaibou-rie, mire paꞌeai rautu mereei raꞌu aꞌai maꞌai mire paꞌeai eaꞌa uubi eito?
+Ruu ooꞌui aꞌai, aaꞌo uubi rituo-ha mimoto-die, ka mire paꞌeai imaꞌai aꞌai aamiꞌa eaꞌa uubi-do.” Uubi-ro ara madei ioromaimoi-da, kaida paaꞌoumo, “Ihaha bia!”
+Ka Iesu-ro rii hohoi iarodio ida piatohetai, “Irai Iehoma made bukai raꞌu oroaduꞌo toto maꞌai, ara made diamoi-da? ‘Roꞌoa kopi moto ititi uubi-ro memihoi-ri araiboi, oroameheai aꞌai, ka ruu emaabe roꞌoa kopi-ro orododiai aꞌai, rii turiahai-do.’
+Turiaha uubi boiꞌo-ro mirahio duumo ara roꞌoa kopi hoꞌui-da, orotoeꞌauti aꞌai kaumo kerekere-ha, kamia ire roꞌoa kopi meree ata hoꞌu ato amirahiai, aaꞌo mereei patapata hiꞌa-ha ododiai aꞌai.”
+Bubui imatomudio uubi-re, ka Aiai Iehomai-do poue emaꞌatidio epuuhoro uubi-re, ai-piraromoumo Iesu aiha ma oꞌapuaimo. Mabu rii umoo tauo piiꞌimo, Iesu-ro iimoaduꞌo obeegiri-da rii ai-pimooꞌamo, irai rii toe paꞌaimo uubi eito.
+Ka rii-ro aꞌai emera pororohoumo. Rii-ro uubi aamiꞌa taꞌii paꞌaimo, Iesui-do ma orooahuꞌomaimo, rii aaꞌoi aꞌai madei iaha-ka. Kaida pitiodoaimo Iesu oraꞌe ma emedeꞌaumo aamiꞌa atohetaiato. Ka ma emaꞌaimo ruu Roma Gamarai erara aꞌai epuuhoro uubi tui eito.
+Ara taꞌii iaꞌaimo uubi-ro paaꞌoumo Iesui-do, “Imatomudio Dubu-o, rimo umoo-ka roo aaꞌo raai-re, kamia imatomudioi-re, meaha-ka, rimo umoo-ka roo gaaꞌu emera-ka turiaha uubi eito, kamia Iehoma gaboi iha hiꞌai imatomudio.
+Rimo riduuꞌai, rimo himia bubui imoamoi araꞌai duumo, Gamara Kaisarai-do taketi aꞌai-da, ee, imoamoi aꞌai bia-ra?”
+Irai Iesu-ro umooi iiꞌi-da, rii erematuhuti, ida paaꞌo rii-do,
+“Moo meree ata-ro mori hura gaaꞌu ma romoahuꞌomai. Boꞌu paira-ra hoho-rai-ra ara?” Rii-ro pomoaimaimo, “Gamara Kaisara.”
+Ka Iesu-ro paaꞌo, “Ka meaha-ka, Kaisara raai ma emaꞌai Kaisarai-do, Iehoma raai ma emaꞌai Iehomai-do.”
+Hieꞌei-da uubi hohoi-da, ruu oraꞌe emedeꞌai modobo bia, ruu himia madei-da, ka rii madei iimoaimai emerai ioromidioumoi-da, hoho-ha peremeꞌaumo kiauka piroha piiꞌimo.
+Sadusi uubi-ro aaꞌoi, uubi oroihi-da ireibuai aꞌai bia, rii amiꞌa-ro ooꞌumoi-ka Iesui-do ida paaꞌoumo,
+“Imatomudio dubu-o, Mose-ro ara bubui rimoi-do piꞌati, ‘Dubu ata aia miihiai, ida ooboi meree tiato-ha amemeheai, ruu riaraamui-ro oobo himui ma omiai, ka meree ma imeꞌaido, ka iihiai dubui mereei-to ma iahoꞌoumoi-ka.’
+Ai-pemidioumo riaraamui, turiaha semeri (7), epuu mereei oobo omiai-ka, irai meree imeeꞌa tiatoi haato piihiiai.
+Ka ruu iobodoi-ro omiai-ka aaꞌo oobo himui.
+Ka meree ipiai-ro omiai-ka, aatu emerai raaha-ro pobodi turiaha aaꞌo semeri (7) eito. Rii aiha poroihiimo meree imeꞌatuti tiatoi haato.
+Iarai aaꞌo oobo himui iihiai-ka.
+Kaida oroihii ireibuai aꞌai himioi-da oroiꞌioi eito, ruu boꞌu oobo-ro ooꞌai maꞌai? Mabu turiaha semeri (7) dubu-ro poromoameheumo.”
+Iesu-ro pimoaimai rii, “Doꞌou ara himioi-da, upi dubui ai-orobo kaumo.
+Boiꞌo-rie Iehoma aaꞌoi-da meai, rii ireibuai aꞌai kaumo ioroihimo reꞌei-da, ka emidioi aꞌai kaumo ooꞌui aꞌai himioi-da, irai rii oroboi aꞌai bia.
+Rii arerui aibo orododiai aꞌai kaumo, oroihi aꞌai bia. Rii Iehoma meree-ka, mabu rii ireibuai aꞌai kaumo oroiꞌioi eito.
+Ka Mose himia-ro aahuu pododiai oroihi ireibuioi aꞌai kaumo oroiꞌioi eito. Erai-ro iiruro buꞌi ioaduꞌo made ipi-da Paidubu ai-poaduꞌo, ‘Aberahamo Iehomai-ka, Isaꞌako Iehomai-ka, kamia Iakobo Iehomai-ka.’
+Ruu oroiꞌio uubi Iehoma-ka, ruu oroihi uubi Iehoma bia, turiaha uubi ai-roroiꞌio kaumo Iehoma hohoi-da.”
+Bubui imatomudio uubi aamiꞌai-ro paaꞌoumo, “Imatomudio Dubu-o! Roo madei oaimai mea hiꞌa-ka.”
+Kamia rii toe piraromoumo aamiꞌa atohetai made ma aaꞌoumoi-ri.
+Iesu-ro iatohetai-ka rii, “Raꞌaibou-da maaꞌo duumo, Aiai-ro iapui mereei, Damida aramui-ro ooꞌai aꞌai?
+Kamia Damida himia-ro ai-paaꞌo rahoaꞌe bukai-da, ‘Paidubui-ro, moo Pai eito paaꞌo, “Emiꞌei ara hioꞌou-da, moo iha-tui hapuoi-da,
+modau-die moo-ro roo boho uubi aia rideꞌa roo otoi goroi-da oto imoti toto aibo”’
+Ka raꞌaibou-darie ruu Damida aramui? Damida-ro ruu ai-poibomai ida pahoꞌo, ‘Paidubu.’”
+Ka turiaha uubi ruu ioromidioumoi-da, Iesu-ro paaꞌo ruu iimatomudio mereei eito,
+“Riꞌo ita eremabeumo bubui imatomudio uubi eito, boiꞌo-ro moroaꞌoiadio duumo muari hiꞌa hipura tutuꞌutui rautu, rii rio-ka imaabe rautu ma iꞌopoumo eremaro mati-da. Hoho reꞌei totoi rio-ha aꞌai-ka, idabu motoi-da ma emiꞌeitutimo, kamia meamea mati-ha ma iiohoumo mahuai-da.
+Rii-ro imatuhutidio kaumo himu upibaiꞌoi, motoi piro ma imaꞌaimoi-ri. Kamia irudeme made tutuꞌutui aaꞌoi-ka ma imarahueumoi-ri! Rii imidai aꞌai riiboi memiho hiꞌa-ka!”
+Iesu-ro, keka-kekai iarodioi-da piaꞌa, raara hiiro-hiiro uubi giiꞌepu raai idiꞌamoumoi-da, irudeme motoi mori idiꞌamo reꞌei-da.
+Ida peaꞌa Iesu-ro raara tiato hiꞌa oobo himui-ro mori hura keeketi iiomiai-da.
+Kaida ruu-ro paaꞌo, “Riꞌo moo-ro ihaha riduuꞌai, ara raara tiato oobo himui-ro edeꞌa geega hiꞌai aamiꞌai rautu idoboai-da.
+Turiaha uubi aamiꞌai giiꞌepu raai iemaꞌaimoi hiiroi-da pitoodemo, irai oobo himui ruu raara tiato hiꞌai-da pedeꞌa, ruu ma oroiꞌioi raai.”
+Iimatomudio meree aamiꞌai irudeme motoi poaduꞌoumo, eaꞌai-da mea hiꞌa-ka, mea hiꞌa roꞌoa kopi-kopi-da pididimo, kamia tomio hiꞌa giiꞌepu raarai iemaꞌatimo emerai Iehomai-do. Kaida Iesu-ro paaꞌo,
+“Turiaha riꞌo-ro ara miaꞌa duumo raarai, himio ata ooꞌui aꞌai, roꞌoa kopi gaaꞌu ata ruu himia boboi-da emeheai aꞌai bia, turiaha ipeduai aꞌai goroi eito.”
+Rii-ro atohetaimoi-ka, “Imatomudio Dubu-o, ara raai raꞌu himio oobodi maꞌai? Ka raꞌu-ro oobodi maꞌai, aaꞌo raai oobodi aꞌai himioi taitai-da?”
+Iesu-ro paaꞌo, “Ita eremabeumo, meree ata-ro imatuhiaꞌa, hiiro uubi moo pairai-da ooꞌui aꞌai kaumo, aaꞌoi aꞌai kaumo, ‘Moo ruu-ka!’ ka ‘Himioi tauo ohiai maaka!’ Irai rii ibodoumoꞌa.
+Toe aꞌaimoꞌa, riꞌo-ro iromidioi aꞌai raarai, boho araiꞌia, kamia haharubuae aꞌai, araibau raarai aiha oobodi aꞌai kaumo hepui-da. Irai ara raarai-ro aaꞌo bia oropoiꞌoi himioi taitai-ka.”
+Ruu ioroaduꞌuti-da, paaꞌo, “Paꞌa atai-ro paꞌa atai heamo emaꞌai aꞌai, gaaꞌu hapuoi paꞌati araiꞌiai aꞌai kaido.
+Ka memiho hiꞌa mumuꞌoi orohoi aꞌai kaumo, du tiato himioi, kamia himia-himia hoho gimoi iobodi aꞌai kaumo, turiaha mati-da, ka aromoi-da toe hiꞌa iobodi tiato raarai, iobodituti aꞌai kaumo.
+Moo mabu ato, ara raarai oobodi tiatoi-da, riꞌo iohii aꞌai kaumo, mimodoboa duumo, ka mideꞌa duumo, ma imahibaimoi-ri idabu motoi-da, ka mideꞌa duumo, duꞌi motoi-da, kaida imodai aꞌai kaumo pai uubi-re, epuuhoro uubi-rei hohoi eito.
+Ka riꞌoi-do mea hiaꞌei-ro orododiai aꞌai, geua ma imoaduꞌoumoi-ri.
+Raarai orododiai tiato himioi-da, iraromoi gaaꞌu-ha ma ideꞌai, ka roo iraromo hiiro-hiiro aꞌai aꞌai bia, roo himia-ro raꞌaibou oromoatuei maꞌai.
+Mabu riꞌo moo-ro mea made, kamia mooꞌui imaꞌai raꞌai, ka roo aaꞌoi aꞌai madei rii-do heamo meree ata-ro omotaumai modobo bia.
+Riꞌo abea maamui-ro, riꞌo raamiꞌoi-ro, riꞌo guu uubi-ro, ka riꞌo taitai riaraamui-ro, imaꞌai aꞌai kaumo epuuhoro uubi eito, aamiꞌai iimotoi aꞌai kaumo rituo-rituo-ha.
+Moo mabu ato, roo turiaha uubi-ro udo rautu araiboi aꞌai kaumo.
+Irai riꞌo epuui-da, muho gaaꞌu ata araatoai aꞌai bia.
+Aahuu-ha ma ooti, ka riꞌo oroiꞌioi iapudioi aꞌai kaumo.”
+Iesu-ro paaꞌo, “Roo-ro eaꞌai aꞌai Ierusarema oomaaꞌei aꞌai kaumo, heamo uubi-ro, ka roo umoo-ha ita iiꞌi, taitai-ka Ierusarema otoeꞌauti.
+Kaida boiꞌo-rie Iudeaato, ma odaudioi hioi-to roꞌoai eito, ka goꞌoto geegai-da boiꞌo-rie, ma odaudioi, ka boiꞌo-rie aamiꞌa mati-da, iidoi bia goꞌoto geegai eito.
+Ka aaꞌo himioi Iehoma kamai araꞌai himioi-ka, Iehoma made bukai-da iꞌatimo emerai ihahai ma oobodi-ri.
+Aaꞌo himioi-da memiho hiꞌa-ro ooꞌai aꞌai, topii rautu upi-re, kamia meree guge rautu maamiꞌoi eito! Kaida, pauo hiꞌa oroiꞌioi ara hepu hoꞌui-da irahiai aꞌai, ka Iehoma udoi uubi eito aꞌai aꞌai.
+Aamiꞌai hapuo-hapuoi hiꞌua eꞌakerei-ro iimotoi aꞌai, aamiꞌai itohiti aꞌai kaumo ma imodaumoi-ri aamiꞌa hepui eito. Iuda guui-da paira tiato uubi-ro Ierusarema atuꞌuti aꞌai kaumo, modau-die, rii himioi mohiai.
+“Aamiꞌa aape raara iobodi aꞌai kaumo, himioi-da, omei-da, kamia oroꞌioi-da. Ara hepu geemai-da, emidioumo uubi, pauo hiꞌa iraromo rautu emidioi aꞌai kaumo, kamia toe aꞌai aꞌai kaumo, tibiri aubo geemaꞌeemai diamoi oromidioi aꞌai-da.
+Aromoi iiꞌa raarai oomuoi aꞌai-da, uubi toei-da iimoaꞌobeaitutii aꞌai kaumo, rii omoti aꞌai-da, raꞌu-ro oobodi maꞌai duumo ara hepu geemai-da.
+Kaida rii-ro eaꞌai aꞌai kaumo Uubihaubi Mereei dumoi goroi-da ooꞌui aꞌai, ruu himia erarai-re, kamia geega hiꞌa tomioi rautu.
+Ara raarai orododiai omahoroi-da, ita itooꞌaumo, epuui ma imiꞌaimo, mabu riꞌo oroiꞌioi eidai taitai-ka.”
+Kaida rii pimoaduꞌo Iesu-ro ara obeegiri, “Ma iraromoumo, hura iihodio ruꞌai gaabii aibo, kamia aamiꞌa ruꞌai-re.
+Riꞌo-ro rii iaꞌai-da pahai ioboodi amomahoro duumo, roo umoo iiꞌi aꞌai, tuomoi himioi taitai-ka.
+Aatu emera gaboi-da, riꞌo-ro iaꞌai aꞌai kaumo ara raarai ooboodimoi aꞌai emerai, riꞌo umoo iiꞌi aꞌai kaumo Iehoma pai emidio erarai ooꞌui taitai-ka.
+“Moo-ro riꞌo ihaha riduuꞌai, ara raarai ooboodimoi aꞌai kaumo, doꞌou emidio uubi oroihi tiatoi-da.
+Aromo-ra hepu-rai oropoiꞌoi aꞌai kaumo, irai moo madei oropoiꞌoi aꞌai bia.”
+“Meaha ma ereaꞌaumo, riꞌo kaukai iiho-ra, idio-ra geegaꞌeegai-da riibo idodiai bia, kamia kaukai iraromo hiiro-hiiroi-da riibo idodiai bia, ara hepui oroiꞌioi pauoi-ri, mabu aaꞌo himioi-ro riꞌo oraꞌei emerai iiohiai toe-ka.
+Mabu aaꞌo himioi ooꞌui aꞌai, turiaha uubi eito, ara hepu geegai-da.
+Meaha ma ereaꞌai, kamia ma irudemei pupuoi-ri, ka riꞌo pupuo-ha oti aꞌai kaumo, iobodi aꞌai raarai goroi-da, kaida itoꞌai aꞌai kaumo Uubihaubi Mereei hohoi-da.”
+Iesu irudeme motoi-da pimatomudiodio, himioi imatomudioi-da, ka adimoi-ro ohiai-da, odai-ka kekai eito, ka duoi Orime roꞌoai-da opoiꞌoi-ka.
+Turiaha himioi duoduo hiꞌai, turiaha uubi odai-ka irudeme motoi eito, ruu ma oromidioumoi-ri.
+Iaupai tiato parama mahuai aꞌai himioi, taitai-ro ioohiai-da. Aaꞌo mahuai pairai-ka, Orohodi Mahua.
+Iehoma poue emaꞌatidio uubi epuuhoro uubi-re, ka bubui imatomudio uubi-re, rii toe paꞌaimo uubi eito. Kaida piroha gabo pomohooumo, Iesu rituo-ha ma aiꞌiaumoi-ri.
+Ka Satari-ro Iudasi iimamiiai-ka, ruu paira atai Isikariota, Iesu iimatomudio tuero (12) mereei ata-ka.
+Ka Iudasi odai-ka, oroaduꞌuti poue emaꞌatidio uubi epuuhoro uubi-re, kamia irudeme motoi idomai uubi epuuhoroi rautu, raꞌaibou imaꞌai maꞌai ruu-ro, Iesu rii-do.
+Rii geꞌii paꞌaimo, ka rii made gaaꞌu paaꞌoumo, ruu mori-to taꞌii aꞌai.
+Iudasi rio iiꞌi-ka, ida poomahoro, mea gabo ioohoi, Iesu raꞌaibou imaꞌai maꞌai rii-do, uubi umoo iiꞌi tiato-ha.
+Himioi oohiai-ka, iaupai tiato parama mahuai-ri, mamoe daꞌodaꞌo ma iimotoumoi-ri, Orohodi Mahuai eito.
+Iesu-ro itiodoai-ka, Petero-ra, Ioare-rai, ara madei rautu, “Odaido, Orohodi iihoi ereemaumodi, ma riihoumo.”
+Riiti-ro atohetai-ka ruu, “Rimo-ro ratii-da ereemaumodi miraromo, roo-ro?”
+Ruu-ro imoaimai-ka, “Riꞌoiti odai aꞌai-da, goꞌoto geegai-da, dubu ata obo gaigaruai omodai aꞌai, ruu-ro riꞌoiti imeeꞌai aꞌai. Ita obodoido, ruu odoroi aꞌai motoi rioi eito.
+Ka ita aaꞌoido motoi rautu dubui eito, ‘Imatomudio dubui-ro ai-aaꞌo maaka rooi-do, “Heiꞌe-rie, ruu iimatomudio mereei rautu Orohodi Mahuai iihoi aꞌai ruuꞌai?”’
+Ka ruu-ro riꞌo imapui aꞌai geema ruuꞌa ata, emidioi-re, kamia iiho totoi-rei rautu, hoꞌui motoi ruuꞌai-da. Ka hieꞌei-da turiaha raarai ita ereemaumodiido.”
+Ka riiti iodaidoi-da, raarai Iesu-ro iaaꞌo emerai-ha, pimeeꞌaido. Kiauka rii eremaumodi-ka, Orohodi Mahuai.
+Himio mabui ioohiai-da, Iesu iiho totoi taitai-da emiꞌei-ka, ruu iiapui made himoꞌa uubi rautu.
+Ruu-ro aaꞌoi-ka rii-do, “Moo ihaha rio piraꞌai ara Orohodi Mahuai riꞌo rautu ma riihoi-ri, moo riiboi eidai tiatoi-da!
+Kamia moo-ro riꞌo araibau riduuꞌai, ara mahuai moo-ro ata iihoi aꞌai bia, modau-die mahuai ihahai moobodi, Iehoma pai emidio erarai-da!”
+Ka Iesu-ro mire koimoi eidai-ka, Iehomai-do keito made aaꞌoi-ka, kaida paaꞌo, “Eidaimo araa-rie, ka ereemaꞌatimo riꞌo himia-ro.
+Ka moo-ro riꞌo ai-riduuꞌai, doꞌou moo-ro ara mire oboi ata idioi aꞌai bia, modau-die Iehoma pai emidio erarai mooꞌu-die.”
+Ka ruu-ro parama hapuoi eidai-ka, Iehomai-do keito made aaꞌoi-ka, ehebiai-ka, rii-do imaꞌai-ka, ida paaꞌo, “Ara moo tuupi-ka, riꞌo-ri rimaꞌai, araibau ita iꞌatidioumo, moo ma riraromoumoi-ka.”
+Gaaꞌu emerai gaboi-da, mire koimoi imaꞌai-ka rii-do, iihoumo didimoi-da aaꞌoi-ka, “Ara mire koimoi Iehoma oio aaꞌoi-da rereemedeeꞌa kaumo, moo orai-da rahiai, riꞌo-ri oruodii.
+“Irai ma emeeꞌaumo, gaaꞌubuo ata, moo oaꞌuei aꞌai mereei, ruu moo rautu-ka, araa-rie iiho totoi-da.
+Uubihaubi Mereei iihiai aꞌai, Iehoma-ro orododiai iiraromo emerai, irai memiho hiꞌa-ro ooꞌai aꞌai, moo uubi eito oaꞌuei aꞌai mereei eito.”
+Ka rii himia-ro araatohei oomahoroi-ka, riiato boꞌu-ro aꞌai maꞌai ibai.
+Iimatomudio uubi himia oomahoroi-ka eemaaꞌoi, riiato uubi-ro boꞌu iraromai maꞌai duumo, ruu pai-ka.
+Iesu-ro aaꞌoi-ka rii-do, “Iuda guui-da paira tiato pai uubi, rii erara-ka rii himia uubi, ka erara uubi-ro, araahoꞌoo kaumo pairai, ‘uubi imoabai uubi’.
+Irai ara hiou gaboi bia riꞌoi-do, kaida, riꞌo tuiai-da geema mereei, keehibuo meree aibo ma iiꞌi, ka epuuhoro mereei, himoꞌa meree aibo, ma orododiai.
+Boꞌu-ra geemai, dui iiho beha emiꞌei mereei-ra, ee dui ereemaꞌati mereei-ra? Ie, emiꞌei mereei, irai moo riꞌo tuiai-da, ereemaꞌati meree-ka.
+“Riꞌo ihaha tauo pemidioumo moo rautu, moo iremahibaitutiimo goroi-da.
+Kaida moo Abeai-ro iremaꞌai pai erarai, riꞌo ma rimemeꞌeuatidioi-ri, ka moo-ro riꞌo, aatu erarai imaꞌai raꞌai.
+Moo pai emidio erarai-da, riꞌo moo iiho totoi-da, iiho-ra, idio-rai aꞌai aꞌai kaumo, ka riꞌo pai uhui-da emiꞌeituti aꞌai-da, imemeꞌeuatidioi aꞌai kaumo, Isaraꞌera tuero (12) paꞌai.”
+Iesu-ro aaꞌoi-ka, Simora Peteroi-do, “Simora, Simora, oromidio! Satari made tauo eidai maaka, riꞌo turiaha ma imahibaitutui-ri, ruꞌa hurai ma imamuhuꞌuuti emerai.
+Irai moo tauo rirudemea maaka roo-ri, Simora-o, roo pupuo iraromoi iiraahiaiꞌai-ri. Ka roo ereheꞌeai aꞌai-da mooi-do, roo riaraamui pupuo ita idodiai.”
+Petero-ro omoaimai-ka, “Paidubu-o, roo aia modau duꞌi motoi eito, kamia iihiai eito, moo rautu-ka.”
+Iesu-ro omoaimai-ka, “Petero, roo ai-roduuꞌai, roo-ro moo retoꞌa-gaaꞌu (3) atuhe made aaꞌoi aꞌai, roo umoo bia moo, himioi ooaho taitai-da, kokoroi made aaꞌo tiatoi haato.”
+Kaida Iesu-ro iatohetai-ka, ruu iimatomudio mereei, “Moo-ro riꞌo iiritiodoai-da, aaꞌo himioi mori ioidio haaꞌo, ipi haaꞌo kamia oto tama tiato, riꞌo reꞌei-da ata raa, agororoohoo?” Rii-ro omoaimai-ka, “Ata raa bia.”
+Iesu-ro aaꞌoi-ka, “Irai doꞌou, boꞌu reꞌei-da mooꞌa mori ioidio haaꞌo, kamia ipi haaꞌo, ma eidai, ka boꞌu-rie heamo eꞌakere tiatoi, tuupi erara hipurai taꞌii-to ma edeeꞌai, ka gaaꞌubuo ma eidai.
+Ka riꞌo moo-ro ai-riduuꞌai, Iehoma made bukai-da tauo piꞌatimo, ‘Ruu memiho uubi-da ai-poodabuai’, ihahai ma obodi moo-ri, mabu moo-ri, raꞌu iꞌatiimo, ihahai eito ai-obodii kaumo.”
+Ka iimatomudio mereei-ro paaꞌoumo, “Paidubu-o, ma imeeꞌa, araa-rie retoꞌa heamo eꞌakereeti.” Ruu-ro imoaimai-ka, “Kiauka.”
+Iesu-ro goꞌoto geemai emeheai-ka, ruu iꞌatidio emerai, odai Orime Roꞌoai eito. Ka iimatomudio mereei ruu rautu podaumo.
+Ka ruu aaꞌo mati-da iereedeeꞌai-da, ruu-ro aaꞌoi-ka rii-do, “Irudemeumo, mabu erematuhuti ooꞌui-da, riꞌo iiraahio toe-ka.”
+Kiauka, ruu araahuꞌiodoai-ka rii reꞌei-da, roꞌoa kopi ma eheuꞌai auꞌoi emerai, popu-popu iimohorai-ka irudemeai-ri.
+Ruu-ro aaꞌoi-ka, “Aba-o, roo rio-ra, ara temeteme koimoi omodadeai mooato, irai moo rioi obodooꞌa, roo rioi moo-ro eidai raꞌai.”
+Ka aromoi areru ata oobodii-ka ruui-do, ka ruu pupuo emaꞌai-ka.
+Ka ruu kaukai-da geema riibo peidai, ka pupuo hiꞌai-to pirudemea, ka buaꞌeai orai aibo paramio, hepui eito.
+Irudeme reꞌei-da, otooꞌai-ka araimai, iimatomudio mereei reꞌei eito, ida pimeeꞌa, rii giiꞌepu iraromo pauoi-da, haꞌima uroi pirobu.
+Ka ruu-ro aaꞌoi-ka rii-do, “Riꞌo raꞌu uro-ha mirobu? Ireibuaumo ma irudemeumo, ka erematuhuti ooꞌui-da, riꞌo iiraahio toe-ka.”
+Iesu ioroaduꞌuti haato pereedeꞌaumo uubi hiiroi, Iudasi-ro pimooꞌu, Iudasi tuero (12) iimatomudio mereei ata-ka. Ruu ooꞌui-ka Iesu ma ohomeai-ri.
+Ka Iesu-ro aaꞌoi-ka, “Iudasi, Uubihaubi Mereei roo-ro ohomeai-da amoaꞌue?”
+Kamia iimatomudio mereei-ro, oobodi tooto iaꞌai rai ieaꞌaumoi-da, rii-ro Iesui-do aaꞌoi-ka, “Paidubu-o, rimo-ro heamo eꞌakerei-da, rii aia rimooto duumo?”
+Kiauka rii gaaꞌubuo atai-ro, Iehoma poue emaꞌatidio uubi, epuuhoro dubui moto himoꞌa mereei, iha hapuoi hepatoi aiha patuiꞌa.
+Irai Iesu-ro aaꞌoi-ka, “Kiauka, ata aꞌaiꞌa.” Ruu-ro aaꞌo dubui hepatoi aihimodi-ka aiha poateai.
+Poue emaꞌatidio uubi epuuhoro uubi-re, ka irudeme motoi idomai uubi epuuhoro uubi-re, kamia pai uubi-reiro, pooꞌumo Iesu oohiai, Iesu-ro aaꞌoi-ka rii-do, “Riꞌo eꞌakerei-re, kamia eꞌai rautu ma ooꞌumo, moo riꞌo piro mereei-ra?
+Turiaha himioi, moo riꞌo rautu piremidio irudeme motoi-da, ka riꞌo-ro emahibaimo bia, moo oohiai. Irai doꞌou, riꞌo omaꞌati himioi-ka, duꞌi erarai ooꞌai-da.”
+Ka rii-ro Iesu oohiaimoi-ka omodai, Iehoma poue emaꞌatidio uubi epuuhoro dubui motoi rioi eito, ka Petero-ro auoꞌauo-ha pobodoo.
+Erai adoroumoi-ka aaꞌo motoi ipituiai hauꞌii-da, ka Petero-ro imodabuai-ka erai iemaꞌoidioumo uubi.
+Ka moto himoꞌa oobo ata-ro emeeꞌai-ka erai kekai-da, pupuo hiꞌai-to, taitai hiꞌai-da poibomatidio, ida paaꞌo, “Ara dubui Iesu rautu-ka.”
+Irai Petero-ro atuhe made paaꞌo, “Oobo, moo umoo bia ruu.”
+Ka ipi-ro iopoꞌi didimoi-da, dubu ata-ro Petero oibomai-ka, ida paaꞌo, “Roo rautu, rii ata-ka!” Irai Petero-ro pomoaimai, “Dubu-o, moo bia.”
+Himio mabu gaaꞌu iorohodi didimoi-da, dubu ata-ro erehei-to paaꞌo, “Ihaha-ka, ruu Iesu rautu ka, mabu ruu Garereia dubu-ka.”
+Irai Petero-ro pomoaimai, “Dubu-o, roo raꞌu maaꞌoi, moo umoo bia!” Gaaꞌu hiꞌa-ha ruu ioroaduꞌuti goroi haato, kokoroi madei aaꞌoi-ka.
+Ka Paidubui iereheꞌeai-da, gamoꞌo-ha emeeꞌai-ka Petero, kaida piraromai, Petero-ro, Paidubui iaaꞌo madei, “Roo-ro moo retoꞌa-gaaꞌu (3) atuhe made aaꞌoi aꞌai, roo umoo bia moo, himioi ooaho taitai-da, kokoroi made aaꞌo tiatoi haato.”
+Ka Petero iohuuꞌoi-da, geega idebi paꞌai.
+Ka Iesu ioohiaimo uubi-ro ai-pomomoruodioumo, kamia iamaꞌedeumo.
+Rii-ro ruu idomai omopaimoi-ka, hipura kerei-da, ida erehei-to patoheemo, “Roo boꞌu-ro momihia? Ma ahoꞌoo!”
+Ka rii-ro ruui-do, hiiro omodoboa made aaꞌoumoi-ka.
+Himioi ioahoi-da, pai uubi-re, Iehoma poue emaꞌatidio uubi epuuhoro uubi-re, ka bubui imatomudio uubi-re, iidabuaimoi-da gaaꞌu-ha, Iesu omooꞌumoi-ka oroaduꞌuti, hoho reꞌei eito.
+Rii-ro aaꞌoi-ka, “Rimo ma riduuꞌai, roo Iehoma-ro iapui mereei-ra, ha?” Ruu-ro rii imoaimai-ka, “Moo-ro riꞌo aia riduuꞌai, riꞌo-ro umooi eidai aꞌai bia,
+kamia riꞌo moo-ro aia riatohetai, riꞌo-ro moo madei omoaimai aꞌai bia.
+Irai doꞌou odai aꞌai Uubihaubi Mereei, erara hiꞌa Aiai Iehoma iha tui hapuoi-da, emiꞌei aꞌai.”
+Rii turiaha-ro atohetaimoi-ka, “Roo Aiai Iehoma mereei-ra, ha?” Ka ruu-ro rii madei imoaimai-ka, “Ka riꞌo ruu aaꞌo kaumo, moo-ka.”
+Ka rii-ro aaꞌoi-ka, “Rimo rio bia aamiꞌa geua uubi, rimo-ro himia tauo roromai maakaumo ruu aaꞌo rai!”
+Turiaha paꞌai iireibuaumoi-da Iesu omodaumoi-ka Pirato hohoi eito.
+Ka ruu emaaꞌoi omahoroumoi-ka, “Ara dubui rimo-ro ai-roohiai maakaumo, mabu ruu-ro rimo uubi imoaduꞌuti madei-da kekai imodau, ruu-ro ai-imoaduꞌuti taketi aꞌai mooꞌai-ri Kaisarai-do, ka ruu-ro ai-aaꞌo ruu Aiai-ro iapui mereei-ka, ruu Paidubui-ka.”
+Pirato-ro Iesu atohetai-ka, “Roo Iuda uubi Paidubui-ra, ha?” Ka Iesu-ro ruu madei pomoaimai, “Roo ruu aaꞌo.”
+Kaida Pirato-ro aaꞌoi-ka, Iehoma poue emaꞌatidio uubi epuuhoroi-re kamia uubi-rei eito, “Moo-ro auma ata ememeeꞌa bia ara dubui ma romodoboamoi-ri.”
+Irai rii-ro erehe rautu aaꞌoumoi-ka, “Ruu-ro Iudea uubi ruu imatomudio madei-da, ai-piapuhuti, Garereiaato pomahoro, kaida ooꞌu maaka ara hiou eito.”
+Pirato-ro ara madei ioromai-da ruu-ro araatoi-ka, “Ara dubui Garereia dubu-ra, ha?”
+Pirato umoo iiꞌi-da, Iesu Heroda Pai iiemidio hepui meree-ka, aaꞌo rau-ri ruu ai-potiodoai Herodai-do, mabu Heroda aaꞌo himioi Ierusaremaato-ka.
+Heroda iha geꞌii paꞌai Iesu iemeeꞌai-da, mabu Iesu pai tauo poromidio, ka tutuu hiꞌa pomoti ruu ma emeeꞌai-ri, Heroda-ro rio paꞌai, Iesu urio odaudio raa ata ma aꞌai, ka ruu-ro ma eaꞌai.
+Ka Heroda-ro Iesu hiiro hiꞌa raato patohe, irai Iesu-ro madei ata omoaimai bia.
+Iehoma poue emaꞌati uubi epuuhoroi-re, ka bubui imatomudio uubi-re, iiadomaimoi-ka, ida idodiaimoi-ka erehe erematuhuti made aamiꞌa, Iesu ma omoamomoi-ri.
+Heroda ruu himia heamo uubi rautu, Iesu ai-pemerioumo, ka eremabe tiato raara aamiꞌa iemaꞌaimo, mea hiꞌa hipura tutuu atimaimoi-ka, aiha potiodoaimo araimai Piratoi-do.
+Aaꞌo himiou haato, Heroda-ra Pirato-rai riaraamu piiꞌiido, epuui-to ara rau obodi tiatoi-da riiti udo-udo pemidioido.
+Pirato-ro turiaha iahoꞌoi-ka, Iehoma poue emaꞌatidio uubi epuuhoroiꞌoi-re, uubi epuuhoroiꞌoi-re, kamia uubi rautu turiaha gaaꞌu-ha,
+ida paaꞌo rii-do, “Riꞌo-ro ai-omooꞌu kaumo ara dubui mooi-do, ida aaꞌo kaumo, ara dubui-ro uubi kekai imodau. Irai moo-ro doꞌou riꞌo hohoi-da ruu eaꞌai-da, moo-ro ruu reꞌei-da ata raa memiho ememeeꞌa bia, riꞌo-ro ruu hobou ahoꞌoo kaumo.
+Heroda-ro gaaꞌu emerai-ka, ruu-ro ata memiho ememeeꞌa bia, aaꞌo rauri otiodoai maaka araimai rimoi-do. Ara dubui-ro ata memiho raa ododiai bia ruu ma iihiai-ri.
+Kaida moo-ro, ruu oohiidioi raꞌai ma ororihoumoi-ri, ka omopiimoi raꞌai ma odai-ri.”
+Turiaha uubi-ro geega madei-to paaꞌoumo, “Iesu aiꞌiiaumo, rimo-ri Barabasi omopiimoumo.”
+<range>
+(Barabasi goꞌoto geegai goroi-da uubi haharubuae pidodiai, kamia ruu-ro meree ata rituo-ha ai-paiꞌiia, aaꞌo rau-ri ruu duꞌi motoi-da pibiꞌaumo.)
+Pirato rio-ka Iesu omopiimoi, ka uubi ata iatohetai-ka.
+Irai rii-ro geema madei-to paaꞌoumo, “Odoꞌaumo! Emadoumo! Odoꞌaumo ruu!”
+Pirato madei retoꞌa-gaaꞌui (3) iaaꞌoi-da ruu-ro aaꞌoi-ka, “Ruu memiho aꞌai bia. Moo-ro ata raa ememeeꞌa bia, ruu ma iihiai-ri! Aaꞌo rau-ri moo-ro ruu ororihoi raꞌai, ka romopiimo.”
+Irai rii madei pairautu hiꞌa paaꞌoumo, Iesu aiha ma odoꞌaumoi-ri. Kiauka iarai-da rii iaaꞌoumo madei modobo aiha piiꞌi.
+Pirato-ro aahuu ododia-ka uubi ioroaroumoi, Iesu ma aiꞌiaumoi-ri.
+Rii-ro rio iaꞌaimo mereei, haharubuae iaꞌai kamia dubu ata iaiꞌiia rituo-ha, ruu-ro omopiimoi-ka, ohuuꞌoi-ri, duꞌi motoi-da. Ka Iesu ai-pimaꞌai rii rioi ma ododiaimoi-ri.
+Kiauka, heamo uubi-ro Iesu iomodaumoi-da, dubu ata emeeꞌaumoi-ka, satauroi emaaꞌotaimoi-ka, Iesu didimoi-da ma omodai-ri. Ruu pairai Simora-ka, Sairiri dubu-ka. Taitai-da mati ataato pooꞌu, goꞌoto geegai eito.
+Hiiro hiꞌa uubi-ro pobodoumo, ka rii ipi tuiai-da aamiꞌa upibaiꞌoi Iesu didimoi-da, giiꞌepu idebi emaꞌai-ha pobodoumo.
+Iesu-ro rii iimeteai-ka, ida paaꞌo, “Ierusarema upibaiꞌo! Moo idebi emaꞌaimoꞌa, irai riꞌo himiai-re riꞌo himia mereei-re idebi-ha eremaꞌaimo.
+Mabu himioi ai-ooꞌu, uubi-ro aaꞌoi aꞌai kaumo, ‘Mea hiꞌai-ka kaaro upibaiꞌoi, meree iotuti tiatoi, kamia iomoto tiatoi!’
+Ire aaꞌo himiou-da, uubi-ro aaꞌoi aꞌai kaumo roꞌoai eito, ‘Rimo ohui-da irahiai!’ ka roꞌoa keekei eito aaꞌoi aꞌai kaumo, ‘Rimo riiateꞌemai!’
+Kaida araibau raarai aia morododiai duumo, moo oio ruꞌai aibo-ka. Moo memiho tiato-ka, irai moo aiꞌia toto aꞌai kaumo. Ka raꞌaibou ooꞌai maꞌai, riꞌoi-do? Riꞌo mia toatoa ruꞌai aibo-ka, erai-ro iruro.”
+Retoꞌa dubui, turiaha riiti piro-ka, gaaꞌu-ha pimodaumo, ma imadoumoi-ri, Iesu rautu.
+Rii iooꞌumoi-da mati ata-ka ai-pahoꞌoumo “epuu horo”, Iesu hiei-da podoꞌaumo, ka piro mereeti-re, atai ruu iha tui hapuoi-da, atai keaꞌi tui hapuoi-da.
+Iesu-ro paaꞌo, “Aba-o, rii memihoi imapihiti! Rii umoo bia rii raꞌu maꞌai duumo.” Rii-ro kase orioumoi-ka, ruu hipurai, ma eremaꞌaimoi-ri.
+Ka uubi iotimoi-da ruu ieaꞌaumo, kaida Iuda epuuhoro uubi-ro ai-pemerioumo, “Ruu-ro aamiꞌai oroiꞌioi-da tauo pidiꞌaamo, ka ruu himia ma eredeꞌa oroiꞌioi-da, ruu Aiai Iehoma-ro iapui Paidubui-ro ooꞌaato!”
+Ka heamo uubi-ro aatu emerai iemerioumoi-da, rii-ro didia mire obo emaꞌaimoi-ka.
+Ida paaꞌoumo, “Roo himia oromoabai, roo Iuda uubi Paidubui-ro ooꞌaato!”
+Ruu-ro omiorai-da piꞌatimo ara madei, “Ara Iuda uubi Paidubui-ka.”
+Iamitidio piro mereeti atai-ro pupuoi-to aaꞌoi-ka Iesui-do, “Roo Iehoma-ro iapui Paidubui-ra? Roo himia-ro oroiꞌioi-da eredeꞌa, ka rimoiti-re.”
+Kamia piro atai-ro atai erehe rautu-ha pomoaimai, “Roo toe aꞌai bia-ra Aiai Iehomai-do? Rimoiti temetemei emera temeteme eidai ruu.
+Rimoiti himia iraꞌaido memihoi taꞌii rimidai kaido, irai ara dubui ata raa memiho ododiai bia.”
+Kaida paaꞌo ruu-ro Iesui-do, “Iesu-o, roo pai emidio erarai rautu ooꞌui aꞌai-da, moo ita riraromo!”
+Iesu-ro ruu omoaimai-ka, “Roo moo-ro ihahai roduuꞌai, doꞌou roo moo rautu emidioi aꞌai oropoiꞌo tiato oroiꞌio ooꞌa mati-da.”
+Ka himio mabui epuui pikui ohiai taitai-da, himioi hehei aiha poropoiꞌo, duꞌi-ro hepu geemai aiha patimai iodau himio mabui retoꞌa-gaaꞌui-da (3) eredeꞌai-ka. Irudeme motoi iamitidio hipura geemai, aiha poroaheꞌa retoꞌa kere imorododiai.
+<range>
+Iesu-ro geema madei-to paaꞌo, “Aba-o, moo urioi roo tui eito ai-remaꞌai.” Ruu aaꞌo emerai iaaꞌoi haato piihiai.
+Heamo uubi epuuhoro dubui-ro ieaꞌai-da iorododiai raai, ruu-ro Iehoma aiha pemarahue, kaida paaꞌo, “Iaha-ka, ruu mea hiꞌa dubu-ka.”
+Ioodabuaimo uubi hiiroi-ro, ieaꞌaumoi-da iorododiai raai, iiraimaimoi-ka giiꞌepu idebi rautu moto-motoi eito.
+Iesu Garereiaato iobodoumo upibaiꞌoi-re, ruu umoo uubi-re, auꞌoi haato pitoꞌutimo, iaꞌaimo raarai ma iaꞌaumoi-ri.
+Dubu ata paira-ka Iosepa, Arimatea dubu-ka, goꞌoto ata-ka Iudea hepui-da. Ruu mea hiꞌa dubu-ka, ai-pomoti Iehoma pai emidio erarai ma ooꞌui-ri, kamia ruu oroaduꞌuti paira meree ata-ka, irai ruu orodabuai bia rii iatomudioumo aiboi-re, kamia iaꞌaimo raarai-reꞌei-da.
+<range>
+Ruu aiha podoro Pirato iemidio hohoi eito, Iesu tuupi-ri oroaroi-ka.
+Kiauka Iesu tuupi omoruoi-ka satauroi-da, mea hipurai-da aupoi-ka, aiha pedeꞌa ioboboumo roꞌoa uuꞌui-da, epuui-to aaꞌo boboi-da rituo ata edeꞌa bia.
+Aaꞌo himiou Paraide-ka, Sabati omahoroi taitai-ka.
+Ka Garereiaato Iesu iobodoumo upibaiꞌoi, Iosepa rautu podaumo boboi ma emeeꞌaumoi-ri, ka ma eaꞌaumo, Iesu tuupi raꞌaibou edeꞌai maꞌai, boboi rioi-da.
+Kiauka, rii iraimai-ka motoi eito, ribo mea raabari-re kamia herei-re ma eremaumodiimo tuupi eito. Sabati-da rii hora-ka, aiha pemidioumo bubui-ro iaaꞌo emerai.
+Puura ihai duoduo hiꞌai upibaiꞌoi ieremaumodiimo mea ribo raabari-re herei-re rautu podaumo roꞌoa uuꞌui eito.
+Rii-ro roꞌoa uuꞌui hohoi ioopatidio roꞌoa kopi kekai-da pemeeꞌaumo, tauo paraꞌerai.
+Ka rii iidoumoi-ka, irai Paidubui Iesu tuupi emeeꞌaumo bia.
+Ka rii mooꞌui hiiro-hiiro piraromoumo aaꞌo rai eito, ida retoꞌa dubuoti iobodidoi-ka hehe hiꞌa hipura rautu, rii kekai-da.
+Ka iha toei rautu upibaiꞌoi ihimaimoi-ka, hepui eito, kaida aaꞌo dubuoti-ro aaꞌoidoi-ka upibaiꞌoi eito, “Oroiꞌio mereei rituo uubi reꞌei-da, raꞌu-ri moohoo duumo?
+Ruu arahiou-da bia, ruu tauo eibua maaka! Amiraromo duumo, ruu-ro riꞌo iduuꞌai madei ruu Garereiaato riꞌo rautu iemidioi-da?
+‘Uubihaubi Mereei imaꞌai aꞌai kaumo memiho uubi eito, moodoꞌa duumo, ka retoꞌa-gaaꞌu (3) himioi didimoi-da, ruu oroitorai aꞌai oroiꞌioi eito.’”
+Ka aaꞌo upibaiꞌoi-ro iraromaimoi-ka Iesu iaaꞌo madei.
+Rii roꞌoa uuꞌui-da iiraimaimoi-da, Iesu-ro iimatomudio iremeri (11) mereei uubi aamiꞌai rautu, turiaha raarai aiha pimoaduꞌutimo.
+Rii-ka Maria Magadara, Ioara, kamia Maria Iemisi maamui, ka upibaiꞌoi aamiꞌai-re, rii-ro pimoaduꞌoumo turiaha iiobodimo raarai iiapui made himoꞌa uubi eito.
+Irai rii-ro upibaiꞌoi madei eidaimo bia, mabu rii madei amaamo-ha pimeeꞌaumo.
+Irai Petero eibuai-ka, hio-ha podau roꞌoa uuꞌui eito, ruu ihimai-ka, ka ruu-ro Iesu iiaupoumo hipurai-ha pemeeꞌa, ata raa tiato-ha, ruu araimai-ka pauo hiꞌa iraromoi rautu ioobodiimo raarai-ri.
+Gaaꞌu himioi-da, Iesu iobodoumo uubi-da mereeti ata, ai-podaido goꞌoto ata Emausi-to, odoboai-da auꞌoi semeri (7) maire aibo-ka Ierusaremaato,
+ka riiti-ro himia poroaduꞌutiido turiaha irododiaimo raarai.
+Riiti oroaduꞌuti iatomudioido, goroi haato Iesu himia tauo-ha poohiꞌiai riiti taitai eito, ka gaaꞌu-ha pimadaꞌuibiimo.
+Riiti-ro Iesu ieaꞌaido, irai ata aibo-ka, oibomaido bia.
+Iesu-ro aaꞌoi-ka riiti-do, “Raꞌu moroaduꞌuti duido, riꞌoiti imadaꞌui hobohoboi?” Riiti piroha potoꞌaido giiꞌepu hoho-ha.
+Atai, paira-ka Kiriopasi, ruu-ro Iesu atohetai-ka, “Roo Ierusaremai-to doꞌou-ha amooꞌu, roo umoo iiꞌi bia-ra iorohodi duumo himioti-da iiorododiai duumo raarai?”
+Iesu-ro paraato, “Raꞌu raara-rie?” Riiti-ro pomoaimaido, “Iaꞌai duumo raarai Rasareta Iesui eito. Ruu himogabo dubu-ka, ruu madei-re, ruu iaꞌai raarai erara-ka Iehomai-re uubi-rei hohoi-da.
+Rimo imeiꞌimotatidio uubi-re, Iehoma poue emaꞌatidio epuuhoro uubi-reiro, ai-imaꞌai duumo ma aiꞌiaumoi-ri, ka iodoꞌa duumo.
+Ka rimo-ro ai-piriraromoumo, ruu beha-ro Isaraꞌera oroiꞌioi-da edeꞌai aꞌai! Aamiꞌa raarai kekai-da, doꞌou retoꞌa-gaaꞌu (3) himioi-ka, ara raarai iobodi duumoi.
+Kaida aamiꞌa upibaiꞌo-ro rimo paꞌai-da, rimo ai-rimaparuti duumo, rii duoduo hiꞌa odau duumo boboi eito,
+irai rii-ro ruu tuupi emeeꞌaumo bia. Ka rii iiraimai duumoi-da, ai-aaꞌo duumo, arerui ai-oobodii maaka, kaida arerui-ro ai-aaꞌo ruu ai-oroiꞌio.
+Rimo paꞌai aamiꞌai-ro iodau duumoi-da boboi eito, raarai turiaha upibaiꞌoi-ro iaaꞌo duumo emerai-ha imeꞌa duumo, irai rii-ro Iesu eaꞌaumo bia.”
+Kaida Iesu-ro paaꞌo riiti-do, “Riꞌo amaamo hiꞌa-ka! Riꞌo iraromoi emera hiꞌa-ka, himogabo uubi-ro turiaha iaaꞌoumo raarai pupuo iraromoi-da ma ideꞌai!
+Modobo-ka, Iehoma iapui mereei araibau memiho temeteme ma imidai, ida ma odoroi Iehoma tomioi goroi eito.”
+Ka Iesu-ro iha meai-da imoaduꞌoi omahoroi-ka, titi-madei-ro, ruu iioaduꞌo emerai, Mose titi-da pomahoro, aiha podau turiaha himogabo uubi-ro, iꞌatimo titi aiha pipoiꞌo.
+Ka riibi iooꞌumoi-da iodaumo goꞌotoi taitai eito, Iesu auꞌoi eito odau emera-ha podoboa.
+Irai riiti-ro aiha poduꞌaido, rimoiti rautu ooꞌu motoi eito, “Rimo rautu emidioi, himioi taitai hiꞌa-ka oropoiꞌoi aꞌai, ka mati duꞌi-ro ai-eidai.” Kiauka, ruu odai-ka rii rautu emidioi.
+Ka ruu emiꞌei-ka iihoi, riiti rautu, paramai eidai-ka, keito made aaꞌoi-ka Iehomai-do, ka aiha pehebia, imaꞌai-ka rii-do.
+Ka riiti idomai ihaha aiha piamodiido ruu oibomai-ka, irai Iesu riiti idomai gaboi haato paraatoai.
+Riiti himia oromoaduꞌoi-ka, “Ruu-ro rimoiti irimoaduꞌuti-da gaboi ipi-da, kaida titi-madei iha meai-da mia irimoaduꞌuti, iaha, rimo kaukai-da geꞌii erai emerai agiradi?”
+Riiti gaaꞌu hiꞌa-ha pireibuaido iraimai Ierusaremai-to, ka hieꞌei-da pimeeꞌaido iremeri (11) iimatomudio mereei gaaꞌu-ha poodabuaimo aamiꞌai rautu,
+ida iodabuaimo uubi-ro paaꞌoumo, “Paidubui, tauo eibua maaka, ihaha-ka! Ruu tauo oobodi maaka, Simorai-do!”
+Ka epuui retoꞌai-ro, rii-do raꞌu-ro oobodi gabo ipi-da, imoaduꞌoi-ka, riiti-ro ioibomaido emerai, Paidubui-ro paramai iehebiai-da.
+Riiti-ro ararau ioroaduꞌoidoi-da, Iesu rii tuiai haato pitooꞌa, kaida paaꞌo rii-do, “Miroi riꞌo rautu-ka.”
+Ka rii iha toei paꞌaimo, rii-ro ai-piraromoumo egai eaꞌa kaumo.
+Irai ruu-ro aaꞌoi-ka rii-do, “Riꞌo raꞌu urio modaudio duumo, kamia raꞌu-ri iraromo pauo maꞌai duumo?
+Moo tu-ra oto-rai reaꞌaumo, moo ihai-ka. Moo raihimoumo, riꞌo umoo iiꞌi aꞌai kaumo, mabu egai hiꞌo-ra horo-ra tiato-ka, riꞌo-ro mooato eaꞌa emerai.”
+Ruu ibai iaaꞌoi-da, pimoahuꞌomai, ruu tu-ra oto-rai.
+Rii geema geꞌii iraromo rautu, irai pupuo iraromoi-da aahuu ododiai modobo bia, kaida piatohetai, “Ara hiou-da, riꞌo iiho raara amiiꞌa?”
+Rii-ro ruu iruro-iruro raa emaꞌai-ka,
+ka aiha peidai, uuhoi-ri, rii idomai gaboi-da.
+Kaida paaꞌo ruu-ro rii-do, “Ara moo iraaꞌo raarai-ka, moo riꞌo rautu iremidioi-da, turiaha moo iroaduꞌoumo titi, Mose bubui-da, ka himogabo uubi-ro iꞌatimo, Saramoaato, aaꞌo raarai ihahai eito obodi aꞌai kaumo.”
+Kiauka ruu-ro rii mooꞌui iaꞌerai-ka, titi-madei umoo ma iiꞌimoi-ri.
+Ida paaꞌo rii-do, “Ara iꞌatimo madei-ka, Iehoma-ro iapui mereei, memiho hiꞌa temetemei eidai aꞌai, ka rituoi-da eibua aꞌai, retoꞌa-gaaꞌu himioi-da.
+Ka ruu pairai-da, Iehoma orotomu madei, oroiꞌioi imeheꞌeai, kamia memihoi imapihiti, ma imoaduꞌuti hepu gaaꞌu-gaaꞌu eito. Ierusaremaato, ma omahoroi.
+Riꞌo geua uubi-ka, turiaha ara raarai eito.
+Moo himia hiꞌa haa-ro otiodoai raꞌai riꞌoi-do, moo Abeai-ro riꞌo imaꞌai-ri, iimamaihidio raai. Irai omoti aꞌai kaumo goꞌoto geegai-da, modau-die erarai aia mooruo hoꞌui-da, ka riꞌo iatimai aꞌai.”
+Kiauka, ruu-ro rii imohuꞌoi-ka goꞌoto geemai-da, Betari taitai eito, hiei-da ruu tui imiꞌai-ka, meai aiha pimaꞌai.
+Ka meai imaꞌai haato, ruu omodadeai-ka, omioi aromoi eito.
+Rii-ro ruu iemarahueumo, kiauka aiha piraimaimo, iha geꞌii rautu, Ierusaremai-to.
+Ka himio tutuꞌutui irudeme motoi-da pipoiꞌutimo, Iehoma pemarahueumo.
 
 
 
