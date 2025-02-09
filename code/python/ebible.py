@@ -28,7 +28,7 @@ from os import listdir
 from pathlib import Path
 from random import randint
 from time import sleep, strftime
-from typing import Dict, List, Tuple
+from typing import Dict, List, Optional, Tuple
 
 import pandas as pd
 import regex
@@ -72,15 +72,11 @@ def make_directories(dirs_to_create) -> None:
     for dir_to_create in dirs_to_create:
         dir_to_create.mkdir(parents=True, exist_ok=True)
 
-def clean_filename(filename:Path):
-    return filename.parent / filename.name.replace('-','_').replace('_usfm','')
-
-def download_file(url, file, headers=headers):
+def download_file(url, file, headers=headers) -> Optional[Path]:
 
     r = requests.get(url, headers=headers)
     # If the status is OK continue
     if r.status_code == requests.codes.ok:
-        file = clean_filename(file)
         with open(file, "wb") as out_file:
             # Write out the content of the page.
             out_file.write(r.content)
@@ -89,14 +85,20 @@ def download_file(url, file, headers=headers):
     return None
 
 
-def download_files(files, base_url, folder, logfile, redownload=False) -> list:
+def download_files(
+        files_and_translation_ids: List[Tuple[Path, str]],
+        base_url: str,
+        folder: Path,
+        logfile: Path,
+        redownload: bool=False
+) -> List[Path]:
 
     downloaded_files = []
 
-    for i, file in enumerate(files):
+    for i, (file, translation_id) in enumerate(files_and_translation_ids):
 
         # Construct the download url and the local file path.
-        url = base_url + file.name
+        url = f"{base_url}{translation_id}_usfm.zip"
         file = folder / file.name
 
         # Skip existing files that contain data.
@@ -209,9 +211,7 @@ def unzip_files(
     unzipped = []
     # Strip off the file_suffix so that the unzip folder name is the project ID.
     for zip_file in zip_files:
-        project_foldername = (
-            f"{zip_file.name[0: (len(zip_file.name) - len(file_suffix))]}"
-        )
+        project_foldername = zip_file.stem
         unzip_to_folder = unzip_folder / project_foldername
         also_check_folder = also_check / project_foldername
         if not unzip_to_folder.exists() and not also_check_folder.exists():
@@ -232,20 +232,21 @@ def unzip_files(
     return unzipped
 
 
-def get_redistributable(translations_csv: Path) -> Tuple[List[Path], List[Path]]:
+def get_redistributable(translations_csv: Path) -> Tuple[List[str], List[str]]:
 
-    redistributable_files: List = []
-    all_files: List = []
+    redistributable_translation_ids: List = []
+    all_translation_ids: List = []
 
     with open(translations_csv, encoding="utf-8-sig", newline="") as csvfile:
         reader = DictReader(csvfile, delimiter=",", quotechar='"')
         for row in reader:
-            all_files.append(row["translationId"])
+            translation_id: str = row["translationId"]
+            all_translation_ids.append(translation_id)
 
             if row["Redistributable"] == "True":
-                redistributable_files.append(row["translationId"])
+                redistributable_translation_ids.append(translation_id)
 
-        return all_files, redistributable_files
+        return all_translation_ids, redistributable_translation_ids
 
 
 # Columns are easier to use if they are valid python identifiers:
@@ -562,20 +563,24 @@ def main() -> None:
     with open(Path(__file__).with_name("config.yaml"), "r") as yamlfile:
         config: Dict = yaml.safe_load(yamlfile)
 
-    dont_download_filenames = [
-        project + file_suffix for project in config["No Download"]
-    ]
+    dont_download_translation_ids = config["No Download"]
+
+    def build_download_path(translation_id: str) -> Path:
+        return downloads_folder / (translation_id + file_suffix)
+
+    def parse_translation_id(download_path: Path) -> str:
+        return download_path.stem
 
     if args.try_download:
         print("Try to download the exceptions in the config.yaml file.")
-        ebible_filenames = [project + file_suffix for project in config["No Download"]]
-        ebible_files = [
-            downloads_folder / ebible_filename for ebible_filename in ebible_filenames
+        ebible_filenames_and_translation_ids = [
+            (build_download_path(translation_id), translation_id)
+            for translation_id in config["No Download"]
         ]
 
         # Download the zip files.
         downloaded_files = download_files(
-            ebible_files,
+            ebible_filenames_and_translation_ids,
             eBible_url,
             downloads_folder,
             logfile,
@@ -591,49 +596,43 @@ def main() -> None:
         exit()
 
     # These files have fewer than 400 lines of text in January 2023
-    dont_download_filenames.extend(
-        [project + file_suffix for project in config["Short"]]
-    )
+    dont_download_translation_ids.extend(config["Short"])
 
-    dont_download_files = [
-        downloads_folder / dont_download_filename
-        for dont_download_filename in dont_download_filenames
-    ]
     private = config["Private"]
     public = config["Public"]
 
-    # Get download file IDs from translations.csv file.
-    ebible_file_ids, redistributable_files = get_redistributable(translations_csv)
-    ebible_filenames = [file_id + file_suffix for file_id in ebible_file_ids]
-    ebible_files = [
-        downloads_folder / ebible_filename for ebible_filename in ebible_filenames
+    # Get download translation IDs from translations.csv file.
+    translation_ids, _ = get_redistributable(translations_csv)
+
+    # translation id's from the current list that already have corresponding files in the download directory
+    existing_translation_ids: List[str] = [
+        translation_id for translation_id in translation_ids if build_download_path(translation_id).is_file()
     ]
-    existing_ebible_files = [
-        ebible_file for ebible_file in ebible_files if ebible_file.is_file()
+
+    # Represents translation id's downloaded on a previous run to the base directory,
+    # but are no longer available on eBible.org
+    removed_translation_ids: List[str] = [
+        parse_translation_id(download_path)
+        for download_path in downloads_folder.glob("*" + file_suffix)
+        if parse_translation_id(download_path) not in translation_ids
     ]
-    previous_ebible_files = [
-        file
-        for file in downloads_folder.glob("*" + file_suffix)
-        if file not in ebible_files
-    ]
-    files_to_download = (
-        set(ebible_files) - set(existing_ebible_files) - set(dont_download_files)
-    )
+
+    translation_ids_to_download = set(translation_ids) - set(existing_translation_ids) - set(dont_download_translation_ids)
 
     # Presumably any other files used to be in eBible but have been removed
     # Note these in the log file, but don't remove them.
 
     log_and_print(
         logfile,
-        f"Of {len(ebible_files)} ebible files, {len(existing_ebible_files)} are already downloaded and {len(dont_download_files)} are excluded.",
+        f"Of {len(translation_ids)} ebible translation id's, {len(existing_translation_ids)} are already downloaded and {len(dont_download_translation_ids)} are excluded.",
     )
-    if len(previous_ebible_files) > 0:
+    if len(removed_translation_ids) > 0:
         log_and_print(
             logfile,
-            f"These {len(previous_ebible_files)} files are already in the download folder that are no longer listed in translations.csv:",
+            f"These {len(removed_translation_ids)} removed translation id's have files in the download folder, but are no longer listed in translations.csv:",
         )
-        for i, previous_ebible_file in enumerate(previous_ebible_files, 1):
-            log_and_print(logfile, f"{i:>4}   {previous_ebible_file.name}")
+        for i, removed_translation_id in enumerate(removed_translation_ids, 1):
+            log_and_print(logfile, f"{i:>4}   {build_download_path(removed_translation_id).name}")
     else:
         log_and_print(
             logfile,
@@ -641,8 +640,13 @@ def main() -> None:
         )
 
     # Download the zip files.
+    files_and_translation_ids_to_download = [
+        (build_download_path(translation_id), translation_id)
+        for translation_id in translation_ids_to_download
+    ]
+
     downloaded_files = download_files(
-        files_to_download,
+        files_and_translation_ids_to_download,
         eBible_url,
         downloads_folder,
         logfile,
