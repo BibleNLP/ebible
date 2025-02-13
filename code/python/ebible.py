@@ -129,70 +129,6 @@ def download_files(
     return downloaded_files
 
 
-def get_tree_size(path) -> int:
-    """Return total size of files in given path and subdirs."""
-    total: int = 0
-    for entry in os.scandir(path):
-        if entry.is_dir(follow_symlinks=False):
-            total += get_tree_size(entry.path)
-        else:
-            total += entry.stat(follow_symlinks=False).st_size
-    return total
-
-
-def unzip_ebible(source_file, dest_folder, logfile) -> None:
-
-    if dest_folder.is_dir():
-        log_and_print(logfile, f"Unzipping from {source_file} to: {dest_folder}")
-        shutil.unpack_archive(source_file, dest_folder)
-        # log_and_print(f"Unzipped {source_file} to: {dest_folder}")
-
-    else:
-        log_and_print(
-            logfile,
-            f"Can't unzip, the destination folder: {dest_folder} doesn't exist.",
-        )
-
-
-def unzip_entire_folder(source_folder, file_suffix, unzip_folder, logfile) -> int:
-    log_and_print(logfile, f"\nStarting unzipping eBible zip files...")
-    pattern = "*" + file_suffix
-    zip_files = sorted([zip_file for zip_file in source_folder.glob(pattern)])
-    log_and_print(
-        logfile,
-        f"Found {len(zip_files)} files in {source_folder} matching pattern: {pattern}",
-    )
-
-    # Strip off the pattern so that the subfolder name is the project ID.
-    extract_folders = [
-        (
-            zip_file,
-            unzip_folder
-            / f"{zip_file.name[0: (len(zip_file.name) - len(file_suffix))]}",
-        )
-        for zip_file in zip_files
-    ]
-    extracts = [
-        (zip_file, folder)
-        for zip_file, folder in extract_folders
-        if not folder.exists()
-    ]
-
-    log_and_print(
-        logfile,
-        f"Found {len(extracts)} that were not yet extracted.\n",
-    )
-
-    for zip_file, extract in extracts:
-        extract.mkdir(parents=True, exist_ok=True)
-        log_and_print(logfile, f"Extracting to: {extract}")
-        shutil.unpack_archive(zip_file, extract)
-
-    # log_and_print(logfile, f"Finished unzipping eBible files\n")
-
-    return len(extracts)
-
-
 def unzip_files(
     zip_files: List[Path],
     unzip_folder: Path,
@@ -241,19 +177,6 @@ def get_redistributable(translations_csv: Path) -> Tuple[List[str], List[str]]:
                 redistributable_translation_ids.append(translation_id)
 
         return all_translation_ids, redistributable_translation_ids
-
-
-# Columns are easier to use if they are valid python identifiers:
-def improve_column_names(df) -> None:
-    df.columns = (
-        df.columns.str.strip()
-        .str.lower()
-        .str.replace('"', "")
-        .str.replace("'", "")
-        .str.replace("(", "")
-        .str.replace(")", "")
-        .str.replace(" ", "_")
-    )
 
 
 def get_licence_details(logfile, folder) -> List:
