@@ -15,7 +15,6 @@ The user then needs to use SILNLP https://github.com/sillsdev/silnlp to extract 
 """
 
 import argparse
-import os
 import shutil
 from csv import DictReader
 from datetime import datetime
