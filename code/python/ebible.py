@@ -14,17 +14,11 @@ and from the private_projects folder to the private_corpus folder.
 The user then needs to use SILNLP https://github.com/sillsdev/silnlp to extract the files into the one-verse-per-line format.
 """
 
-# Import modules and directory paths
 import argparse
-# import codecs
-# import ntpath
 import os
-# import re
 import shutil
-from csv import DictReader, DictWriter
+from csv import DictReader
 from datetime import datetime
-from glob import iglob
-from os import listdir
 from pathlib import Path
 from random import randint
 from time import sleep, strftime
@@ -35,7 +29,6 @@ import regex
 import requests
 import yaml
 from bs4 import BeautifulSoup
-from pandas.core.groupby import groupby
 
 from settings_file import write_settings_file
 from rename_usfm import rename_usfm
@@ -72,6 +65,7 @@ def make_directories(dirs_to_create) -> None:
     for dir_to_create in dirs_to_create:
         dir_to_create.mkdir(parents=True, exist_ok=True)
 
+
 def download_file(url, file, headers=headers) -> Optional[Path]:
 
     r = requests.get(url, headers=headers)
@@ -86,11 +80,11 @@ def download_file(url, file, headers=headers) -> Optional[Path]:
 
 
 def download_files(
-        files_and_translation_ids: List[Tuple[Path, str]],
-        base_url: str,
-        folder: Path,
-        logfile: Path,
-        redownload: bool=False
+    files_and_translation_ids: List[Tuple[Path, str]],
+    base_url: str,
+    folder: Path,
+    logfile: Path,
+    redownload: bool = False,
 ) -> List[Path]:
 
     downloaded_files = []
@@ -415,7 +409,7 @@ def check_folders_exist(folders: list, base: Path, logfile):
             print(folder)
 
         print(f"\n\nAre you sure this is the right folder:    {base} ")
-        if choose_yes_no(f"Enter Y to continue or N to Quit."):
+        if choose_yes_no("Enter Y to continue or N to Quit."):
 
             # Create the required directories
             make_directories(missing_folders)
@@ -516,7 +510,6 @@ def main() -> None:
 
     # The csv file to download from eBible.org
     translations_csv: Path = metadata_folder / "translations.csv"
-    settings_filename = "Settings.xml"
 
     # Date stamp for the log file.
     year, month, day, hour, minute = map(int, strftime("%Y %m %d %H %M").split())
@@ -598,15 +591,14 @@ def main() -> None:
     # These files have fewer than 400 lines of text in January 2023
     dont_download_translation_ids.extend(config["Short"])
 
-    private = config["Private"]
-    public = config["Public"]
-
     # Get download translation IDs from translations.csv file.
     translation_ids, _ = get_redistributable(translations_csv)
 
     # translation id's from the current list that already have corresponding files in the download directory
     existing_translation_ids: List[str] = [
-        translation_id for translation_id in translation_ids if build_download_path(translation_id).is_file()
+        translation_id
+        for translation_id in translation_ids
+        if build_download_path(translation_id).is_file()
     ]
 
     # Represents translation id's downloaded on a previous run to the base directory,
@@ -617,7 +609,11 @@ def main() -> None:
         if parse_translation_id(download_path) not in translation_ids
     ]
 
-    translation_ids_to_download = set(translation_ids) - set(existing_translation_ids) - set(dont_download_translation_ids)
+    translation_ids_to_download = (
+        set(translation_ids)
+        - set(existing_translation_ids)
+        - set(dont_download_translation_ids)
+    )
 
     # Presumably any other files used to be in eBible but have been removed
     # Note these in the log file, but don't remove them.
@@ -632,11 +628,13 @@ def main() -> None:
             f"These {len(removed_translation_ids)} removed translation id's have files in the download folder, but are no longer listed in translations.csv:",
         )
         for i, removed_translation_id in enumerate(removed_translation_ids, 1):
-            log_and_print(logfile, f"{i:>4}   {build_download_path(removed_translation_id).name}")
+            log_and_print(
+                logfile, f"{i:>4}   {build_download_path(removed_translation_id).name}"
+            )
     else:
         log_and_print(
             logfile,
-            f"All the files in the download folder are listed in the translations.csv file.",
+            "All the files in the download folder are listed in the translations.csv file.",
         )
 
     # Download the zip files.
@@ -661,11 +659,11 @@ def main() -> None:
     # Downloading complete.
 
     else:
-        log_and_print(logfile, f"All eBible files are already downloaded.")
+        log_and_print(logfile, "All eBible files are already downloaded.")
 
     # Unzip all the zipfiles in the download folder to the projects_folder
     # Unless they have already been unzipped to either the projects_folder or private projects_folder
-    new_projects = unzip_files(
+    unzip_files(
         zip_files=[zipfile for zipfile in downloads_folder.glob("*" + file_suffix)],
         unzip_folder=projects_folder,
         also_check=private_projects_folder,
@@ -674,16 +672,10 @@ def main() -> None:
     )
 
     project_folders = [project_folder for project_folder in projects_folder.iterdir()]
-    project_foldernames = [project_folder.name for project_folder in project_folders]
 
     private_project_folders = [
         private_project_folder
         for private_project_folder in private_projects_folder.iterdir()
-    ]
-
-    private_project_foldernames = [
-        private_project_folder.name
-        for private_project_folder in private_project_folders
     ]
 
     for private_project_folder in private_project_folders:
@@ -796,7 +788,7 @@ def main() -> None:
     log_and_print(
         logfile,
         [
-            f"\nUse this command to extract the private_projects to the private_corpus.",
+            "\nUse this command to extract the private_projects to the private_corpus.",
             f"poetry run python -m silnlp.common.bulk_extract_corpora --input {private_projects_folder} --output {private_corpus_folder} --error-log {private_extract_log}",
         ],
     )
@@ -804,7 +796,7 @@ def main() -> None:
     log_and_print(
         logfile,
         [
-            f"\nUse this command to extract the public_projects to the public_corpus.",
+            "\nUse this command to extract the public_projects to the public_corpus.",
             f"poetry run python -m silnlp.common.bulk_extract_corpora --input {projects_folder} --output {corpus_folder} --error-log {public_extract_log}",
         ],
     )
