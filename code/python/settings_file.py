@@ -5,7 +5,7 @@ from datetime import datetime
 from glob import iglob
 from os import listdir
 from pathlib import Path
-from typing import List, Tuple
+from typing import Tuple
 
 import yaml
 from machine.corpora import ParatextTextCorpus, extract_scripture_corpus
@@ -324,7 +324,18 @@ def get_versification(
     return versifications[0]
 
 
-def write_settings_file(project_folder: Path):
+def write_settings_file(project_folder: Path) -> Path:
+    """
+    Write a Settings.xml file to the project folder passed if one doesn't exist already.
+
+    The file is very minimal containing only:
+      <Versification> (which is inferred from the project)
+      <LanguageIsoCode> (which is the first 3 characters of the folder name)
+      <Naming> (which is the naming convention "MAT" indicating no digits prior to the 3 letter book code)
+
+    When a settings file is created, the path to it is returned.
+    Otherwise None is returned.
+    """
 
     # Now add a Settings.xml file to a project folder.
     if project_folder.is_dir():
