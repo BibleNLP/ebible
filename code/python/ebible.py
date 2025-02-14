@@ -162,22 +162,25 @@ def unzip_files(
     return unzipped
 
 
-def get_redistributable(translations_csv: Path) -> Tuple[List[str], List[str]]:
+def get_translation_ids(translations_csv: Path) -> List[str]:
+    """
+    Extracts and returns the translation id's from the translation.csv file.
+    Note that only Bibles with at least 400 verses are included.
+    """
 
-    redistributable_translation_ids: List = []
-    all_translation_ids: List = []
+    translation_ids: List = []
 
     with open(translations_csv, encoding="utf-8-sig", newline="") as csvfile:
         reader = DictReader(csvfile, delimiter=",", quotechar='"')
         for row in reader:
             translation_id: str = row["translationId"]
-            all_translation_ids.append(translation_id)
 
-            if row["Redistributable"] == "True":
-                redistributable_translation_ids.append(translation_id)
+            total_verses = int(row["OTverses"]) + int(row["NTverses"])
 
-        return all_translation_ids, redistributable_translation_ids
+            if (total_verses >= 400):
+                translation_ids.append(translation_id)
 
+        return translation_ids
 
 
 def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
@@ -514,8 +517,7 @@ def main() -> None:
         # Downloading complete.
         exit()
 
-    # These files have fewer than 400 lines of text in January 2023
-    dont_download_translation_ids.extend(config["Short"])
+    translation_ids = get_translation_ids(translations_csv)
 
     if args.filter:
         translation_ids = [
