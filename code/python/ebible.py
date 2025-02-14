@@ -374,6 +374,12 @@ def main() -> None:
         description="Download, unzip and extract text corpora from eBible."
     )
     parser.add_argument(
+        "-f",
+        "--filter",
+        default=None,
+        help="Defines a regex filter to limit the translation id's downloaded.",
+    )
+    parser.add_argument(
         "-d",
         "--force_download",
         default=False,
@@ -511,8 +517,13 @@ def main() -> None:
     # These files have fewer than 400 lines of text in January 2023
     dont_download_translation_ids.extend(config["Short"])
 
-    # Get download translation IDs from translations.csv file.
-    translation_ids, _ = get_redistributable(translations_csv)
+    if args.filter:
+        translation_ids = [
+            id
+            for id in translation_ids
+            if regex.match(args.filter, id)
+        ]
+        log_and_print(logfile, f"Command line filter used to reduce to translation id's to {','.join(translation_ids)}")
 
     # translation id's from the current list that already have corresponding files in the download directory
     existing_translation_ids: List[str] = [
