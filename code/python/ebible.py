@@ -490,9 +490,6 @@ def main() -> None:
     def build_download_path(translation_id: str) -> Path:
         return downloads_folder / (translation_id + file_suffix)
 
-    def parse_translation_id(download_path: Path) -> str:
-        return download_path.stem
-
     if args.try_download:
         print("Try to download the exceptions in the config.yaml file.")
         ebible_filenames_and_translation_ids = [
@@ -534,41 +531,11 @@ def main() -> None:
         if build_download_path(translation_id).is_file()
     ]
 
-    # Represents translation id's downloaded on a previous run to the base directory,
-    # but are no longer available on eBible.org
-    removed_translation_ids: List[str] = [
-        parse_translation_id(download_path)
-        for download_path in downloads_folder.glob("*" + file_suffix)
-        if parse_translation_id(download_path) not in translation_ids
-    ]
-
     translation_ids_to_download = (
         set(translation_ids)
         - set(existing_translation_ids)
         - set(dont_download_translation_ids)
     )
-
-    # Presumably any other files used to be in eBible but have been removed
-    # Note these in the log file, but don't remove them.
-
-    log_and_print(
-        logfile,
-        f"Of {len(translation_ids)} ebible translation id's, {len(existing_translation_ids)} are already downloaded and {len(dont_download_translation_ids)} are excluded.",
-    )
-    if len(removed_translation_ids) > 0:
-        log_and_print(
-            logfile,
-            f"These {len(removed_translation_ids)} removed translation id's have files in the download folder, but are no longer listed in translations.csv:",
-        )
-        for i, removed_translation_id in enumerate(removed_translation_ids, 1):
-            log_and_print(
-                logfile, f"{i:>4}   {build_download_path(removed_translation_id).name}"
-            )
-    else:
-        log_and_print(
-            logfile,
-            "All the files in the download folder are listed in the translations.csv file.",
-        )
 
     # Download the zip files.
     files_and_translation_ids_to_download = [
