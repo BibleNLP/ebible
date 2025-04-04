@@ -18,6 +18,7 @@ import argparse
 import shutil
 import os
 from csv import DictReader
+from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 from random import randint
@@ -40,6 +41,13 @@ headers: Dict[str, str] = {
     "Upgrade-Insecure-Requests": "1",
     "User-Agent": "Mozilla/5.0",
 }
+
+
+@dataclass
+class Translation:
+    language_code: str
+    id: str
+    is_redistributable: bool
 
 
 # Define methods for downloading and unzipping eBibles
@@ -129,58 +137,72 @@ def download_files(
     return downloaded_files
 
 
-def unzip_files(
-    zip_files: List[Path],
-    unzip_folder: Path,
-    also_check: Path,
-    file_suffix: str,
-    logfile,
-) -> List[Path]:
-
-    # Keep track of which files were unzipped
-    unzipped = []
-    # Strip off the file_suffix so that the unzip folder name is the project ID.
-    for zip_file in zip_files:
-        project_foldername = zip_file.stem
-        unzip_to_folder = unzip_folder / project_foldername
-        also_check_folder = also_check / project_foldername
-        if not unzip_to_folder.exists() and not also_check_folder.exists():
-            # The file still needs to be unzipped.
-
-            unzip_to_folder.mkdir(parents=True, exist_ok=True)
-            log_and_print(logfile, f"Extracting to: {unzip_to_folder}")
-            try:
-                shutil.unpack_archive(zip_file, unzip_to_folder)
-                unzipped.append(unzip_to_folder)
-            except shutil.ReadError:
-                log_and_print(logfile, f"ReadError: While trying to unzip: {zip_file}")
-            except FileNotFoundError:
-                log_and_print(
-                    logfile, f"FileNotFoundError: While trying to unzip: {zip_file}"
-                )
-
-    return unzipped
-
-
-def get_translation_ids(translations_csv: Path) -> List[str]:
+def create_project_name(translation: Translation) -> str:
     """
-    Extracts and returns the translation id's from the translation.csv file.
+    Creates a the destination project name for the translation passed by using a possibly modified version of the translation id.
+
+    Examples:
+           Translation id  ------>  Project name
+           aoj                      aoj
+           abt-maprik               maprik
+           eng-web-c                web_c
+
+    Note that in the last 2 examples:
+    - the language code was removed in anticipation of the bulk_extract_corpora adding it later.
+    - hyphens were converted to underscores
+
+    For context, see discussion: https://github.com/BibleNLP/ebible/issues/55#issuecomment-2777490989
+    If we _don't_ apply these transformations, the extract filename produced later by bulk_extract_corpora will be incorrect:
+
+     Case    Project name     Extract filename     Correct?
+     --------------------------------------------------------
+     1       aoj              aoj-aoj.txt          Yes
+     2       abt-maprik       abt-abt-maprik.txt   No, should be abt-maprik.txt
+     3       eng-web-c        eng-eng-web-c.txt    No, should be eng-web_c.txt
+                              ^^^^
+                              ^^^^
+                              prefix
+                              added by bulk_extract_corpora
+
+    Note that this transformation logic isn't applied to the files within the zip.
+    See also settings_file.py `write_settings_file` and rename_usfm.py
+    """
+    if translation.id.startswith(translation.language_code + "-"):
+        # Case 2 and 3
+        return translation.id[len(translation.language_code) + 1:].replace("-", "_")
+    else:
+        # Case 1 - no transformation needed
+        return translation.id
+
+
+def get_translations(translations_csv: Path, only_redistributable: bool = True) -> List[Translation]:
+    """
+    Extracts the useful translation information from the translation.csv file.
+
     Note that only Bibles with at least 400 verses are included.
+
+    The only_redistributable argument can be used to limit it to only extracting translations that are redistributable.
+    This is useful for times when we are just wanting to regenerate the corpus uploaded to hugging face as it later avoids
+    downloading a lot of zips from ebible that we don't actually use.
     """
 
-    translation_ids: List = []
+    translations: List[Translation] = []
 
     with open(translations_csv, encoding="utf-8-sig", newline="") as csvfile:
         reader = DictReader(csvfile, delimiter=",", quotechar='"')
         for row in reader:
-            translation_id: str = row["translationId"]
+            is_redistributable = row["Redistributable"]
 
-            total_verses = int(row["OTverses"]) + int(row["NTverses"])
+            if is_redistributable or not only_redistributable:
+                language_code: str = row["languageCode"]
+                translation_id: str = row["translationId"]
 
-            if (total_verses >= 400):
-                translation_ids.append(translation_id)
+                total_verses = int(row["OTverses"]) + int(row["NTverses"])
 
-        return translation_ids
+                if (total_verses >= 400):
+                    translations.append(Translation(language_code, translation_id, is_redistributable))
+
+        return translations
 
 
 def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
@@ -416,6 +438,12 @@ def main() -> None:
         action="store_true",
         help="Set this flag to try and download only the non-downloadable exceptions specified in the config.yaml file.",
     )
+    parser.add_argument(
+        "--only-redistributable",
+        default=True,
+        action="store_true",
+        help="Controls whether we want to download and process only redistributable Bible translations",
+    )
     parser.add_argument("folder", help="The base folder where others will be created.")
 
     args: argparse.Namespace = parser.parse_args()
@@ -468,6 +496,16 @@ def main() -> None:
         logfile,
     )
 
+    # Wipe all data in the projects_folder and private_projects_folder
+    # to prevent stale changes from previous iterations
+    for dir in [projects_folder, private_projects_folder]:
+        projects = [f for f in dir.iterdir() if f.is_dir()]
+        for project in projects:
+            shutil.rmtree(project)
+    # Wipe clean the corpus directory
+    for corpus_file in corpus_folder.iterdir():
+        corpus_file.unlink()
+
     # Download the list of translations if necessary.
     if not translations_csv.is_file() or args.force_download:
         log_and_print(
@@ -514,7 +552,10 @@ def main() -> None:
         # Downloading complete.
         exit()
 
-    translation_ids = get_translation_ids(translations_csv)
+    translations = get_translations(translations_csv, args.only_redistributable)
+
+    # This defines the set of translation id's that we will unpack into projects.
+    translation_ids = [translation.id for translation in translations]
 
     if args.filter:
         translation_ids = [
@@ -556,35 +597,41 @@ def main() -> None:
             logfile,
             f"Downloaded {len(downloaded_files)} eBible files to {downloads_folder}.",
         )
-    # Downloading complete.
-
     else:
         log_and_print(logfile, "All eBible files are already downloaded.")
 
-    # Unzip all the zipfiles in the download folder to the projects_folder
-    # Unless they have already been unzipped to either the projects_folder or private projects_folder
-    unzip_files(
-        zip_files=[zipfile for zipfile in downloads_folder.glob("*" + file_suffix)],
-        unzip_folder=projects_folder,
-        also_check=private_projects_folder,
-        file_suffix=file_suffix,
-        logfile=logfile,
-    )
+    # Create the project directories for each translation
+    # by unzipping them and creating a Settings.xml file within each
+    for translation_id in translation_ids:
+        log_and_print(logfile, f"Creating project for translation {translation_id}")
+        translation = next(t for t in translations if t.id == translation_id)
 
-    project_folders = [project_folder for project_folder in projects_folder.iterdir()]
+        # Determine where to download to
+        # NOTE: Previous versions of this script would first check if the translation had already been
+        # unpacked to the public or private dir on a previous run.
+        # The script now wipes these directories clean beforehand so such a check no longer makes sense.
+        if translation.is_redistributable:
+            unzip_dir = projects_folder
+        else:
+            unzip_dir = private_projects_folder
+        project_dir = unzip_dir / create_project_name(translation)
 
-    private_project_folders = [
-        private_project_folder
-        for private_project_folder in private_projects_folder.iterdir()
-    ]
+        # Unzip it
+        project_dir.mkdir(parents=True, exist_ok=True)
+        log_and_print(logfile, f"Extracting translation {translation.id} to: {project_dir}")
+        try:
+            shutil.unpack_archive(build_download_path(translation.id), project_dir)
+        except shutil.ReadError:
+            log_and_print(logfile, f"ReadError: While trying to unzip: {project_dir}")
+        except FileNotFoundError:
+            log_and_print(
+                logfile, f"FileNotFoundError: While trying to unzip: {project_dir}"
+            )
 
-    for private_project_folder in private_project_folders:
-        # Add a Settings.xml file if necessary
-        write_settings_file(private_project_folder)
+        write_settings_file(project_dir, translation.language_code, translation.id)
 
-    for project_folder in project_folders:
-        # Add a Settings.xml file if necessary
-        write_settings_file(project_folder)
+        rename_usfm(project_dir)
+
 
     # Get projects licence details
     data = get_licence_details(logfile, projects_folder)
@@ -614,46 +661,6 @@ def main() -> None:
     # Show counts by licence type
     log_and_print(logfile, "These are the numbers of files with each type of licence:")
     log_and_print(logfile, f"{licenses_df['Licence Type'].value_counts()}")
-
-    # Get lists of public and private projects from the licences
-    # This is done by splitting the licence data into two groups:
-    # - "Licence Type" is not "Unknown" (public)
-    # - "Licence Type" is "Unknown" (private)
-    # For each group, we slice out the "ID" column which represents the original translation id
-    # Note that the public projects are also extended to include those in the config.yml under "Public"
-    # Ditto for private projects and "Private" in config.yml
-    public_projects_in_licence_file = [
-        project_id
-        for project_id in licenses_df[
-            # Note the `~` below indicates "NOT"
-            ~(licenses_df["Licence Type"].str.contains("Unknown"))
-        ]["ID"]
-    ]
-
-    private_projects_in_licence_file = [
-        project_id
-        for project_id in licenses_df[
-            licenses_df["Licence Type"].str.contains("Unknown")
-        ]["ID"]
-    ]
-    public_projects = public_projects_in_licence_file.copy()
-    public_projects.extend(config["Public"])
-
-    # Move the private projects to the private_projects dir
-    private_projects = private_projects_in_licence_file.copy()
-    private_projects.extend(config["Private"])
-    for private_project in private_projects:
-        misplaced_private_project = projects_folder / private_project
-        if misplaced_private_project.is_dir():
-            dest = private_projects_folder / misplaced_private_project.name
-            log_and_print(
-                logfile,
-                f"This project is not redistributable and will be moved to the private projects folder: {dest}",
-            )
-            shutil.move(str(misplaced_private_project), str(dest))
-
-    rename_usfm(projects_folder)
-    rename_usfm(private_projects_folder)
 
     # TO DO: Use silnlp.common.extract_corpora to extract all the project files.
     # If silnlp becomes pip installable then we can do that here with silnlp as a dependency.
