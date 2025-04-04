@@ -324,7 +324,7 @@ def get_versification(
     return versifications[0]
 
 
-def write_settings_file(project_folder: Path) -> Path:
+def write_settings_file(project_folder: Path, language_code: str, translation_id: str) -> Path:
     """
     Write a Settings.xml file to the project folder passed if one doesn't exist already.
 
@@ -335,23 +335,27 @@ def write_settings_file(project_folder: Path) -> Path:
 
     When a settings file is created, the path to it is returned.
     Otherwise None is returned.
+
+    Note that the "Naming->PostPart" section will reflect the original naming scheme of the files in the original zip.
+    For example if the original zip was eng-web-c.zip, then the files inside will have names like MATeng-web-c.usfm,
+    even though for that language, we would have changed the project name to web_c
+    See also ebible.py `create_project_name` method, and rename_usfm.py and
+    https://github.com/BibleNLP/ebible/issues/50#issuecomment-2659064715
     """
 
     # Now add a Settings.xml file to a project folder.
     if project_folder.is_dir():
-        language_code = str(project_folder.name)[:3]
         settings_file = project_folder / "Settings.xml"
 
         if settings_file.is_file():
             return None
         else:
-            # print(f"Adding Settings.xml to {project_folder}")
             versification = get_versification(project_folder, get_vrs_diffs())
             vrs_num = vrs_to_num[versification]
             setting_file_text = f"""<ScriptureText>
                                 <Versification>{vrs_num}</Versification>
                                 <LanguageIsoCode>{language_code}:::</LanguageIsoCode>
-                                <Naming BookNameForm="MAT" PostPart="{project_folder.name}.usfm" PrePart="" />
+                                <Naming BookNameForm="MAT" PostPart="{translation_id}.usfm" PrePart="" />
                                 </ScriptureText>"""
 
             with open(settings_file, "w") as settings:
