@@ -19,16 +19,15 @@ import shutil
 import os
 from csv import DictReader
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
 from random import randint
 from time import sleep, strftime
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
 import pandas as pd
 import regex
 import requests
-import yaml
 from bs4 import BeautifulSoup
 
 from settings_file import write_settings_file
@@ -87,52 +86,82 @@ def download_file(url, file, headers=headers) -> Optional[Path]:
     return None
 
 
+def find_recent_download(downloads_folder: Path, translation_id: str, max_zip_age_days: int) -> Optional[Path]:
+    """
+    Returns the local path of a recently downloaded zip file for this translation id (if one exists).
+
+    Zip files are in the form: downloads/{translation_id}--YYYY-MM-DD.zip where the date is UTC.
+
+    Zip files are considered "recent" if the number of days between now and when it was downloaded
+    is within max_zip_age_days days
+    """
+    potential_zips: List[Path] = list(downloads_folder.glob(f"{translation_id}--*-*-*.zip"))
+
+    if not potential_zips:
+        return None
+
+    def parse_date(zip: Path) -> date:
+        result = regex.match(".*--(\\d{4})-(\\d{2})-(\\d{2})", zip.stem)
+        return date(int(result.group(1)), int(result.group(2)), int(result.group(3)))
+
+    zip_dates_sorted: List[date] = sorted([
+        parse_date(zip)
+        for zip in potential_zips
+    ])
+
+    most_recent = zip_dates_sorted[-1]
+
+    now: date = datetime.now(timezone.utc).date()
+
+    day_delta: int = (now - most_recent).days
+
+    if day_delta <= max_zip_age_days:
+        return downloads_folder / build_zip_filename(translation_id, most_recent)
+    else:
+        return None
+
+
+def build_zip_filename(translation_id: str, date: date) -> str:
+    return f"{translation_id}--{str(date)}.zip"
+
+
 def download_files(
-    files_and_translation_ids: List[Tuple[Path, str]],
+    translation_ids: List[str],
     base_url: str,
     folder: Path,
     logfile: Path,
-    redownload: bool = False,
 ) -> List[Path]:
+    """
+    Attempts to downloads zip files for the translation id's passed.
+    The local file paths of the successfully downloaded zips are returned.
+    """
+    log_and_print(
+        logfile,
+        f"Attempting to download zips for {len(translation_ids)} translation id's",
+    )
+    downloaded_files: List[(str, Path)] = []
 
-    downloaded_files = []
-
-    for i, (file, translation_id) in enumerate(files_and_translation_ids):
+    for i, translation_id in enumerate(translation_ids):
 
         # Construct the download url and the local file path.
         url = f"{base_url}{translation_id}_usfm.zip"
-        file = folder / file.name
+        file = folder / build_zip_filename(translation_id, datetime.now(timezone.utc).date())
 
-        # Skip existing files that contain data.
-        if file.exists() and file.stat().st_size > 100:
+        log_and_print(logfile, f"{i+1}: Downloading from {url} to {file}.")
+        if downloaded_file := download_file(url, file):
+            downloaded_files.append((translation_id, downloaded_file))
 
-            if redownload:
-                log_and_print(logfile, f"{i+1}: Redownloading from {url} to {file}.")
-                if downloaded_file := download_file(url, file):
-                    downloaded_files.append(downloaded_file)
+            log_and_print(logfile, f"Saved {url} as {file}\n")
 
-                    log_and_print(logfile, f"Saved {url} as {file}\n")
-                    # Pause for a random number of miliseconds
-                    sleep(randint(1, 5000) / 1000)
-
-            continue
+            # Pause for a random number of miliseconds
+            sleep(randint(1, 5000) / 1000)
 
         else:
-            log_and_print(logfile, f"{i+1}: Downloading from {url} to {file}.")
-            if downloaded_file := download_file(url, file):
-                downloaded_files.append(downloaded_file)
-
-                log_and_print(logfile, f"Saved {url} as {file}\n")
-
-                # Pause for a random number of miliseconds
-                sleep(randint(1, 5000) / 1000)
-
-            else:
-                log_and_print(logfile, f"Could not download {url}\n")
+            log_and_print(logfile, f"Could not download {url}\n")
 
     log_and_print(
         logfile,
-        f"\nFinished downloading. Downloaded {len(downloaded_files)} zip files from eBbile.org",
+        f"\nFinished downloading. Downloaded {len(downloaded_files)}/{len(translation_ids)} zip files from eBbile.org",
     )
     return downloaded_files
 
@@ -454,6 +483,12 @@ def main() -> None:
         action="store_true",
         help="When true, this causes the script to abort after the initial download of zip files",
     )
+    parser.add_argument(
+        "--max-zip-age-days",
+        default=14,
+        type=int,
+        help="Sets the maximum age in days that a downloaded zip can have before it's considered too old and needs redownloading",
+    )
     parser.add_argument("folder", help="The base folder where others will be created.")
 
     args: argparse.Namespace = parser.parse_args()
@@ -465,7 +500,6 @@ def main() -> None:
 
     translations_csv_url: str = r"https://ebible.org/Scriptures/translations.csv"
     eBible_url: str = r"https://ebible.org/Scriptures/"
-    file_suffix: str = ".zip"
 
     corpus_folder: Path = base / "corpus"
     downloads_folder: Path = base / "downloads"
@@ -529,9 +563,6 @@ def main() -> None:
             logfile, f"translations.csv file already exists in: {str(translations_csv)}"
         )
 
-    def build_download_path(translation_id: str) -> Path:
-        return downloads_folder / (translation_id + file_suffix)
-
     translations = get_translations(translations_csv, args.only_redistributable)
 
     # This defines the set of translation id's that we will unpack into projects.
@@ -543,7 +574,7 @@ def main() -> None:
             for id in translation_ids
             if regex.match(args.filter, id)
         ]
-        log_and_print(logfile, f"Command line filter used to reduce to translation id's to {translation_ids}")
+        log_and_print(logfile, f"Command line filter used to reduce translation id's to {translation_ids}")
 
     log_and_print(logfile, f"{len(translation_ids)} translation id's will be processed")
 
@@ -551,7 +582,7 @@ def main() -> None:
     existing_translation_ids: List[str] = [
         translation_id
         for translation_id in translation_ids
-        if build_download_path(translation_id).is_file()
+        if find_recent_download(downloads_folder, translation_id, args.max_zip_age_days)
     ]
 
     translation_ids_to_download = (
@@ -560,17 +591,11 @@ def main() -> None:
     )
 
     # Download the zip files.
-    files_and_translation_ids_to_download = [
-        (build_download_path(translation_id), translation_id)
-        for translation_id in translation_ids_to_download
-    ]
-
     downloaded_files = download_files(
-        files_and_translation_ids_to_download,
+        translation_ids_to_download,
         eBible_url,
         downloads_folder,
         logfile,
-        redownload=args.force_download,
     )
 
     if downloaded_files:
@@ -579,7 +604,7 @@ def main() -> None:
             f"Downloaded {len(downloaded_files)} eBible files to {downloads_folder}.",
         )
     else:
-        log_and_print(logfile, "All eBible files are already downloaded.")
+        log_and_print(logfile, "No files were downloaded - either they were already downloaded or failed to download")
 
     if args.download_only:
         log_and_print(logfile, "Terminating as --download-only flag set")
@@ -591,7 +616,7 @@ def main() -> None:
         log_and_print(logfile, f"Creating project for translation {translation_id}")
         translation = next(t for t in translations if t.id == translation_id)
 
-        # Determine where to download to
+        # Determine where to unzip to
         # NOTE: Previous versions of this script would first check if the translation had already been
         # unpacked to the public or private dir on a previous run.
         # The script now wipes these directories clean beforehand so such a check no longer makes sense.
@@ -605,7 +630,7 @@ def main() -> None:
         project_dir.mkdir(parents=True, exist_ok=True)
         log_and_print(logfile, f"Extracting translation {translation.id} to: {project_dir}")
         try:
-            shutil.unpack_archive(build_download_path(translation.id), project_dir)
+            shutil.unpack_archive(find_recent_download(downloads_folder, translation.id, args.max_zip_age_days), project_dir)
         except shutil.ReadError:
             log_and_print(logfile, f"ReadError: While trying to unzip: {project_dir}")
         except FileNotFoundError:
