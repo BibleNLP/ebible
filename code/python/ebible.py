@@ -472,19 +472,19 @@ def main() -> None:
         help="Set this flag to overwrite the licences.tsv file.",
     )
     parser.add_argument(
-        "--only-redistributable",
+        "--only_redistributable",
         default=True,
         action="store_true",
         help="Controls whether we want to download and process only redistributable Bible translations",
     )
     parser.add_argument(
-        "--download-only",
+        "--download_only",
         default=False,
         action="store_true",
         help="When true, this causes the script to abort after the initial download of zip files",
     )
     parser.add_argument(
-        "--max-zip-age-days",
+        "--max_zip_age_days",
         default=14,
         type=int,
         help="Sets the maximum age in days that a downloaded zip can have before it's considered too old and needs redownloading",
