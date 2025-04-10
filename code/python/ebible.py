@@ -207,7 +207,7 @@ def create_project_name(translation: Translation) -> str:
         return translation.id
 
 
-def get_translations(translations_csv: Path, only_redistributable: bool = True) -> List[Translation]:
+def get_translations(translations_csv: Path, allow_non_redistributable: bool) -> List[Translation]:
     """
     Extracts the useful translation information from the translation.csv file.
 
@@ -232,7 +232,7 @@ def get_translations(translations_csv: Path, only_redistributable: bool = True) 
         for row in reader:
             is_redistributable = parse_bool(row["Redistributable"])
 
-            if parse_bool(row["downloadable"]) and (is_redistributable or not only_redistributable):
+            if parse_bool(row["downloadable"]) and (is_redistributable or allow_non_redistributable):
                 language_code: str = row["languageCode"]
                 translation_id: str = row["translationId"]
 
@@ -451,31 +451,10 @@ def main() -> None:
         help="Set this flag to overwrite all previous data and start again.",
     )
     parser.add_argument(
-        "-s",
-        "--overwrite_settings",
+        "--allow_non_redistributable",
         default=False,
         action="store_true",
-        help="Set this flag to overwrite the settings.xml files.",
-    )
-    parser.add_argument(
-        "-e",
-        "--overwrite_extracts",
-        default=False,
-        action="store_true",
-        help="Set this flag to overwrite the extracted files.",
-    )
-    parser.add_argument(
-        "-l",
-        "--overwrite_licences",
-        default=False,
-        action="store_true",
-        help="Set this flag to overwrite the licences.tsv file.",
-    )
-    parser.add_argument(
-        "--only_redistributable",
-        default=True,
-        action="store_true",
-        help="Controls whether we want to download and process only redistributable Bible translations",
+        help="When true, allows non-redistributable (private) translations to be downloaded and processed",
     )
     parser.add_argument(
         "--download_only",
@@ -563,7 +542,7 @@ def main() -> None:
             logfile, f"translations.csv file already exists in: {str(translations_csv)}"
         )
 
-    translations = get_translations(translations_csv, args.only_redistributable)
+    translations = get_translations(translations_csv, args.allow_non_redistributable)
 
     # This defines the set of translation id's that we will unpack into projects.
     translation_ids = [translation.id for translation in translations]
