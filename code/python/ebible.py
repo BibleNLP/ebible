@@ -1,17 +1,15 @@
 """ebible.py contains functions for downloading and processing data from eBible.org.
-The normal pipeline is to check whether a file exists before downloading it
-It is only downloaded or unzipped if it doesn't already exist.
+The normal pipeline is to check whether a recent file exists before downloading it
+It is only downloaded if it doesn't already exist.
 First download translations.csv from https://ebible.org/Scriptures/translations.csv
 Read the list of available files from translations.csv
 Download zipped Bibles in USFM format from ebible.org to the 'downloads' folder.
-Unzip the downloaded files to the 'projects' folder.
-Check the licence data contained in the copr.htm files in the redistributable_folder folders. Write that as a csv file.
-Check the existence of verses in certain chapters in order to guess the versification. Add that to a Settings.xml in each project.
-The Settings.xml file is necessary for silnlp.common.extract_corpora.
-Move any private projects (complete with Settings.xml file) from the projects folder to the private_projects folder.
-Print out the two commands necessary for extracting from the projects folder to the corpus folder,
+Unzip the downloaded files to the 'projects' or 'private_projects' folder.
+Check the licence data contained in the copr.htm files. Write that as a csv file.
+Create a Settings.xml file for silnlp.common.bulk_extract_corpora.
+Print out the two commands necessary for extracting from the public projects folder to the corpus folder,
 and from the private_projects folder to the private_corpus folder.
-The user then needs to use SILNLP https://github.com/sillsdev/silnlp to extract the files into the one-verse-per-line format.
+The user then needs to use SILNLP https://github.com/sillsdev/silnlp bulk_extract_corpora to generate extract files.
 """
 
 import argparse
@@ -19,16 +17,15 @@ import shutil
 import os
 from csv import DictReader
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
 from random import randint
 from time import sleep, strftime
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
 import pandas as pd
 import regex
 import requests
-import yaml
 from bs4 import BeautifulSoup
 
 from settings_file import write_settings_file
@@ -87,52 +84,82 @@ def download_file(url, file, headers=headers) -> Optional[Path]:
     return None
 
 
+def find_recent_download(downloads_folder: Path, translation_id: str, max_zip_age_days: int) -> Optional[Path]:
+    """
+    Returns the local path of a recently downloaded zip file for this translation id (if one exists).
+
+    Zip files are in the form: downloads/{translation_id}--YYYY-MM-DD.zip where the date is UTC.
+
+    Zip files are considered "recent" if the number of days between now and when it was downloaded
+    is within max_zip_age_days days
+    """
+    potential_zips: List[Path] = list(downloads_folder.glob(f"{translation_id}--*-*-*.zip"))
+
+    if not potential_zips:
+        return None
+
+    def parse_date(zip: Path) -> date:
+        result = regex.match(".*--(\\d{4})-(\\d{2})-(\\d{2})", zip.stem)
+        return date(int(result.group(1)), int(result.group(2)), int(result.group(3)))
+
+    zip_dates_sorted: List[date] = sorted([
+        parse_date(zip)
+        for zip in potential_zips
+    ])
+
+    most_recent = zip_dates_sorted[-1]
+
+    now: date = datetime.now(timezone.utc).date()
+
+    day_delta: int = (now - most_recent).days
+
+    if day_delta <= max_zip_age_days:
+        return downloads_folder / build_zip_filename(translation_id, most_recent)
+    else:
+        return None
+
+
+def build_zip_filename(translation_id: str, date: date) -> str:
+    return f"{translation_id}--{str(date)}.zip"
+
+
 def download_files(
-    files_and_translation_ids: List[Tuple[Path, str]],
+    translation_ids: List[str],
     base_url: str,
     folder: Path,
     logfile: Path,
-    redownload: bool = False,
 ) -> List[Path]:
+    """
+    Attempts to downloads zip files for the translation id's passed.
+    The local file paths of the successfully downloaded zips are returned.
+    """
+    log_and_print(
+        logfile,
+        f"Attempting to download zips for {len(translation_ids)} translation id's",
+    )
+    downloaded_files: List[(str, Path)] = []
 
-    downloaded_files = []
-
-    for i, (file, translation_id) in enumerate(files_and_translation_ids):
+    for i, translation_id in enumerate(translation_ids):
 
         # Construct the download url and the local file path.
         url = f"{base_url}{translation_id}_usfm.zip"
-        file = folder / file.name
+        file = folder / build_zip_filename(translation_id, datetime.now(timezone.utc).date())
 
-        # Skip existing files that contain data.
-        if file.exists() and file.stat().st_size > 100:
+        log_and_print(logfile, f"{i+1}: Downloading from {url} to {file}.")
+        if downloaded_file := download_file(url, file):
+            downloaded_files.append((translation_id, downloaded_file))
 
-            if redownload:
-                log_and_print(logfile, f"{i+1}: Redownloading from {url} to {file}.")
-                if downloaded_file := download_file(url, file):
-                    downloaded_files.append(downloaded_file)
+            log_and_print(logfile, f"Saved {url} as {file}\n")
 
-                    log_and_print(logfile, f"Saved {url} as {file}\n")
-                    # Pause for a random number of miliseconds
-                    sleep(randint(1, 5000) / 1000)
-
-            continue
+            # Pause for a random number of miliseconds
+            sleep(randint(1, 5000) / 1000)
 
         else:
-            log_and_print(logfile, f"{i+1}: Downloading from {url} to {file}.")
-            if downloaded_file := download_file(url, file):
-                downloaded_files.append(downloaded_file)
-
-                log_and_print(logfile, f"Saved {url} as {file}\n")
-
-                # Pause for a random number of miliseconds
-                sleep(randint(1, 5000) / 1000)
-
-            else:
-                log_and_print(logfile, f"Could not download {url}\n")
+            log_and_print(logfile, f"Could not download {url}\n")
 
     log_and_print(
         logfile,
-        f"\nFinished downloading. Downloaded {len(downloaded_files)} zip files from eBbile.org",
+        f"\nFinished downloading. Downloaded {len(downloaded_files)}/{len(translation_ids)} zip files from eBbile.org",
     )
     return downloaded_files
 
@@ -146,10 +173,11 @@ def create_project_name(translation: Translation) -> str:
            aoj                      aoj
            abt-maprik               maprik
            eng-web-c                web_c
+           fra_fob                  fob
 
-    Note that in the last 2 examples:
-    - the language code was removed in anticipation of the bulk_extract_corpora adding it later.
-    - hyphens were converted to underscores
+    Note that in the last 3 examples:
+    - the language code prefix was removed in anticipation of the bulk_extract_corpora adding it later.
+    - hyphens in the remaining translation description were converted to underscores
 
     For context, see discussion: https://github.com/BibleNLP/ebible/issues/55#issuecomment-2777490989
     If we _don't_ apply these transformations, the extract filename produced later by bulk_extract_corpora will be incorrect:
@@ -159,6 +187,7 @@ def create_project_name(translation: Translation) -> str:
      1       aoj              aoj-aoj.txt          Yes
      2       abt-maprik       abt-abt-maprik.txt   No, should be abt-maprik.txt
      3       eng-web-c        eng-eng-web-c.txt    No, should be eng-web_c.txt
+     4       fra_fob          fra-fra_fob.txt      No, should be fra-fob.txt
                               ^^^^
                               ^^^^
                               prefix
@@ -167,33 +196,41 @@ def create_project_name(translation: Translation) -> str:
     Note that this transformation logic isn't applied to the files within the zip.
     See also settings_file.py `write_settings_file` and rename_usfm.py
     """
-    if translation.id.startswith(translation.language_code + "-"):
-        # Case 2 and 3
+    if regex.match(f"^{regex.escape(translation.language_code)}[_\\-]", translation.id):
+        # Cases 2-4 - the translation id begins with the language code plus an underscore or hyphen
+        # The matched characters are removed, and remaining hyphens are replaced with underscores
         return translation.id[len(translation.language_code) + 1:].replace("-", "_")
     else:
         # Case 1 - no transformation needed
         return translation.id
 
 
-def get_translations(translations_csv: Path, only_redistributable: bool = True) -> List[Translation]:
+def get_translations(translations_csv: Path, allow_non_redistributable: bool) -> List[Translation]:
     """
     Extracts the useful translation information from the translation.csv file.
 
-    Note that only Bibles with at least 400 verses are included.
+    Translations are only included if:
+    - they are downloadable (indicated by the "downloadable" column)
+    - they have at least 400 verses (indicated by summing values from the "OTverses" and "NTverses" columns)
+    - they are redistributable - if only_redistributable above is set (indicated by the "Redistributable" column)
 
-    The only_redistributable argument can be used to limit it to only extracting translations that are redistributable.
-    This is useful for times when we are just wanting to regenerate the corpus uploaded to hugging face as it later avoids
-    downloading a lot of zips from ebible that we don't actually use.
+    The only_redistributable is useful for times when we are just wanting to regenerate the corpus uploaded to hugging face
+    and don't care about private translations.
+    This avoids downloading a lot of zips from ebible that we don't actually use.
     """
+
+    def parse_bool(s: str) -> bool:
+        """Intended for boolean columns in the translation.csv that use either 'True' or 'False'"""
+        return s.lower() == "true"
 
     translations: List[Translation] = []
 
     with open(translations_csv, encoding="utf-8-sig", newline="") as csvfile:
         reader = DictReader(csvfile, delimiter=",", quotechar='"')
         for row in reader:
-            is_redistributable = row["Redistributable"]
+            is_redistributable = parse_bool(row["Redistributable"])
 
-            if is_redistributable or not only_redistributable:
+            if parse_bool(row["downloadable"]) and (is_redistributable or allow_non_redistributable):
                 language_code: str = row["languageCode"]
                 translation_id: str = row["translationId"]
 
@@ -412,37 +449,22 @@ def main() -> None:
         help="Set this flag to overwrite all previous data and start again.",
     )
     parser.add_argument(
-        "-s",
-        "--overwrite_settings",
+        "--allow_non_redistributable",
         default=False,
         action="store_true",
-        help="Set this flag to overwrite the settings.xml files.",
+        help="When true, allows non-redistributable (private) translations to be downloaded and processed",
     )
     parser.add_argument(
-        "-e",
-        "--overwrite_extracts",
+        "--download_only",
         default=False,
         action="store_true",
-        help="Set this flag to overwrite the extracted files.",
+        help="When true, this causes the script to abort after the initial download of zip files",
     )
     parser.add_argument(
-        "-l",
-        "--overwrite_licences",
-        default=False,
-        action="store_true",
-        help="Set this flag to overwrite the licences.tsv file.",
-    )
-    parser.add_argument(
-        "--try-download",
-        default=False,
-        action="store_true",
-        help="Set this flag to try and download only the non-downloadable exceptions specified in the config.yaml file.",
-    )
-    parser.add_argument(
-        "--only-redistributable",
-        default=True,
-        action="store_true",
-        help="Controls whether we want to download and process only redistributable Bible translations",
+        "--max_zip_age_days",
+        default=14,
+        type=int,
+        help="Sets the maximum age in days that a downloaded zip can have before it's considered too old and needs redownloading",
     )
     parser.add_argument("folder", help="The base folder where others will be created.")
 
@@ -455,7 +477,6 @@ def main() -> None:
 
     translations_csv_url: str = r"https://ebible.org/Scriptures/translations.csv"
     eBible_url: str = r"https://ebible.org/Scriptures/"
-    file_suffix: str = ".zip"
 
     corpus_folder: Path = base / "corpus"
     downloads_folder: Path = base / "downloads"
@@ -519,40 +540,7 @@ def main() -> None:
             logfile, f"translations.csv file already exists in: {str(translations_csv)}"
         )
 
-    # Get the exceptions from the config.yaml file.
-    with open(Path(__file__).with_name("config.yaml"), "r") as yamlfile:
-        config: Dict = yaml.safe_load(yamlfile)
-
-    dont_download_translation_ids = config["No Download"]
-
-    def build_download_path(translation_id: str) -> Path:
-        return downloads_folder / (translation_id + file_suffix)
-
-    if args.try_download:
-        print("Try to download the exceptions in the config.yaml file.")
-        ebible_filenames_and_translation_ids = [
-            (build_download_path(translation_id), translation_id)
-            for translation_id in config["No Download"]
-        ]
-
-        # Download the zip files.
-        downloaded_files = download_files(
-            ebible_filenames_and_translation_ids,
-            eBible_url,
-            downloads_folder,
-            logfile,
-            redownload=args.force_download,
-        )
-
-        if downloaded_files:
-            log_and_print(
-                logfile,
-                f"Downloaded {len(downloaded_files)} eBible files to {downloads_folder}.",
-            )
-        # Downloading complete.
-        exit()
-
-    translations = get_translations(translations_csv, args.only_redistributable)
+    translations = get_translations(translations_csv, args.allow_non_redistributable)
 
     # This defines the set of translation id's that we will unpack into projects.
     translation_ids = [translation.id for translation in translations]
@@ -563,33 +551,27 @@ def main() -> None:
             for id in translation_ids
             if regex.match(args.filter, id)
         ]
-        log_and_print(logfile, f"Command line filter used to reduce to translation id's to {','.join(translation_ids)}")
+        log_and_print(logfile, f"Command line filter used to reduce translation id's to {translation_ids}")
 
-    # translation id's from the current list that already have corresponding files in the download directory
-    existing_translation_ids: List[str] = [
-        translation_id
-        for translation_id in translation_ids
-        if build_download_path(translation_id).is_file()
-    ]
+    log_and_print(logfile, f"{len(translation_ids)} translation id's will be processed")
 
-    translation_ids_to_download = (
-        set(translation_ids)
-        - set(existing_translation_ids)
-        - set(dont_download_translation_ids)
-    )
-
-    # Download the zip files.
-    files_and_translation_ids_to_download = [
-        (build_download_path(translation_id), translation_id)
-        for translation_id in translation_ids_to_download
-    ]
+    if args.force_download:
+        # Download everything ignoring any caching
+        translation_ids_to_download = translation_ids
+    else:
+        # Don't redownload zips that already have a recently cached version
+        existing_translation_ids: List[str] = [
+            translation_id
+            for translation_id in translation_ids
+            if find_recent_download(downloads_folder, translation_id, args.max_zip_age_days)
+        ]
+        translation_ids_to_download = list(set(translation_ids) - set(existing_translation_ids))
 
     downloaded_files = download_files(
-        files_and_translation_ids_to_download,
+        translation_ids_to_download,
         eBible_url,
         downloads_folder,
         logfile,
-        redownload=args.force_download,
     )
 
     if downloaded_files:
@@ -598,7 +580,11 @@ def main() -> None:
             f"Downloaded {len(downloaded_files)} eBible files to {downloads_folder}.",
         )
     else:
-        log_and_print(logfile, "All eBible files are already downloaded.")
+        log_and_print(logfile, "No files were downloaded - either they were already downloaded or failed to download")
+
+    if args.download_only:
+        log_and_print(logfile, "Terminating as --download-only flag set")
+        exit()
 
     # Create the project directories for each translation
     # by unzipping them and creating a Settings.xml file within each
@@ -606,7 +592,7 @@ def main() -> None:
         log_and_print(logfile, f"Creating project for translation {translation_id}")
         translation = next(t for t in translations if t.id == translation_id)
 
-        # Determine where to download to
+        # Determine where to unzip to
         # NOTE: Previous versions of this script would first check if the translation had already been
         # unpacked to the public or private dir on a previous run.
         # The script now wipes these directories clean beforehand so such a check no longer makes sense.
@@ -620,7 +606,7 @@ def main() -> None:
         project_dir.mkdir(parents=True, exist_ok=True)
         log_and_print(logfile, f"Extracting translation {translation.id} to: {project_dir}")
         try:
-            shutil.unpack_archive(build_download_path(translation.id), project_dir)
+            shutil.unpack_archive(find_recent_download(downloads_folder, translation.id, args.max_zip_age_days), project_dir)
         except shutil.ReadError:
             log_and_print(logfile, f"ReadError: While trying to unzip: {project_dir}")
         except FileNotFoundError:

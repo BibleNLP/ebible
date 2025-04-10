@@ -47,3 +47,132 @@ If a source Bible contained a verse range, with the text of multiple verses grou
     ...verse range text...
     <range>
     <range>
+
+## Regenerating the corpus
+
+The [corpus](./corpus/) directory contains the extract files which are published to hugging face.
+
+The corpus needs to be regularly regenerated as the data on ebible.org changes over time.
+
+Regenerating the corpus is done via a script: [ebible.py](./code/python/ebible.py).
+
+The script has been developed and tested on python 3.10 but should work on later versions.
+The script has no third party dependencies so shouldn't require conda/poetry/virtualenv.
+
+To run it:
+
+- create an empty data directory somewhere on your system
+- open a shell in the `code/python` directory
+- run:
+
+```
+python ebible.py PATH_TO_DATA_DIRECTORY
+```
+
+The first run through of the script will setup a directory structure:
+
+```
+├── corpus
+├── downloads
+├── logs
+├── metadata
+├── private_corpus
+├── private_projects
+└── projects
+```
+
+### What the script does
+
+In simple terms, the script:
+
+- downloads a `translations.csv` file which outlines the currently available translations (in `metadata` dir)
+- downloads zip files for each translation (in `downloads` dir)
+- unpacks those zip files into paratext projects (in `projects` dir)
+- constructs a licence file (in `metadata` dir)
+
+```mermaid
+ flowchart TD
+    Translations[translations.csv] --> |if enough verses, redistributable and downloadable| Ids
+    Filter[--filter arg?] --> |keep id's matching regex| Ids
+    Ids[translation id's to process] --> |determine what needs downloading| DownloadList
+    DownloadList[download list]
+    DownloadDir[downloads dir] --> |determine what's cached| DownloadList
+    DownloadList --> |download| Ebible
+    Ebible[ebible.org] --> |save zip| DownloadDir
+    Ids --> |generate projects for these id's| Projects[project dirs]
+    DownloadDir --> |unzip| Projects
+    Projects --> |bulk_extract_corpora| CorpusDir[corpus dir]
+```
+
+### Building extracts
+
+The building of the extracts is done by `bulk_extract_corpora` from the silnlp project.
+It generates one extract file for each paratext projects.
+The extracts are put into the data directory `corpus` dir.
+
+Once you have checked the `corpus` dir, you would replace the checked in corpus dir with your newly generated one.
+
+There is a [smoke_tests.py](./code/python/smoke_tests.py) script to help pick up common issues.
+
+### Publishing to hugging face
+
+TODO - add instructions
+
+### Caching of zip files
+
+The script caches downloaded zip files to:
+
+- speed it up
+- reduce the load put on ebible.org
+
+The zip files are suffixed with a date representing the UTC date that they were downloaded,
+e.g. if translation id `grc-tisch` was downloaded on April 5th 2023, the filename would be `grc-tisch--2023-04-05.zip`.
+
+By default, the script will use the cached data for up to 14 days after it was downloaded.
+This can be overridden, e.g. to set it to 30 days use `--max_zip_age_days 30`
+
+Additionally the flag `--force_download` will ignore the cache and download everything fresh (including the `translations.csv` file).
+
+The `--download-only` flag is useful when you want the script to just run the download logic then terminate without
+building paratext projects.
+
+### Filtering examples
+
+The `--filter REGEX` reduces down the translation id's to just those that match the regex. 
+
+This is useful when you are debugging/testing around particular translation id's.
+
+This example picks out every translation id starting with "grc":
+
+```
+python ebible.py -f 'grc' PATH_TO_DATA_DIRECTORY
+
+// Output
+Command line filter used to reduce translation id's to ['grcbrent', 'grcbyz', 'grcf35', 'grcmt', 'grcsbl', 'grcsr', 'grctcgnt', 'grc-tisch', 'grctr']
+```
+
+This example matches just "gpu" (and not "gupk"):
+
+```
+$ python ebible.py -f 'gup$' PATH_TO_DATA_DIRECTORY
+
+// Output
+Command line filter used to reduce translation id's to ['gup']
+```
+
+This example matches translations id's starting with "gfk" or "hbo":
+
+```
+python ebible.py -f '(gfk|hbo)' PATH_TO_DATA_DIRECTORY
+
+// Output
+Command line filter used to reduce translation id's to ['gfk', 'gfkh', 'gfks', 'hbo', 'hboWLC']
+```
+
+### Built in filtering
+
+The script automatically excludes some translations, for example:
+
+- if they have too few verses
+- they are marked as not downloadable in `translations.csv`
+- they are not redistributable (this can be overridden with `--allow_non_redistributable`)
