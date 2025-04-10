@@ -578,19 +578,18 @@ def main() -> None:
 
     log_and_print(logfile, f"{len(translation_ids)} translation id's will be processed")
 
-    # translation id's from the current list that already have corresponding files in the download directory
-    existing_translation_ids: List[str] = [
-        translation_id
-        for translation_id in translation_ids
-        if find_recent_download(downloads_folder, translation_id, args.max_zip_age_days)
-    ]
+    if args.force_download:
+        # Download everything ignoring any caching
+        translation_ids_to_download = translation_ids
+    else:
+        # Don't redownload zips that already have a recently cached version
+        existing_translation_ids: List[str] = [
+            translation_id
+            for translation_id in translation_ids
+            if find_recent_download(downloads_folder, translation_id, args.max_zip_age_days)
+        ]
+        translation_ids_to_download = list(set(translation_ids) - set(existing_translation_ids))
 
-    translation_ids_to_download = (
-        set(translation_ids)
-        - set(existing_translation_ids)
-    )
-
-    # Download the zip files.
     downloaded_files = download_files(
         translation_ids_to_download,
         eBible_url,
