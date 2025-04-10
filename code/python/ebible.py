@@ -146,10 +146,11 @@ def create_project_name(translation: Translation) -> str:
            aoj                      aoj
            abt-maprik               maprik
            eng-web-c                web_c
+           fra_fob                  fob
 
-    Note that in the last 2 examples:
-    - the language code was removed in anticipation of the bulk_extract_corpora adding it later.
-    - hyphens were converted to underscores
+    Note that in the last 3 examples:
+    - the language code prefix was removed in anticipation of the bulk_extract_corpora adding it later.
+    - hyphens in the remaining translation description were converted to underscores
 
     For context, see discussion: https://github.com/BibleNLP/ebible/issues/55#issuecomment-2777490989
     If we _don't_ apply these transformations, the extract filename produced later by bulk_extract_corpora will be incorrect:
@@ -159,6 +160,7 @@ def create_project_name(translation: Translation) -> str:
      1       aoj              aoj-aoj.txt          Yes
      2       abt-maprik       abt-abt-maprik.txt   No, should be abt-maprik.txt
      3       eng-web-c        eng-eng-web-c.txt    No, should be eng-web_c.txt
+     4       fra_fob          fra-fra_fob.txt      No, should be fra-fob.txt
                               ^^^^
                               ^^^^
                               prefix
@@ -167,8 +169,9 @@ def create_project_name(translation: Translation) -> str:
     Note that this transformation logic isn't applied to the files within the zip.
     See also settings_file.py `write_settings_file` and rename_usfm.py
     """
-    if translation.id.startswith(translation.language_code + "-"):
-        # Case 2 and 3
+    if regex.match(f"^{regex.escape(translation.language_code)}[_\\-]", translation.id):
+        # Cases 2-4 - the translation id begins with the language code plus an underscore or hyphen
+        # The matched characters are removed, and remaining hyphens are replaced with underscores
         return translation.id[len(translation.language_code) + 1:].replace("-", "_")
     else:
         # Case 1 - no transformation needed
