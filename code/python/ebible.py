@@ -1,17 +1,15 @@
 """ebible.py contains functions for downloading and processing data from eBible.org.
-The normal pipeline is to check whether a file exists before downloading it
-It is only downloaded or unzipped if it doesn't already exist.
+The normal pipeline is to check whether a recent file exists before downloading it
+It is only downloaded if it doesn't already exist.
 First download translations.csv from https://ebible.org/Scriptures/translations.csv
 Read the list of available files from translations.csv
 Download zipped Bibles in USFM format from ebible.org to the 'downloads' folder.
-Unzip the downloaded files to the 'projects' folder.
-Check the licence data contained in the copr.htm files in the redistributable_folder folders. Write that as a csv file.
-Check the existence of verses in certain chapters in order to guess the versification. Add that to a Settings.xml in each project.
-The Settings.xml file is necessary for silnlp.common.extract_corpora.
-Move any private projects (complete with Settings.xml file) from the projects folder to the private_projects folder.
-Print out the two commands necessary for extracting from the projects folder to the corpus folder,
+Unzip the downloaded files to the 'projects' or 'private_projects' folder.
+Check the licence data contained in the copr.htm files. Write that as a csv file.
+Create a Settings.xml file for silnlp.common.bulk_extract_corpora.
+Print out the two commands necessary for extracting from the public projects folder to the corpus folder,
 and from the private_projects folder to the private_corpus folder.
-The user then needs to use SILNLP https://github.com/sillsdev/silnlp to extract the files into the one-verse-per-line format.
+The user then needs to use SILNLP https://github.com/sillsdev/silnlp bulk_extract_corpora to generate extract files.
 """
 
 import argparse
