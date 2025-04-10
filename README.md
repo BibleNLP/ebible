@@ -90,6 +90,20 @@ In simple terms, the script:
 - unpacks those zip files into paratext projects (in `projects` dir)
 - constructs a licence file (in `metadata` dir)
 
+```mermaid
+ flowchart TD
+    Translations[translations.csv] --> |if enough verses, redistributable and downloadable| Ids
+    Filter[--filter arg?] --> |keep id's matching regex| Ids
+    Ids[translation id's to process] --> |determine what needs downloading| DownloadList
+    DownloadList[download list]
+    DownloadDir[downloads dir] --> |determine what's cached| DownloadList
+    DownloadList --> |download| Ebible
+    Ebible[ebible.org] --> |save zip| DownloadDir
+    Ids --> |generate projects for these id's| Projects[project dirs]
+    DownloadDir --> |unzip| Projects
+    Projects --> |bulk_extract_corpora| CorpusDir[corpus dir]
+```
+
 ### Building extracts
 
 The building of the extracts is done by `bulk_extract_corpora` from the silnlp project.
