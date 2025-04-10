@@ -182,21 +182,28 @@ def get_translations(translations_csv: Path, only_redistributable: bool = True) 
     """
     Extracts the useful translation information from the translation.csv file.
 
-    Note that only Bibles with at least 400 verses are included.
+    Translations are only included if:
+    - they are downloadable (indicated by the "downloadable" column)
+    - they have at least 400 verses (indicated by summing values from the "OTverses" and "NTverses" columns)
+    - they are redistributable - if only_redistributable above is set (indicated by the "Redistributable" column)
 
-    The only_redistributable argument can be used to limit it to only extracting translations that are redistributable.
-    This is useful for times when we are just wanting to regenerate the corpus uploaded to hugging face as it later avoids
-    downloading a lot of zips from ebible that we don't actually use.
+    The only_redistributable is useful for times when we are just wanting to regenerate the corpus uploaded to hugging face
+    and don't care about private translations.
+    This avoids downloading a lot of zips from ebible that we don't actually use.
     """
+
+    def parse_bool(s: str) -> bool:
+        """Intended for boolean columns in the translation.csv that use either 'True' or 'False'"""
+        return s.lower() == "true"
 
     translations: List[Translation] = []
 
     with open(translations_csv, encoding="utf-8-sig", newline="") as csvfile:
         reader = DictReader(csvfile, delimiter=",", quotechar='"')
         for row in reader:
-            is_redistributable = row["Redistributable"]
+            is_redistributable = parse_bool(row["Redistributable"])
 
-            if is_redistributable or not only_redistributable:
+            if parse_bool(row["downloadable"]) and (is_redistributable or not only_redistributable):
                 language_code: str = row["languageCode"]
                 translation_id: str = row["translationId"]
 
@@ -436,16 +443,16 @@ def main() -> None:
         help="Set this flag to overwrite the licences.tsv file.",
     )
     parser.add_argument(
-        "--try-download",
-        default=False,
-        action="store_true",
-        help="Set this flag to try and download only the non-downloadable exceptions specified in the config.yaml file.",
-    )
-    parser.add_argument(
         "--only-redistributable",
         default=True,
         action="store_true",
         help="Controls whether we want to download and process only redistributable Bible translations",
+    )
+    parser.add_argument(
+        "--download-only",
+        default=False,
+        action="store_true",
+        help="When true, this causes the script to abort after the initial download of zip files",
     )
     parser.add_argument("folder", help="The base folder where others will be created.")
 
@@ -522,38 +529,8 @@ def main() -> None:
             logfile, f"translations.csv file already exists in: {str(translations_csv)}"
         )
 
-    # Get the exceptions from the config.yaml file.
-    with open(Path(__file__).with_name("config.yaml"), "r") as yamlfile:
-        config: Dict = yaml.safe_load(yamlfile)
-
-    dont_download_translation_ids = config["No Download"]
-
     def build_download_path(translation_id: str) -> Path:
         return downloads_folder / (translation_id + file_suffix)
-
-    if args.try_download:
-        print("Try to download the exceptions in the config.yaml file.")
-        ebible_filenames_and_translation_ids = [
-            (build_download_path(translation_id), translation_id)
-            for translation_id in config["No Download"]
-        ]
-
-        # Download the zip files.
-        downloaded_files = download_files(
-            ebible_filenames_and_translation_ids,
-            eBible_url,
-            downloads_folder,
-            logfile,
-            redownload=args.force_download,
-        )
-
-        if downloaded_files:
-            log_and_print(
-                logfile,
-                f"Downloaded {len(downloaded_files)} eBible files to {downloads_folder}.",
-            )
-        # Downloading complete.
-        exit()
 
     translations = get_translations(translations_csv, args.only_redistributable)
 
@@ -566,7 +543,9 @@ def main() -> None:
             for id in translation_ids
             if regex.match(args.filter, id)
         ]
-        log_and_print(logfile, f"Command line filter used to reduce to translation id's to {','.join(translation_ids)}")
+        log_and_print(logfile, f"Command line filter used to reduce to translation id's to {translation_ids}")
+
+    log_and_print(logfile, f"{len(translation_ids)} translation id's will be processed")
 
     # translation id's from the current list that already have corresponding files in the download directory
     existing_translation_ids: List[str] = [
@@ -578,7 +557,6 @@ def main() -> None:
     translation_ids_to_download = (
         set(translation_ids)
         - set(existing_translation_ids)
-        - set(dont_download_translation_ids)
     )
 
     # Download the zip files.
@@ -602,6 +580,10 @@ def main() -> None:
         )
     else:
         log_and_print(logfile, "All eBible files are already downloaded.")
+
+    if args.download_only:
+        log_and_print(logfile, "Terminating as --download-only flag set")
+        exit()
 
     # Create the project directories for each translation
     # by unzipping them and creating a Settings.xml file within each
