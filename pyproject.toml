@@ -17,6 +17,7 @@ regex = "^2022.10.31"
 isort = "^5.11.4"
 PyYAML = "^6.0"
 sil-machine = "1.3.0"
+openpyxl = "^3.1.5"
 
 
 [build-system]
