@@ -3,24 +3,28 @@ from pathlib import Path
 import pyarrow # Required by pandas to write Parquet files
 from tqdm import tqdm
 
-# --- Configuration: Define Your Paths Here ---
+# --- Configuration: Define Your Paths Here, adjust as necessary ---
+ebible_repo = Path("F:/GitHub/BibleNLP/ebible") 
+ebible_repo_metadata = ebible_repo / "metadata"
+ebible_repo_corpus = ebible_repo / "corpus"
 
 # 1. Path to the vref.txt file
-vref_path = Path("F:/GitHub/BibleNLP/ebible/metadata/vref.txt") # <--- ADJUST THIS PATH
+vref_path = ebible_repo_metadata / "vref.txt"
 
 # 2. Path to the main corpus directory containing the .txt files
-corpus_dir = Path("F:/GitHub/BibleNLP/ebible/corpus") # <--- ADJUST THIS PATH
+corpus_dir = ebible_repo / "corpus"
 
 # 3. Path to the metadata Excel file
-metadata_path = Path("F:/GitHub/BibleNLP/ebible/metadata/eBible Corpus Metadata.xlsx") # <--- ADJUST THIS PATH
+metadata_path = ebible_repo_metadata / "eBible Corpus Metadata.xlsx"
 
 # 4. Directory where the output Parquet files will be saved
 output_dir = Path("F:/GitHub/BibleNLP/ebible/") # <--- ADJUST THIS PATH
 
 # 5. Name for the main output Parquet file
 output_corpus_filename = "bible_corpus.parquet"
+
 # 6. Name for the metadata output Parquet file
-output_metadata_filename = "bible_metadata.parquet" # <--- NEW
+output_metadata_filename = "bible_metadata.parquet"
 
 # --- End of Configuration ---
 
@@ -112,7 +116,7 @@ for index, row in tqdm(metadata_df.iterrows(), total=metadata_df.shape[0], desc=
             for i, line_text in enumerate(f_in):
                 line_num = i + 1
                 # --- Don't strip whitespace---
-                text = line_text
+                text = line_text.rstrip()
 
                 # Skip <range> markers and empty lines if needed (currently commented out)
                 # if text == "<range>" or not text:
