@@ -263,8 +263,6 @@ def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Pa
         "Translation by",
     ]
 
-    # Get copyright info from eBible projects
-
     data = list()
 
     log_and_print(
@@ -292,7 +290,6 @@ def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Pa
 
         cclink = soup.find(href=regex.compile("creativecommons"))
         if cclink:
-            # TODO - find an example that uses this
             ref = cclink.get("href")
             if ref:
                 entry["CC Licence Link"] = ref
@@ -363,19 +360,7 @@ def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Pa
 
 def write_licence_file(licence_file, logfile, df):
 
-    # df.columns = [
-    #     "ID",
-    #     "File",
-    #     "Language",
-    #     "Dialect",
-    #     "Vernacular Title",
-    #     "Licence Type",
-    #     "Licence Version",
-    #     "CC Licence Link",
-    #     "Copyright Holder",
-    #     "Copyright Years",
-    #     "Translation by",
-    # ]
+    # For a description of the schema, see `column_headers` list in method `get_licence_details`
 
     df.to_csv(licence_file, sep="\t", index=False)
 
@@ -400,7 +385,6 @@ def check_folders_exist(folders: list, base: Path, logfile):
 
     # Don't log_and_print until we've checked that the log folder exists.
     print(f"The base folder is : {base}")
-    # base = r"F:/GitHub/davidbaines/eBible"
 
     if missing_folders:
         print(
