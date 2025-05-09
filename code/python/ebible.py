@@ -242,7 +242,7 @@ def get_translations(translations_csv: Path, allow_non_redistributable: bool) ->
         return translations
 
 
-def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
+def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Path, str]) -> List[Dict[str, object]]:
     """
     Extracts licence details from the unzipped folders inside the `folder` passed.
     It is assumed that the unzipped folders will contain a copr.htm file.
@@ -250,8 +250,8 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
     """
 
     column_headers = [
-        "ID",
-        "File",
+        "ID", # Original translation id corresponding to the project
+        "File", # Path to the paratext project
         "Language",
         "Dialect",
         "Vernacular Title",
@@ -262,8 +262,6 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
         "Copyright Years",
         "Translation by",
     ]
-
-    # Get copyright info from eBible projects
 
     data = list()
 
@@ -279,7 +277,9 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
 
         entry = dict.fromkeys(column_headers)
 
-        id = copyright_path.parents[0].name
+        project_path = copyright_path.parents[0]
+        id = project_path_to_translation_id[project_path]
+
         entry["ID"] = id
         # TODO - can we stringify this and so return a Dict[str, str]
         entry["File"] = copyright_path
@@ -290,7 +290,6 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
 
         cclink = soup.find(href=regex.compile("creativecommons"))
         if cclink:
-            # TODO - find an example that uses this
             ref = cclink.get("href")
             if ref:
                 entry["CC Licence Link"] = ref
@@ -313,7 +312,16 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
         if titlelink:
             entry["Vernacular Title"] = titlelink.string
 
-        copy_strings = [s for s in soup.body.p.stripped_strings]
+        if id in ["engwmb", "engwmbb"]:
+            # The copr.htm for these two Bibles is structured differently,
+            # where the useful information is spread across many paragraphs
+            # in contrast to the other Bibles where the useful information is contained
+            # completely within the first paragraph
+            paragraphs = soup.find('body').find_all('p')
+            copy_strings = [p.get_text(strip=True) for p in paragraphs]
+        else:
+            copy_strings = list(soup.body.p.stripped_strings)
+
 
         for j, copy_string in enumerate(copy_strings):
             if j == 0 and "copyright ©" in copy_string:
@@ -331,11 +339,19 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
                     else:
                         entry["Dialect"] = copy_string
 
-            if "Translation by" in copy_string:
-                entry["Translation by"] = copy_string
+            # TODO - improve logic to match cases like eng-lxx2012 where the search term
+            # is separated from the translators such that they end up different stripped strings
+            translation_search_term = "Translation by: "
+            if translation_search_term in copy_string:
+                entry["Translation by"] = copy_string[len(translation_search_term):]
             if "Public Domain" in copy_string:
                 entry["Copyright Years"] = ""
                 entry["Copyright Holder"] = "Public Domain"
+                entry["Licence Type"] = "Public Domain"
+
+        # If the licence type wasn't explicitly set in the steps above, set it to "Unknown"
+        if not entry["Licence Type"]:
+            entry["Licence Type"] = "Unknown"
 
         data.append(entry)
 
@@ -344,19 +360,7 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
 
 def write_licence_file(licence_file, logfile, df):
 
-    # df.columns = [
-    #     "ID",
-    #     "File",
-    #     "Language",
-    #     "Dialect",
-    #     "Vernacular Title",
-    #     "Licence Type",
-    #     "Licence Version",
-    #     "CC Licence Link",
-    #     "Copyright Holder",
-    #     "Copyright Years",
-    #     "Translation by",
-    # ]
+    # For a description of the schema, see `column_headers` list in method `get_licence_details`
 
     df.to_csv(licence_file, sep="\t", index=False)
 
@@ -381,7 +385,6 @@ def check_folders_exist(folders: list, base: Path, logfile):
 
     # Don't log_and_print until we've checked that the log folder exists.
     print(f"The base folder is : {base}")
-    # base = r"F:/GitHub/davidbaines/eBible"
 
     if missing_folders:
         print(
@@ -401,33 +404,6 @@ def check_folders_exist(folders: list, base: Path, logfile):
 
     else:
         log_and_print(logfile, f"All the required folders exist in {base}")
-
-
-def move_projects(
-    projects_to_move: List, parent_source_folder: Path, parent_dest_folder: Path
-) -> List[Path]:
-
-    moved = []
-    for project_to_move in projects_to_move:
-        source_folder = parent_source_folder / project_to_move
-        dest_folder = parent_dest_folder / project_to_move
-        # print(
-        #     f"{source_folder} exists: {source_folder.exists()}   Dest: {dest_folder} exists: {dest_folder.exists()}  Move: {source_folder.exists() and not dest_folder.exists()}"
-        # )
-
-        if source_folder.exists() and not dest_folder.exists():
-            shutil.move(str(source_folder), str(dest_folder))
-            assert not source_folder.exists()
-            assert dest_folder.exist()
-            moved.append(project_to_move)
-
-    return moved
-
-
-def is_dir(folder):
-    if folder.is_dir():
-        return folder
-    return False
 
 
 def main() -> None:
@@ -586,6 +562,10 @@ def main() -> None:
         log_and_print(logfile, "Terminating as --download-only flag set")
         exit()
 
+
+    # This mapping is needed later for setting the "ID" field in the licence details for each project
+    project_path_to_translation_id: Dict[Path, str] = dict()
+
     # Create the project directories for each translation
     # by unzipping them and creating a Settings.xml file within each
     for translation_id in translation_ids:
@@ -601,6 +581,8 @@ def main() -> None:
         else:
             unzip_dir = private_projects_folder
         project_dir = unzip_dir / create_project_name(translation)
+
+        project_path_to_translation_id[project_dir] = translation_id
 
         # Unzip it
         project_dir.mkdir(parents=True, exist_ok=True)
@@ -620,26 +602,11 @@ def main() -> None:
 
 
     # Get projects licence details
-    data = get_licence_details(logfile, projects_folder)
+    data = get_licence_details(logfile, projects_folder, project_path_to_translation_id)
 
     # Load the licenses data into a pandas dataframe
     # The schema comes from the columns defined in `get_licence_details`
     licenses_df = pd.DataFrame.from_records(data)
-
-    # Fix invalid rows:
-
-    # The translations engwmb and engwmbb have an error in the licence details
-    # in the field "Copyright Holder".
-    # It needs to be corrected to "Public Domain"
-    licenses_df.loc[licenses_df["ID"].str.contains("engwmb"), "Copyright Holder"] = "Public Domain"
-
-    # Some fields have "Public" for "Licence Type" but it should be "Public Domain"
-    licenses_df.loc[
-        licenses_df["Copyright Holder"].str.contains("Public") == True, "Licence Type"
-    ] = "Public Domain"
-
-    # Correctly set values for 'Unknown' Licence Type
-    licenses_df.loc[licenses_df["Licence Type"].isna(), "Licence Type"] = "Unknown"
 
     # Write the licence file.
     write_licence_file(licence_file, logfile, licenses_df)
