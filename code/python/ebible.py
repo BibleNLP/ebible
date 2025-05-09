@@ -403,33 +403,6 @@ def check_folders_exist(folders: list, base: Path, logfile):
         log_and_print(logfile, f"All the required folders exist in {base}")
 
 
-def move_projects(
-    projects_to_move: List, parent_source_folder: Path, parent_dest_folder: Path
-) -> List[Path]:
-
-    moved = []
-    for project_to_move in projects_to_move:
-        source_folder = parent_source_folder / project_to_move
-        dest_folder = parent_dest_folder / project_to_move
-        # print(
-        #     f"{source_folder} exists: {source_folder.exists()}   Dest: {dest_folder} exists: {dest_folder.exists()}  Move: {source_folder.exists() and not dest_folder.exists()}"
-        # )
-
-        if source_folder.exists() and not dest_folder.exists():
-            shutil.move(str(source_folder), str(dest_folder))
-            assert not source_folder.exists()
-            assert dest_folder.exist()
-            moved.append(project_to_move)
-
-    return moved
-
-
-def is_dir(folder):
-    if folder.is_dir():
-        return folder
-    return False
-
-
 def main() -> None:
 
     parser: argparse.ArgumentParser = argparse.ArgumentParser(
