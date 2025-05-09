@@ -250,8 +250,8 @@ def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Pa
     """
 
     column_headers = [
-        "ID",
-        "File",
+        "ID", # Original translation id corresponding to the project
+        "File", # Path to the paratext project
         "Language",
         "Dialect",
         "Vernacular Title",
