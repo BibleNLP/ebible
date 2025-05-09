@@ -242,7 +242,7 @@ def get_translations(translations_csv: Path, allow_non_redistributable: bool) ->
         return translations
 
 
-def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
+def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Path, str]) -> List[Dict[str, object]]:
     """
     Extracts licence details from the unzipped folders inside the `folder` passed.
     It is assumed that the unzipped folders will contain a copr.htm file.
@@ -279,7 +279,9 @@ def get_licence_details(logfile, folder) -> List[Dict[str, object]]:
 
         entry = dict.fromkeys(column_headers)
 
-        id = copyright_path.parents[0].name
+        project_path = copyright_path.parents[0]
+        id = project_path_to_translation_id[project_path]
+
         entry["ID"] = id
         # TODO - can we stringify this and so return a Dict[str, str]
         entry["File"] = copyright_path
@@ -559,6 +561,10 @@ def main() -> None:
         log_and_print(logfile, "Terminating as --download-only flag set")
         exit()
 
+
+    # This mapping is needed later for setting the "ID" field in the licence details for each project
+    project_path_to_translation_id: Dict[Path, str] = dict()
+
     # Create the project directories for each translation
     # by unzipping them and creating a Settings.xml file within each
     for translation_id in translation_ids:
@@ -574,6 +580,8 @@ def main() -> None:
         else:
             unzip_dir = private_projects_folder
         project_dir = unzip_dir / create_project_name(translation)
+
+        project_path_to_translation_id[project_dir] = translation_id
 
         # Unzip it
         project_dir.mkdir(parents=True, exist_ok=True)
@@ -593,7 +601,7 @@ def main() -> None:
 
 
     # Get projects licence details
-    data = get_licence_details(logfile, projects_folder)
+    data = get_licence_details(logfile, projects_folder, project_path_to_translation_id)
 
     # Load the licenses data into a pandas dataframe
     # The schema comes from the columns defined in `get_licence_details`
