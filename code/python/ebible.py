@@ -315,7 +315,16 @@ def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Pa
         if titlelink:
             entry["Vernacular Title"] = titlelink.string
 
-        copy_strings = [s for s in soup.body.p.stripped_strings]
+        if id in ["engwmb", "engwmbb"]:
+            # The copr.htm for these two Bibles is structured differently,
+            # where the useful information is spread across many paragraphs
+            # in contrast to the other Bibles where the useful information is contained
+            # completely within the first paragraph
+            paragraphs = soup.find('body').find_all('p')
+            copy_strings = [p.get_text(strip=True) for p in paragraphs]
+        else:
+            copy_strings = list(soup.body.p.stripped_strings)
+
 
         for j, copy_string in enumerate(copy_strings):
             if j == 0 and "copyright ©" in copy_string:
@@ -338,6 +347,11 @@ def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Pa
             if "Public Domain" in copy_string:
                 entry["Copyright Years"] = ""
                 entry["Copyright Holder"] = "Public Domain"
+                entry["Licence Type"] = "Public Domain"
+
+        # If the licence type wasn't explicitly set in the steps above, set it to "Unknown"
+        if not entry["Licence Type"]:
+            entry["Licence Type"] = "Unknown"
 
         data.append(entry)
 
@@ -606,21 +620,6 @@ def main() -> None:
     # Load the licenses data into a pandas dataframe
     # The schema comes from the columns defined in `get_licence_details`
     licenses_df = pd.DataFrame.from_records(data)
-
-    # Fix invalid rows:
-
-    # The translations engwmb and engwmbb have an error in the licence details
-    # in the field "Copyright Holder".
-    # It needs to be corrected to "Public Domain"
-    licenses_df.loc[licenses_df["ID"].str.contains("engwmb"), "Copyright Holder"] = "Public Domain"
-
-    # Some fields have "Public" for "Licence Type" but it should be "Public Domain"
-    licenses_df.loc[
-        licenses_df["Copyright Holder"].str.contains("Public") == True, "Licence Type"
-    ] = "Public Domain"
-
-    # Correctly set values for 'Unknown' Licence Type
-    licenses_df.loc[licenses_df["Licence Type"].isna(), "Licence Type"] = "Unknown"
 
     # Write the licence file.
     write_licence_file(licence_file, logfile, licenses_df)
