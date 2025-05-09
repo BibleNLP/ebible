@@ -342,8 +342,11 @@ def get_licence_details(logfile, folder, project_path_to_translation_id: Dict[Pa
                     else:
                         entry["Dialect"] = copy_string
 
-            if "Translation by" in copy_string:
-                entry["Translation by"] = copy_string
+            # TODO - improve logic to match cases like eng-lxx2012 where the search term
+            # is separated from the translators such that they end up different stripped strings
+            translation_search_term = "Translation by: "
+            if translation_search_term in copy_string:
+                entry["Translation by"] = copy_string[len(translation_search_term):]
             if "Public Domain" in copy_string:
                 entry["Copyright Years"] = ""
                 entry["Copyright Holder"] = "Public Domain"
