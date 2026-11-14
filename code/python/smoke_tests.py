@@ -84,7 +84,8 @@ class SmokeTest(unittest.TestCase):
 
     def test_certain_bibles_exist_in_corpus(self):
         filenames = [
-            "eng-eng-kjv.txt",
+            "eng-eng_kjv.txt",
+            "cmn-cmn_cu89s.txt",
             # TODO - add more on advice of someone familiar with stable versions
             # We want versions that are unlikely to be removed from eBible.org over time
         ]
@@ -104,6 +105,10 @@ class SmokeTest(unittest.TestCase):
             "eng-engylt.txt",
             "eng-engULB.txt",
             "fra-fraLSG.txt",
+            # These two were committed as blank files in 379ed8a; keep them here so a
+            # blank extract fails loudly instead of shipping silently.
+            "eng-eng_kjv.txt",
+            "eng-eng_web.txt",
             # TODO - add more on advice of someone familiar with stable versions
             # We want versions that are unlikely to be removed from eBible.org over time
             # and have complete OT and NT (and no ranges)
